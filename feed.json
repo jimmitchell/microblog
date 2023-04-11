@@ -2,17 +2,35 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Jim Mitchell",
 	"icon": "https://micro.blog/jimmitchell/avatar.jpg",
-	"home_page_url": "https://jimmitchell.org/",
-	"feed_url": "https://jimmitchell.org/feed.json",
+	"home_page_url": "https://jimmitchell.micro.blog/",
+	"feed_url": "https://jimmitchell.micro.blog/feed.json",
 	"items": [
 		
+			{
+				"id": "http://jimmitchell.micro.blog/2023/04/09/campground-squirrel.html",
+				
+				"content_html": "<p>Campground squirrel</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Campground squirrel\n\n<img src=\"uploads/2023/e3ed4d3ab5.jpg\" width=\"599\" height=\"600\" alt=\"\"><img src=\"uploads/2023/e064cb76e2.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-09T12:52:25-07:00",
+				"url": "https://jimmitchell.micro.blog/2023/04/09/campground-squirrel.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/04/04/a-friendly-lizard.html",
+				
+				"content_html": "<p>A friendly lizard.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A friendly lizard.\n\n<img src=\"uploads/2023/c38f5e919a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-04T20:37:52-07:00",
+				"url": "https://jimmitchell.micro.blog/2023/04/04/a-friendly-lizard.html",
+				"tags": ["photos"]
+			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/04/01/blooming.html",
 				
 				"content_html": "<p>Blooming.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Blooming.\n\n<img src=\"uploads/2023/757d19ef0e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-01T16:06:28-07:00",
-				"url": "https://jimmitchell.org/2023/04/01/blooming.html",
+				"url": "https://jimmitchell.micro.blog/2023/04/01/blooming.html",
 				"tags": ["photos"]
 			},
 			{
@@ -21,7 +39,7 @@
 				"content_html": "<p>Happy 47th birthday to Apple, and 19th birthday to Gmail&hellip; Couldn&rsquo;t get by without either of them.</p>\n",
 				"content_text": "Happy 47th birthday to Apple, and 19th birthday to Gmail... Couldn't get by without either of them.\n",
 				"date_published": "2023-04-01T10:29:27-07:00",
-				"url": "https://jimmitchell.org/2023/04/01/happy-th-birthday.html",
+				"url": "https://jimmitchell.micro.blog/2023/04/01/happy-th-birthday.html",
 				"tags": ["thoughts"]
 			},
 			{
@@ -30,7 +48,7 @@
 				"content_html": "<p>Lone Joshua Tree</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Lone Joshua Tree\n\n<img src=\"uploads/2023/d3d2bc8843.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-30T12:46:35-07:00",
-				"url": "https://jimmitchell.org/2023/03/30/lone-joshua-tree.html",
+				"url": "https://jimmitchell.micro.blog/2023/03/30/lone-joshua-tree.html",
 				"tags": ["photos"]
 			},
 			{
@@ -39,16 +57,16 @@
 				"content_html": "<p>Going to try a time-blocking technique on my work calendar for a bit by adding four hour &ldquo;Get Shit Done&rdquo; blocks Tuesday and Thursday afternoons. In those blocks, I&rsquo;ll block smaller times for tasks that need total focus. Meeting requests during those times will be ignored. Let&rsquo;s see how that works.</p>\n",
 				"content_text": "Going to try a time-blocking technique on my work calendar for a bit by adding four hour \"Get Shit Done\" blocks Tuesday and Thursday afternoons. In those blocks, I'll block smaller times for tasks that need total focus. Meeting requests during those times will be ignored. Let's see how that works.\n",
 				"date_published": "2023-03-30T09:25:00-07:00",
-				"url": "https://jimmitchell.org/2023/03/30/going-to-try.html",
+				"url": "https://jimmitchell.micro.blog/2023/03/30/going-to-try.html",
 				"tags": ["thoughts"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/03/29/silly-old-girl.html",
 				
 				"content_html": "<p>Teefs…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Teefs…\n\n<img src=\"https://jimmitchell.micro.blog/uploads/2023/f34dcd5d18.jpg\" width=\"600\" height=\"600\" alt=\"Teefs\">\n",
+				"content_text": "Teefs…\n\n<img src=\"https://cdn.uploads.micro.blog/104601/2023/f34dcd5d18.jpg\" width=\"600\" height=\"600\" alt=\"Teefs\">\n",
 				"date_published": "2023-03-29T14:00:27-07:00",
-				"url": "https://jimmitchell.org/2023/03/29/silly-old-girl.html",
+				"url": "https://jimmitchell.micro.blog/2023/03/29/silly-old-girl.html",
 				"tags": ["photos"]
 			},
 			{
@@ -57,25 +75,25 @@
 				"content_html": "<p>Do you ever have those days when it seems everyone around you is frantic and acting like the sky is falling and you&rsquo;re the only one who can save them?</p>\n<p>Yeah, it&rsquo;s one of those days.</p>\n",
 				"content_text": "Do you ever have those days when it seems everyone around you is frantic and acting like the sky is falling and you're the only one who can save them?\n\nYeah, it's one of those days.\n",
 				"date_published": "2023-03-29T11:27:10-07:00",
-				"url": "https://jimmitchell.org/2023/03/29/do-you-ever.html",
+				"url": "https://jimmitchell.micro.blog/2023/03/29/do-you-ever.html",
 				"tags": ["thoughts"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/03/28/christmas-day-bike.html",
 				
 				"content_html": "<p>Christmas Day, 2022. Bike ride at the beach.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Christmas Day, 2022. Bike ride at the beach.\n\n<img src=\"https://jimmitchell.micro.blog/uploads/2023/d8729a27b4.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Christmas Day, 2022. Bike ride at the beach.\n\n<img src=\"https://cdn.uploads.micro.blog/104601/2023/d8729a27b4.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-28T07:46:45-07:00",
-				"url": "https://jimmitchell.org/2023/03/28/christmas-day-bike.html",
+				"url": "https://jimmitchell.micro.blog/2023/03/28/christmas-day-bike.html",
 				"tags": ["photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/03/27/returning-to-microblog.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Returning to micro.blog. Here’s a pretty picture from Saturday morning coffee with my wife to kick it off.</p>\n\n<p><img src=\"https://jimmitchell.micro.blog/uploads/2023/e333594fe1.jpg\" alt=\"HB Pier from Pacific City\" title=\"HB Pier from Pacific City\" border=\"0\" width=\"600\" height=\"598\" /></p>\n",
+				"content_text": "<p>Returning to micro.blog. Here’s a pretty picture from Saturday morning coffee with my wife to kick it off.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/104601/2023/e333594fe1.jpg\" alt=\"HB Pier from Pacific City\" title=\"HB Pier from Pacific City\" border=\"0\" width=\"600\" height=\"598\" /></p>\n",
 				"date_published": "2023-03-27T16:01:54-07:00",
-				"url": "https://jimmitchell.org/2023/03/27/returning-to-microblog.html",
+				"url": "https://jimmitchell.micro.blog/2023/03/27/returning-to-microblog.html",
 				"tags": ["photos"]
 			}
 	]
