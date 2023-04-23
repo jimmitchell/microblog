@@ -7,10 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2023/04/23/taking-in-a.html",
+				
+				"content_html": "<p>Taking in a Sunday matinee of Super Mario Bros. with the wife and youngest son. Haven’t been to a movie theater in at least four years. Maybe closer to 10.</p>\n",
+				"content_text": "Taking in a Sunday matinee of Super Mario Bros. with the wife and youngest son. Haven’t been to a movie theater in at least four years. Maybe closer to 10.\n",
+				"date_published": "2023-04-23T14:15:00-07:00",
+				"url": "https://jimmitchell.org/2023/04/23/taking-in-a.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/04/19/thought-id-be.html",
+				
+				"content_html": "<p>Thought I&rsquo;d be clever and get to the DMV office early to be first in line, only to find it opens an hour later on Wednesdays than the rest of the week. 🫤</p>\n",
+				"content_text": "Thought I'd be clever and get to the DMV office early to be first in line, only to find it opens an hour later on Wednesdays than the rest of the week. 🫤\n",
+				"date_published": "2023-04-19T07:54:07-07:00",
+				"url": "https://jimmitchell.org/2023/04/19/thought-id-be.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/04/18/immediate-fail-for.html",
+				
+				"content_html": "<p>Immediate fail for Safari at the day gig. No option for multiple profiles, which Chrome handles well. I keep forgetting this is why I am forced to use it and probably will again in the future.</p>\n",
+				"content_text": "Immediate fail for Safari at the day gig. No option for multiple profiles, which Chrome handles well. I keep forgetting this is why I am forced to use it and probably will again in the future.\n",
+				"date_published": "2023-04-18T07:56:55-07:00",
+				"url": "https://jimmitchell.org/2023/04/18/immediate-fail-for.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/04/18/going-to-try.html",
+				
+				"content_html": "<p>Going to try Safari as my browser of choice for the rest of the week at work. I use it at home, but my day to day has pretty much forced Chrome just for the dev tools. Let’s see if Safari can handle it .</p>\n",
+				"content_text": "Going to try Safari as my browser of choice for the rest of the week at work. I use it at home, but my day to day has pretty much forced Chrome just for the dev tools. Let’s see if Safari can handle it .\n",
+				"date_published": "2023-04-18T06:51:22-07:00",
+				"url": "https://jimmitchell.org/2023/04/18/going-to-try.html"
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2023/04/15/ive-wanted-to.html",
 				
-				"content_html": "<p>I&rsquo;ve wanted to write about this for a while&hellip;</p>\n<h3 id=\"living-with-menieres-disease-my-personal-journeyhttpsjimmitchellmedianet20230414living-with-menieres-disease-my-personal-journey\"><a href=\"https://jimmitchellmedia.net/2023/04/14/living-with-menieres-disease-my-personal-journey/\">Living with Meniere’s Disease: My Personal Journey</a></h3>\n",
-				"content_text": "I've wanted to write about this for a while...\n\n### [Living with Meniere’s Disease: My Personal Journey](https://jimmitchellmedia.net/2023/04/14/living-with-menieres-disease-my-personal-journey/)\n",
+				"content_html": "<p>I&rsquo;ve wanted to write about this for a while&hellip;</p>\n<blockquote>\n<h3 id=\"living-with-menieres-disease-my-personal-journey\">Living with Meniere’s Disease: My Personal Journey</h3>\n<p><a href=\"https://jimmitchellmedia.net/b/11U\">https://jimmitchellmedia.net/b/11U</a></p>\n</blockquote>\n",
+				"content_text": "I've wanted to write about this for a while...\n\n> ### Living with Meniere’s Disease: My Personal Journey\n> [https://jimmitchellmedia.net/b/11U](https://jimmitchellmedia.net/b/11U)\n",
 				"date_published": "2023-04-15T09:06:51-07:00",
 				"url": "https://jimmitchell.org/2023/04/15/ive-wanted-to.html"
 			},
@@ -34,7 +66,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/04/12/relaxing.html",
 				
 				"content_html": "<p>Relaxing</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Relaxing\n\n<img src=\"uploads/2023/0595545792.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
+				"content_text": "Relaxing\n\n<img src=\"https://cdn.uploads.micro.blog/104601/2023/0595545792.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-12T08:25:34-07:00",
 				"url": "https://jimmitchell.org/2023/04/12/relaxing.html",
 				"tags": ["photos"]
@@ -111,8 +143,8 @@
 			{
 				"id": "http://jimmitchell.micro.blog/2023/03/28/christmas.html",
 				
-				"content_html": "<p>Christmas 2022</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Christmas 2022\n\n<img src=\"uploads/2023/d8729a27b4.jpg\" width=\"600\" height=\"600\" alt=\"Christmas Day, 2022\">\n",
+				"content_html": "<p>Christmas Day 2022</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Christmas Day 2022\n\n<img src=\"uploads/2023/d8729a27b4.jpg\" width=\"600\" height=\"600\" alt=\"Christmas Day, 2022\">\n",
 				"date_published": "2023-03-28T07:45:00-07:00",
 				"url": "https://jimmitchell.org/2023/03/28/christmas.html",
 				"tags": ["photos"]
@@ -121,7 +153,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/03/27/returning-to-microblog.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Returning to micro.blog. Here’s a pretty picture from Saturday morning coffee with my wife to kick it off.</p>\n\n<p><img src=\"uploads/2023/e333594fe1.jpg\" alt=\"HB Pier from Pacific City\" title=\"HB Pier from Pacific City\" border=\"0\" width=\"600\" height=\"598\" /></p>\n",
+				"content_text": "<p>Returning to micro.blog. Here’s a pretty picture from Saturday morning coffee with my wife to kick it off.</p>\n\n<p><img src=\"https://jimmitchell.micro.blog/uploads/2023/e333594fe1.jpg\" alt=\"HB Pier from Pacific City\" title=\"HB Pier from Pacific City\" border=\"0\" width=\"600\" height=\"598\" /></p>\n",
 				"date_published": "2023-03-27T16:00:00-07:00",
 				"url": "https://jimmitchell.org/2023/03/27/returning-to-microblog.html",
 				"tags": ["photos"]
