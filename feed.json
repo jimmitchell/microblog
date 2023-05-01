@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2023/04/30/camping-at-carpenteria.html",
+				
+				"content_html": "<p>Camping at Carpenteria State Beach</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Camping at Carpenteria State Beach\n\n<img src=\"uploads/2023/a5366ef8cd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-30T19:35:51-07:00",
+				"url": "https://jimmitchell.org/2023/04/30/camping-at-carpenteria.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2023/04/23/taking-in-a.html",
 				
 				"content_html": "<p>Taking in a Sunday matinee of Super Mario Bros. with the wife and youngest son. Haven’t been to a movie theater in at least four years. Maybe closer to 10.</p>\n",
@@ -144,7 +153,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/03/28/christmas.html",
 				
 				"content_html": "<p>Christmas Day 2022</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Christmas Day 2022\n\n<img src=\"uploads/2023/d8729a27b4.jpg\" width=\"600\" height=\"600\" alt=\"Christmas Day, 2022\">\n",
+				"content_text": "Christmas Day 2022\n\n<img src=\"https://cdn.uploads.micro.blog/104601/2023/d8729a27b4.jpg\" width=\"600\" height=\"600\" alt=\"Christmas Day, 2022\">\n",
 				"date_published": "2023-03-28T07:45:00-07:00",
 				"url": "https://jimmitchell.org/2023/03/28/christmas.html",
 				"tags": ["photos"]
