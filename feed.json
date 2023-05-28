@@ -7,49 +7,13 @@
 	"items": [
 		
 			{
-				"id": "http://jimmitchell.micro.blog/2023/05/21/trail-cactus-in.html",
+				"id": "http://jimmitchell.micro.blog/2023/05/24/im-developing-a.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Trail Cactus in Bloom</p>\n\n<p><img src=\"uploads/2023/a842884999.jpg\" width=\"600\" height=\"450\" alt=\"Trail Cactus in Bloom\"></p>\n",
-				"date_published": "2023-05-21T16:50:28-07:00",
-				"url": "https://jimmitchell.org/2023/05/21/trail-cactus-in.html",
-				"tags": ["Photos"]
-			},
-			{
-				"id": "http://jimmitchell.micro.blog/2023/05/21/teefs.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Teefs</p>\n\n<p><img src=\"uploads/2023/5ebd7cf5ad.jpg\" alt=“Teefs” width=“600” /></p>\n",
-				"date_published": "2023-05-21T11:34:00-07:00",
-				"url": "https://jimmitchell.org/2023/05/21/teefs.html",
-				"tags": ["Photos"]
-			},
-			{
-				"id": "http://jimmitchell.micro.blog/2023/05/21/lone-joshua-tree.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Lone Joshua Tree at Dusk</p>\n\n<p><img src=\"uploads/2023/e1bf7d2dec.jpg\" alt=\"Lone Joshua Tree at Dusk\" title=\"DSCF3296.jpeg\" border=\"0\" width=\"600\" height=\"600\" /></p>\n",
-				"date_published": "2023-05-21T11:15:58-07:00",
-				"url": "https://jimmitchell.org/2023/05/21/lone-joshua-tree.html",
-				"tags": ["Photos"]
-			},
-			{
-				"id": "http://jimmitchell.micro.blog/2023/05/20/ice-plant-in.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Ice Plant in Bloom</p>\n\n<p><img src=\"uploads/2023/c578f044aa.png\" alt=\"Ice Plant in Bloom\" title=\"iceplant.png\" border=\"0\" width=\"600\" height=\"600\" /></p>\n",
-				"date_published": "2023-05-20T09:19:02-07:00",
-				"url": "https://jimmitchell.org/2023/05/20/ice-plant-in.html",
-				"tags": ["Photos"]
-			},
-			{
-				"id": "http://jimmitchell.micro.blog/2023/05/17/144909.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Carpenteria State Beach tide pools</p>\n\n<p><img src=\"uploads/2023/3482fab5ef.jpg\" width=\"600\" height=\"600\" alt=\"Carpenteria tide pools\"></p>\n",
-				"date_published": "2023-05-17T14:49:09-07:00",
-				"url": "https://jimmitchell.org/2023/05/17/144909.html",
-				"tags": ["Photos"]
+				"content_html": "<p>I’m developing a love/hate relationship with the Copado CI/CD platform for Salesforce deployments. When it works, it’s a dream. When it doesn’t, it’s a pain to figure out why.</p>\n",
+				"content_text": "I’m developing a love/hate relationship with the Copado CI/CD platform for Salesforce deployments. When it works, it’s a dream. When it doesn’t, it’s a pain to figure out why.\n",
+				"date_published": "2023-05-24T09:49:58-07:00",
+				"url": "https://jimmitchell.org/2023/05/24/im-developing-a.html",
+				"tags": ["Thoughts"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/05/15/ive-been-a.html",
