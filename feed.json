@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2023/06/06/i-try-to.html",
+				
+				"content_html": "<p>I try to diligently plan the tasks I want to get done each day, but there’s always a fire that has to be put out, pushing the planned tasks to the next day - until they become fires of their own.</p>\n<p>Tomorrow is a new chance. I’ll just keep telling myself that…</p>\n",
+				"content_text": "I try to diligently plan the tasks I want to get done each day, but there’s always a fire that has to be put out, pushing the planned tasks to the next day - until they become fires of their own.\n\nTomorrow is a new chance. I’ll just keep telling myself that…\n",
+				"date_published": "2023-06-06T16:06:41-07:00",
+				"url": "https://jimmitchell.org/2023/06/06/i-try-to.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/06/05/upped-my-microblog.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Upped my Micro.blog plan to the premium level over the weekend. Great to have the newsletter option now. Mulling some potential topics for a regular Microcast as well.</p>\n",
+				"date_published": "2023-06-05T12:46:23-07:00",
+				"url": "https://jimmitchell.org/2023/06/05/upped-my-microblog.html"
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2023/05/31/i-gave-in.html",
 				
 				"content_html": "<p>I gave in and purchased a <a href=\"https://mimestream.com/\">Mimestream</a> subscription a little early. I can share the subscription with my wife so that makes the price more palletable. Plus the fact that it&rsquo;s a damn good 1.0 release made me want to support the development team all the more.</p>\n",
@@ -18,7 +34,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/30/across-the-irvine.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Across the Irvine valley. 📸</p>\n\n<p><img src=\"uploads/2023/165d8050c2.jpg\" alt=\"Across the valley\" /></p>\n",
+				"content_text": "<p>Across the Irvine valley. 📷</p>\n\n<p><img src=\"uploads/2023/165d8050c2.jpg\" width=\"600\" height=\"450\" alt=\"Across the valley\" /></p>\n",
 				"date_published": "2023-05-30T19:51:35-07:00",
 				"url": "https://jimmitchell.org/2023/05/30/across-the-irvine.html",
 				"tags": ["Photos"]
@@ -35,7 +51,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/29/remembering-those-who.html",
 				
 				"content_html": "<p>Remembering those who gave it all for our freedom. 📸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Remembering those who gave it all for our freedom. 📸\n\n<img src=\"uploads/2023/b66829c03e.jpg\" width=\"600\" height=\"450\" alt=\"Memorial Day remembrance ceremony.\">\n",
+				"content_text": "Remembering those who gave it all for our freedom. 📸\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/b66829c03e.jpg\" width=\"600\" height=\"450\" alt=\"Memorial Day remembrance ceremony.\">\n",
 				"date_published": "2023-05-29T12:53:28-07:00",
 				"url": "https://jimmitchell.org/2023/05/29/remembering-those-who.html",
 				"tags": ["Photos"]
@@ -44,7 +60,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/29/hb-northside-lineup.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>HB Northside Lineup 📸</p>\n\n<p><img src=\"uploads/2023/05b2ec4cb1.jpg\" width=\"600\" height=\"450\" alt=\"HB Northside Surf Lineup\"></p>\n",
+				"content_text": "<p>HB Northside Lineup 📸</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/05b2ec4cb1.jpg\" width=\"600\" height=\"450\" alt=\"HB Northside Surf Lineup\"></p>\n",
 				"date_published": "2023-05-29T11:57:54-07:00",
 				"url": "https://jimmitchell.org/2023/05/29/hb-northside-lineup.html",
 				"tags": ["Photos"]
@@ -61,7 +77,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/28/blooming-cactus.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Blooming cactus 📸</p>\n\n<p><img src=\"uploads/2023/9fcbf18467.jpg\" width=\"600\" height=\"450\" alt=\"Blooming cactus\"></p>\n",
+				"content_text": "<p>Blooming cactus 📸</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/9fcbf18467.jpg\" width=\"600\" height=\"450\" alt=\"Blooming cactus\"></p>\n",
 				"date_published": "2023-05-28T12:53:39-07:00",
 				"url": "https://jimmitchell.org/2023/05/28/blooming-cactus.html",
 				"tags": ["Photos"]
