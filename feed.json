@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2023/06/30/teaser-alert-updates.html",
+				
+				"content_html": "<p>Teaser alert&hellip; Updates coming for the <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plugin this weekend that adds features for <a href=\"https://tinylytics.app\">Tinylytics</a> paid account users. It&rsquo;s a party.</p>\n",
+				"content_text": "Teaser alert... Updates coming for the [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) plugin this weekend that adds features for [Tinylytics](https://tinylytics.app) paid account users. It's a party.\n",
+				"date_published": "2023-06-30T07:31:29-07:00",
+				"url": "https://jimmitchell.org/2023/06/30/teaser-alert-updates.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/06/28/okay-so-ive.html",
+				
+				"content_html": "<p>Okay&hellip; So I&rsquo;ve aliased my Micro.blog ActivityPub username back to my Mastodon account for the time being. Having the feed in Micro.blog is really cool, but I felt I was missing something. I may change my mind again though&hellip; I&rsquo;m so fickle sometimes.</p>\n",
+				"content_text": "Okay... So I've aliased my Micro.blog ActivityPub username back to my Mastodon account for the time being. Having the feed in Micro.blog is really cool, but I felt I was missing something. I may change my mind again though... I'm so fickle sometimes.\n",
+				"date_published": "2023-06-28T13:17:55-07:00",
+				"url": "https://jimmitchell.org/2023/06/28/okay-so-ive.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/06/27/sometime-its-a.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Sometimes it’s a curse being a perfectionist living among the imperfectionists…</p>\n",
+				"date_published": "2023-06-27T16:28:25-07:00",
+				"url": "https://jimmitchell.org/2023/06/27/sometime-its-a.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/06/27/new-plugin-tinylytics.html",
+				"title": "New Plugin: Tinylytics for Micro.blog",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p><p>I published my very first Micro.blog plugin today: <strong>Tinylytics for Micro.blog</strong>. You can find it in the Micro.blog <a href=\"https://micro.blog/account/plugins/view/101\">plugin directory</a>.</p>\n\n<p>If you’re using <a href=\"https://micro.blog/vincent\">Vincent Ritter’s</a> awesome web analytics platform <a href=\"https://tinylytics.app\">Tinylytics</a>, this plugin is for you. Rather than copying and pasting a line of Javascript, you simply enter your unique site id which can be copied from your site page once the plugin is installed.</p>\n\n<p><img src=\"uploads/2023/tinylytics-plug-in-options.png\" alt=\"Tinylytics plug in options\" title=\"tinylytics-plug-in-options.png\" border=\"0\" width=\"562\" height=\"179\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>There’s an option to toggle the “Display Hits” option too.</p>\n\n<p>To show hits on your site, you’ll need to modify your Micro.blog theme to make the hits show up. The easiest way to accomplish this might be to add code in the footer of your theme’s design area (Design > Edit Footer):</p>\n\n<p><img src=\"uploads/2023/footer-edit.png\" alt=\"Footer edit\" title=\"footer-edit.png\" border=\"0\" width=\"718\" height=\"185\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>See this Tinylytics <a href=\"https://tinylytics.app/docs/show_hit_counter\">help article</a> for more information on displaying hits on your site.</p>\n\n<p>The plugin source can be found at this Github repo: <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">https://github.com/jimmitchell/Tinylytics-for-Micro.blog</a>.</p>\n\n<p><a href=\"mailto:hello@jimmitchell.org\">Email me</a> with questions or any issues you find.</p>\n",
+				"date_published": "2023-06-27T09:13:31-07:00",
+				"url": "https://jimmitchell.org/2023/06/27/new-plugin-tinylytics.html",
+				"tags": ["Posts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/06/26/a-friendly-lizard.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p>📷 A friendly lizard.</p>\n\n<p><img src=\"uploads/2023/bffae4abc7.jpg\" width=\"600\" height=\"450\" alt=\"a lizard on a stick\"></p>\n",
+				"date_published": "2023-06-26T21:02:39-07:00",
+				"url": "https://jimmitchell.org/2023/06/26/a-friendly-lizard.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/06/26/laguna-coast-wilderness.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p>📷 Laguna Coast Wilderness Park.</p>\n\n<p><img src=\"uploads/2023/620f697509.jpg\" width=\"600\" height=\"450\" alt=\"view of the Laguna mountains\"></p>\n",
+				"date_published": "2023-06-26T20:58:34-07:00",
+				"url": "https://jimmitchell.org/2023/06/26/laguna-coast-wilderness.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/06/26/todays-the-more.html",
+				
+				"content_html": "<p>Today&rsquo;s &ldquo;the more I learn about Micro.blog&rdquo; post&hellip; Both the iOS and Mac desktop apps work like any other Mastodon client. Follow anyone in the Fediverse you want; their posts magically show up in your timeline, with the added bonus of using your domain with your Fediverse username if you have one.</p>\n",
+				"content_text": "Today's \"the more I learn about Micro.blog\" post... Both the iOS and Mac desktop apps work like any other Mastodon client. Follow anyone in the Fediverse you want; their posts magically show up in your timeline, with the added bonus of using your domain with your Fediverse username if you have one.\n",
+				"date_published": "2023-06-26T13:10:59-07:00",
+				"url": "https://jimmitchell.org/2023/06/26/todays-the-more.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/06/25/came-up-with.html",
+				
+				"content_html": "<p>Came up with a couple of ideas for useful Micro.blog plug-ins this morning. More to come soon…</p>\n",
+				"content_text": "Came up with a couple of ideas for useful Micro.blog plug-ins this morning. More to come soon…\n",
+				"date_published": "2023-06-25T09:01:40-07:00",
+				"url": "https://jimmitchell.org/2023/06/25/came-up-with.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2023/06/23/lesson-learned-do.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -19,7 +91,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/06/22/ready-to-hit.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Ready to hit the stage at the World Famous Doll Hut.</p>\n\n<p><img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"Picture of a drum set on stage\"></p>\n",
+				"content_text": "<p>📷 Ready to hit the stage at the World Famous Doll Hut.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"Picture of a drum set on stage\"></p>\n",
 				"date_published": "2023-06-22T19:52:50-07:00",
 				"url": "https://jimmitchell.org/2023/06/22/ready-to-hit.html",
 				"tags": ["Photos"]
@@ -28,7 +100,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/06/12/sunrise-in-port.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Sunrise over Terminal Island.</p>\n\n<p><img src=\"uploads/2023/53ad5a744f.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise over Terminal Island\"></p>\n",
+				"content_text": "<p>📷 Sunrise over Terminal Island.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/53ad5a744f.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise over Terminal Island\"></p>\n",
 				"date_published": "2023-06-12T20:50:45-07:00",
 				"url": "https://jimmitchell.org/2023/06/12/sunrise-in-port.html",
 				"tags": ["Photos"]
@@ -100,7 +172,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/29/remembering-those-who.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Remembering those who gave it all for our freedom.</p>\n\n<p><img src=\"uploads/2023/b66829c03e.jpg\" width=\"600\" height=\"450\" alt=\"Memorial Day remembrance ceremony.\"></p>\n",
+				"content_text": "<p>📷 Remembering those who gave it all for our freedom.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/b66829c03e.jpg\" width=\"600\" height=\"450\" alt=\"Memorial Day remembrance ceremony.\"></p>\n",
 				"date_published": "2023-05-29T12:53:28-07:00",
 				"url": "https://jimmitchell.org/2023/05/29/remembering-those-who.html",
 				"tags": ["Photos"]
@@ -109,7 +181,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/29/hb-northside-lineup.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 HB Northside Lineup.</p>\n\n<p><img src=\"uploads/2023/05b2ec4cb1.jpg\" width=\"600\" height=\"450\" alt=\"HB Northside Surf Lineup\"></p>\n",
+				"content_text": "<p>📷 HB Northside Lineup.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/05b2ec4cb1.jpg\" width=\"600\" height=\"450\" alt=\"HB Northside Surf Lineup\"></p>\n",
 				"date_published": "2023-05-29T11:57:54-07:00",
 				"url": "https://jimmitchell.org/2023/05/29/hb-northside-lineup.html",
 				"tags": ["Photos"]
@@ -127,7 +199,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/28/blooming-cactus.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Blooming cactus.</p>\n\n<p><img src=\"uploads/2023/9fcbf18467.jpg\" width=\"600\" height=\"450\" alt=\"Blooming cactus\"></p>\n",
+				"content_text": "<p>📷 Blooming cactus.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/9fcbf18467.jpg\" width=\"600\" height=\"450\" alt=\"Blooming cactus\"></p>\n",
 				"date_published": "2023-05-28T12:53:39-07:00",
 				"url": "https://jimmitchell.org/2023/05/28/blooming-cactus.html",
 				"tags": ["Photos"]
