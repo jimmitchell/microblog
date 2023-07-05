@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2023/07/04/our-rd-year.html",
+				
+				"content_html": "<p>📷 Our 23rd year in Surf City, USA…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 Our 23rd year in Surf City, USA…\n\n<img src=\"uploads/2023/035110a288.jpg\" width=\"600\" height=\"450\" alt=\"Huntington Beach 4th of July parade banner.\">\n",
+				"date_published": "2023-07-04T13:34:40-07:00",
+				"url": "https://jimmitchell.org/2023/07/04/our-rd-year.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/07/02/ooh-i-just.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Ooh&#8230; I just had a brilliant idea for my Tinylytics for Micro.blog plug-in that will save users from having to hack any html and should (in theory) work on any theme. More to come soon&#8230;</p>\n",
+				"date_published": "2023-07-02T10:36:58-07:00",
+				"url": "https://jimmitchell.org/2023/07/02/ooh-i-just.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/07/02/tinylytics-for-microblog.html",
+				"title": "Tinylytics for Micro.blog Updated to 1.0.6",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Fresh on the heels of new <a href=\"https://tinylytics.app\">Tinylytics.app</a> updates, my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been updated to take advantage of the new Kudos feature introduced in the latest release. If you look at your installed site plug-ins, you should see an update available as 1.0.6.</p>\n\n<p>This release adds a checkbox to show Kudos along with the ability to set a custom label. See the project <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on Github for more information.</p>\n\n<p><img src=\"uploads/2023/tinylytics-config.png\" alt=\"Tinylytics config\" title=\"tinylytics-config.png\" border=\"0\" width=\"719\" height=\"284\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>Special thanks go out to <a href=\"https://micro.blog/vincent\">@vincent</a> for simply being an all-around awesome dude too.</p>\n",
+				"date_published": "2023-07-02T00:03:12-07:00",
+				"url": "https://jimmitchell.org/2023/07/02/tinylytics-for-microblog.html",
+				"tags": ["Posts"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2023/06/30/teaser-alert-updates.html",
 				
 				"content_html": "<p>Teaser alert&hellip; Updates coming for the <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plugin this weekend that adds features for <a href=\"https://tinylytics.app\">Tinylytics</a> paid account users. It&rsquo;s a party.</p>\n",
@@ -46,7 +73,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/06/26/a-friendly-lizard.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 A friendly lizard.</p>\n\n<p><img src=\"uploads/2023/bffae4abc7.jpg\" width=\"600\" height=\"450\" alt=\"a lizard on a stick\"></p>\n",
+				"content_text": "<p>📷 A friendly lizard.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/bffae4abc7.jpg\" width=\"600\" height=\"450\" alt=\"a lizard on a stick\"></p>\n",
 				"date_published": "2023-06-26T21:02:39-07:00",
 				"url": "https://jimmitchell.org/2023/06/26/a-friendly-lizard.html",
 				"tags": ["Photos"]
@@ -55,7 +82,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/06/26/laguna-coast-wilderness.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Laguna Coast Wilderness Park.</p>\n\n<p><img src=\"uploads/2023/620f697509.jpg\" width=\"600\" height=\"450\" alt=\"view of the Laguna mountains\"></p>\n",
+				"content_text": "<p>📷 Laguna Coast Wilderness Park.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/620f697509.jpg\" width=\"600\" height=\"450\" alt=\"view of the Laguna mountains\"></p>\n",
 				"date_published": "2023-06-26T20:58:34-07:00",
 				"url": "https://jimmitchell.org/2023/06/26/laguna-coast-wilderness.html",
 				"tags": ["Photos"]
