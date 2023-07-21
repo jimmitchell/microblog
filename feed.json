@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2023/07/20/surf-gnome.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p>📷 Surf gnome&#8230;</p>\n\n<p><img src=\"uploads/2023/gnome.png\" alt=\"The surf gnome\" title=\"gnome.png\" border=\"0\" width=\"720\" height=\"540\" /></p>\n",
+				"date_published": "2023-07-20T14:57:25-07:00",
+				"url": "https://jimmitchell.org/2023/07/20/surf-gnome.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/07/19/that-last-day.html",
+				
+				"content_html": "<p>That last day before an extended time away from the office always seems to be the longest, and the most fraught with pure insanity… Am I imagining it?</p>\n",
+				"content_text": "That last day before an extended time away from the office always seems to be the longest, and the most fraught with pure insanity… Am I imagining it?\n",
+				"date_published": "2023-07-19T09:54:45-07:00",
+				"url": "https://jimmitchell.org/2023/07/19/that-last-day.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/07/18/its-a-smashing.html",
+				
+				"content_html": "<p>It’s a Smashing Pumpkins kind of day. I forgot how sonically rich and layered they were.</p>\n",
+				"content_text": "It’s a Smashing Pumpkins kind of day. I forgot how sonically rich and layered they were.\n",
+				"date_published": "2023-07-18T10:19:16-07:00",
+				"url": "https://jimmitchell.org/2023/07/18/its-a-smashing.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2023/07/11/tinylytics-for-microblog.html",
 				"title": "Tinylytics for Micro.blog v2.1 Released",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
@@ -28,7 +55,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/07/08/a-mini-minivan.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 A mini mini-van&#8230;</p>\n\n<p><img src=\"uploads/2023/img-1452.jpg\" alt=\"IMG 1452\" title=\"IMG_1452.jpg\" border=\"0\" width=\"720\" height=\"540\" alt=\"a stylish mini mini-van\" /></p>\n",
+				"content_text": "<p>📷 A mini mini-van&#8230;</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/img-1452.jpg\" alt=\"IMG 1452\" title=\"IMG_1452.jpg\" border=\"0\" width=\"720\" height=\"540\" alt=\"a stylish mini mini-van\" /></p>\n",
 				"date_published": "2023-07-08T15:41:26-07:00",
 				"url": "https://jimmitchell.org/2023/07/08/a-mini-minivan.html",
 				"tags": ["Photos"]
@@ -37,7 +64,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/07/08/tinylytics-for-microblog.html",
 				"title": "Tinylytics for Micro.blog 2.0 Release",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>I&#8217;m happy to share that my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been released as a 2.0 version. This release adds the following:</p>\n\n<ol>\n<li>A complete refactor/rewrite of the tracking code for better performance.</li>\n<li>The ability to use <a href=\"https://gohugo.io/content-management/shortcodes/\">Hugo shortcodes</a> to add Kudos and Hit Counter in a post without changing any site template files.</li>\n<li>The ability to add a Hit Counter embed in the global custom footer of your Micro.blog site without changing any site template files.</li>\n</ol>\n\n<p>You should see a new version available in your site plug-ins area soon.</p>\n\n<p>For more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.</p>\n\n<p>If you have any other questions or find a bug, contact me through any of the methods in my site footer below.</p>\n\n<p style=\"color:var(--accent2);\">This post has been viewed {{< tinyhits >}} times.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>I&#8217;m happy to share that my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been released as a 2.0 version. This release adds the following:</p>\n\n<ol>\n<li>A complete refactor/rewrite of the tracking code for better performance.</li>\n<li>The ability to use <a href=\"https://gohugo.io/content-management/shortcodes/\">Hugo shortcodes</a> to add Kudos and Hit Counter in a post without changing any site template files.</li>\n<li>The ability to add a Hit Counter embed in the global custom footer of your Micro.blog site without changing any site template files.</li>\n</ol>\n\n<p>You should see a new version available in your site plug-ins area soon.</p>\n\n<p>For more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.</p>\n\n<p>If you have any other questions or find a bug, contact me through any of the methods in my site footer below.</p>\n\n<p style=\"color:var(--accent2);\">This post has been viewed {{< tinyhits >}} times.</p>\n",
 				"date_published": "2023-07-08T10:22:57-07:00",
 				"url": "https://jimmitchell.org/2023/07/08/tinylytics-for-microblog.html",
 				"tags": ["Posts"]
