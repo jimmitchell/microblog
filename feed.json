@@ -7,10 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2023/07/28/im-having-a.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I’m having a rough day it seems. My AirPods earbuds took a trip through the washer today because I stuck them in a shirt pocket rather than their case. Go me…</p>\n",
+				"date_published": "2023-07-28T15:58:37-07:00",
+				"url": "https://jimmitchell.org/2023/07/28/im-having-a.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/07/28/ouch-i-managed.html",
+				
+				"content_html": "<p>Ouch! I managed to spill coffee into (not onto&hellip; into) my favorite Apple aluminum wired keyboard today. I’m crushed. I’ve been using this keyboard for almost 15 years without trouble. My backup is the same model, but with a finicky space bar key. So it goes.</p>\n",
+				"content_text": "Ouch! I managed to spill coffee into (not onto... into) my favorite Apple aluminum wired keyboard today. I’m crushed. I’ve been using this keyboard for almost 15 years without trouble. My backup is the same model, but with a finicky space bar key. So it goes.\n",
+				"date_published": "2023-07-28T12:01:51-07:00",
+				"url": "https://jimmitchell.org/2023/07/28/ouch-i-managed.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2023/07/20/surf-gnome.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Surf gnome&#8230;</p>\n\n<p><img src=\"uploads/2023/gnome.png\" alt=\"The surf gnome\" title=\"gnome.png\" border=\"0\" width=\"720\" height=\"540\" /></p>\n",
+				"content_text": "<p>📷 Surf gnome…</p>\n\n<p><img src=\"uploads/2023/gnome.jpg\" alt=\"The surf gnome\" title=\"gnome.png\" border=\"0\" width=\"720\" height=\"540\" /></p>\n",
 				"date_published": "2023-07-20T14:57:25-07:00",
 				"url": "https://jimmitchell.org/2023/07/20/surf-gnome.html",
 				"tags": ["Photos"]
@@ -37,7 +55,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/07/11/tinylytics-for-microblog.html",
 				"title": "Tinylytics for Micro.blog v2.1 Released",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>Hot on the heels of <a href=\"https://vincentritter.com/2023/07/10/19-47-43\">uptime monitoring on Tinylytics</a>, I&#8217;m stoked to share that my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been released as a 2.1 version to take advantage of it.</p>\n\n<p>This release adds the following:</p>\n\n<ol>\n<li>The ability to use a <a href=\"https://gohugo.io/content-management/shortcodes/\">Hugo shortcode</a> to add a <span style='text-decoration:underline;'>Page View Counter</span> in a post without changing any site template files. This will display the actual views of a single post, rather than overall hits -- which can still be shown as a footer embed.</li>\n<li>The ability to show your site uptime embedded in the global custom footer of your Micro.blog site without changing any site template files.</li>\n</ol>\n\n<p><i><b>Note:</b> Uptime monitoring is a paid feature of Tinylytics. You'll need to have a paid account for uptime stats to show via this plugin.</i></p>\n\n<p>You should see a new version available in your site plug-ins area soon.</p>\n\n<p>For more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.</p>\n\n<p>If you have any other questions or find a bug, contact me through any of the methods in my site footer below.</p>\n\n<p style=\"color:var(--accent2);\">😎 This post has been viewed {{< tinyhits >}} times.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>Hot on the heels of <a href=\"https://vincentritter.com/2023/07/10/19-47-43\">uptime monitoring on Tinylytics</a>, I&#8217;m stoked to share that my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been released as a 2.1 version to take advantage of it.</p>\n\n<p>This release adds the following:</p>\n\n<ol>\n<li>The ability to use a <a href=\"https://gohugo.io/content-management/shortcodes/\">Hugo shortcode</a> to add a <span style='text-decoration:underline;'>Page View Counter</span> in a post without changing any site template files. This will display the actual views of a single post, rather than overall hits -- which can still be shown as a footer embed.</li>\n<li>The ability to show your site uptime embedded in the global custom footer of your Micro.blog site without changing any site template files.</li>\n</ol>\n\n<p><i><b>Note:</b> Uptime monitoring is a paid feature of Tinylytics. You'll need to have a paid account for uptime stats to show via this plugin.</i></p>\n\n<p>You should see a new version available in your site plug-ins area soon.</p>\n\n<p>For more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.</p>\n\n<p>If you have any other questions or find a bug, contact me through any of the methods in my site footer below.</p>\n\n<p style=\"color:var(--accent2);\">😎 This post has been viewed {{< tinyhits >}} times.</p>\n",
 				"date_published": "2023-07-11T08:25:11-07:00",
 				"url": "https://jimmitchell.org/2023/07/11/tinylytics-for-microblog.html",
 				"tags": ["Posts"]
@@ -55,7 +73,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/07/08/a-mini-minivan.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 A mini mini-van&#8230;</p>\n\n<p><img src=\"uploads/2023/img-1452.jpg\" alt=\"IMG 1452\" title=\"IMG_1452.jpg\" border=\"0\" width=\"720\" height=\"540\" alt=\"a stylish mini mini-van\" /></p>\n",
+				"content_text": "<p>📷 A mini mini-van&#8230;</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/img-1452.jpg\" alt=\"IMG 1452\" title=\"IMG_1452.jpg\" border=\"0\" width=\"720\" height=\"540\" alt=\"a stylish mini mini-van\" /></p>\n",
 				"date_published": "2023-07-08T15:41:26-07:00",
 				"url": "https://jimmitchell.org/2023/07/08/a-mini-minivan.html",
 				"tags": ["Photos"]
@@ -64,7 +82,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/07/08/tinylytics-for-microblog.html",
 				"title": "Tinylytics for Micro.blog 2.0 Release",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>I&#8217;m happy to share that my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been released as a 2.0 version. This release adds the following:</p>\n\n<ol>\n<li>A complete refactor/rewrite of the tracking code for better performance.</li>\n<li>The ability to use <a href=\"https://gohugo.io/content-management/shortcodes/\">Hugo shortcodes</a> to add Kudos and Hit Counter in a post without changing any site template files.</li>\n<li>The ability to add a Hit Counter embed in the global custom footer of your Micro.blog site without changing any site template files.</li>\n</ol>\n\n<p>You should see a new version available in your site plug-ins area soon.</p>\n\n<p>For more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.</p>\n\n<p>If you have any other questions or find a bug, contact me through any of the methods in my site footer below.</p>\n\n<p style=\"color:var(--accent2);\">This post has been viewed {{< tinyhits >}} times.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>I&#8217;m happy to share that my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been released as a 2.0 version. This release adds the following:</p>\n\n<ol>\n<li>A complete refactor/rewrite of the tracking code for better performance.</li>\n<li>The ability to use <a href=\"https://gohugo.io/content-management/shortcodes/\">Hugo shortcodes</a> to add Kudos and Hit Counter in a post without changing any site template files.</li>\n<li>The ability to add a Hit Counter embed in the global custom footer of your Micro.blog site without changing any site template files.</li>\n</ol>\n\n<p>You should see a new version available in your site plug-ins area soon.</p>\n\n<p>For more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.</p>\n\n<p>If you have any other questions or find a bug, contact me through any of the methods in my site footer below.</p>\n\n<p style=\"color:var(--accent2);\">This post has been viewed {{< tinyhits >}} times.</p>\n",
 				"date_published": "2023-07-08T10:22:57-07:00",
 				"url": "https://jimmitchell.org/2023/07/08/tinylytics-for-microblog.html",
 				"tags": ["Posts"]
@@ -82,7 +100,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/07/04/our-rd-year.html",
 				
 				"content_html": "<p>📷 Our 23rd year in Surf City, USA…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Our 23rd year in Surf City, USA…\n\n<img src=\"uploads/2023/035110a288.jpg\" width=\"600\" height=\"450\" alt=\"Huntington Beach 4th of July parade banner.\">\n",
+				"content_text": "📷 Our 23rd year in Surf City, USA…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/035110a288.jpg\" width=\"600\" height=\"450\" alt=\"Huntington Beach 4th of July parade banner.\">\n",
 				"date_published": "2023-07-04T13:34:40-07:00",
 				"url": "https://jimmitchell.org/2023/07/04/our-rd-year.html",
 				"tags": ["Photos"]
@@ -100,7 +118,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/07/02/tinylytics-for-microblog.html",
 				"title": "Tinylytics for Micro.blog Updated to 1.0.6",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Fresh on the heels of new <a href=\"https://tinylytics.app\">Tinylytics.app</a> updates, my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been updated to take advantage of the new Kudos feature introduced in the latest release. If you look at your installed site plug-ins, you should see an update available as 1.0.6.</p>\n\n<p>This release adds a checkbox to show Kudos along with the ability to set a custom label. See the project <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on Github for more information.</p>\n\n<p><img src=\"uploads/2023/tinylytics-config.png\" alt=\"Tinylytics config\" title=\"tinylytics-config.png\" border=\"0\" width=\"719\" height=\"284\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>Special thanks go out to <a href=\"https://micro.blog/vincent\">@vincent</a> for simply being an all-around awesome dude too.</p>\n\n<p style=\"color:var(--accent2);\">This post has been viewed {{< tinyhits >}} times.</p>\n",
+				"content_text": "<p>Fresh on the heels of new <a href=\"https://tinylytics.app\">Tinylytics.app</a> updates, my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been updated to take advantage of the new Kudos feature introduced in the latest release. If you look at your installed site plug-ins, you should see an update available as 1.0.6.</p>\n\n<p>This release adds a checkbox to show Kudos along with the ability to set a custom label. See the project <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on Github for more information.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/tinylytics-config.png\" alt=\"Tinylytics config\" title=\"tinylytics-config.png\" border=\"0\" width=\"719\" height=\"284\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>Special thanks go out to <a href=\"https://micro.blog/vincent\">@vincent</a> for simply being an all-around awesome dude too.</p>\n\n<p style=\"color:var(--accent2);\">This post has been viewed {{< tinyhits >}} times.</p>\n",
 				"date_published": "2023-07-02T00:03:12-07:00",
 				"url": "https://jimmitchell.org/2023/07/02/tinylytics-for-microblog.html",
 				"tags": ["Posts"]
@@ -136,7 +154,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/06/27/new-plugin-tinylytics.html",
 				"title": "New Plugin: Tinylytics for Micro.blog",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p><p><p>I published my very first Micro.blog plugin today: <strong>Tinylytics for Micro.blog</strong>. You can find it in the Micro.blog <a href=\"https://micro.blog/account/plugins/view/101\">plugin directory</a>.</p></p>\n\n<p>If you’re using <a href=\"https://micro.blog/vincent\">Vincent Ritter’s</a> awesome web analytics platform <a href=\"https://tinylytics.app\">Tinylytics</a>, this plugin is for you. Rather than copying and pasting a line of Javascript, you simply enter your unique site id which can be copied from your site page once the plugin is installed.</p>\n\n<p><img src=\"uploads/2023/tinylytics-plug-in-options.png\" alt=\"Tinylytics plug in options\" title=\"tinylytics-plug-in-options.png\" border=\"0\" width=\"562\" height=\"179\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>There’s an option to toggle the “Display Hits” option too.</p>\n\n<p>To show hits on your site, you’ll need to modify your Micro.blog theme to make the hits show up. The easiest way to accomplish this might be to add code in the footer of your theme’s design area (Design > Edit Footer):</p>\n\n<p><img src=\"uploads/2023/footer-edit.png\" alt=\"Footer edit\" title=\"footer-edit.png\" border=\"0\" width=\"718\" height=\"185\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>See this Tinylytics <a href=\"https://tinylytics.app/docs/show_hit_counter\">help article</a> for more information on displaying hits on your site.</p>\n\n<p>The plugin source can be found at this Github repo: <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">https://github.com/jimmitchell/Tinylytics-for-Micro.blog</a>.</p>\n\n<p><a href=\"mailto:hello@jimmitchell.org\">Email me</a> with questions or any issues you find.</p>\n\n<p style=\"color:var(--accent2);\">This post has been viewed {{< tinyhits >}} times.</p>\n",
+				"content_text": "<p><p><p>I published my very first Micro.blog plugin today: <strong>Tinylytics for Micro.blog</strong>. You can find it in the Micro.blog <a href=\"https://micro.blog/account/plugins/view/101\">plugin directory</a>.</p></p>\n\n<p>If you’re using <a href=\"https://micro.blog/vincent\">Vincent Ritter’s</a> awesome web analytics platform <a href=\"https://tinylytics.app\">Tinylytics</a>, this plugin is for you. Rather than copying and pasting a line of Javascript, you simply enter your unique site id which can be copied from your site page once the plugin is installed.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/tinylytics-plug-in-options.png\" alt=\"Tinylytics plug in options\" title=\"tinylytics-plug-in-options.png\" border=\"0\" width=\"562\" height=\"179\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>There’s an option to toggle the “Display Hits” option too.</p>\n\n<p>To show hits on your site, you’ll need to modify your Micro.blog theme to make the hits show up. The easiest way to accomplish this might be to add code in the footer of your theme’s design area (Design > Edit Footer):</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/footer-edit.png\" alt=\"Footer edit\" title=\"footer-edit.png\" border=\"0\" width=\"718\" height=\"185\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>See this Tinylytics <a href=\"https://tinylytics.app/docs/show_hit_counter\">help article</a> for more information on displaying hits on your site.</p>\n\n<p>The plugin source can be found at this Github repo: <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">https://github.com/jimmitchell/Tinylytics-for-Micro.blog</a>.</p>\n\n<p><a href=\"mailto:hello@jimmitchell.org\">Email me</a> with questions or any issues you find.</p>\n\n<p style=\"color:var(--accent2);\">This post has been viewed {{< tinyhits >}} times.</p>\n",
 				"date_published": "2023-06-27T09:13:31-07:00",
 				"url": "https://jimmitchell.org/2023/06/27/new-plugin-tinylytics.html",
 				"tags": ["Posts"]
@@ -145,7 +163,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/06/26/a-friendly-lizard.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 A friendly lizard.</p>\n\n<p><img src=\"uploads/2023/bffae4abc7.jpg\" width=\"600\" height=\"450\" alt=\"a lizard on a stick\"></p>\n",
+				"content_text": "<p>📷 A friendly lizard.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/bffae4abc7.jpg\" width=\"600\" height=\"450\" alt=\"a lizard on a stick\"></p>\n",
 				"date_published": "2023-06-26T21:02:39-07:00",
 				"url": "https://jimmitchell.org/2023/06/26/a-friendly-lizard.html",
 				"tags": ["Photos"]
@@ -154,7 +172,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/06/26/laguna-coast-wilderness.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Laguna Coast Wilderness Park.</p>\n\n<p><img src=\"uploads/2023/620f697509.jpg\" width=\"600\" height=\"450\" alt=\"view of the Laguna mountains\"></p>\n",
+				"content_text": "<p>📷 Laguna Coast Wilderness Park.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/620f697509.jpg\" width=\"600\" height=\"450\" alt=\"view of the Laguna mountains\"></p>\n",
 				"date_published": "2023-06-26T20:58:34-07:00",
 				"url": "https://jimmitchell.org/2023/06/26/laguna-coast-wilderness.html",
 				"tags": ["Photos"]
@@ -190,7 +208,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/06/22/ready-to-hit.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Ready to hit the stage at the World Famous Doll Hut.</p>\n\n<p><img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"Picture of a drum set on stage\"></p>\n",
+				"content_text": "<p>📷 Ready to hit the stage at the World Famous Doll Hut.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"Picture of a drum set on stage\"></p>\n",
 				"date_published": "2023-06-22T19:52:50-07:00",
 				"url": "https://jimmitchell.org/2023/06/22/ready-to-hit.html",
 				"tags": ["Photos"]
@@ -199,7 +217,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/06/12/sunrise-in-port.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Sunrise over Terminal Island.</p>\n\n<p><img src=\"uploads/2023/53ad5a744f.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise over Terminal Island\"></p>\n",
+				"content_text": "<p>📷 Sunrise over Terminal Island.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/53ad5a744f.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise over Terminal Island\"></p>\n",
 				"date_published": "2023-06-12T20:50:45-07:00",
 				"url": "https://jimmitchell.org/2023/06/12/sunrise-in-port.html",
 				"tags": ["Photos"]
@@ -253,7 +271,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/30/across-the-irvine.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Across the Irvine valley.</p>\n\n<p><img src=\"uploads/2023/165d8050c2.jpg\" width=\"600\" height=\"450\" alt=\"Across the valley\" /></p>\n",
+				"content_text": "<p>📷 Across the Irvine valley.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/165d8050c2.jpg\" width=\"600\" height=\"450\" alt=\"Across the valley\" /></p>\n",
 				"date_published": "2023-05-30T19:51:35-07:00",
 				"url": "https://jimmitchell.org/2023/05/30/across-the-irvine.html",
 				"tags": ["Photos"]
@@ -271,7 +289,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/29/remembering-those-who.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Remembering those who gave it all for our freedom.</p>\n\n<p><img src=\"uploads/2023/b66829c03e.jpg\" width=\"600\" height=\"450\" alt=\"Memorial Day remembrance ceremony.\"></p>\n",
+				"content_text": "<p>📷 Remembering those who gave it all for our freedom.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/b66829c03e.jpg\" width=\"600\" height=\"450\" alt=\"Memorial Day remembrance ceremony.\"></p>\n",
 				"date_published": "2023-05-29T12:53:28-07:00",
 				"url": "https://jimmitchell.org/2023/05/29/remembering-those-who.html",
 				"tags": ["Photos"]
@@ -280,7 +298,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/29/hb-northside-lineup.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 HB Northside Lineup.</p>\n\n<p><img src=\"uploads/2023/05b2ec4cb1.jpg\" width=\"600\" height=\"450\" alt=\"HB Northside Surf Lineup\"></p>\n",
+				"content_text": "<p>📷 HB Northside Lineup.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/05b2ec4cb1.jpg\" width=\"600\" height=\"450\" alt=\"HB Northside Surf Lineup\"></p>\n",
 				"date_published": "2023-05-29T11:57:54-07:00",
 				"url": "https://jimmitchell.org/2023/05/29/hb-northside-lineup.html",
 				"tags": ["Photos"]
@@ -298,7 +316,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/28/blooming-cactus.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Blooming cactus.</p>\n\n<p><img src=\"uploads/2023/9fcbf18467.jpg\" width=\"600\" height=\"450\" alt=\"Blooming cactus\"></p>\n",
+				"content_text": "<p>📷 Blooming cactus.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/9fcbf18467.jpg\" width=\"600\" height=\"450\" alt=\"Blooming cactus\"></p>\n",
 				"date_published": "2023-05-28T12:53:39-07:00",
 				"url": "https://jimmitchell.org/2023/05/28/blooming-cactus.html",
 				"tags": ["Photos"]
