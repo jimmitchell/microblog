@@ -2,17 +2,35 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Jim Mitchell",
 	"icon": "https://micro.blog/jimmitchell/avatar.jpg",
-	"home_page_url": "https://jimmitchell.org/",
-	"feed_url": "https://jimmitchell.org/feed.json",
+	"home_page_url": "https://jimmitchell.micro.blog/",
+	"feed_url": "https://jimmitchell.micro.blog/feed.json",
 	"items": [
 		
 			{
-				"id": "http://jimmitchell.micro.blog/2023/08/16/as-someone-in.html",
+				"id": "http://jimmitchell.micro.blog/2023/08/18/looking-at-the.html",
 				
-				"content_html": "<p>As someone in IT who supports users, I find it challenging to deal with those who simply throw their hands up and say &ldquo;there&rsquo;s a problem!&rdquo; but won&rsquo;t give details. It adds one, if not more, exchanges. I&rsquo;m happy to help if I know what I&rsquo;m looking for, but I gave up mind reading a while ago&hellip;</p>\n",
-				"content_text": "As someone in IT who supports users, I find it challenging to deal with those who simply throw their hands up and say \"there's a problem!\" but won't give details. It adds one, if not more, exchanges. I'm happy to help if I know what I'm looking for, but I gave up mind reading a while ago...\n",
-				"date_published": "2023-08-16T07:31:05-07:00",
-				"url": "https://jimmitchell.org/2023/08/16/as-someone-in.html",
+				"content_html": "<p>Looking at the rain (4-6&quot;) and wind (gusts 40-60 mph) models for tropical storm Hillary in SoCal (Huntington Beach), it could prove to be a pretty wild weekend. Our place is barely above sea level. I think I might grab some sandbags tomorrow just to be safe.</p>\n",
+				"content_text": "Looking at the rain (4-6\") and wind (gusts 40-60 mph) models for tropical storm Hillary in SoCal (Huntington Beach), it could prove to be a pretty wild weekend. Our place is barely above sea level. I think I might grab some sandbags tomorrow just to be safe.\n",
+				"date_published": "2023-08-18T13:55:39-07:00",
+				"url": "https://jimmitchell.micro.blog/2023/08/18/looking-at-the.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/08/18/i-have-a.html",
+				
+				"content_html": "<p>I have a few Bluesky invites to share. The first three people to respond to the conversation of this post, they&rsquo;re yours.</p>\n",
+				"content_text": "I have a few Bluesky invites to share. The first three people to respond to the conversation of this post, they're yours.\n",
+				"date_published": "2023-08-18T13:44:35-07:00",
+				"url": "https://jimmitchell.micro.blog/2023/08/18/i-have-a.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/08/17/its-always-so.html",
+				
+				"content_html": "<p>It’s always so satisfying, and such a relief, to finally solve a blocking issue that’s stumped me for days and held up three other teams from completing their work. Maybe I can finally sleep tonight. Maybe…</p>\n",
+				"content_text": "It’s always so satisfying, and such a relief, to finally solve a blocking issue that’s stumped me for days and held up three other teams from completing their work. Maybe I can finally sleep tonight. Maybe…\n",
+				"date_published": "2023-08-17T11:18:38-07:00",
+				"url": "https://jimmitchell.micro.blog/2023/08/17/its-always-so.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -21,7 +39,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<p>📷 Thanks for the awesome Micro.blog decals and note, <a href=\"https://micro.blog/jean\">@jean</a>!</p>\n\n<p><img src=\"uploads/2023/c68e7f41bf.jpg\" width=\"600\" height=\"450\" alt=\"Awesome Micro.blog decals from [@jean](https://micro.blog/jean).\"></p>\n",
 				"date_published": "2023-08-12T12:18:28-07:00",
-				"url": "https://jimmitchell.org/2023/08/12/thanks-for-the.html",
+				"url": "https://jimmitchell.micro.blog/2023/08/12/thanks-for-the.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -30,7 +48,7 @@
 				"content_html": "<p>So&hellip; I ground the beans for the coffee and set up the brewer to start at 4am before going to bed, just like usual&hellip; But I forgot to put the carafe under the basket. This got me four kitchen drawers filled with freshly brewed coffee, and ruined both a dining room rug and my wife&rsquo;s morning. 🤦🏻‍♂️</p>\n",
 				"content_text": "So... I ground the beans for the coffee and set up the brewer to start at 4am before going to bed, just like usual... But I forgot to put the carafe under the basket. This got me four kitchen drawers filled with freshly brewed coffee, and ruined both a dining room rug and my wife's morning. 🤦🏻‍♂️\n",
 				"date_published": "2023-08-09T19:45:25-07:00",
-				"url": "https://jimmitchell.org/2023/08/09/so-i-ground.html",
+				"url": "https://jimmitchell.micro.blog/2023/08/09/so-i-ground.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -39,7 +57,7 @@
 				"content_html": "<p>I switched all my domains to iCloud Custom Email Domains from Google Workspace last night. Set up was really simple, even with family sharing. You do have to understand editing your own DNS though. For $2.99 (200GB plan) a month vs. $12 a month for two users, I think it&rsquo;s worth it.</p>\n",
 				"content_text": "I switched all my domains to iCloud Custom Email Domains from Google Workspace last night. Set up was really simple, even with family sharing. You do have to understand editing your own DNS though. For $2.99 (200GB plan) a month vs. $12 a month for two users, I think it's worth it.\n",
 				"date_published": "2023-08-04T07:46:11-07:00",
-				"url": "https://jimmitchell.org/2023/08/04/i-switched-all.html",
+				"url": "https://jimmitchell.micro.blog/2023/08/04/i-switched-all.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -48,7 +66,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>A follow up to my AirPod drama&#8230; I splurged extra for the AirPods Pro 2. As someone with extreme <a href=\"https://en.wikipedia.org/wiki/M%C3%A9ni%C3%A8re%27s_disease\">Meniere&#8217;s Disease</a>, I struggle to hear anything in even mildly noisy situations. I&#8217;ve found Transparency mode to be a godsend. I tuned ambient noise off &amp; can finally hear what&#8217;s being said to me. 🥹</p>\n",
 				"date_published": "2023-07-31T12:23:07-07:00",
-				"url": "https://jimmitchell.org/2023/07/31/a-follow-up.html",
+				"url": "https://jimmitchell.micro.blog/2023/07/31/a-follow-up.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -57,7 +75,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>I’m having a rough day it seems. My AirPods earbuds took a trip through the washer today because I stuck them in a shirt pocket rather than their case. Go me…</p>\n",
 				"date_published": "2023-07-28T15:58:37-07:00",
-				"url": "https://jimmitchell.org/2023/07/28/im-having-a.html",
+				"url": "https://jimmitchell.micro.blog/2023/07/28/im-having-a.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -66,7 +84,7 @@
 				"content_html": "<p>Ouch! I managed to spill coffee into (not onto&hellip; into) my favorite Apple aluminum wired keyboard today. I’m crushed. I’ve been using this keyboard for almost 15 years without trouble. My backup is the same model, but with a finicky space bar key. So it goes.</p>\n",
 				"content_text": "Ouch! I managed to spill coffee into (not onto... into) my favorite Apple aluminum wired keyboard today. I’m crushed. I’ve been using this keyboard for almost 15 years without trouble. My backup is the same model, but with a finicky space bar key. So it goes.\n",
 				"date_published": "2023-07-28T12:01:51-07:00",
-				"url": "https://jimmitchell.org/2023/07/28/ouch-i-managed.html",
+				"url": "https://jimmitchell.micro.blog/2023/07/28/ouch-i-managed.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -75,7 +93,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<p>📷 Surf gnome…</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/gnome.jpg\" alt=\"The surf gnome\" title=\"gnome.png\" border=\"0\" width=\"720\" height=\"540\" /></p>\n",
 				"date_published": "2023-07-20T14:57:25-07:00",
-				"url": "https://jimmitchell.org/2023/07/20/surf-gnome.html",
+				"url": "https://jimmitchell.micro.blog/2023/07/20/surf-gnome.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -84,7 +102,7 @@
 				"content_html": "<p>That last day before an extended time away from the office always seems to be the longest, and the most fraught with pure insanity… Am I imagining it?</p>\n",
 				"content_text": "That last day before an extended time away from the office always seems to be the longest, and the most fraught with pure insanity… Am I imagining it?\n",
 				"date_published": "2023-07-19T09:54:45-07:00",
-				"url": "https://jimmitchell.org/2023/07/19/that-last-day.html",
+				"url": "https://jimmitchell.micro.blog/2023/07/19/that-last-day.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -93,7 +111,7 @@
 				"content_html": "<p>It’s a Smashing Pumpkins kind of day. I forgot how sonically rich and layered they were.</p>\n",
 				"content_text": "It’s a Smashing Pumpkins kind of day. I forgot how sonically rich and layered they were.\n",
 				"date_published": "2023-07-18T10:19:16-07:00",
-				"url": "https://jimmitchell.org/2023/07/18/its-a-smashing.html",
+				"url": "https://jimmitchell.micro.blog/2023/07/18/its-a-smashing.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -102,7 +120,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>Hot on the heels of <a href=\"https://vincentritter.com/2023/07/10/19-47-43\">uptime monitoring on Tinylytics</a>, I&#8217;m stoked to share that my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been released as a 2.1 version to take advantage of it.</p>\n\n<p>This release adds the following:</p>\n\n<ol>\n<li>The ability to use a <a href=\"https://gohugo.io/content-management/shortcodes/\">Hugo shortcode</a> to add a <span style='text-decoration:underline;'>Page View Counter</span> in a post without changing any site template files. This will display the actual views of a single post, rather than overall hits -- which can still be shown as a footer embed.</li>\n<li>The ability to show your site uptime embedded in the global custom footer of your Micro.blog site without changing any site template files.</li>\n</ol>\n\n<p><i><b>Note:</b> Uptime monitoring is a paid feature of Tinylytics. You'll need to have a paid account for uptime stats to show via this plugin.</i></p>\n\n<p>You should see a new version available in your site plug-ins area soon.</p>\n\n<p>For more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.</p>\n\n<p>If you have any other questions or find a bug, contact me through any of the methods in my site footer below.</p>\n\n<p style=\"color:var(--accent2);\">😎 This post has been viewed {{< tinyhits >}} times.</p>\n",
 				"date_published": "2023-07-11T08:25:11-07:00",
-				"url": "https://jimmitchell.org/2023/07/11/tinylytics-for-microblog.html",
+				"url": "https://jimmitchell.micro.blog/2023/07/11/tinylytics-for-microblog.html",
 				"tags": ["Posts"]
 			},
 			{
@@ -111,7 +129,7 @@
 				"content_html": "<p>Shaved my goatee off over the weekend and now my face feels uncomfortably naked… I don’t know why I do this to myself. You’d think I’d learn by now.</p>\n",
 				"content_text": "Shaved my goatee off over the weekend and now my face feels uncomfortably naked… I don’t know why I do this to myself. You’d think I’d learn by now.\n",
 				"date_published": "2023-07-10T15:12:59-07:00",
-				"url": "https://jimmitchell.org/2023/07/10/shaved-my-goatee.html",
+				"url": "https://jimmitchell.micro.blog/2023/07/10/shaved-my-goatee.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -120,7 +138,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<p>📷 A mini mini-van&#8230;</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/img-1452.jpg\" alt=\"IMG 1452\" title=\"IMG_1452.jpg\" border=\"0\" width=\"720\" height=\"540\" alt=\"a stylish mini mini-van\" /></p>\n",
 				"date_published": "2023-07-08T15:41:26-07:00",
-				"url": "https://jimmitchell.org/2023/07/08/a-mini-minivan.html",
+				"url": "https://jimmitchell.micro.blog/2023/07/08/a-mini-minivan.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -129,7 +147,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>I&#8217;m happy to share that my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been released as a 2.0 version. This release adds the following:</p>\n\n<ol>\n<li>A complete refactor/rewrite of the tracking code for better performance.</li>\n<li>The ability to use <a href=\"https://gohugo.io/content-management/shortcodes/\">Hugo shortcodes</a> to add Kudos and Hit Counter in a post without changing any site template files.</li>\n<li>The ability to add a Hit Counter embed in the global custom footer of your Micro.blog site without changing any site template files.</li>\n</ol>\n\n<p>You should see a new version available in your site plug-ins area soon.</p>\n\n<p>For more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.</p>\n\n<p>If you have any other questions or find a bug, contact me through any of the methods in my site footer below.</p>\n\n<p style=\"color:var(--accent2);\">This post has been viewed {{< tinyhits >}} times.</p>\n",
 				"date_published": "2023-07-08T10:22:57-07:00",
-				"url": "https://jimmitchell.org/2023/07/08/tinylytics-for-microblog.html",
+				"url": "https://jimmitchell.micro.blog/2023/07/08/tinylytics-for-microblog.html",
 				"tags": ["Posts"]
 			},
 			{
@@ -138,7 +156,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Yeah&#8230; I checked out Threads. And yeah&#8230; I&#8217;m done with that one already. I think Micro.blog is still the right platform for me.</p>\n",
 				"date_published": "2023-07-05T20:04:13-07:00",
-				"url": "https://jimmitchell.org/2023/07/05/yeah-i-checked.html",
+				"url": "https://jimmitchell.micro.blog/2023/07/05/yeah-i-checked.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -147,7 +165,7 @@
 				"content_html": "<p>📷 Our 23rd year in Surf City, USA…</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📷 Our 23rd year in Surf City, USA…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/035110a288.jpg\" width=\"600\" height=\"450\" alt=\"Huntington Beach 4th of July parade banner.\">\n",
 				"date_published": "2023-07-04T13:34:40-07:00",
-				"url": "https://jimmitchell.org/2023/07/04/our-rd-year.html",
+				"url": "https://jimmitchell.micro.blog/2023/07/04/our-rd-year.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -156,7 +174,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Ooh&#8230; I just had a brilliant idea for my Tinylytics for Micro.blog plug-in that will save users from having to hack any html and should (in theory) work on any theme. More to come soon&#8230;</p>\n",
 				"date_published": "2023-07-02T10:36:58-07:00",
-				"url": "https://jimmitchell.org/2023/07/02/ooh-i-just.html",
+				"url": "https://jimmitchell.micro.blog/2023/07/02/ooh-i-just.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -165,7 +183,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Fresh on the heels of new <a href=\"https://tinylytics.app\">Tinylytics.app</a> updates, my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been updated to take advantage of the new Kudos feature introduced in the latest release. If you look at your installed site plug-ins, you should see an update available as 1.0.6.</p>\n\n<p>This release adds a checkbox to show Kudos along with the ability to set a custom label. See the project <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on Github for more information.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/tinylytics-config.png\" alt=\"Tinylytics config\" title=\"tinylytics-config.png\" border=\"0\" width=\"719\" height=\"284\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>Special thanks go out to <a href=\"https://micro.blog/vincent\">@vincent</a> for simply being an all-around awesome dude too.</p>\n\n<p style=\"color:var(--accent2);\">This post has been viewed {{< tinyhits >}} times.</p>\n",
 				"date_published": "2023-07-02T00:03:12-07:00",
-				"url": "https://jimmitchell.org/2023/07/02/tinylytics-for-microblog.html",
+				"url": "https://jimmitchell.micro.blog/2023/07/02/tinylytics-for-microblog.html",
 				"tags": ["Posts"]
 			},
 			{
@@ -174,7 +192,7 @@
 				"content_html": "<p>Teaser alert&hellip; Updates coming for the <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plugin this weekend that adds features for <a href=\"https://tinylytics.app\">Tinylytics</a> paid account users. It&rsquo;s a party.</p>\n",
 				"content_text": "Teaser alert... Updates coming for the [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) plugin this weekend that adds features for [Tinylytics](https://tinylytics.app) paid account users. It's a party.\n",
 				"date_published": "2023-06-30T07:31:29-07:00",
-				"url": "https://jimmitchell.org/2023/06/30/teaser-alert-updates.html",
+				"url": "https://jimmitchell.micro.blog/2023/06/30/teaser-alert-updates.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -183,7 +201,7 @@
 				"content_html": "<p>Okay&hellip; So I&rsquo;ve aliased my Micro.blog ActivityPub username back to my Mastodon account for the time being. Having the feed in Micro.blog is really cool, but I felt I was missing something. I may change my mind again though&hellip; I&rsquo;m so fickle sometimes.</p>\n",
 				"content_text": "Okay... So I've aliased my Micro.blog ActivityPub username back to my Mastodon account for the time being. Having the feed in Micro.blog is really cool, but I felt I was missing something. I may change my mind again though... I'm so fickle sometimes.\n",
 				"date_published": "2023-06-28T13:17:55-07:00",
-				"url": "https://jimmitchell.org/2023/06/28/okay-so-ive.html",
+				"url": "https://jimmitchell.micro.blog/2023/06/28/okay-so-ive.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -192,7 +210,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Sometimes it’s a curse being a perfectionist living among the imperfectionists…</p>\n",
 				"date_published": "2023-06-27T16:28:25-07:00",
-				"url": "https://jimmitchell.org/2023/06/27/sometime-its-a.html",
+				"url": "https://jimmitchell.micro.blog/2023/06/27/sometime-its-a.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -201,7 +219,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<p><p><p>I published my very first Micro.blog plugin today: <strong>Tinylytics for Micro.blog</strong>. You can find it in the Micro.blog <a href=\"https://micro.blog/account/plugins/view/101\">plugin directory</a>.</p></p>\n\n<p>If you’re using <a href=\"https://micro.blog/vincent\">Vincent Ritter’s</a> awesome web analytics platform <a href=\"https://tinylytics.app\">Tinylytics</a>, this plugin is for you. Rather than copying and pasting a line of Javascript, you simply enter your unique site id which can be copied from your site page once the plugin is installed.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/tinylytics-plug-in-options.png\" alt=\"Tinylytics plug in options\" title=\"tinylytics-plug-in-options.png\" border=\"0\" width=\"562\" height=\"179\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>There’s an option to toggle the “Display Hits” option too.</p>\n\n<p>To show hits on your site, you’ll need to modify your Micro.blog theme to make the hits show up. The easiest way to accomplish this might be to add code in the footer of your theme’s design area (Design > Edit Footer):</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/footer-edit.png\" alt=\"Footer edit\" title=\"footer-edit.png\" border=\"0\" width=\"718\" height=\"185\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>See this Tinylytics <a href=\"https://tinylytics.app/docs/show_hit_counter\">help article</a> for more information on displaying hits on your site.</p>\n\n<p>The plugin source can be found at this Github repo: <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">https://github.com/jimmitchell/Tinylytics-for-Micro.blog</a>.</p>\n\n<p><a href=\"mailto:hello@jimmitchell.org\">Email me</a> with questions or any issues you find.</p>\n\n<p style=\"color:var(--accent2);\">This post has been viewed {{< tinyhits >}} times.</p>\n",
 				"date_published": "2023-06-27T09:13:31-07:00",
-				"url": "https://jimmitchell.org/2023/06/27/new-plugin-tinylytics.html",
+				"url": "https://jimmitchell.micro.blog/2023/06/27/new-plugin-tinylytics.html",
 				"tags": ["Posts"]
 			},
 			{
@@ -210,7 +228,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<p>📷 A friendly lizard.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/bffae4abc7.jpg\" width=\"600\" height=\"450\" alt=\"a lizard on a stick\"></p>\n",
 				"date_published": "2023-06-26T21:02:39-07:00",
-				"url": "https://jimmitchell.org/2023/06/26/a-friendly-lizard.html",
+				"url": "https://jimmitchell.micro.blog/2023/06/26/a-friendly-lizard.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -219,7 +237,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<p>📷 Laguna Coast Wilderness Park.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/620f697509.jpg\" width=\"600\" height=\"450\" alt=\"view of the Laguna mountains\"></p>\n",
 				"date_published": "2023-06-26T20:58:34-07:00",
-				"url": "https://jimmitchell.org/2023/06/26/laguna-coast-wilderness.html",
+				"url": "https://jimmitchell.micro.blog/2023/06/26/laguna-coast-wilderness.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -228,7 +246,7 @@
 				"content_html": "<p>Today&rsquo;s &ldquo;the more I learn about Micro.blog&rdquo; post&hellip; Both the iOS and Mac desktop apps work like any other Mastodon client. Follow anyone in the Fediverse you want; their posts magically show up in your timeline, with the added bonus of using your domain with your Fediverse username if you have one.</p>\n",
 				"content_text": "Today's \"the more I learn about Micro.blog\" post... Both the iOS and Mac desktop apps work like any other Mastodon client. Follow anyone in the Fediverse you want; their posts magically show up in your timeline, with the added bonus of using your domain with your Fediverse username if you have one.\n",
 				"date_published": "2023-06-26T13:10:59-07:00",
-				"url": "https://jimmitchell.org/2023/06/26/todays-the-more.html",
+				"url": "https://jimmitchell.micro.blog/2023/06/26/todays-the-more.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -237,7 +255,7 @@
 				"content_html": "<p>Came up with a couple of ideas for useful Micro.blog plug-ins this morning. More to come soon…</p>\n",
 				"content_text": "Came up with a couple of ideas for useful Micro.blog plug-ins this morning. More to come soon…\n",
 				"date_published": "2023-06-25T09:01:40-07:00",
-				"url": "https://jimmitchell.org/2023/06/25/came-up-with.html",
+				"url": "https://jimmitchell.micro.blog/2023/06/25/came-up-with.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -246,7 +264,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Lesson learned: Do not alias a Mastodon instance username to your Micro.blog Mastodon-compatible username and then decide to change it back. You will lose your original Mastodon instance followers, though you will keep your Micro.blog followers&#8230;</p>\n",
 				"date_published": "2023-06-23T06:28:49-07:00",
-				"url": "https://jimmitchell.org/2023/06/23/lesson-learned-do.html",
+				"url": "https://jimmitchell.micro.blog/2023/06/23/lesson-learned-do.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -255,7 +273,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<p>📷 Ready to hit the stage at the World Famous Doll Hut.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"Picture of a drum set on stage\"></p>\n",
 				"date_published": "2023-06-22T19:52:50-07:00",
-				"url": "https://jimmitchell.org/2023/06/22/ready-to-hit.html",
+				"url": "https://jimmitchell.micro.blog/2023/06/22/ready-to-hit.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -264,7 +282,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<p>📷 Sunrise over Terminal Island.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/53ad5a744f.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise over Terminal Island\"></p>\n",
 				"date_published": "2023-06-12T20:50:45-07:00",
-				"url": "https://jimmitchell.org/2023/06/12/sunrise-in-port.html",
+				"url": "https://jimmitchell.micro.blog/2023/06/12/sunrise-in-port.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -273,7 +291,7 @@
 				"content_html": "<p>Going to try to wrap my head around Hugo themes today. I get the gist of it, but after 20+ years of WordPress theming, the logic is just a little different. Any good references appreciated. My brain is not as pliable as it once was.</p>\n",
 				"content_text": "Going to try to wrap my head around Hugo themes today. I get the gist of it, but after 20+ years of WordPress theming, the logic is just a little different. Any good references appreciated. My brain is not as pliable as it once was.\n",
 				"date_published": "2023-06-10T11:18:51-07:00",
-				"url": "https://jimmitchell.org/2023/06/10/going-to-try.html",
+				"url": "https://jimmitchell.micro.blog/2023/06/10/going-to-try.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -282,7 +300,7 @@
 				"content_html": "<p>I’ve yet to start playing with the macOS Sonoma beta, but in my Apple fanboy opinion, the default desktop wallpapers are some of the best Apple has produced in the past several releases.</p>\n",
 				"content_text": "I’ve yet to start playing with the macOS Sonoma beta, but in my Apple fanboy opinion, the default desktop wallpapers are some of the best Apple has produced in the past several releases.\n",
 				"date_published": "2023-06-09T10:42:24-07:00",
-				"url": "https://jimmitchell.org/2023/06/09/ive-yet-to.html",
+				"url": "https://jimmitchell.micro.blog/2023/06/09/ive-yet-to.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -291,7 +309,7 @@
 				"content_html": "<p>I try to diligently plan the tasks I want to get done each day, but there’s always a fire that has to be put out, pushing the planned tasks to the next day - until they become fires of their own.</p>\n<p>Tomorrow is a new chance. I’ll just keep telling myself that…</p>\n",
 				"content_text": "I try to diligently plan the tasks I want to get done each day, but there’s always a fire that has to be put out, pushing the planned tasks to the next day - until they become fires of their own.\n\nTomorrow is a new chance. I’ll just keep telling myself that…\n",
 				"date_published": "2023-06-06T16:06:41-07:00",
-				"url": "https://jimmitchell.org/2023/06/06/i-try-to.html",
+				"url": "https://jimmitchell.micro.blog/2023/06/06/i-try-to.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -300,7 +318,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Upped my Micro.blog plan to the premium level over the weekend. Great to have the newsletter option now. Mulling some potential topics for a regular Microcast as well.</p>\n",
 				"date_published": "2023-06-05T12:46:23-07:00",
-				"url": "https://jimmitchell.org/2023/06/05/upped-my-microblog.html",
+				"url": "https://jimmitchell.micro.blog/2023/06/05/upped-my-microblog.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -309,7 +327,7 @@
 				"content_html": "<p>I gave in and purchased a <a href=\"https://mimestream.com/\">Mimestream</a> subscription a little early. I can share the subscription with my wife so that makes the price more palletable. Plus the fact that it&rsquo;s a damn good 1.0 release made me want to support the development team all the more.</p>\n",
 				"content_text": "I gave in and purchased a [Mimestream](https://mimestream.com/) subscription a little early. I can share the subscription with my wife so that makes the price more palletable. Plus the fact that it's a damn good 1.0 release made me want to support the development team all the more.\n",
 				"date_published": "2023-05-31T15:26:42-07:00",
-				"url": "https://jimmitchell.org/2023/05/31/i-gave-in.html",
+				"url": "https://jimmitchell.micro.blog/2023/05/31/i-gave-in.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -318,7 +336,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<p>📷 Across the Irvine valley.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/165d8050c2.jpg\" width=\"600\" height=\"450\" alt=\"Across the valley\" /></p>\n",
 				"date_published": "2023-05-30T19:51:35-07:00",
-				"url": "https://jimmitchell.org/2023/05/30/across-the-irvine.html",
+				"url": "https://jimmitchell.micro.blog/2023/05/30/across-the-irvine.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -327,7 +345,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Purchased a license for <a href=\"https://shottr.cc\">Shottr</a>, a macOS screenshot tool, based on a Micro.blog discussion thread I stumbled on and it&#8217;s probably the best $4 I&#8217;ve spent in a year. Normally it would be $8, but took advantage of the <a href=\"https://shottr.cc/newversion.html\">first week coupon code</a>.</p>\n",
 				"date_published": "2023-05-30T19:32:02-07:00",
-				"url": "https://jimmitchell.org/2023/05/30/purchased-a-license.html",
+				"url": "https://jimmitchell.micro.blog/2023/05/30/purchased-a-license.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -336,7 +354,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<p>📷 Remembering those who gave it all for our freedom.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/b66829c03e.jpg\" width=\"600\" height=\"450\" alt=\"Memorial Day remembrance ceremony.\"></p>\n",
 				"date_published": "2023-05-29T12:53:28-07:00",
-				"url": "https://jimmitchell.org/2023/05/29/remembering-those-who.html",
+				"url": "https://jimmitchell.micro.blog/2023/05/29/remembering-those-who.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -345,7 +363,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<p>📷 HB Northside Lineup.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/05b2ec4cb1.jpg\" width=\"600\" height=\"450\" alt=\"HB Northside Surf Lineup\"></p>\n",
 				"date_published": "2023-05-29T11:57:54-07:00",
-				"url": "https://jimmitchell.org/2023/05/29/hb-northside-lineup.html",
+				"url": "https://jimmitchell.micro.blog/2023/05/29/hb-northside-lineup.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -354,7 +372,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>If you have multiple domains you&#8217;d like to redirect to your Micro.blog domain (or any domain for that matter), and know how to manage your own DNS records, I highly recommend using <a href=\"https://forwarddomain.net\">ForwardDomain.net</a> as a redirect solution.</p>\n",
 				"date_published": "2023-05-29T08:22:45-07:00",
-				"url": "https://jimmitchell.org/2023/05/29/if-you-have.html",
+				"url": "https://jimmitchell.micro.blog/2023/05/29/if-you-have.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -363,7 +381,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<p>📷 Blooming cactus.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/9fcbf18467.jpg\" width=\"600\" height=\"450\" alt=\"Blooming cactus\"></p>\n",
 				"date_published": "2023-05-28T12:53:39-07:00",
-				"url": "https://jimmitchell.org/2023/05/28/blooming-cactus.html",
+				"url": "https://jimmitchell.micro.blog/2023/05/28/blooming-cactus.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -372,7 +390,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Giving <a href=\"https://mimestream.com\">Mimestream</a> as spin as my mail client on macOS since I use Google Workspace for my domains. It&#8217;s impressive, but a $50/year subscription might be a little steep for me. We&#8217;ll see in 12 days.</p>\n",
 				"date_published": "2023-05-28T12:20:46-07:00",
-				"url": "https://jimmitchell.org/2023/05/28/giving-mimestream-as.html",
+				"url": "https://jimmitchell.micro.blog/2023/05/28/giving-mimestream-as.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -381,7 +399,7 @@
 				"content_html": "<p>I’m developing a love/hate relationship with the Copado CI/CD platform for Salesforce deployments. When it works, it’s a dream. When it doesn’t, it’s a pain to figure out why.</p>\n",
 				"content_text": "I’m developing a love/hate relationship with the Copado CI/CD platform for Salesforce deployments. When it works, it’s a dream. When it doesn’t, it’s a pain to figure out why.\n",
 				"date_published": "2023-05-24T09:49:58-07:00",
-				"url": "https://jimmitchell.org/2023/05/24/im-developing-a.html",
+				"url": "https://jimmitchell.micro.blog/2023/05/24/im-developing-a.html",
 				"tags": ["Thoughts"]
 			},
 			{
@@ -390,62 +408,8 @@
 				"content_html": "<p>I&rsquo;ve been a WordPress user since the early days and have carried my content with me from one host to another. I think it&rsquo;s time to put the old content to rest and start fresh with micro.blog.</p>\n",
 				"content_text": "I've been a WordPress user since the early days and have carried my content with me from one host to another. I think it's time to put the old content to rest and start fresh with micro.blog.\n",
 				"date_published": "2023-05-15T08:00:00-07:00",
-				"url": "https://jimmitchell.org/2023/05/15/ive-been-a.html",
+				"url": "https://jimmitchell.micro.blog/2023/05/15/ive-been-a.html",
 				"tags": ["Thoughts"]
-			},
-			{
-				"id": "http://jimmitchell.micro.blog/2023/04/20/a-better-applescript.html",
-				"title": "A Better AppleScript Password Generator",
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>As I continue to explore ChatGPT&#8217;s AppleScript code generation capabilities, I fed it a password generation script I came up with years ago and asked it to make it better.</p>\n\n<p>The results were impressive.</p>\n\n<p>My original script didn&#8217;t have error-checking or user bailout points. ChatGPT was smart enough to add them for me, along with some other smart &#8220;decisions&#8221; when it came to copying out the generated password. I did have to make a few edits for correctness.</p>\n\n<p>This is the result, which I&#8217;ve opted to start using instead of my old script:</p>\n\n<pre><code class=\"language-applescript\">property allowedCharacters : {33, 35, 36, 37, 38, 42, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 61, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122}\nproperty givenPasswordLength : 21\n\nrepeat while true\n    try\n        set givenPasswordLength to text returned of (display dialog \"Enter desired password length:\" with title \"Password Generator\" default answer givenPasswordLength)\n        set givenPasswordLength to givenPasswordLength as integer\n        if givenPasswordLength is not greater than 0 then error \"Please enter a valid positive integer.\"\n        exit repeat\n    on error errMsg\n        display alert \"Error\" message errMsg as warning\n        return -- added to ensure proper script exit\n    end try\nend repeat\n\nrepeat while true\n    try\n        set generatedPassword to generatePassword()\n        set dialogResult to (display dialog \"New generated password:\" & return & return & generatedPassword with title \"Password Generator\" buttons {\"Refresh\", \"Copy\", \"Cancel\"} default button \"Refresh\" cancel button \"Cancel\")\n        if button returned of dialogResult is \"Copy\" then\n            set the clipboard to generatedPassword as string\n            exit repeat\n        else if button returned of dialogResult is \"Cancel\" then\n            exit repeat\n        end if\n    on error errMsg\n        display alert \"Error\" message errMsg as warning\n        return -- added to ensure proper script exit\n    end try\nend repeat\n\non generatePassword()\n    set generatedPassword to \"\"\n    repeat givenPasswordLength times\n        set randomCharacterPosition to random number from 1 to count allowedCharacters\n        set generatedPassword to generatedPassword & (ASCII character item randomCharacterPosition of allowedCharacters)\n    end repeat\n    return generatedPassword\nend generatePassword</code></pre>\n\n<p>As always, this improved script works great with <a href=\"https://redsweater.com/fastscripts/\">FastScripts</a>.</p>\n",
-				"date_published": "2023-04-20T13:15:31-07:00",
-				"url": "https://jimmitchell.org/2023/04/20/a-better-applescript.html",
-				"tags": ["Posts"]
-			},
-			{
-				"id": "http://jimmitchell.micro.blog/2023/04/14/a-better-applescript.html",
-				"title": "AppleScript to Compress Files or Folders",
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>A while ago, I created an AppleScript that allows you to compress files and folders by simply dropping them onto the applet. A reader left a comment asking for a way to achieve the following tasks:\n<blockquote>\n<ol>\n <li>Select a folder from Finder.</li>\n <li>Store the folder name as &#8220;x&#8221;.</li>\n <li>Compress all files and sub-folders within the folder &#8220;x&#8221;, including their paths.</li>\n <li>Rename the resulting zip file as &#8220;x.zip&#8221;.</li>\n <li>Delete all the files that were used to create the zip file.</li>\n</ol>\n</blockquote>With the help of ChatGPT, I was able to come up with a solution to this challenge, which can be a great way to manage archives if you&#8217;re into that sort of thing.</p>\n\n<p>I must admit that ChatGPT did a decent job in generating the AppleScript, but there were some bugs that I had to fix manually. Nevertheless, it&#8217;s both scary and exciting to have a tool that can generate usable code.</p>\n\n<p>As always, you can run this script using <a href=\"http://www.red-sweater.com/fastscripts/\">FastScripts</a> from your menu bar for quick and easy access.</p>\n\n<pre><code class=\"language-applescript\">-- choose files or folders to archive since AppleScript can't seem to allow both at once...\nset archiveOption to button returned of (display dialog \"Archive files or folders?\" buttons {\"Cancel\", \"Folders\", \"Files\"} default button 3)\n\n-- now let's choose what we want to archive...\nif archiveOption is \"Files\" then\n    set selectedItems to choose file with prompt \"Select files you want to compress:\" with multiple selections allowed\nelse if archiveOption is \"Folders\" then\n    set selectedItems to choose folder with prompt \"Select folders you want to compress:\" with multiple selections allowed\nelse if archiveOption is \"Cancel\" then\n    return\nend if\n\n-- set the array of files or folders selected...\nif the selectedItems is {} then\n    return\nelse if (selectedItems count) is equal to 1 then\n    set thePathFilename to the quoted form of POSIX path of (selectedItems as string)\nelse\n    set thePathFilename to {}\n    repeat with i from 1 to (selectedItems count)\n        copy (quoted form of POSIX path of (item i of selectedItems as string)) & space to end of thePathFilename\n    end repeat\n    set thePathFilename to thePathFilename as string\nend if\n\n-- coerce a date string for the archive name\nset currentDate to current date\nset yearStr to year of currentDate as string\nset monthStr to (month of currentDate as integer) as string\nif length of monthStr = 1 then set monthStr to \"0\" & monthStr\nset dayStr to day of currentDate as string\nif length of dayStr = 1 then set dayStr to \"0\" & dayStr\nset currentDateStr to yearStr & \"-\" & monthStr & \"-\" & dayStr\n\n-- next, let's name our archive, which defaults to \"Archive\" & the currentDateStr we just coerced\nset archiveName to text returned of (display dialog \"Enter a name for your archive:\" default answer \"Archive \" & currentDateStr buttons {\"Cancel\", \"OK\"} default button 2)\n\n-- then, let's choose where to save the archive and compress it with the shell \"zip\" command\nset archiveFile to POSIX path of (choose folder with prompt \"Choose a location to save the archive:\")\ndo shell script \"cd \" & quoted form of archiveFile & \" && zip -r \" & quoted form of archiveName & \".zip \" & thePathFilename\n\n-- finally, let's delete the files we just archived if we decide we don't need them around anymore.\nset deleteFiles to button returned of (display dialog \"Do you want to delete the original files?\" buttons {\"Yes\", \"No\"} default button 2)\nset deleteOption to false\nif deleteFiles is \"Yes\" then\n    set deleteOption to true\nend if\nif deleteOption is equal to true then\n    if selectedItems is not {} then\n        set fileList to {}\n        repeat with itemPath in selectedItems\n            set end of fileList to quoted form of POSIX path of itemPath\n        end repeat\n        \n        repeat with fileItem in fileList\n            do shell script \"rm \" & fileItem\n        end repeat\n    end if\nend if</code></pre>\n",
-				"date_published": "2023-04-14T13:34:26-07:00",
-				"url": "https://jimmitchell.org/2023/04/14/a-better-applescript.html",
-				"tags": ["Posts"]
-			},
-			{
-				"id": "http://jimmitchell.micro.blog/2018/07/28/the-ant-mound.html",
-				"title": "The Ant Mound",
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>One of my earliest childhood memories still haunts me to this day. I was just a three-and-a-half-year-old boy living with my mother, stepfather, and newborn sister in an old house in the middle of the desert in Lancaster, California. My mother was preoccupied with taking care of my baby sister, so I was often left to my own devices.</p>\n\n<p>One day, I stumbled upon an ant mound in the open area behind our house. Intrigued, I decided to befriend the ants by sitting down next to their mound. Little did I know, these were not your ordinary ants - they were large, red and black ones with powerful jaws. As soon as I sat down, the ants swarmed me, biting me all over my body.</p>\n\n<p>The pain was excruciating, and I panicked. I tried to brush the ants off, but they kept coming. In a frenzy, I stripped off my clothes and ran naked towards the house, screaming for my mother. When I burst into the room where she was nursing my sister, she was shocked to see her little boy covered in red welts, crying uncontrollably.</p>\n\n<p>My mother quickly tended to my wounds, squishing the remaining ants in my hair and applying ointment to soothe the bites. Her care helped calm me down, but the experience left a lasting impression on me. My mother found the whole ordeal hilarious, but for me, it was a traumatic lesson learned.</p>\n\n<p>Since that day, I&#8217;ve developed a fear of ants. Even the smallest ones make me jittery, and I can&#8217;t shake off the feeling of panic when I see them crawling on me. I&#8217;ve never sat on an ant mound again, knowing the consequences all too well. My mother and I reminisced about that incident many times over the years, and it&#8217;s a memory that still lingers with me, half a century later.</p>\n",
-				"date_published": "2018-07-28T21:50:25-07:00",
-				"url": "https://jimmitchell.org/2018/07/28/the-ant-mound.html",
-				"tags": ["Posts"]
-			},
-			{
-				"id": "http://jimmitchell.micro.blog/2018/07/28/memorable-cigarettes.html",
-				"title": "Memorable Cigarettes",
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Almost fifty years have passed, and I can still vividly recall the first time I lit a cigarette. I was just a seven-year-old boy, living on a farm in rural Colorado with my mother, step-father (if you could call him that), and half-sister. There were no kids my age nearby to play with, so I often found myself engaging in activities that little boys should not be doing. I had stolen a pack of my mother&#8217;s Kool Menthol 100s and a pack of matches, and I thought I could smoke just like the adults in my life.</p>\n\n<p>I sneaked outside and hid behind the juniper trees, feeling a sense of rebellion and curiosity. I opened the pack, took out one of the long cigarettes, put it between my lips, struck a match, and lit up, taking a puff just like I had seen the grown-ups do. To my surprise, I didn&#8217;t find the taste repulsive. In fact, I kind of liked it. I remember the sensation of menthol on my tongue, the slight burn in my throat, and feeling strangely grown up.</p>\n\n<p>As I grew older, I experimented with smoking occasionally, but it never really stuck. I would smoke here and there but would eventually lose interest. That changed when I met Tracy, a boy my age who had just moved into the neighborhood. He was already a pack-a-day smoker, and one summer evening, he offered me a Marlboro Red from his hard pack box, explaining that soft packs were not cool. I started taking him up on his offers and before I knew it, I was smoking every day, even bumming cigarettes from friends whenever I could.</p>\n\n<p>Then came the moment I realized I was hooked: I wanted to smoke even when I was alone. My mother, in her unique parenting style, decided to buy cigarettes for me openly rather than have me hide my habit. She hoped I would come to hate smoking and quit, but that didn&#8217;t quite go as planned. By the time I was sixteen, I was a confirmed pack-a-day smoker. It wasn&#8217;t about being cool like other kids; it was about feeding my nicotine addiction. Twelve years passed in a blur of cigarettes, until I met Pam.</p>\n\n<p>I remember our first date like it was yesterday. We were running across a busy street in Santa Monica, heading to a club to see a band. In the middle of the street, my hard pack of Marlboro Lights fell from my shirt pocket with a loud thud. I quickly picked them up, but when we reached the sidewalk, Pam told me, &#8220;I don&#8217;t date people who smoke.&#8221; It felt like a punch to the face, but it was a wake-up call I needed.</p>\n\n<p>From that moment on, I didn&#8217;t light up on any of our dates or any day after that. Pam became my best friend, and we&#8217;ve been married for 25 years now. I made the choice to quit smoking because of her, and I&#8217;m proud to say that I haven&#8217;t touched a cigarette since before we were engaged. I remember many cigarettes I smoked throughout my life, but thanks to someone special, I can&#8217;t recall the very last one. And for that, I&#8217;m eternally grateful.</p>\n",
-				"date_published": "2018-07-28T10:48:10-07:00",
-				"url": "https://jimmitchell.org/2018/07/28/memorable-cigarettes.html",
-				"tags": ["Posts"]
-			},
-			{
-				"id": "http://jimmitchell.micro.blog/2011/08/12/applescript-to-add.html",
-				"title": "AppleScript to Add Files in the Mac Finder",
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Today I had the need to add a bunch of named text files to a folder in the Finder on my Mac.</p>\n\n<p>I found it a major pain to open BBEdit, make a new document, save it to where I wanted it, and then manually copy &amp; rename the file back in the Finder. A lot of effort just to get 7 or 8 empty files with different names.</p>\n\n<p>So, I threw together this little AppleScript to add empty files instead. The gist is once launched in the Finder (using <a href=\"http://www.red-sweater.com/fastscripts/\">FastScripts</a> by <a href=\"http://www.red-sweater.com/\">Red Sweater</a> naturally. Keystroke: cmd+option+shift+N), a dialog pops up that lets you enter a file title. Then the Finder creates that file in the front-most window. If no window is open, the file is added to your Desktop.</p>\n\n<p>I found this to be more than twice as fast as the &#8220;traditional&#8221; method of making several files. Hopefully, it can help you out too. Remember, use it with <a href=\"http://www.red-sweater.com/fastscripts/\">FastScripts</a> for quick keystroke access. Save as a script in the &#8220;Finder&#8221; scripts folder <code>(&#8220;~/Library/Scripts/Applications/Finder/&#8221;)</code>.</p>\n\n<pre><code class=\"language-applescript\">property defaultFileName : \"newFile.txt\"\ntell me to activate\nset theFileName to text returned of (display dialog \"Enter a file name:\" default answer defaultFileName)\ntell application \"Finder\"\n    activate\n    if the (count of windows) is not 0 then\n        set theFolder to (folder of the front window) as text\n        set theFolder to POSIX path of theFolder\n    else\n        set theFolder to POSIX path of (get path to desktop)\n    end if\n    set addedFile to (theFolder &amp; theFileName)\n    do shell script \"touch '\" &amp; addedFile &amp; \"'\"\n    if the (count of windows) is not 0 then\n        set addedFile to (POSIX file addedFile) as alias\n        select addedFile\n    end if\nend tell\n</code></pre>\n",
-				"date_published": "2011-08-12T18:24:46-07:00",
-				"url": "https://jimmitchell.org/2011/08/12/applescript-to-add.html",
-				"tags": ["Posts"]
-			},
-			{
-				"id": "http://jimmitchell.micro.blog/2010/10/16/applescript-to-toggle.html",
-				"title": "AppleScript to Toggle the Mac Desktop",
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Here’s an AppleScript I use to quickly toggle desktop visibility for taking screenshots and recording screencasts that I thought might be useful for others.</p></p>\n\n<p>Copy and paste the code below into AppleScript Editor, or your editor of choice, compile and save. As always, scripts like this work best using <a href=\"http://www.red-sweater.com/fastscripts/\">FastScripts</a> from Red Sweater Software.</p>\n\n<pre><code class=\"language-applescript\">tell application \"System Events\"\n    set frontMostApp to short name of the first process whose frontmost is true\nend tell\ntry\n    set theDefault to ((do shell script \"defaults read com.apple.finder CreateDesktop\") as integer) as boolean\non error -- if the default value doesn't already exist, create it.\n    do shell script \"defaults write com.apple.finder CreateDesktop 1\"\n    set theDefault to ((do shell script \"defaults read com.apple.finder CreateDesktop\") as integer) as boolean\nend try\ndo shell script \"defaults write com.apple.finder CreateDesktop \" & (((not theDefault) as integer) as string)\ntell application \"Finder\" to quit\ndelay 1\ntell application \"Finder\" to launch\ntell application \"System Events\"\n    set the frontmost of process frontMostApp to true\nend tell\n</code></pre>\n\n<p><b>Note</b>: This single script turns off the desktop if it’s on, and turns it on if it’s off - just to clear up the question should it need to be asked.</p>\n",
-				"date_published": "2010-10-16T17:48:02-07:00",
-				"url": "https://jimmitchell.org/2010/10/16/applescript-to-toggle.html",
-				"tags": ["Posts"]
 			}
 	]
 }
