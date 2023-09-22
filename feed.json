@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2023/09/21/if-youre-a.html",
+				
+				"content_html": "<p>If you&rsquo;re a <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plugin user on Micro.blog, I promise it will get updates soon to match the great enhancements <a href=\"https://micro.blog/vincent\">@vincent</a> has recently made to his analytics platform, <a href=\"https://tinylytics.app\">Tinylytics</a>. Sometimes there are just not enough hours in a day anymore&hellip;</p>\n",
+				"content_text": "If you're a [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) plugin user on Micro.blog, I promise it will get updates soon to match the great enhancements [@vincent](https://micro.blog/vincent) has recently made to his analytics platform, [Tinylytics](https://tinylytics.app). Sometimes there are just not enough hours in a day anymore...\n",
+				"date_published": "2023-09-21T05:13:00-07:00",
+				"url": "https://jimmitchell.org/2023/09/21/if-youre-a.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/09/17/after-more-than.html",
+				
+				"content_html": "<p>After more than six years working together virtually, I was finally able to meet my mentor in person at the Dreamforce 2023 conference. I credit this person with turning my career, personal life, and whole life outlook around. Im so grateful for his objectivity and brutal honesty over the years.</p>\n",
+				"content_text": "After more than six years working together virtually, I was finally able to meet my mentor in person at the Dreamforce 2023 conference. I credit this person with turning my career, personal life, and whole life outlook around. Im so grateful for his objectivity and brutal honesty over the years.\n",
+				"date_published": "2023-09-17T18:57:36-07:00",
+				"url": "https://jimmitchell.org/2023/09/17/after-more-than.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/09/16/i-successfully-resurrected.html",
+				
+				"content_html": "<p>I successfully resurrected a late 2012 27&quot; iMac I had sitting around with <!-- raw HTML omitted -->OpenCore Legacy Patcher<!-- raw HTML omitted -->. It&rsquo;s now running macOS Ventura. Performance is not that bad considering the machine still has a spinning platter hard drive. I think I&rsquo;ll install a SSD drive in a couple weeks and give it another go.</p>\n",
+				"content_text": "I successfully resurrected a late 2012 27\" iMac I had sitting around with <a href=\"https://dortania.github.io/OpenCore-Legacy-Patcher/\">OpenCore Legacy Patcher</a>. It's now running macOS Ventura. Performance is not that bad considering the machine still has a spinning platter hard drive. I think I'll install a SSD drive in a couple weeks and give it another go.\n",
+				"date_published": "2023-09-16T18:23:32-07:00",
+				"url": "https://jimmitchell.org/2023/09/16/i-successfully-resurrected.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2023/09/04/the-unofficial-last.html",
 				
 				"content_html": "<p>📷 The Unofficial Last Day of Summer in Surf City, USA.</p>\n<!-- raw HTML omitted -->\n",
