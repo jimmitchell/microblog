@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2023/10/12/a-question-for.html",
+				
+				"content_html": "<p>A question for the Micro.bloggers with a Mastodon account… Do you alias your Micro.blog ActivityPub compatible username to Mastodon, or do you alias Mastodon to Micro.blog? What is your reason for the choice you’ve made? I’m torn and have gone back and forth myself. I’d like to get some community input on this. Discuss below!</p>\n",
+				"content_text": "A question for the Micro.bloggers with a Mastodon account… Do you alias your Micro.blog ActivityPub compatible username to Mastodon, or do you alias Mastodon to Micro.blog? What is your reason for the choice you’ve made? I’m torn and have gone back and forth myself. I’d like to get some community input on this. Discuss below!\n",
+				"date_published": "2023-10-12T11:32:26-07:00",
+				"url": "https://jimmitchell.org/2023/10/12/a-question-for.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/10/11/and-my-caseless.html",
+				
+				"content_html": "<p>And my case-less iPhone experiment comes to an end. While l liked the smaller form factor in my hand, I was just too nervous about potentially dropping the phone. Fortunately, I never did drop it, but it was always foremost in my mind while using it. Better safe than sorry, as they always say.</p>\n",
+				"content_text": "And my case-less iPhone experiment comes to an end. While l liked the smaller form factor in my hand, I was just too nervous about potentially dropping the phone. Fortunately, I never did drop it, but it was always foremost in my mind while using it. Better safe than sorry, as they always say.\n",
+				"date_published": "2023-10-11T04:47:16-07:00",
+				"url": "https://jimmitchell.org/2023/10/11/and-my-caseless.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2023/10/07/and-just-like.html",
 				
 				"content_html": "<p>And just like that, a new car is sitting in the driveway. It&rsquo;s funny how plans you think are the smartest turn out to be not so smart. We were going to buy out the lease on our truck, but it was financially smarter to lease a new hybrid vehicle instead&hellip;</p>\n",
@@ -37,16 +55,16 @@
 				"id": "http://jimmitchell.micro.blog/2023/09/27/the-north-shore.html",
 				
 				"content_html": "<p>📷 The North Shore of O’ahu. More beautiful than I imagined it would be.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 The North Shore of O’ahu. More beautiful than I imagined it would be.\n\n<img src=\"uploads/2023/45e52bbbf7.jpg\" width=\"600\" height=\"450\" alt=\"Laniakea Beach\">\n",
+				"content_text": "📷 The North Shore of O’ahu. More beautiful than I imagined it would be.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/45e52bbbf7.jpg\" width=\"600\" height=\"450\" alt=\"Laniakea Beach\">\n",
 				"date_published": "2023-09-27T19:49:16-07:00",
 				"url": "https://jimmitchell.org/2023/09/27/the-north-shore.html",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/09/25/sunrise-over-waikiki.html",
 				
 				"content_html": "<p>📷 Sunrise over Waikiki.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Sunrise over Waikiki.\n\n<img src=\"uploads/2023/d86bec0760.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise over Waikiki\">\n",
+				"content_text": "📷 Sunrise over Waikiki.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/d86bec0760.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise over Waikiki\">\n",
 				"date_published": "2023-09-25T14:33:03-07:00",
 				"url": "https://jimmitchell.org/2023/09/25/sunrise-over-waikiki.html",
 				"tags": ["Photos"]
@@ -94,7 +112,7 @@
 				"content_text": "📷 The Unofficial Last Day of Summer in Surf City, USA.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/af48e10452.jpg\" width=\"600\" height=\"449\" alt=\"Huntington Beach pier and volleyball players.\">\n",
 				"date_published": "2023-09-04T11:32:52-07:00",
 				"url": "https://jimmitchell.org/2023/09/04/the-unofficial-last.html",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/09/02/i-just-reserved.html",
