@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2023/10/19/tinylytics-for-microblog.html",
+				"title": "Tinylytics for Micro.blog 3.0 Released",
+				"content_html": "<!-- raw HTML omitted -->\n<p>It took a minute to wrap up, but I&rsquo;m happy to announce that my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plugin has been updated to version 3.0, adding a bunch of new options to bring it to parity with <a href=\"https://tinylytics.app\">Tinylytics.app</a> features <a href=\"https://micro.blog/vincent\">@vincent</a> has released over the last couple of months.</p>\n<p>Notable enhancements made:</p>\n<ul>\n<li>The ability to show the country flags of your Micro.blog visitors in either a footer embed or shortcode on a page. See the footer of this page for an example.</li>\n<li>The option to show a Tinylytics Webring link with custom link text in the footer embed. Again, see the footer for an example.</li>\n<li>A complete rewrite of the backend logic to make it scale better as Vincent adds more features.</li>\n</ul>\n<h3 id=\"new-users-save-20\">New Users Save 20%</h3>\n<p>If you&rsquo;re a Micro.blog user and you&rsquo;ve been on the fence about signing up for a Tinylytics account, today is your day. New users can get a 20% discount on their first year of Tinylytics when using the coupon code found in the <!-- raw HTML omitted -->README<!-- raw HTML omitted --> file on the <!-- raw HTML omitted -->Github project<!-- raw HTML omitted --> page. That&rsquo;s a whole $10 back in your pocket!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted -->Note:<!-- raw HTML omitted --> This offer is only good for new users and requires you to select the one-year plan at sign up.<!-- raw HTML omitted --></p>\n<h3 id=\"updating\">Updating</h3>\n<p>If you&rsquo;re a current user on the Micro.blog platform, you should see a new version available in your site plug-ins area already. Just click the &ldquo;Upgrade&rdquo; button, then check out the settings to enable new features.</p>\n<!-- raw HTML omitted -->\n<p>For more details about using the plug-in, see the <!-- raw HTML omitted -->README<!-- raw HTML omitted --> on the <!-- raw HTML omitted -->Github project<!-- raw HTML omitted --> page.</p>\n<p>If you have any other questions or find a bug, contact me through any of the methods in my site footer below.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted -->Note:<!-- raw HTML omitted --> Uptime monitoring is a paid feature of Tinylytics. You&rsquo;ll need to have a paid account for uptime stats to show via this plugin.<!-- raw HTML omitted --></p>\n",
+				"content_text": "<p><img src=\"uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\nIt took a minute to wrap up, but I'm happy to announce that my [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) plugin has been updated to version 3.0, adding a bunch of new options to bring it to parity with [Tinylytics.app](https://tinylytics.app) features [@vincent](https://micro.blog/vincent) has released over the last couple of months.\n\nNotable enhancements made:\n\n* The ability to show the country flags of your Micro.blog visitors in either a footer embed or shortcode on a page. See the footer of this page for an example.\n* The option to show a Tinylytics Webring link with custom link text in the footer embed. Again, see the footer for an example.\n* A complete rewrite of the backend logic to make it scale better as Vincent adds more features.\n\n### New Users Save 20%\n\nIf you're a Micro.blog user and you've been on the fence about signing up for a Tinylytics account, today is your day. New users can get a 20% discount on their first year of Tinylytics when using the coupon code found in the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> file on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page. That's a whole $10 back in your pocket!\n\n<i><b>Note:</b> This offer is only good for new users and requires you to select the one-year plan at sign up.</I>\n\n### Updating\n\nIf you're a current user on the Micro.blog platform, you should see a new version available in your site plug-ins area already. Just click the \"Upgrade\" button, then check out the settings to enable new features.\n\n<img src=\"uploads/2023/tinylytics-3-update.png\" alt=\"Tinylytics 3 update\" title=\"tinylytics-3-update.png\" border=\"0\" width=\"784\" height=\"165\" style=\"border:1px solid #f0f0f0;\" />\n\nFor more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.\n\nIf you have any other questions or find a bug, contact me through any of the methods in my site footer below.\n\n<i><b>Note:</b> Uptime monitoring is a paid feature of Tinylytics. You'll need to have a paid account for uptime stats to show via this plugin.</i>\n",
+				"date_published": "2023-10-19T07:34:01-07:00",
+				"url": "https://jimmitchell.org/2023/10/19/tinylytics-for-microblog.html",
+				"tags": ["Photos","Posts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/10/19/thought-of-the.html",
+				
+				"content_html": "<p>Thought of the day: There is no such thing as &ldquo;<em>it should be as simple as&hellip;</em>&rdquo; when it comes to software (or web) development.</p>\n",
+				"content_text": "Thought of the day: There is no such thing as \"*it should be as simple as...*\" when it comes to software (or web) development.\n",
+				"date_published": "2023-10-19T07:07:35-07:00",
+				"url": "https://jimmitchell.org/2023/10/19/thought-of-the.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/10/17/put-in-work.html",
+				
+				"content_html": "<p>I put some work in on my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plugin tonight to bring it to parity with all the nifty features <a href=\"https://micro.blog/vincent\">@vincent</a> has added over the last few months.</p>\n<p>I have some dog-food testing to complete, but expect a release to drop before the end of the week. Sorry it&rsquo;s taken so long to get this done!</p>\n",
+				"content_text": "I put some work in on my [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) plugin tonight to bring it to parity with all the nifty features [@vincent](https://micro.blog/vincent) has added over the last few months.\n\nI have some dog-food testing to complete, but expect a release to drop before the end of the week. Sorry it's taken so long to get this done!\n",
+				"date_published": "2023-10-17T20:29:39-07:00",
+				"url": "https://jimmitchell.org/2023/10/17/put-in-work.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/10/17/theres-something-that.html",
+				
+				"content_html": "<p>There&rsquo;s something that feels wrong in the fact the app on my smartwatch told me it&rsquo;s sunrise <em>right</em> as I was walking in the door of the office today&hellip;</p>\n",
+				"content_text": "There's something that feels wrong in the fact the app on my smartwatch told me it's sunrise *right* as I was walking in the door of the office today...\n",
+				"date_published": "2023-10-17T07:07:13-07:00",
+				"url": "https://jimmitchell.org/2023/10/17/theres-something-that.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/10/14/lets-be-honest.html",
+				
+				"content_html": "<p>Let’s be honest… Is there really <em>anyone</em> who waits for the oven to preheat before starting to cook? I didn&rsquo;t think so.</p>\n",
+				"content_text": "Let’s be honest… Is there really *anyone* who waits for the oven to preheat before starting to cook? I didn't think so.\n",
+				"date_published": "2023-10-14T18:36:44-07:00",
+				"url": "https://jimmitchell.org/2023/10/14/lets-be-honest.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2023/10/12/a-question-for.html",
 				
 				"content_html": "<p>A question for the Micro.bloggers with a Mastodon account… Do you alias your Micro.blog ActivityPub compatible username to Mastodon, or do you alias Mastodon to Micro.blog? What is your reason for the choice you’ve made? I’m torn and have gone back and forth myself. I’d like to get some community input on this. Discuss below!</p>\n",
