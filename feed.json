@@ -7,11 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2023/11/08/memories-of-hawaii.html",
+				
+				"content_html": "<p>📷 Memories of Hawai’i.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 Memories of Hawai’i.\n\n<img src=\"uploads/2023/4cc821c6f7.jpg\" width=\"600\" height=\"450\" alt=\"Diamond Head from the Waikiki breakwater.\">\n",
+				"date_published": "2023-11-08T14:55:48-08:00",
+				"url": "https://jimmitchell.org/2023/11/08/memories-of-hawaii.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/11/08/ive-moved-back.html",
+				
+				"content_html": "<p>I&rsquo;ve moved back to NetNewsWire as my default RSS app after listening to the hilariously entertaining <a href=\"https://micro.blog/HemisphericViews\">@HemisphericViews</a> &ldquo;<a href=\"https://listen.hemisphericviews.com/097\">Duel of the Defaults</a>&rdquo; podcast episode 097 by <a href=\"https://micro.blog/canion\">@canion</a>, <a href=\"https://micro.blog/Burk\">@Burk</a>, and <a href=\"https://micro.blog/martinfeld\">@martinfeld</a>. I wasn&rsquo;t aware NNW had the iCloud option for feed sync now. I like it way better. Thanks guys.</p>\n",
+				"content_text": "I've moved back to NetNewsWire as my default RSS app after listening to the hilariously entertaining [@HemisphericViews](https://micro.blog/HemisphericViews) \"[Duel of the Defaults](https://listen.hemisphericviews.com/097)\" podcast episode 097 by [@canion](https://micro.blog/canion), [@Burk](https://micro.blog/Burk), and [@martinfeld](https://micro.blog/martinfeld). I wasn't aware NNW had the iCloud option for feed sync now. I like it way better. Thanks guys.\n",
+				"date_published": "2023-11-08T13:40:58-08:00",
+				"url": "https://jimmitchell.org/2023/11/08/ive-moved-back.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/11/08/added-a-touch.html",
+				
+				"content_html": "<p>Added a touch of whimsy to my theme’s site title with Google fonts, and changed the body font to Roboto, which I’ve always thought was a well done typeface for the web.</p>\n<p>I’ve never liked my name in plain text. It’s always seemed unbalanced. A cool script face helps to solve that.</p>\n",
+				"content_text": "Added a touch of whimsy to my theme’s site title with Google fonts, and changed the body font to Roboto, which I’ve always thought was a well done typeface for the web.\n\nI’ve never liked my name in plain text. It’s always seemed unbalanced. A cool script face helps to solve that.\n",
+				"date_published": "2023-11-08T09:41:51-08:00",
+				"url": "https://jimmitchell.org/2023/11/08/added-a-touch.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/11/07/im-slowly-becoming.html",
+				
+				"content_html": "<p>I’m slowly becoming a fan of dark mode on my workstation. As a design artist from the late ‘80s/early ‘90s, WYSIWYG for print media is burned into my psyche. I’ve been running in dark mode for a week and am actually enjoying it - enough so to even add the needed CSS to my Micro.blog theme.</p>\n",
+				"content_text": "I’m slowly becoming a fan of dark mode on my workstation. As a design artist from the late ‘80s/early ‘90s, WYSIWYG for print media is burned into my psyche. I’ve been running in dark mode for a week and am actually enjoying it - enough so to even add the needed CSS to my Micro.blog theme.\n",
+				"date_published": "2023-11-07T15:52:50-08:00",
+				"url": "https://jimmitchell.org/2023/11/07/im-slowly-becoming.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/11/04/added-a-projects.html",
+				
+				"content_html": "<p>I added a <a href=\"https://jimmitchell.org/projects/\">projects page</a> to my site today which links to different things I&rsquo;m putting effort into, including my &ldquo;yeard&rdquo; project&hellip;</p>\n",
+				"content_text": "I added a [projects page](https://jimmitchell.org/projects/) to my site today which links to different things I'm putting effort into, including my \"yeard\" project...\n",
+				"date_published": "2023-11-04T09:02:02-08:00",
+				"url": "https://jimmitchell.org/2023/11/04/added-a-projects.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/11/03/a-lone-joshua.html",
+				
+				"content_html": "<p>📷 A lone Joshua Tree at dusk.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 A lone Joshua Tree at dusk.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/745fc4d8a6.jpg\" width=\"600\" height=\"360\" alt=\"A lone Joshua Tree at dusk\">\n",
+				"date_published": "2023-11-03T21:28:56-08:00",
+				"url": "https://jimmitchell.org/2023/11/03/a-lone-joshua.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/11/03/the-beatles-song.html",
+				"title": "The Beatles Song That Really Isn't a Beatles Song",
+				"content_html": "<p>There&rsquo;s a lot of hubbub in the news and online about the &ldquo;new Beatles song&rdquo; that dropped yesterday. As a life-long semi-pro musician, this headline hits a sour note with me. Hah! See what I did there?</p>\n<p>Anyway, my thoughts&hellip;</p>\n<p>This song was one of many demos Lennon did after the band broke up. This is key. While we don&rsquo;t know for sure, it&rsquo;s unlikely he said to himself &ldquo;<em>This would be a great Beatles song. I should ring up the lads.</em>&rdquo; when composing the tune.</p>\n<p>Lennon&rsquo;s widow &ldquo;gave&rdquo;<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> the demo tapes to the remaining Beatles <em>years</em> after his tragic murder and even longer after the band had officially broke up. The tape Yoko turned over is purported to contain at least three of Lennon&rsquo;s demos<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>, not just this one song.</p>\n<p>Paul, George, and Ringo messed around with the recording, laying down all new tracks for the song. I&rsquo;m sure they did this with the other demo songs too<sup id=\"fnref:3\"><a href=\"#fn:3\" class=\"footnote-ref\" role=\"doc-noteref\">3</a></sup>. But that&rsquo;s all it is; they messed around with a demo of their deceased former bandmate. Lennon was not there to collaborate as a band member. Releasing a song as a &ldquo;band&rdquo; means all members have provided input on the final product. This fact alone makes the song <em>not</em> a Beatles song.</p>\n<p>Fast forward 25 years. Now we have machine learning that can digitally enhance anyone&rsquo;s voice, and even reproduce a near perfect representation of vocals from unrelated sample files. This is how Lennon&rsquo;s lyrics were included in the song &ndash; by digitally reproducing and enhancing something that was barely audible to begin with. Ultimately, these are not Lennon&rsquo;s true vocals. They are a damn good representation of the man&rsquo;s voice enhanced by computers<sup id=\"fnref:4\"><a href=\"#fn:4\" class=\"footnote-ref\" role=\"doc-noteref\">4</a></sup>.</p>\n<p>The use of AI bodes poorly for musicians who create their art. Will we start seeing demos of other bands which were never intended to see the light of day getting released by record labels as &ldquo;the lost album of (band name here)&rdquo;? I bet we will. We already are. As a result, the soul of recorded music is lost and it&rsquo;s just become about the money for record labels.</p>\n<p>The list of credits for this song is long. But in the end, it&rsquo;s still just a well (over?) produced John Lennon demo and not a Beatles recording. He is the only &ldquo;songwriter&rdquo; who I believe should be credited.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>I have a hard time believing Yoko simply &ldquo;gave&rdquo; anything to the remaining Beatles. My suspicion is there had to be money involved somehow&hellip;&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\" role=\"doc-endnote\">\n<p>&ldquo;Free as a Bird&rdquo; and &ldquo;Real Love&rdquo; were recorded as demos by Lennon before his death in 1980 and completed by the surviving Beatles in 1995 while Harrison was still alive.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:3\" role=\"doc-endnote\">\n<p>Of course they did since &ldquo;Free as a Bird&rdquo; and &ldquo;Real Love&rdquo; were released as Beatles songs, which I honestly was not aware of until now.&#160;<a href=\"#fnref:3\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:4\" role=\"doc-endnote\">\n<p>This is what chaps my hide the most about this song being released. Using AI to digitally restore a vocal is even worse that using auto-tune.&#160;<a href=\"#fnref:4\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "There's a lot of hubbub in the news and online about the \"new Beatles song\" that dropped yesterday. As a life-long semi-pro musician, this headline hits a sour note with me. Hah! See what I did there?\n\nAnyway, my thoughts...\n\nThis song was one of many demos Lennon did after the band broke up. This is key. While we don't know for sure, it's unlikely he said to himself \"_This would be a great Beatles song. I should ring up the lads._\" when composing the tune.\n\nLennon's widow \"gave\"[^1] the demo tapes to the remaining Beatles *years* after his tragic murder and even longer after the band had officially broke up. The tape Yoko turned over is purported to contain at least three of Lennon's demos[^2], not just this one song.\n\nPaul, George, and Ringo messed around with the recording, laying down all new tracks for the song. I'm sure they did this with the other demo songs too[^3]. But that's all it is; they messed around with a demo of their deceased former bandmate. Lennon was not there to collaborate as a band member. Releasing a song as a \"band\" means all members have provided input on the final product. This fact alone makes the song _not_ a Beatles song.\n\nFast forward 25 years. Now we have machine learning that can digitally enhance anyone's voice, and even reproduce a near perfect representation of vocals from unrelated sample files. This is how Lennon's lyrics were included in the song -- by digitally reproducing and enhancing something that was barely audible to begin with. Ultimately, these are not Lennon's true vocals. They are a damn good representation of the man's voice enhanced by computers[^4].\n\nThe use of AI bodes poorly for musicians who create their art. Will we start seeing demos of other bands which were never intended to see the light of day getting released by record labels as \"the lost album of (band name here)\"? I bet we will. We already are. As a result, the soul of recorded music is lost and it's just become about the money for record labels.\n\nThe list of credits for this song is long. But in the end, it's still just a well (over?) produced John Lennon demo and not a Beatles recording. He is the only \"songwriter\" who I believe should be credited.\n\n[^1]: I have a hard time believing Yoko simply \"gave\" anything to the remaining Beatles. My suspicion is there had to be money involved somehow...\n[^2]: \"Free as a Bird\" and \"Real Love\" were recorded as demos by Lennon before his death in 1980 and completed by the surviving Beatles in 1995 while Harrison was still alive.\n[^3]: Of course they did since \"Free as a Bird\" and \"Real Love\" were released as Beatles songs, which I honestly was not aware of until now.\n[^4]: This is what chaps my hide the most about this song being released. Using AI to digitally restore a vocal is even worse that using auto-tune.\n",
+				"date_published": "2023-11-03T08:29:39-08:00",
+				"url": "https://jimmitchell.org/2023/11/03/the-beatles-song.html",
+				"tags": ["Posts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/10/31/challenge-accepted-vincent.html",
+				
+				"content_html": "<p>Challenge accepted, <a href=\"https://micro.blog/vincent\">@vincent</a></p>\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/wp-tinylytics.png\" alt=\"WP Tinylytics\" title=\"WP Tinylytics\"></p>\n",
+				"content_text": "Challenge accepted, [@vincent](https://micro.blog/vincent)\n\n![WP Tinylytics](https://cdn.uploads.micro.blog/109466/2023/wp-tinylytics.png \"WP Tinylytics\")\n",
+				"date_published": "2023-10-31T19:49:00-08:00",
+				"url": "https://jimmitchell.org/2023/10/31/challenge-accepted-vincent.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2023/10/29/ahhh-fall-has.html",
 				
 				"content_html": "<p>Ahhh… Fall has finally come to Southern California. The Santa Ana’s are blowing hot, the air is full of dust &amp; pollen, and my lips are starting to chap. Time to take down the umbrellas, bring anything that’s not tied down inside, shut all the windows, and take an allergy pill.</p>\n",
 				"content_text": "Ahhh… Fall has finally come to Southern California. The Santa Ana’s are blowing hot, the air is full of dust & pollen, and my lips are starting to chap. Time to take down the umbrellas, bring anything that’s not tied down inside, shut all the windows, and take an allergy pill.\n",
-				"date_published": "2023-10-29T10:43:37-07:00",
+				"date_published": "2023-10-29T09:43:37-08:00",
 				"url": "https://jimmitchell.org/2023/10/29/ahhh-fall-has.html",
 				"tags": ["Thoughts"]
 			},
@@ -28,7 +99,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/10/22/ginger-loves-glamping.html",
 				
 				"content_html": "<p>📷 Ginger loves glamping…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Ginger loves glamping…\n\n<img src=\"uploads/2023/a1d1788e5b.jpg\" width=\"600\" height=\"450\" alt=\"Content dog in a blanket.\">\n",
+				"content_text": "📷 Ginger loves glamping…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/a1d1788e5b.jpg\" width=\"600\" height=\"450\" alt=\"Content dog in a blanket.\">\n",
 				"date_published": "2023-10-22T11:06:37-07:00",
 				"url": "https://jimmitchell.org/2023/10/22/ginger-loves-glamping.html",
 				"tags": ["Photos","Thoughts"]
@@ -154,17 +225,17 @@
 				"id": "http://jimmitchell.micro.blog/2023/09/25/sunrise-over-waikiki.html",
 				
 				"content_html": "<p>📷 Sunrise over Waikiki.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Sunrise over Waikiki.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/d86bec0760.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise over Waikiki\">\n",
-				"date_published": "2023-09-25T14:33:03-07:00",
+				"content_text": "📷 Sunrise over Waikiki.\n\n<img src=\"uploads/2023/d86bec0760.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise over Waikiki\">\n",
+				"date_published": "2023-09-25T13:33:03-08:00",
 				"url": "https://jimmitchell.org/2023/09/25/sunrise-over-waikiki.html",
 				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/09/25/thirty-years-in.html",
 				
-				"content_html": "<p>Thirty years in between with lots of ups and downs, the story turned out just how we hoped it would. So grateful for our many blessings along the journey.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "Thirty years in between with lots of ups and downs, the story turned out just how we hoped it would. So grateful for our many blessings along the journey.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/8475761ca7.jpg\" width=\"600\" height=\"600\" alt=\"then\">\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/img-5072.jpeg\" width=\"600\" height=\"449\" alt=\"now\">\n",
-				"date_published": "2023-09-25T13:11:51-07:00",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Thirty years in between with lots of ups and downs, the story turned out just how we hoped it would. So grateful for our many blessings along the journey.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/8475761ca7.jpg\" width=\"600\" height=\"600\" alt=\"then\"></p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/img-5072.jpeg\" width=\"600\" height=\"449\" alt=\"now\"></p>\n",
+				"date_published": "2023-09-25T12:11:51-08:00",
 				"url": "https://jimmitchell.org/2023/09/25/thirty-years-in.html",
 				"tags": ["Photos","Thoughts"]
 			},
@@ -361,7 +432,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/07/08/tinylytics-for-microblog.html",
 				"title": "Tinylytics for Micro.blog 2.0 Release",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>I’m happy to share that my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been released as a 2.0 version.</p>\n\n<p>This release adds the following:</p>\n\n<ol>\n<li>A complete refactor/rewrite of the tracking code for better performance.</li>\n<li>The ability to use <a href=\"https://gohugo.io/content-management/shortcodes/\">Hugo shortcodes</a> to add Kudos and Hit Counter in a post without changing any site template files.</li>\n<li>The ability to add a Hit Counter embed in the global custom footer of your Micro.blog site without changing any site template files.</li>\n</ol>\n\n<p>You should see a new version available in your site plug-ins area soon.</p>\n\n<p>For more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.</p>\n\n<p>If you have any other questions or find a bug, contact me through any of the methods in my site footer below.</p>\n",
+				"content_text": "<p><img src=\"https://jimmitchell.micro.blog/uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>I’m happy to share that my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been released as a 2.0 version.</p>\n\n<p>This release adds the following:</p>\n\n<ol>\n<li>A complete refactor/rewrite of the tracking code for better performance.</li>\n<li>The ability to use <a href=\"https://gohugo.io/content-management/shortcodes/\">Hugo shortcodes</a> to add Kudos and Hit Counter in a post without changing any site template files.</li>\n<li>The ability to add a Hit Counter embed in the global custom footer of your Micro.blog site without changing any site template files.</li>\n</ol>\n\n<p>You should see a new version available in your site plug-ins area soon.</p>\n\n<p>For more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.</p>\n\n<p>If you have any other questions or find a bug, contact me through any of the methods in my site footer below.</p>\n",
 				"date_published": "2023-07-08T10:22:57-07:00",
 				"url": "https://jimmitchell.org/2023/07/08/tinylytics-for-microblog.html",
 				"tags": ["Posts"]
@@ -397,7 +468,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/07/02/tinylytics-for-microblog.html",
 				"title": "Tinylytics for Micro.blog Updated to 1.0.6",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>Fresh on the heels of new <a href=\"https://tinylytics.app\">Tinylytics.app</a> updates, my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been updated to take advantage of the new Kudos feature introduced in the latest release. If you look at your installed site plug-ins, you should see an update available as 1.0.6.</p>\n\n<p>This release adds a checkbox to show Kudos along with the ability to set a custom label. See the project <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on Github for more information.</p>\n\n<p><img src=\"uploads/2023/tinylytics-config.png\" alt=\"Tinylytics config\" title=\"tinylytics-config.png\" border=\"0\" width=\"719\" height=\"284\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>Special thanks go out to <a href=\"https://micro.blog/vincent\">@vincent</a> for simply being an all-around awesome dude too.</p>\n",
+				"content_text": "<p><img src=\"https://jimmitchell.micro.blog/uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>Fresh on the heels of new <a href=\"https://tinylytics.app\">Tinylytics.app</a> updates, my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been updated to take advantage of the new Kudos feature introduced in the latest release. If you look at your installed site plug-ins, you should see an update available as 1.0.6.</p>\n\n<p>This release adds a checkbox to show Kudos along with the ability to set a custom label. See the project <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on Github for more information.</p>\n\n<p><img src=\"https://jimmitchell.micro.blog/uploads/2023/tinylytics-config.png\" alt=\"Tinylytics config\" title=\"tinylytics-config.png\" border=\"0\" width=\"719\" height=\"284\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>Special thanks go out to <a href=\"https://micro.blog/vincent\">@vincent</a> for simply being an all-around awesome dude too.</p>\n",
 				"date_published": "2023-07-02T00:03:12-07:00",
 				"url": "https://jimmitchell.org/2023/07/02/tinylytics-for-microblog.html",
 				"tags": ["Posts"]
@@ -433,7 +504,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/06/27/new-plugin-tinylytics.html",
 				"title": "New Plugin: Tinylytics for Micro.blog",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>I published my very first Micro.blog plugin today: <strong>Tinylytics for Micro.blog</strong>. You can find it in the Micro.blog <a href=\"https://micro.blog/account/plugins/view/101\">plugin directory</a>.</p>\n\n<p>If you’re using <a href=\"https://micro.blog/vincent\">Vincent Ritter’s</a> awesome web analytics platform <a href=\"https://tinylytics.app\">Tinylytics</a>, this plugin is for you. Rather than copying and pasting a line of Javascript, you simply enter your unique site id which can be copied from your site page once the plugin is installed.</p>\n\n<p><img src=\"uploads/2023/tinylytics-plug-in-options.png\" alt=\"Tinylytics plug in options\" title=\"tinylytics-plug-in-options.png\" border=\"0\" width=\"562\" height=\"179\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>There’s an option to toggle the “Display Hits” option too.</p>\n\n<p>To show hits on your site, you’ll need to modify your Micro.blog theme to make the hits show up. The easiest way to accomplish this might be to add code in the footer of your theme’s design area (Design > Edit Footer):</p>\n\n<p><img src=\"uploads/2023/footer-edit.png\" alt=\"Footer edit\" title=\"footer-edit.png\" border=\"0\" width=\"718\" height=\"185\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>See this Tinylytics <a href=\"https://tinylytics.app/docs/show_hit_counter\">help article</a> for more information on displaying hits on your site.</p>\n\n<p>The plugin source can be found at this Github repo: <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">https://github.com/jimmitchell/Tinylytics-for-Micro.blog</a>.</p>\n\n<p><a href=\"mailto:hello@jimmitchell.org\">Email me</a> with questions or any issues you find.</p>\n",
+				"content_text": "<p><img src=\"https://jimmitchell.micro.blog/uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>I published my very first Micro.blog plugin today: <strong>Tinylytics for Micro.blog</strong>. You can find it in the Micro.blog <a href=\"https://micro.blog/account/plugins/view/101\">plugin directory</a>.</p>\n\n<p>If you’re using <a href=\"https://micro.blog/vincent\">Vincent Ritter’s</a> awesome web analytics platform <a href=\"https://tinylytics.app\">Tinylytics</a>, this plugin is for you. Rather than copying and pasting a line of Javascript, you simply enter your unique site id which can be copied from your site page once the plugin is installed.</p>\n\n<p><img src=\"https://jimmitchell.micro.blog/uploads/2023/tinylytics-plug-in-options.png\" alt=\"Tinylytics plug in options\" title=\"tinylytics-plug-in-options.png\" border=\"0\" width=\"562\" height=\"179\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>There’s an option to toggle the “Display Hits” option too.</p>\n\n<p>To show hits on your site, you’ll need to modify your Micro.blog theme to make the hits show up. The easiest way to accomplish this might be to add code in the footer of your theme’s design area (Design > Edit Footer):</p>\n\n<p><img src=\"https://jimmitchell.micro.blog/uploads/2023/footer-edit.png\" alt=\"Footer edit\" title=\"footer-edit.png\" border=\"0\" width=\"718\" height=\"185\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>See this Tinylytics <a href=\"https://tinylytics.app/docs/show_hit_counter\">help article</a> for more information on displaying hits on your site.</p>\n\n<p>The plugin source can be found at this Github repo: <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">https://github.com/jimmitchell/Tinylytics-for-Micro.blog</a>.</p>\n\n<p><a href=\"mailto:hello@jimmitchell.org\">Email me</a> with questions or any issues you find.</p>\n",
 				"date_published": "2023-06-27T09:13:31-07:00",
 				"url": "https://jimmitchell.org/2023/06/27/new-plugin-tinylytics.html",
 				"tags": ["Posts"]
