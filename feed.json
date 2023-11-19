@@ -7,18 +7,73 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2023/11/18/put-in-some.html",
+				
+				"content_html": "<p>Put in some good work on <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> this afternoon. A couple of cool new features are coming: The ability to link to your public stats if you&rsquo;ve enabled them and the option to show a web ring avatar for other sites who&rsquo;ve enabled that in their <a href=\"https://tinylytics.app\">Tinylytics</a> settings. Check out the footer of this page to see them in action. I&rsquo;ll let things bake in for a few days while I update documentation.</p>\n",
+				"content_text": "Put in some good work on [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) this afternoon. A couple of cool new features are coming: The ability to link to your public stats if you've enabled them and the option to show a web ring avatar for other sites who've enabled that in their [Tinylytics](https://tinylytics.app) settings. Check out the footer of this page to see them in action. I'll let things bake in for a few days while I update documentation.\n",
+				"date_published": "2023-11-18T16:19:26-08:00",
+				"url": "https://jimmitchell.org/2023/11/18/put-in-some.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/11/18/i-killed-off.html",
+				
+				"content_html": "<p>I killed off my WordPress site over at jimmitchellmedia.net today, setting up a <!-- raw HTML omitted -->domain forward<!-- raw HTML omitted --> to my main jimmitchell.org domain. It&rsquo;s time to consolidate my online persona into one bucket and make Micro.blog my <!-- raw HTML omitted -->web house<!-- raw HTML omitted -->.</p>\n",
+				"content_text": "I killed off my WordPress site over at jimmitchellmedia.net today, setting up a <a href=\"https://forwarddomain.net/\">domain forward</a> to my main jimmitchell.org domain. It's time to consolidate my online persona into one bucket and make Micro.blog my <a href=\"https://coreint.org/2023/10/episode-572-this-is-my-web-house/\">web house</a>.\n",
+				"date_published": "2023-11-18T09:46:54-08:00",
+				"url": "https://jimmitchell.org/2023/11/18/i-killed-off.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/11/17/im-glad-we.html",
+				
+				"content_html": "<p>I&rsquo;m glad we canceled our weekend plans. A serious bug in the deployment from earlier this week was found late yesterday and I&rsquo;m spending my PTO day working with the team to resolve it. The good news is it looks like we&rsquo;ve found the fix. Some of the day might be salvageable. 🤞🏻</p>\n",
+				"content_text": "I'm glad we canceled our weekend plans. A serious bug in the deployment from earlier this week was found late yesterday and I'm spending my PTO day working with the team to resolve it. The good news is it looks like we've found the fix. Some of the day might be salvageable. 🤞🏻\n",
+				"date_published": "2023-11-17T09:37:23-08:00",
+				"url": "https://jimmitchell.org/2023/11/17/im-glad-we.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/11/16/i-was-about.html",
+				
+				"content_html": "<p>I was about to put a note in my (soon to come) Microcasts topics folder about a thing that just happened, but it turns out I already added it as episode #003. Maybe I should bump it up to episode #002&hellip; But then the topic for that episode is one that chaps my hide too.</p>\n",
+				"content_text": "I was about to put a note in my (soon to come) Microcasts topics folder about a thing that just happened, but it turns out I already added it as episode #003. Maybe I should bump it up to episode #002... But then the topic for that episode is one that chaps my hide too.\n",
+				"date_published": "2023-11-16T13:08:21-08:00",
+				"url": "https://jimmitchell.org/2023/11/16/i-was-about.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/11/15/how-is-it.html",
+				
+				"content_html": "<p>How is it I&rsquo;ve never heard about this until now?</p>\n<blockquote>\n<p>Since 2015, several data centers have been submerged underwater in both the Pacific Ocean and Atlantic Ocean. The first underwater data center was deployed by Microsoft into the Pacific Ocean, off the coast of California, through an experiment called <a href=\"https://en.wikipedia.org/wiki/Project_Natick\">Project Natick</a>, with Phase 1 being a vessel carrying 1 rack, containing 24 servers.</p>\n</blockquote>\n<p>🔗 <a href=\"https://dgtlinfra.com/underwater-data-centers-servers/\">Underwater Data Centers: Servers Beneath the Surface</a></p>\n",
+				"content_text": "How is it I've never heard about this until now?\n\n> Since 2015, several data centers have been submerged underwater in both the Pacific Ocean and Atlantic Ocean. The first underwater data center was deployed by Microsoft into the Pacific Ocean, off the coast of California, through an experiment called [Project Natick](https://en.wikipedia.org/wiki/Project_Natick), with Phase 1 being a vessel carrying 1 rack, containing 24 servers.\n\n🔗 [Underwater Data Centers: Servers Beneath the Surface](https://dgtlinfra.com/underwater-data-centers-servers/)\n",
+				"date_published": "2023-11-15T07:53:36-08:00",
+				"url": "https://jimmitchell.org/2023/11/15/how-is-it.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/11/14/im-hoping-with.html",
+				
+				"content_html": "<p>I&rsquo;m hoping with the rainy weekend predicted for SoCal, I can get caught up on Tinylytics for Micro.blog plugin work. We were planning to take the RV out, but who wants to sit in a small box in the rain? I&rsquo;d rather sit in a bigger box with better amenities.</p>\n",
+				"content_text": "I'm hoping with the rainy weekend predicted for SoCal, I can get caught up on Tinylytics for Micro.blog plugin work. We were planning to take the RV out, but who wants to sit in a small box in the rain? I'd rather sit in a bigger box with better amenities.\n",
+				"date_published": "2023-11-14T07:55:08-08:00",
+				"url": "https://jimmitchell.org/2023/11/14/im-hoping-with.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2023/11/13/today-will-be.html",
 				
 				"content_html": "<p>Today will be a very long day… Awake at 1:30am, thinking (worrying) about what I need to get done in preparation for an after-hours system deployment that will take until at least 10pm. Such is the glamorous life of an IT manager. It’s a given that far too many cups of coffee will be consumed today.</p>\n",
 				"content_text": "Today will be a very long day… Awake at 1:30am, thinking (worrying) about what I need to get done in preparation for an after-hours system deployment that will take until at least 10pm. Such is the glamorous life of an IT manager. It’s a given that far too many cups of coffee will be consumed today.\n",
 				"date_published": "2023-11-13T07:47:53-08:00",
-				"url": "https://jimmitchell.org/2023/11/13/today-will-be.html"
+				"url": "https://jimmitchell.org/2023/11/13/today-will-be.html",
+				"tags": ["Thoughts"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/08/yes-im-on.html",
 				
-				"content_html": "<p>Yes, I&rsquo;m on a bit of a posting tear today, but this one&rsquo;s too good not to share&hellip;</p>\n<blockquote>\n<p><a href=\"https://kottke.org/23/11/the-10-rules-of-being-human\">The Ten Rules of Being Human</a> (via <a href=\"https://kottke.org\">kottke.org</a>)</p>\n</blockquote>\n",
-				"content_text": "Yes, I'm on a bit of a posting tear today, but this one's too good not to share...\n\n> [The Ten Rules of Being Human](https://kottke.org/23/11/the-10-rules-of-being-human) (via [kottke.org](https://kottke.org))\n",
+				"content_html": "<p>Yes, I&rsquo;m on a bit of a posting tear today, but this one&rsquo;s too good not to share. My favorite rule is #6, which I&rsquo;ve only recently truly learned&hellip;</p>\n<blockquote>\n<p>“There” is no better than “here”. When your “there” has become a “here”, you will simply obtain a “there” that will look better to you than your present “here”.</p>\n</blockquote>\n<p>🔗 <a href=\"https://kottke.org/23/11/the-10-rules-of-being-human\">The Ten Rules of Being Human</a> (via <a href=\"https://kottke.org\">kottke.org</a>)</p>\n",
+				"content_text": "Yes, I'm on a bit of a posting tear today, but this one's too good not to share. My favorite rule is #6, which I've only recently truly learned...\n\n> “There” is no better than “here”. When your “there” has become a “here”, you will simply obtain a “there” that will look better to you than your present “here”.\n\n🔗 [The Ten Rules of Being Human](https://kottke.org/23/11/the-10-rules-of-being-human) (via [kottke.org](https://kottke.org))\n",
 				"date_published": "2023-11-08T15:51:59-08:00",
 				"url": "https://jimmitchell.org/2023/11/08/yes-im-on.html",
 				"tags": ["Thoughts"]
@@ -27,7 +82,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/11/08/memories-of-hawaii.html",
 				
 				"content_html": "<p>📷 Memories of Hawai’i.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Memories of Hawai’i.\n\n<img src=\"uploads/2023/4cc821c6f7.jpg\" width=\"600\" height=\"450\" alt=\"Diamond Head from the Waikiki breakwater.\">\n",
+				"content_text": "📷 Memories of Hawai’i.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/4cc821c6f7.jpg\" width=\"600\" height=\"450\" alt=\"Diamond Head from the Waikiki breakwater.\">\n",
 				"date_published": "2023-11-08T14:55:48-08:00",
 				"url": "https://jimmitchell.org/2023/11/08/memories-of-hawaii.html",
 				"tags": ["Photos"]
@@ -111,7 +166,7 @@
 				"content_text": "📷 Ginger loves glamping…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/a1d1788e5b.jpg\" width=\"600\" height=\"450\" alt=\"Content dog in a blanket.\">\n",
 				"date_published": "2023-10-22T10:06:37-08:00",
 				"url": "https://jimmitchell.org/2023/10/22/ginger-loves-glamping.html",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/10/19/whoops-i-discovered.html",
@@ -138,13 +193,13 @@
 				"content_text": "<p><img src=\"https://jimmitchell.micro.blog/uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\nIt took a minute to wrap up, but I'm happy to announce that my [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) plugin has been updated to version 3.0, adding a bunch of new options to bring it to parity with [Tinylytics.app](https://tinylytics.app) features [@vincent](https://micro.blog/vincent) has released over the last couple of months.\n\nNotable enhancements made:\n\n* The ability to show the country flags of your Micro.blog visitors in either a footer embed or shortcode on a page. See the footer of this page for an example.\n* The option to show a Tinylytics Webring link with custom link text in the footer embed. Again, see the footer for an example.\n* A complete rewrite of the backend logic to make it scale better as Vincent adds more features.\n\n### New Users Save 20%\n\nIf you're a Micro.blog user and you've been on the fence about signing up for a Tinylytics account, today is your day. New users can get a 20% discount on their first year of Tinylytics when using the coupon code found in the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> file on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page. That's a whole $10 back in your pocket!\n\n<i><b>Note:</b> This offer is only good for new users who select the one-year plan at sign up.</I>\n\n### Updating\n\nIf you're a current user on the Micro.blog platform, you should see a new version available in your site plug-ins area already. Just click the \"Upgrade\" button, then check out the settings to enable new features.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/tinylytics-3-update.png\" alt=\"Tinylytics 3 update\" title=\"tinylytics-3-update.png\" border=\"0\" width=\"784\" height=\"165\" style=\"border:1px solid #f0f0f0;\" />\n\nFor more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.\n\nIf you have any other questions or find a bug, contact me through any of the methods in my site footer below.\n\n<i><b>Note:</b> Uptime monitoring is a paid feature of Tinylytics. You'll need to have a paid account for uptime stats to show via this plugin.</i>\n",
 				"date_published": "2023-10-19T06:34:01-08:00",
 				"url": "https://jimmitchell.org/2023/10/19/tinylytics-for-microblog.html",
-				"tags": ["Photos","Posts"]
+				"tags": ["Posts"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/10/19/thought-of-the.html",
 				
-				"content_html": "<p>Thought of the day: There is no such thing as &ldquo;<em>it should be as simple as&hellip;</em>&rdquo; when it comes to software (or web) development.</p>\n",
-				"content_text": "Thought of the day: There is no such thing as \"*it should be as simple as...*\" when it comes to software (or web) development.\n",
+				"content_html": "<p>Thought of the day&hellip; There is no such thing as &ldquo;<em>it should be as simple as&hellip;</em>&rdquo; when it comes to software (or web) development.</p>\n",
+				"content_text": "Thought of the day... There is no such thing as \"*it should be as simple as...*\" when it comes to software (or web) development.\n",
 				"date_published": "2023-10-19T06:07:35-08:00",
 				"url": "https://jimmitchell.org/2023/10/19/thought-of-the.html",
 				"tags": ["Thoughts"]
@@ -246,7 +301,7 @@
 				"content_text": "<p>Thirty years in between with lots of ups and downs, the story turned out just how we hoped it would. So grateful for our many blessings along the journey.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/8475761ca7.jpg\" width=\"600\" height=\"600\" alt=\"then\"></p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/img-5072.jpeg\" width=\"600\" height=\"449\" alt=\"now\"></p>\n",
 				"date_published": "2023-09-25T12:11:51-08:00",
 				"url": "https://jimmitchell.org/2023/09/25/thirty-years-in.html",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Thoughts"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/09/21/if-youre-a.html",
