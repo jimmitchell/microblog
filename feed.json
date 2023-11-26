@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2023/11/26/tinylytics-for-microblog.html",
+				"title": "Tinylytics for Micro.blog v3.1.0",
+				"content_html": "<!-- raw HTML omitted -->\n<p>I&rsquo;m excited to share I&rsquo;ve released a new version of my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plugin, bringing it to version 3.1.0. You should see an update in your site&rsquo;s plugins section soon if not already.</p>\n<p>This release adds features to link back to your public stats page on Tinylytics if you have it enabled, and show a webring avatar on the footer embed code if you so choose.</p>\n<p>I&rsquo;ve also created a <a href=\"https://jimmitchell.org/tinylytics-for-microblog/\">dedicated page</a> that explains the plugin&rsquo;s options, how to use it, as well as providing some examples for styling the footer embed to get you going for your own site.</p>\n<p>The plugin is of course free to use, but if you find it worth supporting, donations can be made via my <a href=\"https://ko-fi.com/jimmitchellmedia\">Ko-fi</a> page.</p>\n",
+				"content_text": "<p><img src=\"uploads/2023/tinylytcis-post-header.png\" alt=\"Tinylytcis post header\" title=\"tinylytcis-post-header.png\" border=\"0\" width=\"1000\" height=\"526\" /></p>\n\nI'm excited to share I've released a new version of my [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) plugin, bringing it to version 3.1.0. You should see an update in your site's plugins section soon if not already.\n\nThis release adds features to link back to your public stats page on Tinylytics if you have it enabled, and show a webring avatar on the footer embed code if you so choose.\n\nI've also created a [dedicated page](https://jimmitchell.org/tinylytics-for-microblog/) that explains the plugin's options, how to use it, as well as providing some examples for styling the footer embed to get you going for your own site.\n\nThe plugin is of course free to use, but if you find it worth supporting, donations can be made via my [Ko-fi](https://ko-fi.com/jimmitchellmedia) page.\n",
+				"date_published": "2023-11-26T10:59:53-08:00",
+				"url": "https://jimmitchell.org/2023/11/26/tinylytics-for-microblog.html",
+				"tags": ["Posts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/11/26/im-giving-obsidian.html",
+				
+				"content_html": "<p>I&rsquo;m giving <a href=\"https://obsidian.md\">Obsidian</a> a spin for notes again. I looked at it briefly once before. I&rsquo;ve only scratched the surface, but I get the hype. I think what turned me off last time was syncing, but I wasn&rsquo;t aware it could sync via iCloud. That&rsquo;s enough for me. Anyone have good pointers?</p>\n",
+				"content_text": "I'm giving [Obsidian](https://obsidian.md) a spin for notes again. I looked at it briefly once before. I've only scratched the surface, but I get the hype. I think what turned me off last time was syncing, but I wasn't aware it could sync via iCloud. That's enough for me. Anyone have good pointers?\n",
+				"date_published": "2023-11-26T08:49:27-08:00",
+				"url": "https://jimmitchell.org/2023/11/26/im-giving-obsidian.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2023/11/22/well-the-hot.html",
 				
 				"content_html": "<p>Well, the <a href=\"https://jimmitchell.org/2023/11/22/theres-nothing-quite.html\">hot water heater</a> saga looks grim. Home warranty company has to approve repair next steps. They and repair company won’t be open until next Monday. The soonest a repair looks plausible is Tuesday. Maybe even Wednesday. This is going to be a very long and somewhat smelly weekend.</p>\n",
