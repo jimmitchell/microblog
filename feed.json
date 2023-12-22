@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2023/12/22/a-fresh-start.html",
+				"title": "A Fresh Start",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I&#8217;ve relaunched jimmitchellmedia.net on the WordPress platform to have a space for my <a href=\"https://jimmitchellmedia.net/wp-tinylytics/\">WP Tinylytics</a> plugin. I&#8217;ll be using the site to &#8220;eat my own dogfood&#8221; as they say while I develop the plugin for public use. The goal is to eventually make it available in the WordPress plugin repository.</p>\n<p>If you&#8217;d like to help test, get in touch using my <a href=\"https://jimmitchellmedia.net/contact/\">contact form</a>.</p>\n",
+				"date_published": "2023-12-22T10:12:20-08:00",
+				"url": "https://jimmitchell.org/2023/12/22/a-fresh-start.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2023/12/21/super-excited-to.html",
+				
+				"content_html": "<p>Super excited to share that I’ve got a full functioning WordPress plugin for Tinylytics committed to its dev repository. If you have a WordPress site too, and want to give it a spin, hit me up.</p>\n",
+				"content_text": "Super excited to share that I’ve got a full functioning WordPress plugin for Tinylytics committed to its dev repository. If you have a WordPress site too, and want to give it a spin, hit me up.\n",
+				"date_published": "2023-12-21T05:37:12-08:00",
+				"url": "https://jimmitchell.org/2023/12/21/super-excited-to.html"
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2023/12/17/got-a-basic.html",
 				
 				"content_html": "<p>Got a basic POC WordPress plugin for Tinylytics working in my dev environment this morning. Might put a little more effort into it over the next few weeks, but I’m really looking to unplug until after the first of the year. Progress though, and that’s all that counts.</p>\n",
@@ -42,7 +58,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/12/08/bear-with-me.html",
 				
 				"content_html": "<p>📷 Bear with me a minute…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Bear with me a minute…\n\n<img src=\"uploads/2023/a5c081b58c.jpg\" width=\"450\" height=\"600\" alt=\"Close up of a carved bear likeness.\">\n",
+				"content_text": "📷 Bear with me a minute…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/a5c081b58c.jpg\" width=\"450\" height=\"600\" alt=\"Close up of a carved bear likeness.\">\n",
 				"date_published": "2023-12-08T14:25:00-08:00",
 				"url": "https://jimmitchell.org/2023/12/08/bear-with-me.html",
 				"tags": ["Photos"]
