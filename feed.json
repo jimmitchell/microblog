@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2024/01/07/my-wife-and.html",
+				
+				"content_html": "<p>My wife and I just laid the ground rules for a monthly date night to break us out of the ruts we let ourselves get into. Dinner at a place we’ve never been to, and then at least the first set of a band somewhere, no matter how bad they might be.</p>\n",
+				"content_text": "My wife and I just laid the ground rules for a monthly date night to break us out of the ruts we let ourselves get into. Dinner at a place we’ve never been to, and then at least the first set of a band somewhere, no matter how bad they might be.\n",
+				"date_published": "2024-01-07T08:52:23-08:00",
+				"url": "https://jimmitchell.org/2024/01/07/my-wife-and.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/01/06/i-decided-to.html",
+				
+				"content_html": "<p>I decided to go all in on an Arq premium subscription today. Being able to backup up to five computers for only $10 more a year sold me. Arq is so unobtrusive that I forgot I was backing stuff up until the trial expired.</p>\n",
+				"content_text": "I decided to go all in on an Arq premium subscription today. Being able to backup up to five computers for only $10 more a year sold me. Arq is so unobtrusive that I forgot I was backing stuff up until the trial expired.\n",
+				"date_published": "2024-01-06T17:23:21-08:00",
+				"url": "https://jimmitchell.org/2024/01/06/i-decided-to.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/01/05/still-trying-to.html",
+				
+				"content_html": "<p>Still trying to get my hands on the long-coveted domain from the other Jim Mitchell (.net TLD for those curious), but it&rsquo;s dragged out long enough that I&rsquo;m about to throw in the towel. There&rsquo;s something about .net versus .org that lends nerd cred to a domain name which is why I covet it so badly.</p>\n",
+				"content_text": "Still trying to get my hands on the long-coveted domain from the other Jim Mitchell (.net TLD for those curious), but it's dragged out long enough that I'm about to throw in the towel. There's something about .net versus .org that lends nerd cred to a domain name which is why I covet it so badly.\n",
+				"date_published": "2024-01-05T07:57:12-08:00",
+				"url": "https://jimmitchell.org/2024/01/05/still-trying-to.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/01/02/every-new-year.html",
+				
+				"content_html": "<p>Every new year I tell myself &ldquo;<em>This will be the year I stop eating lunches at my desk</em>&rdquo;, and every year I&rsquo;ve ended up failing on the very first day back in the office. This year was no exception. At least I&rsquo;m consistent in my failings.</p>\n",
+				"content_text": "Every new year I tell myself \"_This will be the year I stop eating lunches at my desk_\", and every year I've ended up failing on the very first day back in the office. This year was no exception. At least I'm consistent in my failings.\n",
+				"date_published": "2024-01-02T12:47:58-08:00",
+				"url": "https://jimmitchell.org/2024/01/02/every-new-year.html"
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2024/01/01/project-yeard-december.html",
 				
 				"content_html": "<p>Project Yeard <a href=\"https://jimmitchell.org/project-yeard/#2023-12\">December update</a> added to the progress page&hellip;</p>\n",
