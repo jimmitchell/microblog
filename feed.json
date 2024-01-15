@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2024/01/08/incoming-rant-alert.html",
+				
+				"content_html": "<p>Incoming rant alert&hellip;</p>\n<p>Want to know how much I hate email replies that simply say &ldquo;thank you&rdquo; in the body and nothing else? I can&rsquo;t think of anything I dislike more, that&rsquo;s how much.</p>\n<p>Thanks for listening. Now carry on&hellip;</p>\n",
+				"content_text": "Incoming rant alert...\n\nWant to know how much I hate email replies that simply say \"thank you\" in the body and nothing else? I can't think of anything I dislike more, that's how much.\n\nThanks for listening. Now carry on...\n",
+				"date_published": "2024-01-08T14:04:45-08:00",
+				"url": "https://jimmitchell.org/2024/01/08/incoming-rant-alert.html"
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2024/01/07/my-wife-and.html",
 				
 				"content_html": "<p>My wife and I just laid the ground rules for a monthly date night to break us out of the ruts we let ourselves get into. Dinner at a place we’ve never been to, and then at least the first set of a band somewhere, no matter how bad they might be.</p>\n",
@@ -17,8 +25,8 @@
 			{
 				"id": "http://jimmitchell.micro.blog/2024/01/06/i-decided-to.html",
 				
-				"content_html": "<p>I decided to go all in on an Arq premium subscription today. Being able to backup up to five computers for only $10 more a year sold me. Arq is so unobtrusive that I forgot I was backing stuff up until the trial expired.</p>\n",
-				"content_text": "I decided to go all in on an Arq premium subscription today. Being able to backup up to five computers for only $10 more a year sold me. Arq is so unobtrusive that I forgot I was backing stuff up until the trial expired.\n",
+				"content_html": "<p>I decided to go all in on an <a href=\"https://www.arqbackup.com/pricing/\">Arq premium subscription</a> today. Being able to backup up to five computers for only $10 more a year sold me. Arq is so unobtrusive that I forgot I was backing stuff up until the trial expired.</p>\n",
+				"content_text": "I decided to go all in on an [Arq premium subscription](https://www.arqbackup.com/pricing/) today. Being able to backup up to five computers for only $10 more a year sold me. Arq is so unobtrusive that I forgot I was backing stuff up until the trial expired.\n",
 				"date_published": "2024-01-06T17:23:21-08:00",
 				"url": "https://jimmitchell.org/2024/01/06/i-decided-to.html"
 			},
@@ -91,7 +99,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/12/25/our-holiday-tradition.html",
 				
 				"content_html": "<p>Our Holiday tradition… A pot of homemade Christmas chili.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our Holiday tradition… A pot of homemade Christmas chili.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/5e41652e8f.jpg\" width=\"600\" height=\"450\" alt=\"A bowl of homemade chili with cheese, a dollop of sour cream and jalapenos on a holiday placemat. A spoon sits to the left of the bowl.\">\n",
+				"content_text": "Our Holiday tradition… A pot of homemade Christmas chili.\n\n<img src=\"uploads/2023/5e41652e8f.jpg\" width=\"600\" height=\"450\" alt=\"A bowl of homemade chili with cheese, a dollop of sour cream and jalapenos on a holiday placemat. A spoon sits to the left of the bowl.\">\n",
 				"date_published": "2023-12-25T17:18:48-08:00",
 				"url": "https://jimmitchell.org/2023/12/25/our-holiday-tradition.html"
 			},
@@ -99,7 +107,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/12/24/yep-i-had.html",
 				
 				"content_html": "<p>Yep&hellip; I had to get in on it too. My bass-playing Funko Box alter ego.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yep... I had to get in on it too. My bass-playing Funko Box alter ego.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/funko-jimmitchell.jpeg\" alt=\"Jim Mitchell as a bass-playing Funko character\" title=\"Funko-JimMitchell.jpeg\" border=\"0\" width=\"700\" height=\"700\" />\n",
+				"content_text": "Yep... I had to get in on it too. My bass-playing Funko Box alter ego.\n\n<img src=\"uploads/2023/funko-jimmitchell.jpeg\" alt=\"Jim Mitchell as a bass-playing Funko character\" title=\"Funko-JimMitchell.jpeg\" border=\"0\" width=\"700\" height=\"700\" />\n",
 				"date_published": "2023-12-24T17:30:30-08:00",
 				"url": "https://jimmitchell.org/2023/12/24/yep-i-had.html"
 			},
@@ -155,7 +163,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/12/08/bear-with-me.html",
 				
 				"content_html": "<p>📷 Bear with me a minute…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Bear with me a minute…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/a5c081b58c.jpg\" width=\"450\" height=\"600\" alt=\"Close up of a carved bear likeness.\">\n",
+				"content_text": "📷 Bear with me a minute…\n\n<img src=\"uploads/2023/a5c081b58c.jpg\" width=\"450\" height=\"600\" alt=\"Close up of a carved bear likeness.\">\n",
 				"date_published": "2023-12-08T14:25:00-08:00",
 				"url": "https://jimmitchell.org/2023/12/08/bear-with-me.html",
 				"tags": ["Photos"]
@@ -164,7 +172,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/12/07/campground-peacock.html",
 				
 				"content_html": "<p>📷 Campground peacock.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Campground peacock.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/b7f77d8082.jpg\" width=\"600\" height=\"450\" alt=\"Peacock roaming our campsite.\">\n",
+				"content_text": "📷 Campground peacock.\n\n<img src=\"uploads/2023/b7f77d8082.jpg\" width=\"600\" height=\"450\" alt=\"Peacock roaming our campsite.\">\n",
 				"date_published": "2023-12-07T17:23:08-08:00",
 				"url": "https://jimmitchell.org/2023/12/07/campground-peacock.html",
 				"tags": ["Photos"]
@@ -221,7 +229,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/11/26/tinylytics-for-microblog.html",
 				"title": "Tinylytics for Micro.blog v3.1.0",
 				"content_html": "<!-- raw HTML omitted -->\n<p>I&rsquo;m excited to share I&rsquo;ve released a new version of my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plugin, bringing it to version 3.1.0. You should see an update in your site&rsquo;s plugins section soon if not already.</p>\n<p>This release adds features to link back to your public stats page on Tinylytics if you have it enabled, and show a webring avatar on the footer embed code if you so choose.</p>\n<p>I&rsquo;ve also created a <a href=\"https://jimmitchell.org/tinylytics-for-microblog/\">dedicated page</a> that explains the plugin&rsquo;s options, how to use it, as well as providing some examples for styling the footer embed to get you going for your own site.</p>\n<p>The plugin is of course free to use, but if you find it worth supporting, donations can be made via my <a href=\"https://ko-fi.com/jimmitchellmedia\">Ko-fi</a> page.</p>",
-				"content_text": "<p><img src=\"https://jimmitchell.micro.blog/uploads/2023/tinylyticsheaderart.png\" alt=\"Tinylytcis post header\" title=\"tinylytcis-post-header.png\" border=\"0\" /></p>\n\nI'm excited to share I've released a new version of my [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) plugin, bringing it to version 3.1.0. You should see an update in your site's plugins section soon if not already.<!--more-->\n\nThis release adds features to link back to your public stats page on Tinylytics if you have it enabled, and show a webring avatar on the footer embed code if you so choose.\n\nI've also created a [dedicated page](https://jimmitchell.org/tinylytics-for-microblog/) that explains the plugin's options, how to use it, as well as providing some examples for styling the footer embed to get you going for your own site.\n\nThe plugin is of course free to use, but if you find it worth supporting, donations can be made via my [Ko-fi](https://ko-fi.com/jimmitchellmedia) page.\n",
+				"content_text": "<p><img src=\"uploads/2023/tinylyticsheaderart.png\" alt=\"Tinylytcis post header\" title=\"tinylytcis-post-header.png\" border=\"0\" /></p>\n\nI'm excited to share I've released a new version of my [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) plugin, bringing it to version 3.1.0. You should see an update in your site's plugins section soon if not already.<!--more-->\n\nThis release adds features to link back to your public stats page on Tinylytics if you have it enabled, and show a webring avatar on the footer embed code if you so choose.\n\nI've also created a [dedicated page](https://jimmitchell.org/tinylytics-for-microblog/) that explains the plugin's options, how to use it, as well as providing some examples for styling the footer embed to get you going for your own site.\n\nThe plugin is of course free to use, but if you find it worth supporting, donations can be made via my [Ko-fi](https://ko-fi.com/jimmitchellmedia) page.\n",
 				"date_published": "2023-11-26T10:59:53-08:00",
 				"url": "https://jimmitchell.org/2023/11/26/tinylytics-for-microblog.html"
 			},
@@ -341,7 +349,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/11/08/memories-of-hawaii.html",
 				
 				"content_html": "<p>📷 Memories of Hawai’i.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Memories of Hawai’i.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/4cc821c6f7.jpg\" width=\"600\" height=\"450\" alt=\"Diamond Head from the Waikiki breakwater.\">\n",
+				"content_text": "📷 Memories of Hawai’i.\n\n<img src=\"uploads/2023/4cc821c6f7.jpg\" width=\"600\" height=\"450\" alt=\"Diamond Head from the Waikiki breakwater.\">\n",
 				"date_published": "2023-11-08T14:55:48-08:00",
 				"url": "https://jimmitchell.org/2023/11/08/memories-of-hawaii.html",
 				"tags": ["Photos"]
@@ -374,7 +382,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/11/03/a-lone-joshua.html",
 				
 				"content_html": "<p>📷 A lone Joshua Tree at dusk.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 A lone Joshua Tree at dusk.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/745fc4d8a6.jpg\" width=\"600\" height=\"360\" alt=\"A lone Joshua Tree at dusk\">\n",
+				"content_text": "📷 A lone Joshua Tree at dusk.\n\n<img src=\"uploads/2023/745fc4d8a6.jpg\" width=\"600\" height=\"360\" alt=\"A lone Joshua Tree at dusk\">\n",
 				"date_published": "2023-11-03T21:28:56-08:00",
 				"url": "https://jimmitchell.org/2023/11/03/a-lone-joshua.html",
 				"tags": ["Photos"]
@@ -390,8 +398,8 @@
 			{
 				"id": "http://jimmitchell.micro.blog/2023/10/31/challenge-accepted-vincent.html",
 				
-				"content_html": "<p>Challenge accepted, <a href=\"https://micro.blog/vincent\">@vincent</a></p>\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/wp-tinylytics.png\" alt=\"WP Tinylytics\" title=\"WP Tinylytics\"></p>\n",
-				"content_text": "Challenge accepted, [@vincent](https://micro.blog/vincent)\n\n![WP Tinylytics](https://cdn.uploads.micro.blog/109466/2023/wp-tinylytics.png \"WP Tinylytics\")\n",
+				"content_html": "<p>Challenge accepted, <a href=\"https://micro.blog/vincent\">@vincent</a></p>\n<p><img src=\"https://jimmitchell.org/uploads/2023/wp-tinylytics.png\" alt=\"WP Tinylytics\" title=\"WP Tinylytics\"></p>\n",
+				"content_text": "Challenge accepted, [@vincent](https://micro.blog/vincent)\n\n![WP Tinylytics](https://jimmitchell.org/uploads/2023/wp-tinylytics.png \"WP Tinylytics\")\n",
 				"date_published": "2023-10-31T19:49:00-08:00",
 				"url": "https://jimmitchell.org/2023/10/31/challenge-accepted-vincent.html"
 			},
@@ -415,7 +423,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/10/22/ginger-loves-glamping.html",
 				
 				"content_html": "<p>📷 Ginger loves glamping…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Ginger loves glamping…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/a1d1788e5b.jpg\" width=\"600\" height=\"450\" alt=\"Content dog in a blanket.\">\n",
+				"content_text": "📷 Ginger loves glamping…\n\n<img src=\"uploads/2023/a1d1788e5b.jpg\" width=\"600\" height=\"450\" alt=\"Content dog in a blanket.\">\n",
 				"date_published": "2023-10-22T10:06:37-08:00",
 				"url": "https://jimmitchell.org/2023/10/22/ginger-loves-glamping.html",
 				"tags": ["Photos"]
@@ -440,7 +448,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/10/19/tinylytics-for-microblog.html",
 				"title": "Tinylytics for Micro.blog 3.0 Released",
 				"content_html": "<!-- raw HTML omitted -->\n<p>It took a minute to wrap up, but I&rsquo;m happy to announce that my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plugin has been updated to version 3.0, adding a bunch of new options to bring it to parity with <a href=\"https://tinylytics.app\">Tinylytics.app</a> features <a href=\"https://micro.blog/vincent\">@vincent</a> has released over the last couple of months.</p>\n<p>Notable enhancements made:</p>\n<ul>\n<li>The ability to show the country flags of your Micro.blog visitors in either a footer embed or shortcode on a page. See the footer of this page for an example.</li>\n<li>The option to show a Tinylytics Webring link with custom link text in the footer embed. Again, see the footer for an example.</li>\n<li>A complete rewrite of the backend logic to make it scale better as Vincent adds more features.</li>\n</ul>\n<h3 id=\"new-users-save-20\">New Users Save 20%</h3>\n<p>If you&rsquo;re a Micro.blog user and you&rsquo;ve been on the fence about signing up for a Tinylytics account, today is your day. New users can get a 20% discount on their first year of Tinylytics when using the coupon code found in the <!-- raw HTML omitted -->README<!-- raw HTML omitted --> file on the <!-- raw HTML omitted -->Github project<!-- raw HTML omitted --> page. That&rsquo;s a whole $10 back in your pocket!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted -->Note:<!-- raw HTML omitted --> This offer is only good for new users who select the one-year plan at sign up.<!-- raw HTML omitted --></p>\n<h3 id=\"updating\">Updating</h3>\n<p>If you&rsquo;re a current user on the Micro.blog platform, you should see a new version available in your site plug-ins area already. Just click the &ldquo;Upgrade&rdquo; button, then check out the settings to enable new features.</p>\n<!-- raw HTML omitted -->\n<p>For more details about using the plug-in, see the <!-- raw HTML omitted -->README<!-- raw HTML omitted --> on the <!-- raw HTML omitted -->Github project<!-- raw HTML omitted --> page.</p>\n<p>If you have any other questions or find a bug, contact me through any of the methods in my site footer below.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted -->Note:<!-- raw HTML omitted --> Uptime monitoring is a paid feature of Tinylytics. You&rsquo;ll need to have a paid account for uptime stats to show via this plugin.<!-- raw HTML omitted --></p>",
-				"content_text": "<p><img src=\"https://jimmitchell.micro.blog/uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\nIt took a minute to wrap up, but I'm happy to announce that my [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) plugin has been updated to version 3.0, adding a bunch of new options to bring it to parity with [Tinylytics.app](https://tinylytics.app) features [@vincent](https://micro.blog/vincent) has released over the last couple of months.<!--more-->\n\nNotable enhancements made:\n\n* The ability to show the country flags of your Micro.blog visitors in either a footer embed or shortcode on a page. See the footer of this page for an example.\n* The option to show a Tinylytics Webring link with custom link text in the footer embed. Again, see the footer for an example.\n* A complete rewrite of the backend logic to make it scale better as Vincent adds more features.\n\n### New Users Save 20%\n\nIf you're a Micro.blog user and you've been on the fence about signing up for a Tinylytics account, today is your day. New users can get a 20% discount on their first year of Tinylytics when using the coupon code found in the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> file on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page. That's a whole $10 back in your pocket!\n\n<i><b>Note:</b> This offer is only good for new users who select the one-year plan at sign up.</I>\n\n### Updating\n\nIf you're a current user on the Micro.blog platform, you should see a new version available in your site plug-ins area already. Just click the \"Upgrade\" button, then check out the settings to enable new features.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/tinylytics-3-update.png\" alt=\"Tinylytics 3 update\" title=\"tinylytics-3-update.png\" border=\"0\" width=\"784\" height=\"165\" style=\"border:1px solid #f0f0f0;\" />\n\nFor more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.\n\nIf you have any other questions or find a bug, contact me through any of the methods in my site footer below.\n\n<i><b>Note:</b> Uptime monitoring is a paid feature of Tinylytics. You'll need to have a paid account for uptime stats to show via this plugin.</i>\n",
+				"content_text": "<p><img src=\"uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\nIt took a minute to wrap up, but I'm happy to announce that my [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) plugin has been updated to version 3.0, adding a bunch of new options to bring it to parity with [Tinylytics.app](https://tinylytics.app) features [@vincent](https://micro.blog/vincent) has released over the last couple of months.<!--more-->\n\nNotable enhancements made:\n\n* The ability to show the country flags of your Micro.blog visitors in either a footer embed or shortcode on a page. See the footer of this page for an example.\n* The option to show a Tinylytics Webring link with custom link text in the footer embed. Again, see the footer for an example.\n* A complete rewrite of the backend logic to make it scale better as Vincent adds more features.\n\n### New Users Save 20%\n\nIf you're a Micro.blog user and you've been on the fence about signing up for a Tinylytics account, today is your day. New users can get a 20% discount on their first year of Tinylytics when using the coupon code found in the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> file on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page. That's a whole $10 back in your pocket!\n\n<i><b>Note:</b> This offer is only good for new users who select the one-year plan at sign up.</I>\n\n### Updating\n\nIf you're a current user on the Micro.blog platform, you should see a new version available in your site plug-ins area already. Just click the \"Upgrade\" button, then check out the settings to enable new features.\n\n<img src=\"uploads/2023/tinylytics-3-update.png\" alt=\"Tinylytics 3 update\" title=\"tinylytics-3-update.png\" border=\"0\" width=\"784\" height=\"165\" style=\"border:1px solid #f0f0f0;\" />\n\nFor more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.\n\nIf you have any other questions or find a bug, contact me through any of the methods in my site footer below.\n\n<i><b>Note:</b> Uptime monitoring is a paid feature of Tinylytics. You'll need to have a paid account for uptime stats to show via this plugin.</i>\n",
 				"date_published": "2023-10-19T06:34:01-08:00",
 				"url": "https://jimmitchell.org/2023/10/19/tinylytics-for-microblog.html"
 			},
@@ -520,7 +528,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/09/27/the-north-shore.html",
 				
 				"content_html": "<p>📷 The North Shore of O’ahu. More beautiful than I imagined it would be.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 The North Shore of O’ahu. More beautiful than I imagined it would be.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/45e52bbbf7.jpg\" width=\"600\" height=\"450\" alt=\"Laniakea Beach\">\n",
+				"content_text": "📷 The North Shore of O’ahu. More beautiful than I imagined it would be.\n\n<img src=\"uploads/2023/45e52bbbf7.jpg\" width=\"600\" height=\"450\" alt=\"Laniakea Beach\">\n",
 				"date_published": "2023-09-27T18:49:16-08:00",
 				"url": "https://jimmitchell.org/2023/09/27/the-north-shore.html",
 				"tags": ["Photos"]
@@ -529,7 +537,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/09/25/sunrise-over-waikiki.html",
 				
 				"content_html": "<p>📷 Sunrise over Waikiki.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Sunrise over Waikiki.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/d86bec0760.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise over Waikiki\">\n",
+				"content_text": "📷 Sunrise over Waikiki.\n\n<img src=\"uploads/2023/d86bec0760.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise over Waikiki\">\n",
 				"date_published": "2023-09-25T13:33:03-08:00",
 				"url": "https://jimmitchell.org/2023/09/25/sunrise-over-waikiki.html",
 				"tags": ["Photos"]
@@ -538,7 +546,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/09/25/thirty-years-in.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Thirty years in between with lots of ups and downs, the story turned out just how we hoped it would. So grateful for our many blessings along the journey.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/8475761ca7.jpg\" width=\"600\" height=\"600\" alt=\"then\"></p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/img-5072.jpeg\" width=\"600\" height=\"449\" alt=\"now\"></p>\n",
+				"content_text": "<p>Thirty years in between with lots of ups and downs, the story turned out just how we hoped it would. So grateful for our many blessings along the journey.</p>\n\n<p><img src=\"uploads/2023/8475761ca7.jpg\" width=\"600\" height=\"600\" alt=\"then\"></p>\n\n<p><img src=\"uploads/2023/img-5072.jpeg\" width=\"600\" height=\"449\" alt=\"now\"></p>\n",
 				"date_published": "2023-09-25T12:11:51-08:00",
 				"url": "https://jimmitchell.org/2023/09/25/thirty-years-in.html"
 			},
@@ -570,7 +578,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/09/04/the-unofficial-last.html",
 				
 				"content_html": "<p>📷 The Unofficial Last Day of Summer in Surf City, USA.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 The Unofficial Last Day of Summer in Surf City, USA.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/af48e10452.jpg\" width=\"600\" height=\"449\" alt=\"Huntington Beach pier and volleyball players.\">\n",
+				"content_text": "📷 The Unofficial Last Day of Summer in Surf City, USA.\n\n<img src=\"uploads/2023/af48e10452.jpg\" width=\"600\" height=\"449\" alt=\"Huntington Beach pier and volleyball players.\">\n",
 				"date_published": "2023-09-04T10:32:52-08:00",
 				"url": "https://jimmitchell.org/2023/09/04/the-unofficial-last.html",
 				"tags": ["Photos"]
@@ -611,7 +619,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/08/12/thanks-for-the.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Thanks for the awesome Micro.blog decals and note, <a href=\"https://micro.blog/jean\">@jean</a>!</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/c68e7f41bf.jpg\" width=\"600\" height=\"450\" alt=\"Awesome Micro.blog decals from [@jean](https://micro.blog/jean).\"></p>\n",
+				"content_text": "<p>📷 Thanks for the awesome Micro.blog decals and note, <a href=\"https://micro.blog/jean\">@jean</a>!</p>\n\n<p><img src=\"uploads/2023/c68e7f41bf.jpg\" width=\"600\" height=\"450\" alt=\"Awesome Micro.blog decals from [@jean](https://micro.blog/jean).\"></p>\n",
 				"date_published": "2023-08-12T11:18:28-08:00",
 				"url": "https://jimmitchell.org/2023/08/12/thanks-for-the.html",
 				"tags": ["Photos"]
@@ -660,7 +668,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/07/20/surf-gnome.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Surf gnome…</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/gnome.jpg\" alt=\"The surf gnome\" title=\"gnome.png\" border=\"0\" width=\"720\" height=\"540\" /></p>\n",
+				"content_text": "<p>📷 Surf gnome…</p>\n\n<p><img src=\"uploads/2023/gnome.jpg\" alt=\"The surf gnome\" title=\"gnome.png\" border=\"0\" width=\"720\" height=\"540\" /></p>\n",
 				"date_published": "2023-07-20T13:57:25-08:00",
 				"url": "https://jimmitchell.org/2023/07/20/surf-gnome.html",
 				"tags": ["Photos"]
@@ -693,7 +701,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/07/11/tinylytics-for-microblog.html",
 				"title": "Tinylytics for Micro.blog v2.1 Released",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->",
-				"content_text": "<p><img src=\"https://jimmitchell.micro.blog/uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>Hot on the heels of <a href=\"https://vincentritter.com/2023/07/10/19-47-43\">uptime monitoring on Tinylytics</a>, I&#8217;m stoked to share that my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been released as a 2.1 version to take advantage of it.</p><!--more-->\n\n<p>This release adds the following:</p>\n\n<ol>\n<li>The ability to use a <a href=\"https://gohugo.io/content-management/shortcodes/\">Hugo shortcode</a> to add a <span style='text-decoration:underline;'>Page View Counter</span> in a post without changing any site template files. This will display the actual views of a single post, rather than overall hits -- which can still be shown as a footer embed.</li>\n<li>The ability to show your site uptime embedded in the global custom footer of your Micro.blog site without changing any site template files.</li>\n</ol>\n\n<p><i><b>Note:</b> Uptime monitoring is a paid feature of Tinylytics. You'll need to have a paid account for uptime stats to show via this plugin.</i></p>\n\n<p>You should see a new version available in your site plug-ins area soon.</p>\n\n<p>For more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.</p>\n\n<p>If you have any other questions or find a bug, contact me through any of the methods in my site footer below.</p>\n",
+				"content_text": "<p><img src=\"uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>Hot on the heels of <a href=\"https://vincentritter.com/2023/07/10/19-47-43\">uptime monitoring on Tinylytics</a>, I&#8217;m stoked to share that my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been released as a 2.1 version to take advantage of it.</p><!--more-->\n\n<p>This release adds the following:</p>\n\n<ol>\n<li>The ability to use a <a href=\"https://gohugo.io/content-management/shortcodes/\">Hugo shortcode</a> to add a <span style='text-decoration:underline;'>Page View Counter</span> in a post without changing any site template files. This will display the actual views of a single post, rather than overall hits -- which can still be shown as a footer embed.</li>\n<li>The ability to show your site uptime embedded in the global custom footer of your Micro.blog site without changing any site template files.</li>\n</ol>\n\n<p><i><b>Note:</b> Uptime monitoring is a paid feature of Tinylytics. You'll need to have a paid account for uptime stats to show via this plugin.</i></p>\n\n<p>You should see a new version available in your site plug-ins area soon.</p>\n\n<p>For more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.</p>\n\n<p>If you have any other questions or find a bug, contact me through any of the methods in my site footer below.</p>\n",
 				"date_published": "2023-07-11T07:25:11-08:00",
 				"url": "https://jimmitchell.org/2023/07/11/tinylytics-for-microblog.html"
 			},
@@ -709,7 +717,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/07/08/a-mini-minivan.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 A mini mini-van&#8230;</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/img-1452.jpg\" alt=\"IMG 1452\" title=\"IMG_1452.jpg\" border=\"0\" width=\"720\" height=\"540\" alt=\"a stylish mini mini-van\" /></p>\n",
+				"content_text": "<p>📷 A mini mini-van&#8230;</p>\n\n<p><img src=\"uploads/2023/img-1452.jpg\" alt=\"IMG 1452\" title=\"IMG_1452.jpg\" border=\"0\" width=\"720\" height=\"540\" alt=\"a stylish mini mini-van\" /></p>\n",
 				"date_published": "2023-07-08T14:41:26-08:00",
 				"url": "https://jimmitchell.org/2023/07/08/a-mini-minivan.html",
 				"tags": ["Photos"]
@@ -718,7 +726,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/07/08/tinylytics-for-microblog.html",
 				"title": "Tinylytics for Micro.blog 2.0 Release",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->",
-				"content_text": "<p><img src=\"https://jimmitchell.micro.blog/uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>I’m happy to share that my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been released as a 2.0 version.</p><!--more-->\n\n<p>This release adds the following:</p>\n\n<ol>\n<li>A complete refactor/rewrite of the tracking code for better performance.</li>\n<li>The ability to use <a href=\"https://gohugo.io/content-management/shortcodes/\">Hugo shortcodes</a> to add Kudos and Hit Counter in a post without changing any site template files.</li>\n<li>The ability to add a Hit Counter embed in the global custom footer of your Micro.blog site without changing any site template files.</li>\n</ol>\n\n<p>You should see a new version available in your site plug-ins area soon.</p>\n\n<p>For more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.</p>\n\n<p>If you have any other questions or find a bug, contact me through any of the methods in my site footer below.</p>\n",
+				"content_text": "<p><img src=\"uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>I’m happy to share that my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been released as a 2.0 version.</p><!--more-->\n\n<p>This release adds the following:</p>\n\n<ol>\n<li>A complete refactor/rewrite of the tracking code for better performance.</li>\n<li>The ability to use <a href=\"https://gohugo.io/content-management/shortcodes/\">Hugo shortcodes</a> to add Kudos and Hit Counter in a post without changing any site template files.</li>\n<li>The ability to add a Hit Counter embed in the global custom footer of your Micro.blog site without changing any site template files.</li>\n</ol>\n\n<p>You should see a new version available in your site plug-ins area soon.</p>\n\n<p>For more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.</p>\n\n<p>If you have any other questions or find a bug, contact me through any of the methods in my site footer below.</p>\n",
 				"date_published": "2023-07-08T09:22:57-08:00",
 				"url": "https://jimmitchell.org/2023/07/08/tinylytics-for-microblog.html"
 			},
@@ -734,7 +742,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/07/04/our-rd-year.html",
 				
 				"content_html": "<p>📷 Our 23rd year in Surf City, USA…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Our 23rd year in Surf City, USA…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/035110a288.jpg\" width=\"600\" height=\"450\" alt=\"Huntington Beach 4th of July parade banner.\">\n",
+				"content_text": "📷 Our 23rd year in Surf City, USA…\n\n<img src=\"uploads/2023/035110a288.jpg\" width=\"600\" height=\"450\" alt=\"Huntington Beach 4th of July parade banner.\">\n",
 				"date_published": "2023-07-04T12:34:40-08:00",
 				"url": "https://jimmitchell.org/2023/07/04/our-rd-year.html",
 				"tags": ["Photos"]
@@ -751,7 +759,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/07/02/tinylytics-for-microblog.html",
 				"title": "Tinylytics for Micro.blog Updated to 1.0.6",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->",
-				"content_text": "<p><img src=\"https://jimmitchell.micro.blog/uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>Fresh on the heels of new <a href=\"https://tinylytics.app\">Tinylytics.app</a> updates, my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been updated to take advantage of the new Kudos feature introduced in the latest release. If you look at your installed site plug-ins, you should see an update available as 1.0.6.</p><!--more-->\n\n<p>This release adds a checkbox to show Kudos along with the ability to set a custom label. See the project <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on Github for more information.</p>\n\n<p><img src=\"https://jimmitchell.micro.blog/uploads/2023/tinylytics-config.png\" alt=\"Tinylytics config\" title=\"tinylytics-config.png\" border=\"0\" width=\"719\" height=\"284\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>Special thanks go out to <a href=\"https://micro.blog/vincent\">@vincent</a> for simply being an all-around awesome dude too.</p>\n",
+				"content_text": "<p><img src=\"uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>Fresh on the heels of new <a href=\"https://tinylytics.app\">Tinylytics.app</a> updates, my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been updated to take advantage of the new Kudos feature introduced in the latest release. If you look at your installed site plug-ins, you should see an update available as 1.0.6.</p><!--more-->\n\n<p>This release adds a checkbox to show Kudos along with the ability to set a custom label. See the project <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on Github for more information.</p>\n\n<p><img src=\"uploads/2023/tinylytics-config.png\" alt=\"Tinylytics config\" title=\"tinylytics-config.png\" border=\"0\" width=\"719\" height=\"284\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>Special thanks go out to <a href=\"https://micro.blog/vincent\">@vincent</a> for simply being an all-around awesome dude too.</p>\n",
 				"date_published": "2023-07-01T23:03:12-08:00",
 				"url": "https://jimmitchell.org/2023/07/02/tinylytics-for-microblog.html"
 			},
@@ -783,7 +791,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/06/27/new-plugin-tinylytics.html",
 				"title": "New Plugin: Tinylytics for Micro.blog",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->",
-				"content_text": "<p><img src=\"https://jimmitchell.micro.blog/uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>I published my very first Micro.blog plugin today: <strong>Tinylytics for Micro.blog</strong>. You can find it in the Micro.blog <a href=\"https://micro.blog/account/plugins/view/101\">plugin directory</a>.</p><!--more-->\n\n<p>If you’re using <a href=\"https://micro.blog/vincent\">Vincent Ritter’s</a> awesome web analytics platform <a href=\"https://tinylytics.app\">Tinylytics</a>, this plugin is for you. Rather than copying and pasting a line of Javascript, you simply enter your unique site id which can be copied from your site page once the plugin is installed.</p>\n\n<p><img src=\"https://jimmitchell.micro.blog/uploads/2023/tinylytics-plug-in-options.png\" alt=\"Tinylytics plug in options\" title=\"tinylytics-plug-in-options.png\" border=\"0\" width=\"562\" height=\"179\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>There’s an option to toggle the “Display Hits” option too.</p>\n\n<p>To show hits on your site, you’ll need to modify your Micro.blog theme to make the hits show up. The easiest way to accomplish this might be to add code in the footer of your theme’s design area (Design > Edit Footer):</p>\n\n<p><img src=\"https://jimmitchell.micro.blog/uploads/2023/footer-edit.png\" alt=\"Footer edit\" title=\"footer-edit.png\" border=\"0\" width=\"718\" height=\"185\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>See this Tinylytics <a href=\"https://tinylytics.app/docs/show_hit_counter\">help article</a> for more information on displaying hits on your site.</p>\n\n<p>The plugin source can be found at this Github repo: <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">https://github.com/jimmitchell/Tinylytics-for-Micro.blog</a>.</p>\n\n<p><a href=\"mailto:hello@jimmitchell.org\">Email me</a> with questions or any issues you find.</p>\n",
+				"content_text": "<p><img src=\"uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>I published my very first Micro.blog plugin today: <strong>Tinylytics for Micro.blog</strong>. You can find it in the Micro.blog <a href=\"https://micro.blog/account/plugins/view/101\">plugin directory</a>.</p><!--more-->\n\n<p>If you’re using <a href=\"https://micro.blog/vincent\">Vincent Ritter’s</a> awesome web analytics platform <a href=\"https://tinylytics.app\">Tinylytics</a>, this plugin is for you. Rather than copying and pasting a line of Javascript, you simply enter your unique site id which can be copied from your site page once the plugin is installed.</p>\n\n<p><img src=\"uploads/2023/tinylytics-plug-in-options.png\" alt=\"Tinylytics plug in options\" title=\"tinylytics-plug-in-options.png\" border=\"0\" width=\"562\" height=\"179\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>There’s an option to toggle the “Display Hits” option too.</p>\n\n<p>To show hits on your site, you’ll need to modify your Micro.blog theme to make the hits show up. The easiest way to accomplish this might be to add code in the footer of your theme’s design area (Design > Edit Footer):</p>\n\n<p><img src=\"uploads/2023/footer-edit.png\" alt=\"Footer edit\" title=\"footer-edit.png\" border=\"0\" width=\"718\" height=\"185\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>See this Tinylytics <a href=\"https://tinylytics.app/docs/show_hit_counter\">help article</a> for more information on displaying hits on your site.</p>\n\n<p>The plugin source can be found at this Github repo: <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">https://github.com/jimmitchell/Tinylytics-for-Micro.blog</a>.</p>\n\n<p><a href=\"mailto:hello@jimmitchell.org\">Email me</a> with questions or any issues you find.</p>\n",
 				"date_published": "2023-06-27T08:13:31-08:00",
 				"url": "https://jimmitchell.org/2023/06/27/new-plugin-tinylytics.html"
 			},
@@ -791,7 +799,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/06/26/a-friendly-lizard.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 A friendly lizard.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/bffae4abc7.jpg\" width=\"600\" height=\"450\" alt=\"a lizard on a stick\"></p>\n",
+				"content_text": "<p>📷 A friendly lizard.</p>\n\n<p><img src=\"uploads/2023/bffae4abc7.jpg\" width=\"600\" height=\"450\" alt=\"a lizard on a stick\"></p>\n",
 				"date_published": "2023-06-26T20:02:39-08:00",
 				"url": "https://jimmitchell.org/2023/06/26/a-friendly-lizard.html",
 				"tags": ["Photos"]
@@ -800,7 +808,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/06/26/laguna-coast-wilderness.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Laguna Coast Wilderness Park.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/620f697509.jpg\" width=\"600\" height=\"450\" alt=\"view of the Laguna mountains\"></p>\n",
+				"content_text": "<p>📷 Laguna Coast Wilderness Park.</p>\n\n<p><img src=\"uploads/2023/620f697509.jpg\" width=\"600\" height=\"450\" alt=\"view of the Laguna mountains\"></p>\n",
 				"date_published": "2023-06-26T19:58:34-08:00",
 				"url": "https://jimmitchell.org/2023/06/26/laguna-coast-wilderness.html",
 				"tags": ["Photos"]
@@ -833,7 +841,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/06/12/sunrise-in-port.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Sunrise over Terminal Island.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/53ad5a744f.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise over Terminal Island\"></p>\n",
+				"content_text": "<p>📷 Sunrise over Terminal Island.</p>\n\n<p><img src=\"uploads/2023/53ad5a744f.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise over Terminal Island\"></p>\n",
 				"date_published": "2023-06-12T19:50:45-08:00",
 				"url": "https://jimmitchell.org/2023/06/12/sunrise-in-port.html",
 				"tags": ["Photos"]
@@ -874,7 +882,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/30/across-the-irvine.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Across the Irvine valley.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/165d8050c2.jpg\" width=\"600\" height=\"450\" alt=\"Across the valley\" /></p>\n",
+				"content_text": "<p>📷 Across the Irvine valley.</p>\n\n<p><img src=\"uploads/2023/165d8050c2.jpg\" width=\"600\" height=\"450\" alt=\"Across the valley\" /></p>\n",
 				"date_published": "2023-05-30T18:51:35-08:00",
 				"url": "https://jimmitchell.org/2023/05/30/across-the-irvine.html",
 				"tags": ["Photos"]
@@ -891,7 +899,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/29/remembering-those-who.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Remembering those who gave it all for our freedom.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/b66829c03e.jpg\" width=\"600\" height=\"450\" alt=\"Memorial Day remembrance ceremony.\"></p>\n",
+				"content_text": "<p>📷 Remembering those who gave it all for our freedom.</p>\n\n<p><img src=\"uploads/2023/b66829c03e.jpg\" width=\"600\" height=\"450\" alt=\"Memorial Day remembrance ceremony.\"></p>\n",
 				"date_published": "2023-05-29T11:53:28-08:00",
 				"url": "https://jimmitchell.org/2023/05/29/remembering-those-who.html",
 				"tags": ["Photos"]
@@ -900,7 +908,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/29/hb-northside-lineup.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 HB Northside Lineup.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/05b2ec4cb1.jpg\" width=\"600\" height=\"450\" alt=\"HB Northside Surf Lineup\"></p>\n",
+				"content_text": "<p>📷 HB Northside Lineup.</p>\n\n<p><img src=\"uploads/2023/05b2ec4cb1.jpg\" width=\"600\" height=\"450\" alt=\"HB Northside Surf Lineup\"></p>\n",
 				"date_published": "2023-05-29T10:57:54-08:00",
 				"url": "https://jimmitchell.org/2023/05/29/hb-northside-lineup.html",
 				"tags": ["Photos"]
@@ -917,7 +925,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/28/blooming-cactus.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Blooming cactus.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/9fcbf18467.jpg\" width=\"600\" height=\"450\" alt=\"Blooming cactus\"></p>\n",
+				"content_text": "<p>📷 Blooming cactus.</p>\n\n<p><img src=\"uploads/2023/9fcbf18467.jpg\" width=\"600\" height=\"450\" alt=\"Blooming cactus\"></p>\n",
 				"date_published": "2023-05-28T11:53:39-08:00",
 				"url": "https://jimmitchell.org/2023/05/28/blooming-cactus.html",
 				"tags": ["Photos"]
@@ -1038,7 +1046,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/02/18/so-long-old.html",
 				
 				"content_html": "<p>A sad day indeed…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A sad day indeed…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/bfc66edd56.jpg\" alt=\"SoLongOldFriends\" title=\"SoLongOldFriends.jpeg\" style=\"box-shadow:0 0 12px rgba(0,0,0,.2);border-radius:12px;\">\n",
+				"content_text": "A sad day indeed…\n\n<img src=\"uploads/2023/bfc66edd56.jpg\" alt=\"SoLongOldFriends\" title=\"SoLongOldFriends.jpeg\" style=\"box-shadow:0 0 12px rgba(0,0,0,.2);border-radius:12px;\">\n",
 				"date_published": "2023-02-18T09:09:28-08:00",
 				"url": "https://jimmitchell.org/2023/02/18/so-long-old.html"
 			},
@@ -1174,7 +1182,7 @@
 				"id": "http://jimmitchell.micro.blog/2008/02/20/rebuilding-the-apple.html",
 				"title": "Rebuilding the Apple Mail Envelope Index",
 				"content_html": "<p>Some time ago, I set up my Gmail account in Apple Mail to copy over messages which were not sent to my jimmitchellmedia.net account. I’m one of those guys who likes to have everything all in one place at my finger tips when I need it.<!-- raw HTML omitted --></p>\n<p>After copying over the messages I wanted, I completely removed the Gmail IMAP account from Mail and went about my business. Soon after, when I went searching for a specific email, I experienced the phenomenon of ghost emails in the search results.</p>\n<p>These are messages that Mail once knew about, but no longer knows where they exist. The ghost emails were all from the since removed Gmail account.</p>\n<p>If you’re experiencing the same problem, here’s a very simple fix to rebuild the Apple Mail envelope index.</p>\n<p>First, quit Apple Mail if it’s running, then navigate your way to “~/Library/Mail/” (where “<!-- raw HTML omitted -->”<!-- raw HTML omitted --> is your home folder) in the Finder. Once you’re in the Mail folder, you’ll see a file named “Envelope Index” which keeps track of where all messages are located. Rename “Envelope Index” to “Envelope Index Backup” (We don’t want to trash the file just yet).</p>\n<!-- raw HTML omitted -->\n<p>Then, relaunch Apple Mail. You’ll be presented with a daunting “Message Import” dialog that looks like your email account was wiped out and you’re starting all over. Fear not. You’re simply rebuilding the Envelope Index at this point.</p>\n<!-- raw HTML omitted -->\n<p>Click “Continue” to rebuild the index. Once it’s done, all those pesky phantom messages will be gone the next time you perform a search in Mail (Yay!). You can then go back to the “~/Library/Mail/” folder in the Finder and move the file you renamed to “Envelope Index Backup” to the Trash.</p>\n<p>And there it is. Your Apple Mail Envelope index has been rebuilt. A very simple solution to a problem that has baffled some of the best Mac users.</p>\n",
-				"content_text": "Some time ago, I set up my Gmail account in Apple Mail to copy over messages which were not sent to my jimmitchellmedia.net account. I’m one of those guys who likes to have everything all in one place at my finger tips when I need it.</p>\n\nAfter copying over the messages I wanted, I completely removed the Gmail IMAP account from Mail and went about my business. Soon after, when I went searching for a specific email, I experienced the phenomenon of ghost emails in the search results.\n\nThese are messages that Mail once knew about, but no longer knows where they exist. The ghost emails were all from the since removed Gmail account.\n\nIf you’re experiencing the same problem, here’s a very simple fix to rebuild the Apple Mail envelope index.\n\nFirst, quit Apple Mail if it’s running, then navigate your way to “~/Library/Mail/” (where “<sub>”</sub> is your home folder) in the Finder. Once you’re in the Mail folder, you’ll see a file named “Envelope Index” which keeps track of where all messages are located. Rename “Envelope Index” to “Envelope Index Backup” (We don’t want to trash the file just yet).\n\n<img class=\"wp-image-32 fade-in aligncenter\" src=\"https://cdn.uploads.micro.blog/109466/2023/65247de44b.jpg\" alt=\"\">\n\nThen, relaunch Apple Mail. You’ll be presented with a daunting “Message Import” dialog that looks like your email account was wiped out and you’re starting all over. Fear not. You’re simply rebuilding the Envelope Index at this point.\n\n<img class=\"wp-image-33 fade-in aligncenter\" src=\"https://cdn.uploads.micro.blog/109466/2023/6ff1b7d35a.jpg\" alt=\"\">\n\nClick “Continue” to rebuild the index. Once it’s done, all those pesky phantom messages will be gone the next time you perform a search in Mail (Yay!). You can then go back to the “~/Library/Mail/” folder in the Finder and move the file you renamed to “Envelope Index Backup” to the Trash.\n\nAnd there it is. Your Apple Mail Envelope index has been rebuilt. A very simple solution to a problem that has baffled some of the best Mac users.\n",
+				"content_text": "Some time ago, I set up my Gmail account in Apple Mail to copy over messages which were not sent to my jimmitchellmedia.net account. I’m one of those guys who likes to have everything all in one place at my finger tips when I need it.</p>\n\nAfter copying over the messages I wanted, I completely removed the Gmail IMAP account from Mail and went about my business. Soon after, when I went searching for a specific email, I experienced the phenomenon of ghost emails in the search results.\n\nThese are messages that Mail once knew about, but no longer knows where they exist. The ghost emails were all from the since removed Gmail account.\n\nIf you’re experiencing the same problem, here’s a very simple fix to rebuild the Apple Mail envelope index.\n\nFirst, quit Apple Mail if it’s running, then navigate your way to “~/Library/Mail/” (where “<sub>”</sub> is your home folder) in the Finder. Once you’re in the Mail folder, you’ll see a file named “Envelope Index” which keeps track of where all messages are located. Rename “Envelope Index” to “Envelope Index Backup” (We don’t want to trash the file just yet).\n\n<img class=\"wp-image-32 fade-in aligncenter\" src=\"https://jimmitchell.org/uploads/2023/65247de44b.jpg\" alt=\"\">\n\nThen, relaunch Apple Mail. You’ll be presented with a daunting “Message Import” dialog that looks like your email account was wiped out and you’re starting all over. Fear not. You’re simply rebuilding the Envelope Index at this point.\n\n<img class=\"wp-image-33 fade-in aligncenter\" src=\"https://jimmitchell.org/uploads/2023/6ff1b7d35a.jpg\" alt=\"\">\n\nClick “Continue” to rebuild the index. Once it’s done, all those pesky phantom messages will be gone the next time you perform a search in Mail (Yay!). You can then go back to the “~/Library/Mail/” folder in the Finder and move the file you renamed to “Envelope Index Backup” to the Trash.\n\nAnd there it is. Your Apple Mail Envelope index has been rebuilt. A very simple solution to a problem that has baffled some of the best Mac users.\n",
 				"date_published": "2008-02-20T12:45:41-08:00",
 				"url": "https://jimmitchell.org/2008/02/20/rebuilding-the-apple.html"
 			}
