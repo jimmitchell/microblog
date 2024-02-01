@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2024/02/01/after-decades-as.html",
+				
+				"content_html": "<p>After <em>decades</em> as a Mac user, I <em>just now</em> discovered <strong>cmd + =</strong> (cmd + equals) and <strong>cmd + -</strong> (cmd + minus) increase and decrease icon preview sizes in a Finder window. Where the heck have I been? 🤯</p>\n",
+				"content_text": "After _decades_ as a Mac user, I _just now_ discovered **cmd + =** (cmd + equals) and **cmd + -** (cmd + minus) increase and decrease icon preview sizes in a Finder window. Where the heck have I been? 🤯\n",
+				"date_published": "2024-02-01T13:50:56-08:00",
+				"url": "https://jimmitchell.dev/2024/02/01/after-decades-as.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/01/29/woohoo-surprised-to.html",
+				
+				"content_html": "<p>Woohoo! Surprised to have gotten the initial email from the WordPress plugin review team on my Tinylytics plugin today. Lots of things to fix, but they’re all pretty simple. TBH, the review came back better than I thought it would for being my first attempt at a WordPress plugin.</p>\n",
+				"content_text": "Woohoo! Surprised to have gotten the initial email from the WordPress plugin review team on my Tinylytics plugin today. Lots of things to fix, but they’re all pretty simple. TBH, the review came back better than I thought it would for being my first attempt at a WordPress plugin.\n",
+				"date_published": "2024-01-29T11:20:23-08:00",
+				"url": "https://jimmitchell.dev/2024/01/29/woohoo-surprised-to.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/01/26/i-type-abuse.html",
+				
+				"content_html": "<p>I type (abuse) ellipses so much, my keyboard at work has taken to adding double periods to sentences for me, forcing me to delete one of the periods.. Or maybe it&rsquo;s simply encouraging me to end all of my sentences with an ellipsis? One may never know&hellip;</p>\n",
+				"content_text": "I type (abuse) ellipses so much, my keyboard at work has taken to adding double periods to sentences for me, forcing me to delete one of the periods.. Or maybe it's simply encouraging me to end all of my sentences with an ellipsis? One may never know...\n",
+				"date_published": "2024-01-26T13:27:24-08:00",
+				"url": "https://jimmitchell.dev/2024/01/26/i-type-abuse.html"
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2024/01/24/i-think-ive.html",
 				
 				"content_html": "<p>I think I&rsquo;ve managed to catch the domain-itis bug from <a href=\"https://micro.blog/vincent\">@vincent</a>. I just purchased the jimmitchell.dev domain on impulse. Is there a cure?</p>\n",
@@ -129,8 +153,8 @@
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/31/happy-new-year.html",
 				
-				"content_html": "<p>📷 Happy New Year from the top of SoCal!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Happy New Year from the top of SoCal!\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/d582735b70.jpg\" width=\"600\" height=\"450\" alt=\"A view of Palm Springs at night from the tramway restaurant on Mt. San Jacinto.\">\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>📷 Happy New Year from the top of SoCal!\n<a href=\"https://jimmitchell.dev/uploads/2024/d582735b70.jpg\" data-lightbox data-image-alt=\"A view of Palm Springs at night from the tramway restaurant on Mt. San Jacinto.\">\n\t<img src=\"uploads/2024/d582735b70.jpg\" width=\"600\" height=\"450\" alt=\"A view of Palm Springs at night from the tramway restaurant on Mt. San Jacinto.\"></a>\n</p>\n",
 				"date_published": "2023-12-31T18:54:34-08:00",
 				"url": "https://jimmitchell.dev/2023/12/31/happy-new-year.html",
 				"tags": ["Photos"]
@@ -420,8 +444,8 @@
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/08/memories-of-hawaii.html",
 				
-				"content_html": "<p>📷 Memories of Hawai’i.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Memories of Hawai’i.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/4cc821c6f7.jpg\" width=\"600\" height=\"450\" alt=\"Diamond Head from the Waikiki breakwater.\">\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>📷 Memories of Hawai’i.\n<a href=\"https://jimmitchell.dev/uploads/2023/4cc821c6f7.jpg\" data-lightbox data-image-alt=\"Diamond Head from the Waikiki breakwater.\"><img src=\"uploads/2023/4cc821c6f7.jpg\" width=\"600\" height=\"450\" alt=\"Diamond Head from the Waikiki breakwater.\"></p>\n",
 				"date_published": "2023-11-08T14:55:48-08:00",
 				"url": "https://jimmitchell.dev/2023/11/08/memories-of-hawaii.html",
 				"tags": ["Photos"]
@@ -453,8 +477,8 @@
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/03/a-lone-joshua.html",
 				
-				"content_html": "<p>📷 A lone Joshua Tree at dusk.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 A lone Joshua Tree at dusk.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/745fc4d8a6.jpg\" width=\"600\" height=\"360\" alt=\"A lone Joshua Tree at dusk\">\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>📷 A lone Joshua Tree at dusk.\n<a href=\"https://jimmitchell.dev/uploads/2023/745fc4d8a6.jpg\" data-lightbox data-image-alt=\"A lone Joshua Tree at dusk\"><img src=\"uploads/2023/745fc4d8a6.jpg\" width=\"600\" height=\"360\" alt=\"A lone Joshua Tree at dusk\"></a></p>\n",
 				"date_published": "2023-11-03T21:28:56-08:00",
 				"url": "https://jimmitchell.dev/2023/11/03/a-lone-joshua.html",
 				"tags": ["Photos"]
