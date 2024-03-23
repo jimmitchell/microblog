@@ -2,17 +2,65 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Jim Mitchell",
 	"icon": "https://micro.blog/jimmitchell/avatar.jpg",
-	"home_page_url": "https://mb.jimmitchell.org/",
-	"feed_url": "https://mb.jimmitchell.org/feed.json",
+	"home_page_url": "https://jimmitchell.dev/",
+	"feed_url": "https://jimmitchell.dev/feed.json",
 	"items": [
 		
+			{
+				"id": "http://jimmitchell.micro.blog/2024/03/22/sadly-i-must.html",
+				
+				"content_html": "<p>Sadly, I must use Google Chrome for my browser at work. I&rsquo;m trying out tab groups, but I&rsquo;m not sure I like it. It seems like <em>way</em> more effort than it&rsquo;s worth to manually move a tab into a group. I open and close tabs so often that grouping them seems like wasted effort. Thoughts?</p>\n",
+				"content_text": "Sadly, I must use Google Chrome for my browser at work. I'm trying out tab groups, but I'm not sure I like it. It seems like _way_ more effort than it's worth to manually move a tab into a group. I open and close tabs so often that grouping them seems like wasted effort. Thoughts?\n",
+				"date_published": "2024-03-22T12:55:49-07:00",
+				"url": "https://jimmitchell.dev/2024/03/22/sadly-i-must.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/03/22/thanks-to-the.html",
+				
+				"content_html": "<p>Thanks to the reminder from <a href=\"https://micro.blog/canion\">@canion</a> in <a href=\"https://canion.blog/2024/03/14/surely-now-i.html\">this post</a> a few days ago, I&rsquo;m giving Bear another spin myself. I think I&rsquo;ve finally landed on the holy grail of note keeping to keep my stuff in order.</p>\n",
+				"content_text": "Thanks to the reminder from [@canion](https://micro.blog/canion) in [this post](https://canion.blog/2024/03/14/surely-now-i.html) a few days ago, I'm giving Bear another spin myself. I think I've finally landed on the holy grail of note keeping to keep my stuff in order.\n",
+				"date_published": "2024-03-22T09:57:45-07:00",
+				"url": "https://jimmitchell.dev/2024/03/22/thanks-to-the.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/03/20/i-was-able.html",
+				
+				"content_html": "<p>I was able to get hands-on with a MacBook Air 15” display model in the Apple Store when picking up the new HomePod the other day. It’s an awesome form factor and I will be ordering the fully spec’d model as soon as the budget allows for it. I didn&rsquo;t even notice the notch when I looked at it.</p>\n",
+				"content_text": "I was able to get hands-on with a MacBook Air 15” display model in the Apple Store when picking up the new HomePod the other day. It’s an awesome form factor and I will be ordering the fully spec’d model as soon as the budget allows for it. I didn't even notice the notch when I looked at it.\n",
+				"date_published": "2024-03-20T05:32:15-07:00",
+				"url": "https://jimmitchell.dev/2024/03/20/i-was-able.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/03/19/gotta-say-homepod.html",
+				
+				"content_html": "<p>Gotta say, HomePod sound is pretty decent&hellip;</p>\n",
+				"content_text": "Gotta say, HomePod sound is pretty decent...\n",
+				"date_published": "2024-03-19T07:59:29-07:00",
+				"url": "https://jimmitchell.dev/2024/03/19/gotta-say-homepod.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/03/19/if-you-use.html",
+				
+				"content_html": "<p>If you use Micro.blog or WordPress to publish content and use the <a href=\"https://tinylytics.app\">Tinylytics</a> platform by <a href=\"https://social.lol/@vincentritter\">@vincentritter</a>, this is a reminder I have two plugins to make integrating with Tinylytics easier &ndash; one for <a href=\"https://micro.blog/account/plugins/view/101\">Micro.blog</a> and one for <a href=\"https://wordpress.org/plugins/jmitch-tinylytics/\">WordPress</a>. If you like either of them, show your love with a <a href=\"https://donate.stripe.com/bIY5nZdmPdem40M9AA\">donation</a>.</p>\n",
+				"content_text": "If you use Micro.blog or WordPress to publish content and use the [Tinylytics](https://tinylytics.app) platform by [@vincentritter](https://social.lol/@vincentritter), this is a reminder I have two plugins to make integrating with Tinylytics easier -- one for [Micro.blog](https://micro.blog/account/plugins/view/101) and one for [WordPress](https://wordpress.org/plugins/jmitch-tinylytics/). If you like either of them, show your love with a [donation](https://donate.stripe.com/bIY5nZdmPdem40M9AA).\n",
+				"date_published": "2024-03-19T07:27:20-07:00",
+				"url": "https://jimmitchell.dev/2024/03/19/if-you-use.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/03/18/i-took-a.html",
+				
+				"content_html": "<p>I took a break from Micro.blog while I worked on some WordPress stuff. That&rsquo;s all done now and I&rsquo;m happy to focus attention back here. There are so many awesome people in this community that it was hard to be away.</p>\n",
+				"content_text": "I took a break from Micro.blog while I worked on some WordPress stuff. That's all done now and I'm happy to focus attention back here. There are so many awesome people in this community that it was hard to be away.\n",
+				"date_published": "2024-03-18T13:26:13-07:00",
+				"url": "https://jimmitchell.dev/2024/03/18/i-took-a.html"
+			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/03/13/interestingly-after-starting.html",
 				
 				"content_html": "<p>Interestingly, after starting meds a couple of weeks ago, my eyesight seems to have suddenly gotten worse by a significant amount. My computer glasses are no longer working whereas they’ve been perfect for more than a year. 🤓</p>\n",
 				"content_text": "Interestingly, after starting meds a couple of weeks ago, my eyesight seems to have suddenly gotten worse by a significant amount. My computer glasses are no longer working whereas they’ve been perfect for more than a year. 🤓\n",
 				"date_published": "2024-03-13T09:55:51-07:00",
-				"url": "https://mb.jimmitchell.org/2024/03/13/interestingly-after-starting.html"
+				"url": "https://jimmitchell.dev/2024/03/13/interestingly-after-starting.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/03/12/by-nature-i.html",
@@ -20,7 +68,7 @@
 				"content_html": "<p>By nature, I am a procrastinator. I’ll let something sit until the 11th hour if I can. But when I finally do complete the task, there’s always such a sense of relief. Maybe I do it intentionally for the dopamine fix?</p>\n",
 				"content_text": "By nature, I am a procrastinator. I’ll let something sit until the 11th hour if I can. But when I finally do complete the task, there’s always such a sense of relief. Maybe I do it intentionally for the dopamine fix?\n",
 				"date_published": "2024-03-12T11:20:12-07:00",
-				"url": "https://mb.jimmitchell.org/2024/03/12/by-nature-i.html"
+				"url": "https://jimmitchell.dev/2024/03/12/by-nature-i.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/03/11/the-change-to.html",
@@ -28,7 +76,7 @@
 				"content_html": "<p>The change to daylight savings messes with me in the worst way; more so than most. I have no idea why&hellip; It&rsquo;s only an hour. Add stopping caffeine intake, and it&rsquo;s making it particularly difficult to adjust to this year. 🥱</p>\n",
 				"content_text": "The change to daylight savings messes with me in the worst way; more so than most. I have no idea why... It's only an hour. Add stopping caffeine intake, and it's making it particularly difficult to adjust to this year. 🥱\n",
 				"date_published": "2024-03-11T13:53:48-07:00",
-				"url": "https://mb.jimmitchell.org/2024/03/11/the-change-to.html"
+				"url": "https://jimmitchell.dev/2024/03/11/the-change-to.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/03/10/after-further-research.html",
@@ -36,7 +84,7 @@
 				"content_html": "<p>After further research on AFib, I&rsquo;ve come to the decision it&rsquo;s best to stop all alcohol and caffeine intake completely. There goes my last remaining vices. Beer, I will miss you dearly, especially the good IPAs. 🫡</p>\n",
 				"content_text": "After further research on AFib, I've come to the decision it's best to stop all alcohol and caffeine intake completely. There goes my last remaining vices. Beer, I will miss you dearly, especially the good IPAs. 🫡\n",
 				"date_published": "2024-03-10T10:11:15-07:00",
-				"url": "https://mb.jimmitchell.org/2024/03/10/after-further-research.html"
+				"url": "https://jimmitchell.dev/2024/03/10/after-further-research.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/03/08/i-am-happy.html",
@@ -44,7 +92,7 @@
 				"content_html": "<p>I am happy to report that after a week of very little caffeine and beer, and zero refined sugar, I feel 1,000% better than I did seven days ago.</p>\n",
 				"content_text": "I am happy to report that after a week of very little caffeine and beer, and zero refined sugar, I feel 1,000% better than I did seven days ago.\n",
 				"date_published": "2024-03-08T09:29:37-07:00",
-				"url": "https://mb.jimmitchell.org/2024/03/08/i-am-happy.html"
+				"url": "https://jimmitchell.dev/2024/03/08/i-am-happy.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/03/07/hot-on-the.html",
@@ -52,7 +100,7 @@
 				"content_html": "<p>Hot on the heels of updating my <a href=\"https://wordpress.org/plugins/jmitch-tinylytics/\">WordPress</a> plugin today, I also updated my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plugin to add the feature of being able to add a custom public stats link label if you use the footer embed. You should see the update available in your plugins list soon. Enjoy!</p>\n",
 				"content_text": "Hot on the heels of updating my [WordPress](https://wordpress.org/plugins/jmitch-tinylytics/) plugin today, I also updated my [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) plugin to add the feature of being able to add a custom public stats link label if you use the footer embed. You should see the update available in your plugins list soon. Enjoy!\n",
 				"date_published": "2024-03-07T19:10:33-07:00",
-				"url": "https://mb.jimmitchell.org/2024/03/07/hot-on-the.html"
+				"url": "https://jimmitchell.dev/2024/03/07/hot-on-the.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/03/06/im-considering-either.html",
@@ -60,7 +108,7 @@
 				"content_html": "<p>I’m considering either buying the new M3 MacBook Air 13” or the Mac mini, which is still only M2. Has anyone heard if the mini will be M3 soon?</p>\n",
 				"content_text": "I’m considering either buying the new M3 MacBook Air 13” or the Mac mini, which is still only M2. Has anyone heard if the mini will be M3 soon?\n",
 				"date_published": "2024-03-06T14:44:36-07:00",
-				"url": "https://mb.jimmitchell.org/2024/03/06/im-considering-either.html"
+				"url": "https://jimmitchell.dev/2024/03/06/im-considering-either.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/03/06/on-the-fragility.html",
@@ -68,7 +116,7 @@
 				"content_html": "<p>Events happen in our lives that make us do a full stop and give a long, hard look at how things are. This was one of those events that slapped me in the face so hard I&rsquo;m still having a hard time grasping it.</p>\n<p>About a week ago, I had a heart related event that sent me to the emergency room. It was serious enough that the doctor point blank told me it could have been deadly had I not paid attention to it.</p>\n<p>When I woke up at 3:30 am last Thursday, my heart was palpitating and racing at over 150 bpm. I thought for sure I was having a heart attack. I woke my wife and we sped to the closest ER (she drove).</p>\n<p>When the doctor examined me, my heart was in an state of Afib (<a href=\"https://www.mayoclinic.org/diseases-conditions/atrial-fibrillation/symptoms-causes/syc-20350624\">atrial fibrillation</a>). They pumped me full of drugs to bring my heart below 100 bpm and hopefully put me back into a sinus rhythm. They were able to get the heart rate down a little, but it fluctuated between 90 and 120 bpm for hours. They weren&rsquo;t able to get me back into a sinus rhythm either.</p>\n<p>Ultimately, I was admitted to the hospital. My heart finally went back into a sinus rhythm after 19 very exhausting hours. After several tests, the cardiologist was able to determine this is a defect I&rsquo;ve had all my life. I&rsquo;d had small episodes as long as I can remember, but never thought anything of it. It&rsquo;s forcing some big changes to my lifestyle. Thankfully, I&rsquo;m still here to write about it.</p>\n<p>The most terrible and heartbreaking part of this story is that another man, just a year younger than me (having overheard his age), was put into the ER bed right next to me complaining of excruciating back pain. Like me, he walked in under his own power. Within 30 minutes of arrival, he went unresponsive and ultimately passed away from heart failure. The ER staff worked furiously to bring him back for a long time. At one point he did resuscitate, but before they could get him to the ICU, he crashed again. There was nothing they could do for this man. So tragic.</p>\n<p>This all happened right next to my wife and I before we knew what was going on with my own heart. It scared the living shit out of both of us, and I&rsquo;ll never, ever forget it.</p>\n<p>Life is <em>really</em> fucking short and can be taken from you in a heartbeat &ndash; literally.</p>\n<p>I should not be living to work. I should be working to live a full life with &ndash; and for &ndash; those most important to me. It&rsquo;s easy to get wrapped up in a career. To hell with that now! Family and friends are what matter. And so does living a life that makes a difference to them. It took nearly six decades to see it clearly. I&rsquo;m grateful I was shown the lesson with enough time to do something about it.</p>\n<p>No matter what, hold your loved ones close. Let them know you love them every day. Patch the broken relationships even though it&rsquo;s hard. Live each day with gratitude and wonder, because you could be gone in a matter of moments.</p>",
 				"content_text": "Events happen in our lives that make us do a full stop and give a long, hard look at how things are. This was one of those events that slapped me in the face so hard I'm still having a hard time grasping it.<!--more-->\n\nAbout a week ago, I had a heart related event that sent me to the emergency room. It was serious enough that the doctor point blank told me it could have been deadly had I not paid attention to it.\n\nWhen I woke up at 3:30 am last Thursday, my heart was palpitating and racing at over 150 bpm. I thought for sure I was having a heart attack. I woke my wife and we sped to the closest ER (she drove).\n\nWhen the doctor examined me, my heart was in an state of Afib ([atrial fibrillation](https://www.mayoclinic.org/diseases-conditions/atrial-fibrillation/symptoms-causes/syc-20350624)). They pumped me full of drugs to bring my heart below 100 bpm and hopefully put me back into a sinus rhythm. They were able to get the heart rate down a little, but it fluctuated between 90 and 120 bpm for hours. They weren't able to get me back into a sinus rhythm either.\n\nUltimately, I was admitted to the hospital. My heart finally went back into a sinus rhythm after 19 very exhausting hours. After several tests, the cardiologist was able to determine this is a defect I've had all my life. I'd had small episodes as long as I can remember, but never thought anything of it. It's forcing some big changes to my lifestyle. Thankfully, I'm still here to write about it.\n\nThe most terrible and heartbreaking part of this story is that another man, just a year younger than me (having overheard his age), was put into the ER bed right next to me complaining of excruciating back pain. Like me, he walked in under his own power. Within 30 minutes of arrival, he went unresponsive and ultimately passed away from heart failure. The ER staff worked furiously to bring him back for a long time. At one point he did resuscitate, but before they could get him to the ICU, he crashed again. There was nothing they could do for this man. So tragic.\n\nThis all happened right next to my wife and I before we knew what was going on with my own heart. It scared the living shit out of both of us, and I'll never, ever forget it.\n\nLife is _really_ fucking short and can be taken from you in a heartbeat -- literally.\n\nI should not be living to work. I should be working to live a full life with -- and for -- those most important to me. It's easy to get wrapped up in a career. To hell with that now! Family and friends are what matter. And so does living a life that makes a difference to them. It took nearly six decades to see it clearly. I'm grateful I was shown the lesson with enough time to do something about it.\n\nNo matter what, hold your loved ones close. Let them know you love them every day. Patch the broken relationships even though it's hard. Live each day with gratitude and wonder, because you could be gone in a matter of moments.\n",
 				"date_published": "2024-03-06T11:46:43-07:00",
-				"url": "https://mb.jimmitchell.org/2024/03/06/on-the-fragility.html"
+				"url": "https://jimmitchell.dev/2024/03/06/on-the-fragility.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/03/01/add-me-to.html",
@@ -76,15 +124,15 @@
 				"content_html": "<p>Add me to the list of Apple Watch wearers who were saved from a life threatening event. My watch alerted me to an AFib event that sent me to the ER yesterday. The cardiologist told me if I’d ignored the warning, it might have lead to a stroke, or even death. A sobering 24 hours to say the least&hellip;</p>\n",
 				"content_text": "Add me to the list of Apple Watch wearers who were saved from a life threatening event. My watch alerted me to an AFib event that sent me to the ER yesterday. The cardiologist told me if I’d ignored the warning, it might have lead to a stroke, or even death. A sobering 24 hours to say the least...\n",
 				"date_published": "2024-03-01T15:37:16-07:00",
-				"url": "https://mb.jimmitchell.org/2024/03/01/add-me-to.html"
+				"url": "https://jimmitchell.dev/2024/03/01/add-me-to.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/02/26/visited-the-lowest.html",
 				
 				"content_html": "<p>📷 Visited the lowest bar in the western hemisphere last weekend in Bombay Beach, CA which sits nearly 200 feet below sea level. Beers were had.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Visited the lowest bar in the western hemisphere last weekend in Bombay Beach, CA which sits nearly 200 feet below sea level. Beers were had.\n\n<img src=\"uploads/2024/6fbfbcd596.jpg\" width=\"600\" height=\"450\" alt=\"The Ski Inn roadside sign, which is the lowest elevation bar in the western hemisphere, sitting nearly 200 feet below sea level.\">\n",
+				"content_text": "📷 Visited the lowest bar in the western hemisphere last weekend in Bombay Beach, CA which sits nearly 200 feet below sea level. Beers were had.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/6fbfbcd596.jpg\" width=\"600\" height=\"450\" alt=\"The Ski Inn roadside sign, which is the lowest elevation bar in the western hemisphere, sitting nearly 200 feet below sea level.\">\n",
 				"date_published": "2024-02-26T10:42:30-07:00",
-				"url": "https://mb.jimmitchell.org/2024/02/26/visited-the-lowest.html",
+				"url": "https://jimmitchell.dev/2024/02/26/visited-the-lowest.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -93,7 +141,7 @@
 				"content_html": "<p>Interested in seeing what Tinylytics for WordPress looks like installed and activated in a WordPress site without spinning one up of your own? Check it out in this <a href=\"https://playground.wordpress.net/#%7B%22landingPage%22:%22/wp-admin/admin.php?page=jmitch-tinylytics%22,%22preferredVersions%22:%7B%22php%22:%228.3%22,%22wp%22:%226.4.3%22%7D,%22steps%22:%5B%7B%22step%22:%22installPlugin%22,%22pluginZipFile%22:%7B%22resource%22:%22wordpress.org/plugins%22,%22slug%22:%22jmitch-tinylytics%22%7D%7D,%7B%22step%22:%22login%22,%22username%22:%22admin%22,%22password%22:%22password%22%7D%5D%7D\">WordPress playground</a>. You&rsquo;ll dig it!</p>\n",
 				"content_text": "Interested in seeing what Tinylytics for WordPress looks like installed and activated in a WordPress site without spinning one up of your own? Check it out in this [WordPress playground](https://playground.wordpress.net/#{%22landingPage%22:%22/wp-admin/admin.php?page=jmitch-tinylytics%22,%22preferredVersions%22:{%22php%22:%228.3%22,%22wp%22:%226.4.3%22},%22steps%22:[{%22step%22:%22installPlugin%22,%22pluginZipFile%22:{%22resource%22:%22wordpress.org/plugins%22,%22slug%22:%22jmitch-tinylytics%22}},{%22step%22:%22login%22,%22username%22:%22admin%22,%22password%22:%22password%22}]}). You'll dig it!\n",
 				"date_published": "2024-02-20T13:58:49-07:00",
-				"url": "https://mb.jimmitchell.org/2024/02/20/interested-in-seeing.html"
+				"url": "https://jimmitchell.dev/2024/02/20/interested-in-seeing.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/02/17/ive-been-away.html",
@@ -101,7 +149,7 @@
 				"content_html": "<p>I&rsquo;ve been away from Micro.blog for a bit&hellip; Dropping in to share that I&rsquo;ve updated my <a href=\"https://jimmitchell.org/tinylytics-wp-plugin/\">Tinylytics for WordPress</a> plugin to <del>v1.0.4</del> v1.0.6, fixing some minor bugs. If you use it on your WordPress site, update in your plugin dashboard at your convenience.</p>\n",
 				"content_text": "I've been away from Micro.blog for a bit... Dropping in to share that I've updated my [Tinylytics for WordPress](https://jimmitchell.org/tinylytics-wp-plugin/) plugin to ~~v1.0.4~~ v1.0.6, fixing some minor bugs. If you use it on your WordPress site, update in your plugin dashboard at your convenience.\n",
 				"date_published": "2024-02-17T10:48:42-07:00",
-				"url": "https://mb.jimmitchell.org/2024/02/17/ive-been-away.html"
+				"url": "https://jimmitchell.dev/2024/02/17/ive-been-away.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/02/01/after-decades-as.html",
@@ -109,7 +157,7 @@
 				"content_html": "<p>After <em>decades</em> as a Mac user, I <em>just now</em> discovered <strong>cmd + =</strong> (cmd + equals) and <strong>cmd + -</strong> (cmd + minus) increase and decrease icon preview sizes in a Finder window. Where the heck have I been? 🤯</p>\n",
 				"content_text": "After _decades_ as a Mac user, I _just now_ discovered **cmd + =** (cmd + equals) and **cmd + -** (cmd + minus) increase and decrease icon preview sizes in a Finder window. Where the heck have I been? 🤯\n",
 				"date_published": "2024-02-01T14:50:56-07:00",
-				"url": "https://mb.jimmitchell.org/2024/02/01/after-decades-as.html"
+				"url": "https://jimmitchell.dev/2024/02/01/after-decades-as.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/01/29/woohoo-surprised-to.html",
@@ -117,7 +165,7 @@
 				"content_html": "<p>Woohoo! Surprised to have gotten the initial email from the WordPress plugin review team on my Tinylytics plugin today. Lots of things to fix, but they’re all pretty simple. TBH, the review came back better than I thought it would for being my first attempt at a WordPress plugin.</p>\n",
 				"content_text": "Woohoo! Surprised to have gotten the initial email from the WordPress plugin review team on my Tinylytics plugin today. Lots of things to fix, but they’re all pretty simple. TBH, the review came back better than I thought it would for being my first attempt at a WordPress plugin.\n",
 				"date_published": "2024-01-29T12:20:23-07:00",
-				"url": "https://mb.jimmitchell.org/2024/01/29/woohoo-surprised-to.html"
+				"url": "https://jimmitchell.dev/2024/01/29/woohoo-surprised-to.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/01/26/i-type-abuse.html",
@@ -125,7 +173,7 @@
 				"content_html": "<p>I type (abuse) ellipses so much, my keyboard at work has taken to adding double periods to sentences for me, forcing me to delete one of the periods.. Or maybe it&rsquo;s simply encouraging me to end all of my sentences with an ellipsis? One may never know&hellip;</p>\n",
 				"content_text": "I type (abuse) ellipses so much, my keyboard at work has taken to adding double periods to sentences for me, forcing me to delete one of the periods.. Or maybe it's simply encouraging me to end all of my sentences with an ellipsis? One may never know...\n",
 				"date_published": "2024-01-26T14:27:24-07:00",
-				"url": "https://mb.jimmitchell.org/2024/01/26/i-type-abuse.html"
+				"url": "https://jimmitchell.dev/2024/01/26/i-type-abuse.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/01/24/i-think-ive.html",
@@ -133,7 +181,7 @@
 				"content_html": "<p>I think I&rsquo;ve managed to catch the domain-itis bug from <a href=\"https://micro.blog/vincent\">@vincent</a>. I just purchased the jimmitchell.dev domain on impulse. Is there a cure?</p>\n",
 				"content_text": "I think I've managed to catch the domain-itis bug from [@vincent](https://micro.blog/vincent). I just purchased the jimmitchell.dev domain on impulse. Is there a cure?\n",
 				"date_published": "2024-01-24T08:22:24-07:00",
-				"url": "https://mb.jimmitchell.org/2024/01/24/i-think-ive.html"
+				"url": "https://jimmitchell.dev/2024/01/24/i-think-ive.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/01/23/well-friends-im.html",
@@ -141,7 +189,7 @@
 				"content_html": "<p>Well friends, I’m sorry to report — or maybe I’m relieved to report — that Project Yeard has officially terminated at the fourth month. The last two weeks have been a challenge, but I waited until a good beard day before doing the chop to be sure of my choice. It was the right one to make.</p>\n",
 				"content_text": "Well friends, I’m sorry to report — or maybe I’m relieved to report — that Project Yeard has officially terminated at the fourth month. The last two weeks have been a challenge, but I waited until a good beard day before doing the chop to be sure of my choice. It was the right one to make.\n",
 				"date_published": "2024-01-23T20:33:34-07:00",
-				"url": "https://mb.jimmitchell.org/2024/01/23/well-friends-im.html"
+				"url": "https://jimmitchell.dev/2024/01/23/well-friends-im.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/01/18/thirteen-calendar-items.html",
@@ -149,7 +197,7 @@
 				"content_html": "<p>Thirteen calendar items for a Friday (tomorrow). 😳 Frack me&hellip;</p>\n",
 				"content_text": "Thirteen calendar items for a Friday (tomorrow). 😳 Frack me...\n",
 				"date_published": "2024-01-18T10:36:50-07:00",
-				"url": "https://mb.jimmitchell.org/2024/01/18/thirteen-calendar-items.html"
+				"url": "https://jimmitchell.dev/2024/01/18/thirteen-calendar-items.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/01/17/for-months-ive.html",
@@ -157,7 +205,7 @@
 				"content_html": "<p>For months I&rsquo;ve been perplexed by messages in the Mail app inbox on my iPhone inexplicably moving to the trash. I finally figured it out&hellip; The palm pad of my left hand at the index finger sometimes &ldquo;taps&rdquo; the trash icon as I move to turn off the phone, moving the message just before powering down. 🤯</p>\n",
 				"content_text": "For months I've been perplexed by messages in the Mail app inbox on my iPhone inexplicably moving to the trash. I finally figured it out... The palm pad of my left hand at the index finger sometimes \"taps\" the trash icon as I move to turn off the phone, moving the message just before powering down. 🤯\n",
 				"date_published": "2024-01-17T12:29:26-07:00",
-				"url": "https://mb.jimmitchell.org/2024/01/17/for-months-ive.html"
+				"url": "https://jimmitchell.dev/2024/01/17/for-months-ive.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/01/16/i-submitted-my.html",
@@ -165,7 +213,7 @@
 				"content_html": "<p>I submitted my Tinylytics plugin for WordPress to the plugin repository for review yesterday. It’s going to take nearly two months before they&rsquo;ll be able to get around to reviewing it due to the sheer number of plugins already waiting in the queue. That&rsquo;s just nuts&hellip;</p>\n",
 				"content_text": "I submitted my Tinylytics plugin for WordPress to the plugin repository for review yesterday. It’s going to take nearly two months before they'll be able to get around to reviewing it due to the sheer number of plugins already waiting in the queue. That's just nuts...\n",
 				"date_published": "2024-01-16T21:11:02-07:00",
-				"url": "https://mb.jimmitchell.org/2024/01/16/i-submitted-my.html"
+				"url": "https://jimmitchell.dev/2024/01/16/i-submitted-my.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/01/16/easypeasy-new-xyz.html",
@@ -173,7 +221,7 @@
 				"content_html": "<p>Easy-peasy&hellip; New .xyz domain updated on Micro.blog. Old .org domain redirecting to new one using ForwardDomain.net. iCloud custom email domain added. And finally, I un-aliased (de-aliased?) my M.b ActivityPub username from my Mastodon username since, well, a new cooler domain and all.</p>\n",
 				"content_text": "Easy-peasy... New .xyz domain updated on Micro.blog. Old .org domain redirecting to new one using ForwardDomain.net. iCloud custom email domain added. And finally, I un-aliased (de-aliased?) my M.b ActivityPub username from my Mastodon username since, well, a new cooler domain and all.\n",
 				"date_published": "2024-01-16T17:01:46-07:00",
-				"url": "https://mb.jimmitchell.org/2024/01/16/easypeasy-new-xyz.html"
+				"url": "https://jimmitchell.dev/2024/01/16/easypeasy-new-xyz.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/01/16/meh-forget-the.html",
@@ -181,7 +229,7 @@
 				"content_html": "<p>Meh. Forget the jimmitchell.net top-level domain&hellip; The squatters can have it. I was able to register jimmitchell.xyz for a decent price. It&rsquo;s way cooler.</p>\n",
 				"content_text": "Meh. Forget the jimmitchell.net top-level domain... The squatters can have it. I was able to register jimmitchell.xyz for a decent price. It's way cooler.\n",
 				"date_published": "2024-01-16T13:54:51-07:00",
-				"url": "https://mb.jimmitchell.org/2024/01/16/meh-forget-the.html"
+				"url": "https://jimmitchell.dev/2024/01/16/meh-forget-the.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/01/16/it-appears-the.html",
@@ -189,7 +237,7 @@
 				"content_html": "<p>It appears the coveted domain acquisition will not happen despite my best efforts. Why? The current holder has decided money is more important and would rather auction it off to squatters than sell it to someone who actually has a use for it. I&rsquo;m not paying 4-figures for a domain.</p>\n<p>Yay capitalism&hellip;</p>\n",
 				"content_text": "It appears the coveted domain acquisition will not happen despite my best efforts. Why? The current holder has decided money is more important and would rather auction it off to squatters than sell it to someone who actually has a use for it. I'm not paying 4-figures for a domain.\n\nYay capitalism...\n",
 				"date_published": "2024-01-16T12:40:22-07:00",
-				"url": "https://mb.jimmitchell.org/2024/01/16/it-appears-the.html"
+				"url": "https://jimmitchell.dev/2024/01/16/it-appears-the.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/01/16/take-two-im.html",
@@ -197,7 +245,7 @@
 				"content_html": "<p>Take two&hellip; I&rsquo;m super-stoked to finally share that my <a href=\"https://jimmitchell.org/tinylytics-wp-plugin/\">Tinylytics</a> plugin for WordPress is available for download from my main site, <a href=\"https://jimmitchell.org\">jimmitchell.org</a>. If you have a WordPress site and have wanted to track your analytics using the awesome privacy-focused Tinylytics service, this plugin is for you.</p>\n",
 				"content_text": "Take two... I'm super-stoked to finally share that my [Tinylytics](https://jimmitchell.org/tinylytics-wp-plugin/) plugin for WordPress is available for download from my main site, [jimmitchell.org](https://jimmitchell.org). If you have a WordPress site and have wanted to track your analytics using the awesome privacy-focused Tinylytics service, this plugin is for you.\n",
 				"date_published": "2024-01-16T08:11:37-07:00",
-				"url": "https://mb.jimmitchell.org/2024/01/16/take-two-im.html"
+				"url": "https://jimmitchell.dev/2024/01/16/take-two-im.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/01/08/incoming-rant-alert.html",
@@ -205,7 +253,7 @@
 				"content_html": "<p>Incoming rant alert&hellip;</p>\n<p>Want to know how much I hate email replies that simply say &ldquo;thank you&rdquo; in the body and nothing else? I can&rsquo;t think of anything I dislike more, that&rsquo;s how much.</p>\n<p>Thanks for listening. Now carry on&hellip;</p>\n",
 				"content_text": "Incoming rant alert...\n\nWant to know how much I hate email replies that simply say \"thank you\" in the body and nothing else? I can't think of anything I dislike more, that's how much.\n\nThanks for listening. Now carry on...\n",
 				"date_published": "2024-01-08T15:04:45-07:00",
-				"url": "https://mb.jimmitchell.org/2024/01/08/incoming-rant-alert.html"
+				"url": "https://jimmitchell.dev/2024/01/08/incoming-rant-alert.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/01/07/my-wife-and.html",
@@ -213,7 +261,7 @@
 				"content_html": "<p>My wife and I just laid the ground rules for a monthly date night to break us out of the ruts we let ourselves get into. Dinner at a place we’ve never been to, and then at least the first set of a band somewhere, no matter how bad they might be.</p>\n",
 				"content_text": "My wife and I just laid the ground rules for a monthly date night to break us out of the ruts we let ourselves get into. Dinner at a place we’ve never been to, and then at least the first set of a band somewhere, no matter how bad they might be.\n",
 				"date_published": "2024-01-07T09:52:23-07:00",
-				"url": "https://mb.jimmitchell.org/2024/01/07/my-wife-and.html"
+				"url": "https://jimmitchell.dev/2024/01/07/my-wife-and.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/01/06/i-decided-to.html",
@@ -221,7 +269,7 @@
 				"content_html": "<p>I decided to go all in on an <a href=\"https://www.arqbackup.com/pricing/\">Arq premium subscription</a> today. Being able to backup up to five computers for only $10 more a year sold me. Arq is so unobtrusive that I forgot I was backing stuff up until the trial expired.</p>\n",
 				"content_text": "I decided to go all in on an [Arq premium subscription](https://www.arqbackup.com/pricing/) today. Being able to backup up to five computers for only $10 more a year sold me. Arq is so unobtrusive that I forgot I was backing stuff up until the trial expired.\n",
 				"date_published": "2024-01-06T18:23:21-07:00",
-				"url": "https://mb.jimmitchell.org/2024/01/06/i-decided-to.html"
+				"url": "https://jimmitchell.dev/2024/01/06/i-decided-to.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/01/05/still-trying-to.html",
@@ -229,7 +277,7 @@
 				"content_html": "<p>Still trying to get my hands on the long-coveted domain from the other Jim Mitchell (.net TLD for those curious), but it&rsquo;s dragged out long enough that I&rsquo;m about to throw in the towel. There&rsquo;s something about .net versus .org that lends nerd cred to a domain name which is why I covet it so badly.</p>\n",
 				"content_text": "Still trying to get my hands on the long-coveted domain from the other Jim Mitchell (.net TLD for those curious), but it's dragged out long enough that I'm about to throw in the towel. There's something about .net versus .org that lends nerd cred to a domain name which is why I covet it so badly.\n",
 				"date_published": "2024-01-05T08:57:12-07:00",
-				"url": "https://mb.jimmitchell.org/2024/01/05/still-trying-to.html"
+				"url": "https://jimmitchell.dev/2024/01/05/still-trying-to.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/01/02/every-new-year.html",
@@ -237,7 +285,7 @@
 				"content_html": "<p>Every new year I tell myself &ldquo;<em>This will be the year I stop eating lunches at my desk</em>&rdquo;, and every year I&rsquo;ve ended up failing on the very first day back in the office. This year was no exception. At least I&rsquo;m consistent in my failings.</p>\n",
 				"content_text": "Every new year I tell myself \"_This will be the year I stop eating lunches at my desk_\", and every year I've ended up failing on the very first day back in the office. This year was no exception. At least I'm consistent in my failings.\n",
 				"date_published": "2024-01-02T13:47:58-07:00",
-				"url": "https://mb.jimmitchell.org/2024/01/02/every-new-year.html"
+				"url": "https://jimmitchell.dev/2024/01/02/every-new-year.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/01/01/project-yeard-december.html",
@@ -245,15 +293,15 @@
 				"content_html": "<p>Project Yeard <a href=\"https://jimmitchell.org/project-yeard/#2023-12\">December update</a> added to the progress page&hellip;</p>\n",
 				"content_text": "Project Yeard [December update](https://jimmitchell.org/project-yeard/#2023-12) added to the progress page...\n",
 				"date_published": "2024-01-01T15:39:18-07:00",
-				"url": "https://mb.jimmitchell.org/2024/01/01/project-yeard-december.html"
+				"url": "https://jimmitchell.dev/2024/01/01/project-yeard-december.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/31/happy-new-year.html",
 				
 				"content_html": "<p>📷 Happy New Year from the top of SoCal!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Happy New Year from the top of SoCal!\n\n<img src=\"uploads/2024/d582735b70.jpg\" width=\"600\" height=\"450\" alt=\"A view of Palm Springs at night from the tramway restaurant on Mt. San Jacinto.\">\n",
+				"content_text": "📷 Happy New Year from the top of SoCal!\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/d582735b70.jpg\" width=\"600\" height=\"450\" alt=\"A view of Palm Springs at night from the tramway restaurant on Mt. San Jacinto.\">\n",
 				"date_published": "2023-12-31T19:54:34-07:00",
-				"url": "https://mb.jimmitchell.org/2023/12/31/happy-new-year.html",
+				"url": "https://jimmitchell.dev/2023/12/31/happy-new-year.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -262,7 +310,7 @@
 				"content_html": "<p>I&rsquo;m beginning the new year (a tad early) with a plan to read the LOTR storyline, starting with <em>The Silmarillion</em>. I&rsquo;m a fan of the movies and read <em>The Hobbit</em> some 20 years ago, so I decided now was as good a time as any to tackle the task of actually reading all the books.</p>\n",
 				"content_text": "I'm beginning the new year (a tad early) with a plan to read the LOTR storyline, starting with _The Silmarillion_. I'm a fan of the movies and read _The Hobbit_ some 20 years ago, so I decided now was as good a time as any to tackle the task of actually reading all the books.\n",
 				"date_published": "2023-12-31T10:02:17-07:00",
-				"url": "https://mb.jimmitchell.org/2023/12/31/im-beginning-the.html"
+				"url": "https://jimmitchell.dev/2023/12/31/im-beginning-the.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/30/new-theme-for.html",
@@ -270,7 +318,7 @@
 				"content_html": "<p>New theme for my site completed and installed. I like where it ended up. In total, less than 250 lines of CSS, including style reset and comments. I still have to add a dark mode media query, but that&rsquo;s a small task for later.</p>\n",
 				"content_text": "New theme for my site completed and installed. I like where it ended up. In total, less than 250 lines of CSS, including style reset and comments. I still have to add a dark mode media query, but that's a small task for later.\n",
 				"date_published": "2023-12-30T14:35:55-07:00",
-				"url": "https://mb.jimmitchell.org/2023/12/30/new-theme-for.html"
+				"url": "https://jimmitchell.dev/2023/12/30/new-theme-for.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/29/todays-challenge-create.html",
@@ -278,7 +326,7 @@
 				"content_html": "<p>Today&rsquo;s challenge: Create a new responsive Micro.blog theme for my site using as little CSS as possible. I&rsquo;m liking where this is going&hellip;</p>\n",
 				"content_text": "Today's challenge: Create a new responsive Micro.blog theme for my site using as little CSS as possible. I'm liking where this is going...\n",
 				"date_published": "2023-12-29T11:05:31-07:00",
-				"url": "https://mb.jimmitchell.org/2023/12/29/todays-challenge-create.html"
+				"url": "https://jimmitchell.dev/2023/12/29/todays-challenge-create.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/28/i-just-released.html",
@@ -286,31 +334,31 @@
 				"content_html": "<p>I just released a minor update to my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plugin that refactors some logic, squishes a couple small bugs and updates display labels. Look for v3.1.1 in your plugins area soon. If you want to see what changed specifically, check out the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/pull/33/files\">pull request</a> on Github.</p>\n",
 				"content_text": "I just released a minor update to my [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) plugin that refactors some logic, squishes a couple small bugs and updates display labels. Look for v3.1.1 in your plugins area soon. If you want to see what changed specifically, check out the [pull request](https://github.com/jimmitchell/Tinylytics-for-Micro.blog/pull/33/files) on Github.\n",
 				"date_published": "2023-12-28T15:01:59-07:00",
-				"url": "https://mb.jimmitchell.org/2023/12/28/i-just-released.html"
+				"url": "https://jimmitchell.dev/2023/12/28/i-just-released.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/25/our-holiday-tradition.html",
 				
 				"content_html": "<p>Our Holiday tradition… A pot of homemade Christmas chili.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our Holiday tradition… A pot of homemade Christmas chili.\n\n<img src=\"uploads/2023/5e41652e8f.jpg\" width=\"600\" height=\"450\" alt=\"A bowl of homemade chili with cheese, a dollop of sour cream and jalapenos on a holiday placemat. A spoon sits to the left of the bowl.\">\n",
+				"content_text": "Our Holiday tradition… A pot of homemade Christmas chili.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/5e41652e8f.jpg\" width=\"600\" height=\"450\" alt=\"A bowl of homemade chili with cheese, a dollop of sour cream and jalapenos on a holiday placemat. A spoon sits to the left of the bowl.\">\n",
 				"date_published": "2023-12-25T18:18:48-07:00",
-				"url": "https://mb.jimmitchell.org/2023/12/25/our-holiday-tradition.html"
+				"url": "https://jimmitchell.dev/2023/12/25/our-holiday-tradition.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/24/yep-i-had.html",
 				
 				"content_html": "<p>Yep&hellip; I had to get in on it too. My bass-playing Funko Box alter ego.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yep... I had to get in on it too. My bass-playing Funko Box alter ego.\n\n<img src=\"uploads/2023/funko-jimmitchell.jpeg\" alt=\"Jim Mitchell as a bass-playing Funko character\" title=\"Funko-JimMitchell.jpeg\" border=\"0\" width=\"700\" height=\"700\" />\n",
+				"content_text": "Yep... I had to get in on it too. My bass-playing Funko Box alter ego.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/funko-jimmitchell.jpeg\" alt=\"Jim Mitchell as a bass-playing Funko character\" title=\"Funko-JimMitchell.jpeg\" border=\"0\" width=\"700\" height=\"700\" />\n",
 				"date_published": "2023-12-24T18:30:30-07:00",
-				"url": "https://mb.jimmitchell.org/2023/12/24/yep-i-had.html"
+				"url": "https://jimmitchell.dev/2023/12/24/yep-i-had.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/22/a-fresh-start.html",
 				"title": "A Fresh Start",
-				"content_html": "<p>I&rsquo;ve relaunched <a href=\"https://jimmitchellmedia.net\">jimmitchellmedia.net</a> on the WordPress platform to have a space for my <!-- raw HTML omitted -->WP Tinylytics<!-- raw HTML omitted --> plugin. I&rsquo;ll be using the site to &ldquo;eat my own dog food&rdquo; as they say while I develop the plugin for public use. The goal is to eventually make it available in the WordPress plugin repository.</p>\n<p>If you&rsquo;d like to help test, get in touch using my <!-- raw HTML omitted -->contact form<!-- raw HTML omitted --> over there.</p>",
-				"content_text": "I've relaunched [jimmitchellmedia.net](https://jimmitchellmedia.net) on the WordPress platform to have a space for my <a href=\"https://jimmitchellmedia.net/wp-tinylytics-plugin/\">WP Tinylytics</a> plugin. I'll be using the site to \"eat my own dog food\" as they say while I develop the plugin for public use. The goal is to eventually make it available in the WordPress plugin repository.<!--more-->\n\nIf you'd like to help test, get in touch using my <a href=\"https://jimmitchellmedia.net/contact/\">contact form</a> over there.\n",
+				"content_html": "<p>I&rsquo;ve relaunched <a href=\"https://jimmitchell.org\">jimmitchell.org</a> on the WordPress platform to have a space for my <!-- raw HTML omitted -->WP Tinylytics<!-- raw HTML omitted --> plugin. I&rsquo;ll be using the site to &ldquo;eat my own dog food&rdquo; as they say while I develop the plugin for public use. The goal is to eventually make it available in the WordPress plugin repository.</p>\n<p>If you&rsquo;d like to help test, get in touch using my <!-- raw HTML omitted -->contact form<!-- raw HTML omitted --> over there.</p>",
+				"content_text": "I've relaunched [jimmitchell.org](https://jimmitchell.org) on the WordPress platform to have a space for my <a href=\"https://jimmitchell.org/tinylytics-wp-plugin/\">WP Tinylytics</a> plugin. I'll be using the site to \"eat my own dog food\" as they say while I develop the plugin for public use. The goal is to eventually make it available in the WordPress plugin repository.<!--more-->\n\nIf you'd like to help test, get in touch using my <a href=\"https://jimmitchell.org/contact/\">contact form</a> over there.\n",
 				"date_published": "2023-12-22T11:12:20-07:00",
-				"url": "https://mb.jimmitchell.org/2023/12/22/a-fresh-start.html"
+				"url": "https://jimmitchell.dev/2023/12/22/a-fresh-start.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/21/super-excited-to.html",
@@ -318,7 +366,7 @@
 				"content_html": "<p>Super excited to share that I’ve got a full functioning WordPress plugin for Tinylytics committed to its dev repository. If you have a WordPress site too, and want to give it a spin, hit me up.</p>\n",
 				"content_text": "Super excited to share that I’ve got a full functioning WordPress plugin for Tinylytics committed to its dev repository. If you have a WordPress site too, and want to give it a spin, hit me up.\n",
 				"date_published": "2023-12-21T06:37:12-07:00",
-				"url": "https://mb.jimmitchell.org/2023/12/21/super-excited-to.html"
+				"url": "https://jimmitchell.dev/2023/12/21/super-excited-to.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/17/got-a-basic.html",
@@ -326,7 +374,7 @@
 				"content_html": "<p>Got a basic POC WordPress plugin for Tinylytics working in my dev environment this morning. Might put a little more effort into it over the next few weeks, but I’m really looking to unplug until after the first of the year. Progress though, and that’s all that counts.</p>\n",
 				"content_text": "Got a basic POC WordPress plugin for Tinylytics working in my dev environment this morning. Might put a little more effort into it over the next few weeks, but I’m really looking to unplug until after the first of the year. Progress though, and that’s all that counts.\n",
 				"date_published": "2023-12-17T15:39:58-07:00",
-				"url": "https://mb.jimmitchell.org/2023/12/17/got-a-basic.html"
+				"url": "https://jimmitchell.dev/2023/12/17/got-a-basic.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/15/mission-accomplished-all.html",
@@ -334,7 +382,7 @@
 				"content_html": "<p>Mission accomplished. 🎉 All projects have been successfully deployed to production environments ahead of the end of year code freeze on Monday. A total grind over the last three months to get here, but it’s paid off. Encouraged to know there is not one thing on the agenda for tomorrow.</p>\n",
 				"content_text": "Mission accomplished. 🎉 All projects have been successfully deployed to production environments ahead of the end of year code freeze on Monday. A total grind over the last three months to get here, but it’s paid off. Encouraged to know there is not one thing on the agenda for tomorrow.\n",
 				"date_published": "2023-12-15T16:01:41-07:00",
-				"url": "https://mb.jimmitchell.org/2023/12/15/mission-accomplished-all.html"
+				"url": "https://jimmitchell.dev/2023/12/15/mission-accomplished-all.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/13/ive-been-coveting.html",
@@ -342,7 +390,7 @@
 				"content_html": "<p>I&rsquo;ve been coveting a particular domain name for almost 25 years. After asking a few times over the last six, I&rsquo;ve finally gotten the current owner to agree to sell it to me. The waiting to finalize the deal is killing me. I really, really, really want this domain&hellip;</p>\n",
 				"content_text": "I've been coveting a particular domain name for almost 25 years. After asking a few times over the last six, I've finally gotten the current owner to agree to sell it to me. The waiting to finalize the deal is killing me. I really, really, really want this domain...\n",
 				"date_published": "2023-12-13T16:06:58-07:00",
-				"url": "https://mb.jimmitchell.org/2023/12/13/ive-been-coveting.html"
+				"url": "https://jimmitchell.dev/2023/12/13/ive-been-coveting.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/12/dragging-a-crapton.html",
@@ -350,24 +398,24 @@
 				"content_html": "<p>Dragging a crap-ton of <a href=\"https://defaults.rknight.me/\">RSS feeds</a> from an OPML file import into a folder all at once?</p>\n<ul>\n<li>NetNewsWire: 1</li>\n<li>Reeder: 0</li>\n</ul>\n",
 				"content_text": "Dragging a crap-ton of [RSS feeds](https://defaults.rknight.me/) from an OPML file import into a folder all at once?\n\n- NetNewsWire: 1\n- Reeder: 0\n",
 				"date_published": "2023-12-12T17:17:04-07:00",
-				"url": "https://mb.jimmitchell.org/2023/12/12/dragging-a-crapton.html"
+				"url": "https://jimmitchell.dev/2023/12/12/dragging-a-crapton.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/08/bear-with-me.html",
 				
 				"content_html": "<p>📷 Bear with me a minute…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Bear with me a minute…\n\n<img src=\"uploads/2023/a5c081b58c.jpg\" width=\"450\" height=\"600\" alt=\"Close up of a carved bear likeness.\">\n",
+				"content_text": "📷 Bear with me a minute…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/a5c081b58c.jpg\" width=\"450\" height=\"600\" alt=\"Close up of a carved bear likeness.\">\n",
 				"date_published": "2023-12-08T15:25:00-07:00",
-				"url": "https://mb.jimmitchell.org/2023/12/08/bear-with-me.html",
+				"url": "https://jimmitchell.dev/2023/12/08/bear-with-me.html",
 				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/07/campground-peacock.html",
 				
 				"content_html": "<p>📷 Campground peacock.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Campground peacock.\n\n<img src=\"uploads/2023/b7f77d8082.jpg\" width=\"600\" height=\"450\" alt=\"Peacock roaming our campsite.\">\n",
+				"content_text": "📷 Campground peacock.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/b7f77d8082.jpg\" width=\"600\" height=\"450\" alt=\"Peacock roaming our campsite.\">\n",
 				"date_published": "2023-12-07T18:23:08-07:00",
-				"url": "https://mb.jimmitchell.org/2023/12/07/campground-peacock.html",
+				"url": "https://jimmitchell.dev/2023/12/07/campground-peacock.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -376,7 +424,7 @@
 				"content_html": "<p>I don’t know why this just came to my mind, but I would absolutely love to have a Six Million Dollar Man metal lunchbox to bring my lunches to work in…</p>\n",
 				"content_text": "I don’t know why this just came to my mind, but I would absolutely love to have a Six Million Dollar Man metal lunchbox to bring my lunches to work in…\n",
 				"date_published": "2023-12-06T12:40:17-07:00",
-				"url": "https://mb.jimmitchell.org/2023/12/06/i-dont-know.html"
+				"url": "https://jimmitchell.dev/2023/12/06/i-dont-know.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/04/uh-oh-my.html",
@@ -384,7 +432,7 @@
 				"content_html": "<p>Uh oh… My mind has latched on to a Micro.blog theme idea this morning and won’t let go of it, even after sketching a thumbnail. So much for getting anything done today. 🐿️</p>\n",
 				"content_text": "Uh oh… My mind has latched on to a Micro.blog theme idea this morning and won’t let go of it, even after sketching a thumbnail. So much for getting anything done today. 🐿️\n",
 				"date_published": "2023-12-04T09:28:06-07:00",
-				"url": "https://mb.jimmitchell.org/2023/12/04/uh-oh-my.html"
+				"url": "https://jimmitchell.dev/2023/12/04/uh-oh-my.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/03/my-mac-apps.html",
@@ -392,7 +440,7 @@
 				"content_html": "<p>I planned on publishing a post like this myself, but <a href=\"https://micro.blog/canion\">@canion</a> beat me to the punch, <a href=\"https://canion.blog/2023/12/03/my-mac-apps.html\">getting his out first</a>&hellip; I&rsquo;m going to use the same criteria he uses for making the cut:</p>\n<blockquote>\n<p>For my purposes, to be considered an App of the Year, the software needs to be something I used extensively, value and enjoy. I also must feel I would miss them if they suddenly went away. Of course, it also needs to be a Mac App.</p>\n</blockquote>\n<p>Without further ado, my list of the top five&hellip;</p>\n<h3 id=\"launchbar\">LaunchBar</h3>\n<p>I&rsquo;ve been using <a href=\"https://obdev.at/products/launchbar/index.html\">LaunchBar</a> since 2005, probably longer than any other Mac app I currently use, save BBEdit. I set up my wife&rsquo;s old 2012 27&quot; iMac last week to install macOS Sonoma via <a href=\"https://dortania.github.io/OpenCore-Legacy-Patcher/\">OpenCore Legacy Patcher</a>, and through each step, I found my muscle memory wanting to launch some app with LaunchBar. I easily use this app a hundred times a day, every day.</p>\n<h3 id=\"fantastical\">Fantastical</h3>\n<p>I live and die by my calendar these days. For me, the only calendar application worthy of being used on a Mac is <a href=\"https://flexibits.com/fantastical\">Fantastical</a>, hands-down. The natural language input is super useful and slick. The premium feature I love the most is Openings. For my work, I&rsquo;ve got too many people wanting to meet with me for this or that. All I have to do is give them a URL and tell them to find an opening. This has saved me hours. I hate subscriptions, but to me, this app is worth it.</p>\n<h3 id=\"safari\">Safari</h3>\n<p>I&rsquo;ve been a Chrome user for many years now. But, two things made me change to Safari this year. First, Chrome has become a memory hog. As I write this, for the same five tabs open, Chrome is using 235MB of memory among 45 threads, whereas Safari is only using 151MB across 10 threads. Less memory and thread usage means better battery life. Second is the privacy philosophies between Apple and Google. Enough said on that one.</p>\n<h3 id=\"ivory\">Ivory</h3>\n<p>I&rsquo;ve been on Mastodon since 2018, but as the platform becomes more popular and my use picks up, I find myself leaning more and more on <a href=\"https://tapbots.com/ivory/\">Ivory</a>. I started out with Mona as my Mastodon client &ndash; which is a great app too &ndash; but I just find myself gravitating more and more to Ivory. I can&rsquo;t put my finger on why. It&rsquo;s just the one I prefer between the two.</p>\n<h3 id=\"bbedit\">BBEdit</h3>\n<p>Parts of my job require me to transform and manipulate large amounts of data in all kinds of ways. When it comes to a text editor (for .csv files), <a href=\"http://www.barebones.com/products/bbedit/index.html\">BBEdit</a> is <em>the</em> application of choice for me. I&rsquo;ve been using BBEdit since version 1.0, even longer than I&rsquo;ve been using LaunchBar. I&rsquo;d die without this app. For me, it&rsquo;s worth the $30 upgrade every few years. If you&rsquo;re a long-time Mac user, you know what BBEdit is and what it&rsquo;s capable of.</p>\n<h3 id=\"apps-that-fell-off-the-list\">Apps That Fell Off the List</h3>\n<p>Since this is the first year of my list, I can&rsquo;t really say what fell off the prior, but these are the apps I&rsquo;ve found myself using less and less over the last year or two.</p>\n<ol>\n<li><strong>Reeder</strong> - in favor of <a href=\"https://netnewswire.com\">NetNewsWire</a>. Both are really great apps, and I&rsquo;m flopping back and forth between the two right now, but NetNewsWire is slightly edging out Reeder.</li>\n<li><strong>Google Chrome</strong> - in favor of Safari, obviously.</li>\n<li><strong>Agenda</strong> - I like the calendar integration of Agenda, but like <a href=\"https://micro.blog/canion\">@canion</a>, I&rsquo;m leaning more towards <a href=\"https://obisidan.md\">Obsidian</a> for note taking as of late.</li>\n</ol>",
 				"content_text": "I planned on publishing a post like this myself, but [@canion](https://micro.blog/canion) beat me to the punch, [getting his out first](https://canion.blog/2023/12/03/my-mac-apps.html)... I'm going to use the same criteria he uses for making the cut:\n\n>For my purposes, to be considered an App of the Year, the software needs to be something I used extensively, value and enjoy. I also must feel I would miss them if they suddenly went away. Of course, it also needs to be a Mac App.\n\nWithout further ado, my list of the top five...<!--more-->\n\n### LaunchBar\n\nI've been using [LaunchBar](https://obdev.at/products/launchbar/index.html) since 2005, probably longer than any other Mac app I currently use, save BBEdit. I set up my wife's old 2012 27\" iMac last week to install macOS Sonoma via [OpenCore Legacy Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/), and through each step, I found my muscle memory wanting to launch some app with LaunchBar. I easily use this app a hundred times a day, every day.\n\n### Fantastical\n\nI live and die by my calendar these days. For me, the only calendar application worthy of being used on a Mac is [Fantastical](https://flexibits.com/fantastical), hands-down. The natural language input is super useful and slick. The premium feature I love the most is Openings. For my work, I've got too many people wanting to meet with me for this or that. All I have to do is give them a URL and tell them to find an opening. This has saved me hours. I hate subscriptions, but to me, this app is worth it.\n\n### Safari\n\nI've been a Chrome user for many years now. But, two things made me change to Safari this year. First, Chrome has become a memory hog. As I write this, for the same five tabs open, Chrome is using 235MB of memory among 45 threads, whereas Safari is only using 151MB across 10 threads. Less memory and thread usage means better battery life. Second is the privacy philosophies between Apple and Google. Enough said on that one.\n\n### Ivory\n\nI've been on Mastodon since 2018, but as the platform becomes more popular and my use picks up, I find myself leaning more and more on [Ivory](https://tapbots.com/ivory/). I started out with Mona as my Mastodon client -- which is a great app too -- but I just find myself gravitating more and more to Ivory. I can't put my finger on why. It's just the one I prefer between the two.\n\n### BBEdit\n\nParts of my job require me to transform and manipulate large amounts of data in all kinds of ways. When it comes to a text editor (for .csv files), [BBEdit](http://www.barebones.com/products/bbedit/index.html) is *the* application of choice for me. I've been using BBEdit since version 1.0, even longer than I've been using LaunchBar. I'd die without this app. For me, it's worth the $30 upgrade every few years. If you're a long-time Mac user, you know what BBEdit is and what it's capable of.\n\n### Apps That Fell Off the List\n\nSince this is the first year of my list, I can't really say what fell off the prior, but these are the apps I've found myself using less and less over the last year or two.\n\n1. **Reeder** - in favor of [NetNewsWire](https://netnewswire.com). Both are really great apps, and I'm flopping back and forth between the two right now, but NetNewsWire is slightly edging out Reeder.\n2. **Google Chrome** - in favor of Safari, obviously.\n3. **Agenda** - I like the calendar integration of Agenda, but like [@canion](https://micro.blog/canion), I'm leaning more towards [Obsidian](https://obisidan.md) for note taking as of late.\n",
 				"date_published": "2023-12-03T10:34:25-07:00",
-				"url": "https://mb.jimmitchell.org/2023/12/03/my-mac-apps.html"
+				"url": "https://jimmitchell.dev/2023/12/03/my-mac-apps.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/02/project-yeard-november.html",
@@ -400,7 +448,7 @@
 				"content_html": "<p>Project Yeard <a href=\"https://jimmitchell.org/project-yeard/#2023-11\">November update</a> posted.</p>\n",
 				"content_text": "Project Yeard [November update](https://jimmitchell.org/project-yeard/#2023-11) posted.\n",
 				"date_published": "2023-12-02T15:55:33-07:00",
-				"url": "https://mb.jimmitchell.org/2023/12/02/project-yeard-november.html"
+				"url": "https://jimmitchell.dev/2023/12/02/project-yeard-november.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/02/giving-arq-backup.html",
@@ -408,7 +456,7 @@
 				"content_html": "<p>Giving <a href=\"https://arqbackup.com\">Arq Backup</a> a try for my laptop using Amazon S3 for storage thanks to both <a href=\"https://micro.blog/vincent\">@vincent</a> and <a href=\"https://micro.blog/manton\">@manton</a>. The hardest part was setting up the bucket on Amazon and provisioning access. Creating the backup plan in Arq was drop-dead simple. I may stick with this as a long-term solution if it works out well.</p>\n",
 				"content_text": "Giving [Arq Backup](https://arqbackup.com) a try for my laptop using Amazon S3 for storage thanks to both [@vincent](https://micro.blog/vincent) and [@manton](https://micro.blog/manton). The hardest part was setting up the bucket on Amazon and provisioning access. Creating the backup plan in Arq was drop-dead simple. I may stick with this as a long-term solution if it works out well.\n",
 				"date_published": "2023-12-02T11:04:41-07:00",
-				"url": "https://mb.jimmitchell.org/2023/12/02/giving-arq-backup.html"
+				"url": "https://jimmitchell.dev/2023/12/02/giving-arq-backup.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/28/by-the-time.html",
@@ -416,15 +464,15 @@
 				"content_html": "<p>By the time our hot water adventure is over tomorrow (oh I hope), it will be eight days and $1300 dollars 🪟💸, with that cost going to bring the new hot water heater up to code and the cost of a motel room so my household could take showers. Thankfully my home warranty covers the new hardware cost.</p>\n",
 				"content_text": "By the time our hot water adventure is over tomorrow (oh I hope), it will be eight days and $1300 dollars 🪟💸, with that cost going to bring the new hot water heater up to code and the cost of a motel room so my household could take showers. Thankfully my home warranty covers the new hardware cost.\n",
 				"date_published": "2023-11-28T11:02:50-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/28/by-the-time.html"
+				"url": "https://jimmitchell.dev/2023/11/28/by-the-time.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/26/tinylytics-for-microblog.html",
 				"title": "Tinylytics for Micro.blog v3.1.0",
 				"content_html": "<!-- raw HTML omitted -->\n<p>I&rsquo;m excited to share I&rsquo;ve released a new version of my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plugin, bringing it to version 3.1.0. You should see an update in your site&rsquo;s plugins section soon if not already.</p>\n<p>This release adds features to link back to your public stats page on Tinylytics if you have it enabled, and show a webring avatar on the footer embed code if you so choose.</p>\n<p>I&rsquo;ve also created a <a href=\"https://jimmitchell.org/tinylytics-for-microblog/\">dedicated page</a> that explains the plugin&rsquo;s options, how to use it, as well as providing some examples for styling the footer embed to get you going for your own site.</p>\n<p>The plugin is of course free to use, but if you find it worth supporting, donations can be made via my <a href=\"https://ko-fi.com/jimmitchellmedia\">Ko-fi</a> page.</p>",
-				"content_text": "<p><img src=\"uploads/2023/tinylyticsheaderart.png\" alt=\"Tinylytcis post header\" title=\"tinylytcis-post-header.png\" border=\"0\" /></p>\n\nI'm excited to share I've released a new version of my [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) plugin, bringing it to version 3.1.0. You should see an update in your site's plugins section soon if not already.<!--more-->\n\nThis release adds features to link back to your public stats page on Tinylytics if you have it enabled, and show a webring avatar on the footer embed code if you so choose.\n\nI've also created a [dedicated page](https://jimmitchell.org/tinylytics-for-microblog/) that explains the plugin's options, how to use it, as well as providing some examples for styling the footer embed to get you going for your own site.\n\nThe plugin is of course free to use, but if you find it worth supporting, donations can be made via my [Ko-fi](https://ko-fi.com/jimmitchellmedia) page.\n",
+				"content_text": "<p><img src=\"https://jimmitchell.micro.blog/uploads/2023/tinylyticsheaderart.png\" alt=\"Tinylytcis post header\" title=\"tinylytcis-post-header.png\" border=\"0\" /></p>\n\nI'm excited to share I've released a new version of my [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) plugin, bringing it to version 3.1.0. You should see an update in your site's plugins section soon if not already.<!--more-->\n\nThis release adds features to link back to your public stats page on Tinylytics if you have it enabled, and show a webring avatar on the footer embed code if you so choose.\n\nI've also created a [dedicated page](https://jimmitchell.org/tinylytics-for-microblog/) that explains the plugin's options, how to use it, as well as providing some examples for styling the footer embed to get you going for your own site.\n\nThe plugin is of course free to use, but if you find it worth supporting, donations can be made via my [Ko-fi](https://ko-fi.com/jimmitchellmedia) page.\n",
 				"date_published": "2023-11-26T11:59:53-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/26/tinylytics-for-microblog.html"
+				"url": "https://jimmitchell.dev/2023/11/26/tinylytics-for-microblog.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/26/im-giving-obsidian.html",
@@ -432,7 +480,7 @@
 				"content_html": "<p>I&rsquo;m giving <a href=\"https://obsidian.md\">Obsidian</a> a spin for notes again. I looked at it briefly once before. I&rsquo;ve only scratched the surface, but I get the hype. I think what turned me off last time was syncing, but I wasn&rsquo;t aware it could sync via iCloud. That&rsquo;s enough for me. Anyone have good pointers?</p>\n",
 				"content_text": "I'm giving [Obsidian](https://obsidian.md) a spin for notes again. I looked at it briefly once before. I've only scratched the surface, but I get the hype. I think what turned me off last time was syncing, but I wasn't aware it could sync via iCloud. That's enough for me. Anyone have good pointers?\n",
 				"date_published": "2023-11-26T09:49:27-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/26/im-giving-obsidian.html"
+				"url": "https://jimmitchell.dev/2023/11/26/im-giving-obsidian.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/22/well-the-hot.html",
@@ -440,7 +488,7 @@
 				"content_html": "<p>Well, the <a href=\"https://jimmitchell.org/2023/11/22/theres-nothing-quite.html\">hot water heater</a> saga looks grim. Home warranty company has to approve repair next steps. They and repair company won’t be open until next Monday. The soonest a repair looks plausible is Tuesday. Maybe even Wednesday. This is going to be a very long and somewhat smelly weekend.</p>\n",
 				"content_text": "Well, the [hot water heater](https://jimmitchell.org/2023/11/22/theres-nothing-quite.html) saga looks grim. Home warranty company has to approve repair next steps. They and repair company won’t be open until next Monday. The soonest a repair looks plausible is Tuesday. Maybe even Wednesday. This is going to be a very long and somewhat smelly weekend.\n",
 				"date_published": "2023-11-22T18:24:39-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/22/well-the-hot.html"
+				"url": "https://jimmitchell.dev/2023/11/22/well-the-hot.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/22/theres-nothing-quite.html",
@@ -448,7 +496,7 @@
 				"content_html": "<p>There&rsquo;s nothing quite like waking up to the hot water heater being on the fritz the day before a major US holiday. If there&rsquo;s one thing high on my list of &ldquo;Oh, hell no&rdquo; items, it has to be taking a cold shower. 🥶</p>\n",
 				"content_text": "There's nothing quite like waking up to the hot water heater being on the fritz the day before a major US holiday. If there's one thing high on my list of \"Oh, hell no\" items, it has to be taking a cold shower. 🥶\n",
 				"date_published": "2023-11-22T08:23:35-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/22/theres-nothing-quite.html"
+				"url": "https://jimmitchell.dev/2023/11/22/theres-nothing-quite.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/21/app-defaults.html",
@@ -456,7 +504,7 @@
 				"content_html": "<p>I wasn&rsquo;t going to do a <!-- raw HTML omitted -->post like this<!-- raw HTML omitted -->&hellip; But what the heck, all the <!-- raw HTML omitted -->popular<!-- raw HTML omitted --> <!-- raw HTML omitted -->kids<!-- raw HTML omitted --> are <!-- raw HTML omitted -->doing it<!-- raw HTML omitted --> this week, so why shouldn&rsquo;t I, right?</p>\n<p>I&rsquo;m not really much of a defaults guy. I&rsquo;ve always preferred to support indie developers, so will usually go that route if their app is as good or better than the Apple default.</p>\n<ul>\n<li><strong>Mail Client</strong>: Apple Mail</li>\n<li><strong>Mail Server</strong>: iCloud Mail with custom email domains</li>\n<li><strong>Notes</strong>: iA Writer</li>\n<li><strong>To-Do</strong>: Things</li>\n<li><strong>Photo Shooting</strong>: Apple Camera</li>\n<li><strong>Photo Management</strong>: Apple Photos</li>\n<li><strong>Photo Editing</strong>: Pixelmator Pro</li>\n<li><strong>Calendar</strong>: Fantastical</li>\n<li><strong>Cloud File Storage</strong>: iCloud</li>\n<li><strong>RSS</strong>: NetNewsWire (with iCloud sync)</li>\n<li><strong>Contacts</strong>: Apple Contacts</li>\n<li><strong>Browser</strong>: Safari (Chrome &amp; Firefox for dev work)</li>\n<li><strong>Chat</strong>: Apple Messages (Teams &amp; Slack at work 🤮)</li>\n<li><strong>Bookmarks</strong>: Things and/or Micro.blog</li>\n<li><strong>Read It Later</strong>: Things</li>\n<li><strong>Word Processing</strong>: Pages</li>\n<li><strong>Spreadsheets</strong>: Numbers</li>\n<li><strong>Presentations</strong>: Keynote</li>\n<li><strong>Shopping Lists</strong>: iA Writer</li>\n<li><strong>Meal Planning</strong>: Don&rsquo;t do meal planning</li>\n<li><strong>Budgeting and Personal Finance</strong>: Numbers/Bank Mobile App</li>\n<li><strong>News</strong>: Safari/NetNewsWire</li>\n<li><strong>Music</strong>: Apple Music</li>\n<li><strong>Podcasts</strong>: Overcast</li>\n<li><strong>Mastodon</strong>: Ivory</li>\n<li><strong>Password Management</strong>: 1Password</li>\n<li><strong>Code Editor</strong>: BBEdit (VS Code when I have to)</li>\n</ul>\n<p>Some extra utility apps in my toolbox I can&rsquo;t live without&hellip;</p>\n<ul>\n<li><a href=\"https://obdev.at/products/launchbar/index.html\"><strong>Launchbar</strong></a>: It&rsquo;s the first app I install on any new Mac. I&rsquo;m lost without it.</li>\n<li><a href=\"https://www.macbartender.com/\"><strong>Bartender</strong></a>: To hide menubar icons that are pointless.</li>\n<li><a href=\"https://redsweater.com/fastscripts/\"><strong>FastScripts</strong></a>: Assign a keystroke to AppleScripts to do various things.</li>\n<li><a href=\"https://shottr.cc/\"><strong>Shottr</strong></a>: For taking screenshots. The price can&rsquo;t be beat and it does a great job.</li>\n<li><a href=\"https://magnet.crowdcafe.com/\"><strong>Magnet</strong></a>: Resize and arrange windows with a keystroke. Obviously, I hate taking my hands off the keyboard.</li>\n</ul>",
 				"content_text": "I wasn't going to do a <a href=\"https://defaults.rknight.me/\">post like this</a>... But what the heck, all the <a href=\"https://canion.blog/2023/11/04/duel-of-the.html\">popular</a> <a href=\"https://grepjason.sh/2023/duel-of-the-defaults\">kids</a> are <a href=\"https://loungeruminator.net/2023/11/17/mr-default/\">doing it</a> this week, so why shouldn't I, right?\n\nI'm not really much of a defaults guy. I've always preferred to support indie developers, so will usually go that route if their app is as good or better than the Apple default.<!--more-->\n\n* **Mail Client**: Apple Mail\n* **Mail Server**: iCloud Mail with custom email domains\n* **Notes**: iA Writer\n* **To-Do**: Things\n* **Photo Shooting**: Apple Camera\n* **Photo Management**: Apple Photos\n* **Photo Editing**: Pixelmator Pro\n* **Calendar**: Fantastical\n* **Cloud File Storage**: iCloud\n* **RSS**: NetNewsWire (with iCloud sync)\n* **Contacts**: Apple Contacts\n* **Browser**: Safari (Chrome & Firefox for dev work)\n* **Chat**: Apple Messages (Teams & Slack at work 🤮)\n* **Bookmarks**: Things and/or Micro.blog\n* **Read It Later**: Things\n* **Word Processing**: Pages\n* **Spreadsheets**: Numbers\n* **Presentations**: Keynote\n* **Shopping Lists**: iA Writer\n* **Meal Planning**: Don't do meal planning\n* **Budgeting and Personal Finance**: Numbers/Bank Mobile App\n* **News**: Safari/NetNewsWire\n* **Music**: Apple Music\n* **Podcasts**: Overcast\n* **Mastodon**: Ivory\n* **Password Management**: 1Password\n* **Code Editor**: BBEdit (VS Code when I have to)\n\nSome extra utility apps in my toolbox I can't live without...\n\n- [**Launchbar**](https://obdev.at/products/launchbar/index.html): It's the first app I install on any new Mac. I'm lost without it.\n- [**Bartender**](https://www.macbartender.com/): To hide menubar icons that are pointless.\n- [**FastScripts**](https://redsweater.com/fastscripts/): Assign a keystroke to AppleScripts to do various things.\n- [**Shottr**](https://shottr.cc/): For taking screenshots. The price can't be beat and it does a great job.\n- [**Magnet**](https://magnet.crowdcafe.com/): Resize and arrange windows with a keystroke. Obviously, I hate taking my hands off the keyboard.\n",
 				"date_published": "2023-11-21T09:06:22-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/21/app-defaults.html"
+				"url": "https://jimmitchell.dev/2023/11/21/app-defaults.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/20/my-transition-to.html",
@@ -464,7 +512,7 @@
 				"content_html": "<p>My transition to the “dark side” is complete. I tried switching to light mode on my workstation and it damn near blinded me… Does that make me one of the cool kids now?</p>\n",
 				"content_text": "My transition to the “dark side” is complete. I tried switching to light mode on my workstation and it damn near blinded me… Does that make me one of the cool kids now?\n",
 				"date_published": "2023-11-20T16:08:20-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/20/my-transition-to.html"
+				"url": "https://jimmitchell.dev/2023/11/20/my-transition-to.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/18/theres-an-s.html",
@@ -472,7 +520,7 @@
 				"content_html": "<p>There’s an <a href=\"https://www.darkerwavesfest.com/\">80’s music festival</a> going on downtown this weekend. Whoever’s onstage right now is really getting the crowd going. Every five minutes there’s a loud roar. It’s pretty awesome to hear. Kind of wish we had gotten tickets.</p>\n",
 				"content_text": "There’s an [80’s music festival](https://www.darkerwavesfest.com/) going on downtown this weekend. Whoever’s onstage right now is really getting the crowd going. Every five minutes there’s a loud roar. It’s pretty awesome to hear. Kind of wish we had gotten tickets.\n",
 				"date_published": "2023-11-18T17:53:38-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/18/theres-an-s.html"
+				"url": "https://jimmitchell.dev/2023/11/18/theres-an-s.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/18/put-in-some.html",
@@ -480,7 +528,7 @@
 				"content_html": "<p>Put in some good work on <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> this afternoon. A couple of cool new features are coming: The ability to link to your public stats if you&rsquo;ve enabled them and the option to show a web ring avatar for other sites who&rsquo;ve enabled that in their <a href=\"https://tinylytics.app\">Tinylytics</a> settings. Check out the footer of this page to see them in action. I&rsquo;ll let things bake in for a few days while I update documentation.</p>\n",
 				"content_text": "Put in some good work on [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) this afternoon. A couple of cool new features are coming: The ability to link to your public stats if you've enabled them and the option to show a web ring avatar for other sites who've enabled that in their [Tinylytics](https://tinylytics.app) settings. Check out the footer of this page to see them in action. I'll let things bake in for a few days while I update documentation.\n",
 				"date_published": "2023-11-18T17:19:26-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/18/put-in-some.html"
+				"url": "https://jimmitchell.dev/2023/11/18/put-in-some.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/18/i-killed-off.html",
@@ -488,7 +536,7 @@
 				"content_html": "<p>I killed off my WordPress site over at jimmitchellmedia.net today, setting up a <!-- raw HTML omitted -->domain forward<!-- raw HTML omitted --> to my main jimmitchell.org domain. It&rsquo;s time to consolidate my online persona into one bucket and make Micro.blog my <!-- raw HTML omitted -->web house<!-- raw HTML omitted -->.</p>\n",
 				"content_text": "I killed off my WordPress site over at jimmitchellmedia.net today, setting up a <a href=\"https://forwarddomain.net/\">domain forward</a> to my main jimmitchell.org domain. It's time to consolidate my online persona into one bucket and make Micro.blog my <a href=\"https://coreint.org/2023/10/episode-572-this-is-my-web-house/\">web house</a>.\n",
 				"date_published": "2023-11-18T10:46:54-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/18/i-killed-off.html"
+				"url": "https://jimmitchell.dev/2023/11/18/i-killed-off.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/17/im-glad-we.html",
@@ -496,7 +544,7 @@
 				"content_html": "<p>I&rsquo;m glad we canceled our weekend plans. A serious bug in the deployment from earlier this week was found late yesterday and I&rsquo;m spending my PTO day working with the team to resolve it. The good news is it looks like we&rsquo;ve found the fix. Some of the day might be salvageable. 🤞🏻</p>\n",
 				"content_text": "I'm glad we canceled our weekend plans. A serious bug in the deployment from earlier this week was found late yesterday and I'm spending my PTO day working with the team to resolve it. The good news is it looks like we've found the fix. Some of the day might be salvageable. 🤞🏻\n",
 				"date_published": "2023-11-17T10:37:23-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/17/im-glad-we.html"
+				"url": "https://jimmitchell.dev/2023/11/17/im-glad-we.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/16/i-was-about.html",
@@ -504,7 +552,7 @@
 				"content_html": "<p>I was about to put a note in my (soon to come) Microcasts topics folder about a thing that just happened, but it turns out I already added it as episode #003. Maybe I should bump it up to episode #002&hellip; But then the topic for that episode is one that chaps my hide too.</p>\n",
 				"content_text": "I was about to put a note in my (soon to come) Microcasts topics folder about a thing that just happened, but it turns out I already added it as episode #003. Maybe I should bump it up to episode #002... But then the topic for that episode is one that chaps my hide too.\n",
 				"date_published": "2023-11-16T14:08:21-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/16/i-was-about.html"
+				"url": "https://jimmitchell.dev/2023/11/16/i-was-about.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/15/how-is-it.html",
@@ -512,7 +560,7 @@
 				"content_html": "<p>How is it I&rsquo;ve never heard about this until now?</p>\n<blockquote>\n<p>Since 2015, several data centers have been submerged underwater in both the Pacific Ocean and Atlantic Ocean. The first underwater data center was deployed by Microsoft into the Pacific Ocean, off the coast of California, through an experiment called <a href=\"https://en.wikipedia.org/wiki/Project_Natick\">Project Natick</a>, with Phase 1 being a vessel carrying 1 rack, containing 24 servers.</p>\n</blockquote>\n<p>🔗 <a href=\"https://dgtlinfra.com/underwater-data-centers-servers/\">Underwater Data Centers: Servers Beneath the Surface</a></p>\n",
 				"content_text": "How is it I've never heard about this until now?\n\n> Since 2015, several data centers have been submerged underwater in both the Pacific Ocean and Atlantic Ocean. The first underwater data center was deployed by Microsoft into the Pacific Ocean, off the coast of California, through an experiment called [Project Natick](https://en.wikipedia.org/wiki/Project_Natick), with Phase 1 being a vessel carrying 1 rack, containing 24 servers.\n\n🔗 [Underwater Data Centers: Servers Beneath the Surface](https://dgtlinfra.com/underwater-data-centers-servers/)\n",
 				"date_published": "2023-11-15T08:53:36-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/15/how-is-it.html"
+				"url": "https://jimmitchell.dev/2023/11/15/how-is-it.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/14/im-hoping-with.html",
@@ -520,7 +568,7 @@
 				"content_html": "<p>I&rsquo;m hoping with the rainy weekend predicted for SoCal, I can get caught up on Tinylytics for Micro.blog plugin work. We were planning to take the RV out, but who wants to sit in a small box in the rain? I&rsquo;d rather sit in a bigger box with better amenities.</p>\n",
 				"content_text": "I'm hoping with the rainy weekend predicted for SoCal, I can get caught up on Tinylytics for Micro.blog plugin work. We were planning to take the RV out, but who wants to sit in a small box in the rain? I'd rather sit in a bigger box with better amenities.\n",
 				"date_published": "2023-11-14T08:55:08-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/14/im-hoping-with.html"
+				"url": "https://jimmitchell.dev/2023/11/14/im-hoping-with.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/13/today-will-be.html",
@@ -528,7 +576,7 @@
 				"content_html": "<p>Today will be a very long day… Awake at 1:30am, thinking (worrying) about what I need to get done in preparation for an after-hours system deployment that will take until at least 10pm. Such is the glamorous life of an IT manager. It’s a given that far too many cups of coffee will be consumed today.</p>\n",
 				"content_text": "Today will be a very long day… Awake at 1:30am, thinking (worrying) about what I need to get done in preparation for an after-hours system deployment that will take until at least 10pm. Such is the glamorous life of an IT manager. It’s a given that far too many cups of coffee will be consumed today.\n",
 				"date_published": "2023-11-13T08:47:53-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/13/today-will-be.html"
+				"url": "https://jimmitchell.dev/2023/11/13/today-will-be.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/08/yes-im-on.html",
@@ -536,15 +584,15 @@
 				"content_html": "<p>Yes, I&rsquo;m on a bit of a posting tear today, but this one&rsquo;s too good not to share. My favorite rule is #6, which I&rsquo;ve only recently truly learned&hellip;</p>\n<blockquote>\n<p><strong>“There” is no better than “here”</strong>. When your “there” has become a “here”, you will simply obtain a “there” that will look better to you than your present “here”.</p>\n</blockquote>\n<p>🔗 <a href=\"https://kottke.org/23/11/the-10-rules-of-being-human\">The Ten Rules of Being Human</a> (via <a href=\"https://kottke.org\">kottke.org</a>)</p>\n",
 				"content_text": "Yes, I'm on a bit of a posting tear today, but this one's too good not to share. My favorite rule is #6, which I've only recently truly learned...\n\n> **“There” is no better than “here”**. When your “there” has become a “here”, you will simply obtain a “there” that will look better to you than your present “here”.\n\n🔗 [The Ten Rules of Being Human](https://kottke.org/23/11/the-10-rules-of-being-human) (via [kottke.org](https://kottke.org))\n",
 				"date_published": "2023-11-08T16:51:59-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/08/yes-im-on.html"
+				"url": "https://jimmitchell.dev/2023/11/08/yes-im-on.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/08/memories-of-hawaii.html",
 				
 				"content_html": "<p>📷 Memories of Hawai’i.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Memories of Hawai’i.\n\n<img src=\"uploads/2023/4cc821c6f7.jpg\" width=\"600\" height=\"450\" alt=\"Diamond Head from the Waikiki breakwater.\">\n",
+				"content_text": "📷 Memories of Hawai’i.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/4cc821c6f7.jpg\" width=\"600\" height=\"450\" alt=\"Diamond Head from the Waikiki breakwater.\">\n",
 				"date_published": "2023-11-08T15:55:48-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/08/memories-of-hawaii.html",
+				"url": "https://jimmitchell.dev/2023/11/08/memories-of-hawaii.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -553,7 +601,7 @@
 				"content_html": "<p>I&rsquo;ve moved back to NetNewsWire as my default RSS app after listening to the hilariously entertaining <a href=\"https://micro.blog/HemisphericViews\">@HemisphericViews</a> &ldquo;<a href=\"https://listen.hemisphericviews.com/097\">Duel of the Defaults</a>&rdquo; podcast episode 097 by <a href=\"https://micro.blog/canion\">@canion</a>, <a href=\"https://micro.blog/Burk\">@Burk</a>, and <a href=\"https://micro.blog/martinfeld\">@martinfeld</a>. I wasn&rsquo;t aware NNW had the iCloud option for feed sync now. I like it way better. Thanks guys.</p>\n",
 				"content_text": "I've moved back to NetNewsWire as my default RSS app after listening to the hilariously entertaining [@HemisphericViews](https://micro.blog/HemisphericViews) \"[Duel of the Defaults](https://listen.hemisphericviews.com/097)\" podcast episode 097 by [@canion](https://micro.blog/canion), [@Burk](https://micro.blog/Burk), and [@martinfeld](https://micro.blog/martinfeld). I wasn't aware NNW had the iCloud option for feed sync now. I like it way better. Thanks guys.\n",
 				"date_published": "2023-11-08T14:40:58-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/08/ive-moved-back.html"
+				"url": "https://jimmitchell.dev/2023/11/08/ive-moved-back.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/07/im-slowly-becoming.html",
@@ -561,7 +609,7 @@
 				"content_html": "<p>I’m slowly becoming a fan of dark mode on my workstation. As a design artist from the late ‘80s/early ‘90s, WYSIWYG for print media is burned into my psyche. I’ve been running in dark mode for a week and am actually enjoying it - enough so to even add the needed CSS to my Micro.blog theme.</p>\n",
 				"content_text": "I’m slowly becoming a fan of dark mode on my workstation. As a design artist from the late ‘80s/early ‘90s, WYSIWYG for print media is burned into my psyche. I’ve been running in dark mode for a week and am actually enjoying it - enough so to even add the needed CSS to my Micro.blog theme.\n",
 				"date_published": "2023-11-07T16:52:50-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/07/im-slowly-becoming.html"
+				"url": "https://jimmitchell.dev/2023/11/07/im-slowly-becoming.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/04/added-a-projects.html",
@@ -569,15 +617,15 @@
 				"content_html": "<p>I added a <a href=\"https://jimmitchell.org/projects/\">projects page</a> to my site today which links to different things I&rsquo;m putting effort into, including &ldquo;Project Yeard.&rdquo;</p>\n",
 				"content_text": "I added a [projects page](https://jimmitchell.org/projects/) to my site today which links to different things I'm putting effort into, including \"Project Yeard.\"\n",
 				"date_published": "2023-11-04T10:02:02-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/04/added-a-projects.html"
+				"url": "https://jimmitchell.dev/2023/11/04/added-a-projects.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/03/a-lone-joshua.html",
 				
 				"content_html": "<p>📷 A lone Joshua Tree at dusk.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 A lone Joshua Tree at dusk.\n\n<img src=\"uploads/2023/745fc4d8a6.jpg\" width=\"600\" height=\"360\" alt=\"A lone Joshua Tree at dusk\">\n",
+				"content_text": "📷 A lone Joshua Tree at dusk.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/745fc4d8a6.jpg\" width=\"600\" height=\"360\" alt=\"A lone Joshua Tree at dusk\">\n",
 				"date_published": "2023-11-03T22:28:56-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/03/a-lone-joshua.html",
+				"url": "https://jimmitchell.dev/2023/11/03/a-lone-joshua.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -586,15 +634,15 @@
 				"content_html": "<p>There&rsquo;s a lot of hubbub in the news and online about the &ldquo;new Beatles song&rdquo; that dropped yesterday. As a life-long semi-pro musician, this headline hits a sour note with me. Hah! See what I did there?</p>\n<p>Anyway, my thoughts&hellip;</p>\n<p>This song was one of many demos Lennon did after the band broke up. This is key. While we don&rsquo;t know for sure, it&rsquo;s unlikely he said to himself &ldquo;<em>This would be a great Beatles song. I should ring up the lads.</em>&rdquo; when composing the tune.</p>\n<p>Lennon&rsquo;s widow &ldquo;gave&rdquo;<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> the demo tapes to the remaining Beatles <em>years</em> after his tragic murder and even longer after the band had officially broke up. The tape Yoko turned over is purported to contain at least three of Lennon&rsquo;s demos<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup>, not just this one song.</p>\n<p>Paul, George, and Ringo messed around with the recording, laying down all new tracks for the song. I&rsquo;m sure they did this with the other demo songs too<sup id=\"fnref:3\"><a href=\"#fn:3\" class=\"footnote-ref\" role=\"doc-noteref\">3</a></sup>. But that&rsquo;s all it is; they messed around with a demo of their deceased former bandmate. Lennon was not there to collaborate as a band member. Releasing a song as a &ldquo;band&rdquo; means all members have provided input on the final product. This fact alone makes the song <em>not</em> a Beatles song.</p>\n<p>Fast forward 25 years. Now we have machine learning that can digitally enhance anyone&rsquo;s voice, and even reproduce a near perfect representation of vocals from unrelated sample files. This is how Lennon&rsquo;s lyrics were included in the song &ndash; by digitally reproducing and enhancing something that was barely audible to begin with. Ultimately, these are not Lennon&rsquo;s true vocals. They are a damn good representation of the man&rsquo;s voice enhanced by computers<sup id=\"fnref:4\"><a href=\"#fn:4\" class=\"footnote-ref\" role=\"doc-noteref\">4</a></sup>.</p>\n<p>The use of AI bodes poorly for musicians who create their art. Will we start seeing demos of other bands which were never intended to see the light of day getting released by record labels as &ldquo;the lost album of (band name here)&rdquo;? I bet we will. We already are. As a result, the soul of recorded music is lost and it&rsquo;s just become about the money for record labels.</p>\n<p>The list of credits for this song is long. But in the end, it&rsquo;s still just a well (over?) produced John Lennon demo and not a Beatles recording. He is the only &ldquo;songwriter&rdquo; who I believe should be credited.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>I have a hard time believing Yoko simply &ldquo;gave&rdquo; anything to the remaining Beatles. My suspicion is there had to be money involved somehow&hellip;&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\" role=\"doc-endnote\">\n<p>&ldquo;Free as a Bird&rdquo; and &ldquo;Real Love&rdquo; were recorded as demos by Lennon before his death in 1980 and completed by the surviving Beatles in 1995 while Harrison was still alive.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:3\" role=\"doc-endnote\">\n<p>Of course they did since &ldquo;Free as a Bird&rdquo; and &ldquo;Real Love&rdquo; were released as Beatles songs, which I honestly was not aware of until now.&#160;<a href=\"#fnref:3\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:4\" role=\"doc-endnote\">\n<p>This is what chaps my hide the most about this song being released. Using AI to digitally restore a vocal is even worse that using auto-tune.&#160;<a href=\"#fnref:4\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>",
 				"content_text": "There's a lot of hubbub in the news and online about the \"new Beatles song\" that dropped yesterday. As a life-long semi-pro musician, this headline hits a sour note with me. Hah! See what I did there?\n\nAnyway, my thoughts...<!--more-->\n\nThis song was one of many demos Lennon did after the band broke up. This is key. While we don't know for sure, it's unlikely he said to himself \"_This would be a great Beatles song. I should ring up the lads._\" when composing the tune.\n\nLennon's widow \"gave\"[^1] the demo tapes to the remaining Beatles *years* after his tragic murder and even longer after the band had officially broke up. The tape Yoko turned over is purported to contain at least three of Lennon's demos[^2], not just this one song.\n\nPaul, George, and Ringo messed around with the recording, laying down all new tracks for the song. I'm sure they did this with the other demo songs too[^3]. But that's all it is; they messed around with a demo of their deceased former bandmate. Lennon was not there to collaborate as a band member. Releasing a song as a \"band\" means all members have provided input on the final product. This fact alone makes the song _not_ a Beatles song.\n\nFast forward 25 years. Now we have machine learning that can digitally enhance anyone's voice, and even reproduce a near perfect representation of vocals from unrelated sample files. This is how Lennon's lyrics were included in the song -- by digitally reproducing and enhancing something that was barely audible to begin with. Ultimately, these are not Lennon's true vocals. They are a damn good representation of the man's voice enhanced by computers[^4].\n\nThe use of AI bodes poorly for musicians who create their art. Will we start seeing demos of other bands which were never intended to see the light of day getting released by record labels as \"the lost album of (band name here)\"? I bet we will. We already are. As a result, the soul of recorded music is lost and it's just become about the money for record labels.\n\nThe list of credits for this song is long. But in the end, it's still just a well (over?) produced John Lennon demo and not a Beatles recording. He is the only \"songwriter\" who I believe should be credited.\n\n[^1]: I have a hard time believing Yoko simply \"gave\" anything to the remaining Beatles. My suspicion is there had to be money involved somehow...\n[^2]: \"Free as a Bird\" and \"Real Love\" were recorded as demos by Lennon before his death in 1980 and completed by the surviving Beatles in 1995 while Harrison was still alive.\n[^3]: Of course they did since \"Free as a Bird\" and \"Real Love\" were released as Beatles songs, which I honestly was not aware of until now.\n[^4]: This is what chaps my hide the most about this song being released. Using AI to digitally restore a vocal is even worse that using auto-tune.\n",
 				"date_published": "2023-11-03T09:29:39-07:00",
-				"url": "https://mb.jimmitchell.org/2023/11/03/the-beatles-song.html"
+				"url": "https://jimmitchell.dev/2023/11/03/the-beatles-song.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/10/31/challenge-accepted-vincent.html",
 				
-				"content_html": "<p>Challenge accepted, <a href=\"https://micro.blog/vincent\">@vincent</a></p>\n<p><img src=\"https://mb.jimmitchell.org/uploads/2023/wp-tinylytics.png\" alt=\"WP Tinylytics\" title=\"WP Tinylytics\"></p>\n",
-				"content_text": "Challenge accepted, [@vincent](https://micro.blog/vincent)\n\n![WP Tinylytics](https://mb.jimmitchell.org/uploads/2023/wp-tinylytics.png \"WP Tinylytics\")\n",
+				"content_html": "<p>Challenge accepted, <a href=\"https://micro.blog/vincent\">@vincent</a></p>\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/wp-tinylytics.png\" alt=\"WP Tinylytics\" title=\"WP Tinylytics\"></p>\n",
+				"content_text": "Challenge accepted, [@vincent](https://micro.blog/vincent)\n\n![WP Tinylytics](https://cdn.uploads.micro.blog/109466/2023/wp-tinylytics.png \"WP Tinylytics\")\n",
 				"date_published": "2023-10-31T20:49:00-07:00",
-				"url": "https://mb.jimmitchell.org/2023/10/31/challenge-accepted-vincent.html"
+				"url": "https://jimmitchell.dev/2023/10/31/challenge-accepted-vincent.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/10/29/ahhh-fall-has.html",
@@ -602,7 +650,7 @@
 				"content_html": "<p>Ahhh… Fall has finally come to Southern California. The Santa Ana’s are blowing hot, the air is full of dust &amp; pollen, and my lips are starting to chap. Time to take down the umbrellas, bring anything that’s not tied down inside, shut all the windows, and take an allergy pill.</p>\n",
 				"content_text": "Ahhh… Fall has finally come to Southern California. The Santa Ana’s are blowing hot, the air is full of dust & pollen, and my lips are starting to chap. Time to take down the umbrellas, bring anything that’s not tied down inside, shut all the windows, and take an allergy pill.\n",
 				"date_published": "2023-10-29T10:43:37-07:00",
-				"url": "https://mb.jimmitchell.org/2023/10/29/ahhh-fall-has.html"
+				"url": "https://jimmitchell.dev/2023/10/29/ahhh-fall-has.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/10/24/switching-back-to.html",
@@ -610,15 +658,15 @@
 				"content_html": "<p>I knew it wasn&rsquo;t going to last when I <a href=\"https://jimmitchell.org/2023/10/19/i-only-received.html\">aliased my Mastodon username</a> to my Micro.blog ActivityPub username a few days ago.</p>\n<p>Here are the top reasons why I decided to switch back&hellip;</p>\n<ul>\n<li>I find it easier to follow conversations in a dedicated Mastodon app on both desktop and mobile. Mona is my favorite.</li>\n<li>There will be times when I have something to say, but may not want to post it to Micro.blog.</li>\n<li>I have a separate WordPress blog that allows Mastodon users to connect with me. I&rsquo;d totally forgotten about that site.</li>\n<li>I find connecting with Mastodon users easier on that platform.</li>\n</ul>\n<p>I swear, this will be the last time I do this&hellip; No really. 🤞🏻</p>",
 				"content_text": "I knew it wasn't going to last when I [aliased my Mastodon username](https://jimmitchell.org/2023/10/19/i-only-received.html) to my Micro.blog ActivityPub username a few days ago.\n\nHere are the top reasons why I decided to switch back...<!--more-->\n\n* I find it easier to follow conversations in a dedicated Mastodon app on both desktop and mobile. Mona is my favorite.\n* There will be times when I have something to say, but may not want to post it to Micro.blog.\n* I have a separate WordPress blog that allows Mastodon users to connect with me. I'd totally forgotten about that site.\n* I find connecting with Mastodon users easier on that platform.\n\nI swear, this will be the last time I do this... No really. 🤞🏻\n",
 				"date_published": "2023-10-24T14:02:58-07:00",
-				"url": "https://mb.jimmitchell.org/2023/10/24/switching-back-to.html"
+				"url": "https://jimmitchell.dev/2023/10/24/switching-back-to.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/10/22/ginger-loves-glamping.html",
 				
 				"content_html": "<p>📷 Ginger loves glamping…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Ginger loves glamping…\n\n<img src=\"uploads/2023/a1d1788e5b.jpg\" width=\"600\" height=\"450\" alt=\"Content dog in a blanket.\">\n",
+				"content_text": "📷 Ginger loves glamping…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/a1d1788e5b.jpg\" width=\"600\" height=\"450\" alt=\"Content dog in a blanket.\">\n",
 				"date_published": "2023-10-22T11:06:37-07:00",
-				"url": "https://mb.jimmitchell.org/2023/10/22/ginger-loves-glamping.html",
+				"url": "https://jimmitchell.dev/2023/10/22/ginger-loves-glamping.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -627,7 +675,7 @@
 				"content_html": "<p>😖 Whoops. I discovered a stupid little bug. So&hellip; <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> 3.0.1 released.</p>\n",
 				"content_text": "😖 Whoops. I discovered a stupid little bug. So... [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) 3.0.1 released.\n",
 				"date_published": "2023-10-19T13:58:40-07:00",
-				"url": "https://mb.jimmitchell.org/2023/10/19/whoops-i-discovered.html"
+				"url": "https://jimmitchell.dev/2023/10/19/whoops-i-discovered.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/10/19/i-only-received.html",
@@ -635,15 +683,15 @@
 				"content_html": "<p>I only received a couple of replies to my <a href=\"https://jimmitchell.org/2023/10/12/a-question-for.html\">Micro.blog Mastodon users</a> question last week, but I decided to alias my Mastodon account to Micro.blog and import those I was following anyway. I like the choice of having one &ldquo;place&rdquo; for my online presence thus far. It&rsquo;s much quieter.</p>\n",
 				"content_text": "I only received a couple of replies to my [Micro.blog Mastodon users](https://jimmitchell.org/2023/10/12/a-question-for.html) question last week, but I decided to alias my Mastodon account to Micro.blog and import those I was following anyway. I like the choice of having one \"place\" for my online presence thus far. It's much quieter.\n",
 				"date_published": "2023-10-19T10:23:45-07:00",
-				"url": "https://mb.jimmitchell.org/2023/10/19/i-only-received.html"
+				"url": "https://jimmitchell.dev/2023/10/19/i-only-received.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/10/19/tinylytics-for-microblog.html",
 				"title": "Tinylytics for Micro.blog 3.0 Released",
 				"content_html": "<!-- raw HTML omitted -->\n<p>It took a minute to wrap up, but I&rsquo;m happy to announce that my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plugin has been updated to version 3.0, adding a bunch of new options to bring it to parity with <a href=\"https://tinylytics.app\">Tinylytics.app</a> features <a href=\"https://micro.blog/vincent\">@vincent</a> has released over the last couple of months.</p>\n<p>Notable enhancements made:</p>\n<ul>\n<li>The ability to show the country flags of your Micro.blog visitors in either a footer embed or shortcode on a page. See the footer of this page for an example.</li>\n<li>The option to show a Tinylytics Webring link with custom link text in the footer embed. Again, see the footer for an example.</li>\n<li>A complete rewrite of the backend logic to make it scale better as Vincent adds more features.</li>\n</ul>\n<h3 id=\"new-users-save-20\">New Users Save 20%</h3>\n<p>If you&rsquo;re a Micro.blog user and you&rsquo;ve been on the fence about signing up for a Tinylytics account, today is your day. New users can get a 20% discount on their first year of Tinylytics when using the coupon code found in the <!-- raw HTML omitted -->README<!-- raw HTML omitted --> file on the <!-- raw HTML omitted -->Github project<!-- raw HTML omitted --> page. That&rsquo;s a whole $10 back in your pocket!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted -->Note:<!-- raw HTML omitted --> This offer is only good for new users who select the one-year plan at sign up.<!-- raw HTML omitted --></p>\n<h3 id=\"updating\">Updating</h3>\n<p>If you&rsquo;re a current user on the Micro.blog platform, you should see a new version available in your site plug-ins area already. Just click the &ldquo;Upgrade&rdquo; button, then check out the settings to enable new features.</p>\n<!-- raw HTML omitted -->\n<p>For more details about using the plug-in, see the <!-- raw HTML omitted -->README<!-- raw HTML omitted --> on the <!-- raw HTML omitted -->Github project<!-- raw HTML omitted --> page.</p>\n<p>If you have any other questions or find a bug, contact me through any of the methods in my site footer below.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted -->Note:<!-- raw HTML omitted --> Uptime monitoring is a paid feature of Tinylytics. You&rsquo;ll need to have a paid account for uptime stats to show via this plugin.<!-- raw HTML omitted --></p>",
-				"content_text": "<p><img src=\"uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\nIt took a minute to wrap up, but I'm happy to announce that my [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) plugin has been updated to version 3.0, adding a bunch of new options to bring it to parity with [Tinylytics.app](https://tinylytics.app) features [@vincent](https://micro.blog/vincent) has released over the last couple of months.<!--more-->\n\nNotable enhancements made:\n\n* The ability to show the country flags of your Micro.blog visitors in either a footer embed or shortcode on a page. See the footer of this page for an example.\n* The option to show a Tinylytics Webring link with custom link text in the footer embed. Again, see the footer for an example.\n* A complete rewrite of the backend logic to make it scale better as Vincent adds more features.\n\n### New Users Save 20%\n\nIf you're a Micro.blog user and you've been on the fence about signing up for a Tinylytics account, today is your day. New users can get a 20% discount on their first year of Tinylytics when using the coupon code found in the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> file on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page. That's a whole $10 back in your pocket!\n\n<i><b>Note:</b> This offer is only good for new users who select the one-year plan at sign up.</I>\n\n### Updating\n\nIf you're a current user on the Micro.blog platform, you should see a new version available in your site plug-ins area already. Just click the \"Upgrade\" button, then check out the settings to enable new features.\n\n<img src=\"uploads/2023/tinylytics-3-update.png\" alt=\"Tinylytics 3 update\" title=\"tinylytics-3-update.png\" border=\"0\" width=\"784\" height=\"165\" style=\"border:1px solid #f0f0f0;\" />\n\nFor more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.\n\nIf you have any other questions or find a bug, contact me through any of the methods in my site footer below.\n\n<i><b>Note:</b> Uptime monitoring is a paid feature of Tinylytics. You'll need to have a paid account for uptime stats to show via this plugin.</i>\n",
+				"content_text": "<p><img src=\"https://jimmitchell.micro.blog/uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\nIt took a minute to wrap up, but I'm happy to announce that my [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) plugin has been updated to version 3.0, adding a bunch of new options to bring it to parity with [Tinylytics.app](https://tinylytics.app) features [@vincent](https://micro.blog/vincent) has released over the last couple of months.<!--more-->\n\nNotable enhancements made:\n\n* The ability to show the country flags of your Micro.blog visitors in either a footer embed or shortcode on a page. See the footer of this page for an example.\n* The option to show a Tinylytics Webring link with custom link text in the footer embed. Again, see the footer for an example.\n* A complete rewrite of the backend logic to make it scale better as Vincent adds more features.\n\n### New Users Save 20%\n\nIf you're a Micro.blog user and you've been on the fence about signing up for a Tinylytics account, today is your day. New users can get a 20% discount on their first year of Tinylytics when using the coupon code found in the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> file on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page. That's a whole $10 back in your pocket!\n\n<i><b>Note:</b> This offer is only good for new users who select the one-year plan at sign up.</I>\n\n### Updating\n\nIf you're a current user on the Micro.blog platform, you should see a new version available in your site plug-ins area already. Just click the \"Upgrade\" button, then check out the settings to enable new features.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/tinylytics-3-update.png\" alt=\"Tinylytics 3 update\" title=\"tinylytics-3-update.png\" border=\"0\" width=\"784\" height=\"165\" style=\"border:1px solid #f0f0f0;\" />\n\nFor more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.\n\nIf you have any other questions or find a bug, contact me through any of the methods in my site footer below.\n\n<i><b>Note:</b> Uptime monitoring is a paid feature of Tinylytics. You'll need to have a paid account for uptime stats to show via this plugin.</i>\n",
 				"date_published": "2023-10-19T07:34:01-07:00",
-				"url": "https://mb.jimmitchell.org/2023/10/19/tinylytics-for-microblog.html"
+				"url": "https://jimmitchell.dev/2023/10/19/tinylytics-for-microblog.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/10/19/thought-of-the.html",
@@ -651,7 +699,7 @@
 				"content_html": "<p>Thought of the day&hellip; There is no such thing as &ldquo;<em>it should be as simple as&hellip;</em>&rdquo; when it comes to software (or web) development.</p>\n",
 				"content_text": "Thought of the day... There is no such thing as \"*it should be as simple as...*\" when it comes to software (or web) development.\n",
 				"date_published": "2023-10-19T07:07:35-07:00",
-				"url": "https://mb.jimmitchell.org/2023/10/19/thought-of-the.html"
+				"url": "https://jimmitchell.dev/2023/10/19/thought-of-the.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/10/17/put-in-work.html",
@@ -659,7 +707,7 @@
 				"content_html": "<p>I put some work in on my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plugin tonight to bring it to parity with all the nifty features <a href=\"https://micro.blog/vincent\">@vincent</a> has added over the last few months.</p>\n<p>I have some dog-food testing to complete, but expect a release to drop before the end of the week. Sorry it&rsquo;s taken so long to get this done!</p>\n",
 				"content_text": "I put some work in on my [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) plugin tonight to bring it to parity with all the nifty features [@vincent](https://micro.blog/vincent) has added over the last few months.\n\nI have some dog-food testing to complete, but expect a release to drop before the end of the week. Sorry it's taken so long to get this done!\n",
 				"date_published": "2023-10-17T20:29:39-07:00",
-				"url": "https://mb.jimmitchell.org/2023/10/17/put-in-work.html"
+				"url": "https://jimmitchell.dev/2023/10/17/put-in-work.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/10/17/theres-something-that.html",
@@ -667,7 +715,7 @@
 				"content_html": "<p>There&rsquo;s something that feels wrong in the fact the app on my smartwatch told me it&rsquo;s sunrise <em>right</em> as I was walking in the door of the office today&hellip;</p>\n",
 				"content_text": "There's something that feels wrong in the fact the app on my smartwatch told me it's sunrise *right* as I was walking in the door of the office today...\n",
 				"date_published": "2023-10-17T07:07:13-07:00",
-				"url": "https://mb.jimmitchell.org/2023/10/17/theres-something-that.html"
+				"url": "https://jimmitchell.dev/2023/10/17/theres-something-that.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/10/14/lets-be-honest.html",
@@ -675,7 +723,7 @@
 				"content_html": "<p>Let’s be honest&hellip; Is there really <em>anyone</em> who waits for the oven to preheat before starting to cook? I didn&rsquo;t think so.</p>\n",
 				"content_text": "Let’s be honest... Is there really *anyone* who waits for the oven to preheat before starting to cook? I didn't think so.\n",
 				"date_published": "2023-10-14T18:36:44-07:00",
-				"url": "https://mb.jimmitchell.org/2023/10/14/lets-be-honest.html"
+				"url": "https://jimmitchell.dev/2023/10/14/lets-be-honest.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/10/12/a-question-for.html",
@@ -683,7 +731,7 @@
 				"content_html": "<p>A question for the Micro.bloggers with a Mastodon account&hellip; Do you alias your Micro.blog ActivityPub compatible username to Mastodon, or do you alias Mastodon to Micro.blog? What is your reason for the choice you’ve made? I’m torn and have gone back and forth myself. I’d like to get some community input on this. Discuss below!</p>\n",
 				"content_text": "A question for the Micro.bloggers with a Mastodon account... Do you alias your Micro.blog ActivityPub compatible username to Mastodon, or do you alias Mastodon to Micro.blog? What is your reason for the choice you’ve made? I’m torn and have gone back and forth myself. I’d like to get some community input on this. Discuss below!\n",
 				"date_published": "2023-10-12T11:32:26-07:00",
-				"url": "https://mb.jimmitchell.org/2023/10/12/a-question-for.html"
+				"url": "https://jimmitchell.dev/2023/10/12/a-question-for.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/10/11/and-my-caseless.html",
@@ -691,7 +739,7 @@
 				"content_html": "<p>And my case-less iPhone experiment comes to an end. While l liked the smaller form factor in my hand, I was just too nervous about potentially dropping the phone. Fortunately, I never did drop it, but it was always foremost in my mind while using it. Better safe than sorry, as they always say.</p>\n",
 				"content_text": "And my case-less iPhone experiment comes to an end. While l liked the smaller form factor in my hand, I was just too nervous about potentially dropping the phone. Fortunately, I never did drop it, but it was always foremost in my mind while using it. Better safe than sorry, as they always say.\n",
 				"date_published": "2023-10-11T04:47:16-07:00",
-				"url": "https://mb.jimmitchell.org/2023/10/11/and-my-caseless.html"
+				"url": "https://jimmitchell.dev/2023/10/11/and-my-caseless.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/10/07/and-just-like.html",
@@ -699,7 +747,7 @@
 				"content_html": "<p>And just like that, a new car is sitting in the driveway. It&rsquo;s funny how plans you think are the smartest turn out to be not so smart. We were going to buy out the lease on our truck, but it was financially smarter to lease a new hybrid vehicle instead&hellip;</p>\n",
 				"content_text": "And just like that, a new car is sitting in the driveway. It's funny how plans you think are the smartest turn out to be not so smart. We were going to buy out the lease on our truck, but it was financially smarter to lease a new hybrid vehicle instead...\n",
 				"date_published": "2023-10-07T18:43:12-07:00",
-				"url": "https://mb.jimmitchell.org/2023/10/07/and-just-like.html"
+				"url": "https://jimmitchell.dev/2023/10/07/and-just-like.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/10/06/ive-always-been.html",
@@ -707,7 +755,7 @@
 				"content_html": "<p>I’ve been a case on the iPhone kind of guy forever, but I removed the case from my 14 Pro last night and actually like how it feels in my hands. I think I’ll give it a go for a bit…</p>\n",
 				"content_text": "I’ve been a case on the iPhone kind of guy forever, but I removed the case from my 14 Pro last night and actually like how it feels in my hands. I think I’ll give it a go for a bit…\n",
 				"date_published": "2023-10-06T05:00:39-07:00",
-				"url": "https://mb.jimmitchell.org/2023/10/06/ive-always-been.html"
+				"url": "https://jimmitchell.dev/2023/10/06/ive-always-been.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/10/05/decided-to-switch.html",
@@ -715,33 +763,33 @@
 				"content_html": "<p>I decided to switch over to a theme I’ve been tinkering with for a while now. It’s not quite complete, but having it “in production” will be the motivation to fix the little oddities that linger. When it’s ready for prime-time, I might make the repo available. We&rsquo;ll see&hellip;</p>\n",
 				"content_text": "I decided to switch over to a theme I’ve been tinkering with for a while now. It’s not quite complete, but having it “in production” will be the motivation to fix the little oddities that linger. When it’s ready for prime-time, I might make the repo available. We'll see...\n",
 				"date_published": "2023-10-05T16:42:40-07:00",
-				"url": "https://mb.jimmitchell.org/2023/10/05/decided-to-switch.html"
+				"url": "https://jimmitchell.dev/2023/10/05/decided-to-switch.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/09/27/the-north-shore.html",
 				
 				"content_html": "<p>📷 The North Shore of O’ahu. More beautiful than I imagined it would be.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 The North Shore of O’ahu. More beautiful than I imagined it would be.\n\n<img src=\"uploads/2023/45e52bbbf7.jpg\" width=\"600\" height=\"450\" alt=\"Laniakea Beach\">\n",
+				"content_text": "📷 The North Shore of O’ahu. More beautiful than I imagined it would be.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/45e52bbbf7.jpg\" width=\"600\" height=\"450\" alt=\"Laniakea Beach\">\n",
 				"date_published": "2023-09-27T19:49:16-07:00",
-				"url": "https://mb.jimmitchell.org/2023/09/27/the-north-shore.html",
+				"url": "https://jimmitchell.dev/2023/09/27/the-north-shore.html",
 				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/09/25/sunrise-over-waikiki.html",
 				
 				"content_html": "<p>📷 Sunrise over Waikiki.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Sunrise over Waikiki.\n\n<img src=\"uploads/2023/d86bec0760.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise over Waikiki\">\n",
+				"content_text": "📷 Sunrise over Waikiki.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/d86bec0760.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise over Waikiki\">\n",
 				"date_published": "2023-09-25T14:33:03-07:00",
-				"url": "https://mb.jimmitchell.org/2023/09/25/sunrise-over-waikiki.html",
+				"url": "https://jimmitchell.dev/2023/09/25/sunrise-over-waikiki.html",
 				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/09/25/thirty-years-in.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Thirty years in between with lots of ups and downs, the story turned out just how we hoped it would. So grateful for our many blessings along the journey.</p>\n\n<p><img src=\"uploads/2023/8475761ca7.jpg\" width=\"600\" height=\"600\" alt=\"then\"></p>\n\n<p><img src=\"uploads/2023/img-5072.jpeg\" width=\"600\" height=\"449\" alt=\"now\"></p>\n",
+				"content_text": "<p>Thirty years in between with lots of ups and downs, the story turned out just how we hoped it would. So grateful for our many blessings along the journey.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/8475761ca7.jpg\" width=\"600\" height=\"600\" alt=\"then\"></p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/img-5072.jpeg\" width=\"600\" height=\"449\" alt=\"now\"></p>\n",
 				"date_published": "2023-09-25T13:11:51-07:00",
-				"url": "https://mb.jimmitchell.org/2023/09/25/thirty-years-in.html"
+				"url": "https://jimmitchell.dev/2023/09/25/thirty-years-in.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/09/21/if-youre-a.html",
@@ -749,7 +797,7 @@
 				"content_html": "<p>If you&rsquo;re a <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plugin user on Micro.blog, I promise it will get updates soon to match the great enhancements <a href=\"https://micro.blog/vincent\">@vincent</a> has recently made to his analytics platform, <a href=\"https://tinylytics.app\">Tinylytics</a>. Sometimes there are just not enough hours in a day anymore&hellip;</p>\n",
 				"content_text": "If you're a [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) plugin user on Micro.blog, I promise it will get updates soon to match the great enhancements [@vincent](https://micro.blog/vincent) has recently made to his analytics platform, [Tinylytics](https://tinylytics.app). Sometimes there are just not enough hours in a day anymore...\n",
 				"date_published": "2023-09-21T05:13:00-07:00",
-				"url": "https://mb.jimmitchell.org/2023/09/21/if-youre-a.html"
+				"url": "https://jimmitchell.dev/2023/09/21/if-youre-a.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/09/17/after-more-than.html",
@@ -757,7 +805,7 @@
 				"content_html": "<p>After more than six years working together virtually, I was finally able to meet my mentor in person at the Dreamforce 2023 conference. I credit this person with turning my career, personal life, and whole life outlook around. Im so grateful for his objectivity and brutal honesty over the years.</p>\n",
 				"content_text": "After more than six years working together virtually, I was finally able to meet my mentor in person at the Dreamforce 2023 conference. I credit this person with turning my career, personal life, and whole life outlook around. Im so grateful for his objectivity and brutal honesty over the years.\n",
 				"date_published": "2023-09-17T18:57:36-07:00",
-				"url": "https://mb.jimmitchell.org/2023/09/17/after-more-than.html"
+				"url": "https://jimmitchell.dev/2023/09/17/after-more-than.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/09/16/i-successfully-resurrected.html",
@@ -765,15 +813,15 @@
 				"content_html": "<p>I successfully resurrected a late 2012 27&quot; iMac I had sitting around with <!-- raw HTML omitted -->OpenCore Legacy Patcher<!-- raw HTML omitted -->. It&rsquo;s now running macOS Ventura. Performance is not that bad considering the machine still has a spinning platter hard drive. I think I&rsquo;ll install a SSD drive in a couple weeks and give it another go.</p>\n",
 				"content_text": "I successfully resurrected a late 2012 27\" iMac I had sitting around with <a href=\"https://dortania.github.io/OpenCore-Legacy-Patcher/\">OpenCore Legacy Patcher</a>. It's now running macOS Ventura. Performance is not that bad considering the machine still has a spinning platter hard drive. I think I'll install a SSD drive in a couple weeks and give it another go.\n",
 				"date_published": "2023-09-16T18:23:32-07:00",
-				"url": "https://mb.jimmitchell.org/2023/09/16/i-successfully-resurrected.html"
+				"url": "https://jimmitchell.dev/2023/09/16/i-successfully-resurrected.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/09/04/the-unofficial-last.html",
 				
 				"content_html": "<p>📷 The Unofficial Last Day of Summer in Surf City, USA.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 The Unofficial Last Day of Summer in Surf City, USA.\n\n<img src=\"uploads/2023/af48e10452.jpg\" width=\"600\" height=\"449\" alt=\"Huntington Beach pier and volleyball players.\">\n",
+				"content_text": "📷 The Unofficial Last Day of Summer in Surf City, USA.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/af48e10452.jpg\" width=\"600\" height=\"449\" alt=\"Huntington Beach pier and volleyball players.\">\n",
 				"date_published": "2023-09-04T11:32:52-07:00",
-				"url": "https://mb.jimmitchell.org/2023/09/04/the-unofficial-last.html",
+				"url": "https://jimmitchell.dev/2023/09/04/the-unofficial-last.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -782,7 +830,7 @@
 				"content_html": "<p>I just reserved airport parking for our upcoming Hawaii trip. It&rsquo;s hard to believe that after booking the trip more than a year ago, it&rsquo;s finally here. This is both the honeymoon we never had, and a celebration of 30 years of marriage. Yay us!</p>\n",
 				"content_text": "I just reserved airport parking for our upcoming Hawaii trip. It's hard to believe that after booking the trip more than a year ago, it's finally here. This is both the honeymoon we never had, and a celebration of 30 years of marriage. Yay us!\n",
 				"date_published": "2023-09-02T10:00:43-07:00",
-				"url": "https://mb.jimmitchell.org/2023/09/02/i-just-reserved.html"
+				"url": "https://jimmitchell.dev/2023/09/02/i-just-reserved.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/08/20/back-to-the.html",
@@ -790,7 +838,7 @@
 				"content_html": "<p>I&rsquo;m back to WordPress using <!-- raw HTML omitted -->Amazon Lightsail<!-- raw HTML omitted -->. The speed is impressive and the cost is 30% better than Digital Ocean with better VPS specs. Setup was easy following Amazon&rsquo;s instructions and other blog articles. Highly recommended.</p>\n",
 				"content_text": "I'm back to WordPress using <a href=\"https://aws.amazon.com/lightsail/\">Amazon Lightsail</a>. The speed is impressive and the cost is 30% better than Digital Ocean with better VPS specs. Setup was easy following Amazon's instructions and other blog articles. Highly recommended.\n",
 				"date_published": "2023-08-20T15:32:39-07:00",
-				"url": "https://mb.jimmitchell.org/2023/08/20/back-to-the.html"
+				"url": "https://jimmitchell.dev/2023/08/20/back-to-the.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/08/18/looking-at-the.html",
@@ -798,7 +846,7 @@
 				"content_html": "<p>Looking at the rain (4-6&quot;) and wind (gusts 40-60 mph) models for tropical storm Hillary in SoCal (Huntington Beach), it could prove to be a pretty wild weekend. Our place is barely above sea level. I think I might grab some sandbags tomorrow just to be safe.</p>\n",
 				"content_text": "Looking at the rain (4-6\") and wind (gusts 40-60 mph) models for tropical storm Hillary in SoCal (Huntington Beach), it could prove to be a pretty wild weekend. Our place is barely above sea level. I think I might grab some sandbags tomorrow just to be safe.\n",
 				"date_published": "2023-08-18T13:55:39-07:00",
-				"url": "https://mb.jimmitchell.org/2023/08/18/looking-at-the.html"
+				"url": "https://jimmitchell.dev/2023/08/18/looking-at-the.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/08/17/its-always-so.html",
@@ -806,15 +854,15 @@
 				"content_html": "<p>It’s always so satisfying, and such a relief, to finally solve a blocking issue that’s stumped me for days and held up three other teams from completing their work. Maybe I can finally sleep tonight. Maybe…</p>\n",
 				"content_text": "It’s always so satisfying, and such a relief, to finally solve a blocking issue that’s stumped me for days and held up three other teams from completing their work. Maybe I can finally sleep tonight. Maybe…\n",
 				"date_published": "2023-08-17T11:18:38-07:00",
-				"url": "https://mb.jimmitchell.org/2023/08/17/its-always-so.html"
+				"url": "https://jimmitchell.dev/2023/08/17/its-always-so.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/08/12/thanks-for-the.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Thanks for the awesome Micro.blog decals and note, <a href=\"https://micro.blog/jean\">@jean</a>!</p>\n\n<p><img src=\"uploads/2023/c68e7f41bf.jpg\" width=\"600\" height=\"450\" alt=\"Awesome Micro.blog decals from [@jean](https://micro.blog/jean).\"></p>\n",
+				"content_text": "<p>📷 Thanks for the awesome Micro.blog decals and note, <a href=\"https://micro.blog/jean\">@jean</a>!</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/c68e7f41bf.jpg\" width=\"600\" height=\"450\" alt=\"Awesome Micro.blog decals from [@jean](https://micro.blog/jean).\"></p>\n",
 				"date_published": "2023-08-12T12:18:28-07:00",
-				"url": "https://mb.jimmitchell.org/2023/08/12/thanks-for-the.html",
+				"url": "https://jimmitchell.dev/2023/08/12/thanks-for-the.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -823,7 +871,7 @@
 				"content_html": "<p>So&hellip; I ground the beans for the coffee and set up the brewer to start at 4am before going to bed, just like usual&hellip; But I forgot to put the carafe under the basket. This got me four kitchen drawers filled with freshly brewed coffee, and ruined both a dining room rug and my wife&rsquo;s morning. 🤦🏻‍♂️</p>\n",
 				"content_text": "So... I ground the beans for the coffee and set up the brewer to start at 4am before going to bed, just like usual... But I forgot to put the carafe under the basket. This got me four kitchen drawers filled with freshly brewed coffee, and ruined both a dining room rug and my wife's morning. 🤦🏻‍♂️\n",
 				"date_published": "2023-08-09T19:45:25-07:00",
-				"url": "https://mb.jimmitchell.org/2023/08/09/so-i-ground.html"
+				"url": "https://jimmitchell.dev/2023/08/09/so-i-ground.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/08/04/i-switched-all.html",
@@ -831,7 +879,7 @@
 				"content_html": "<p>I switched all my domains to iCloud Custom Email Domains from Google Workspace last night. Set up was really simple, even with family sharing. You do have to understand editing your own DNS though. For $2.99 (200GB plan) a month vs. $12 a month for two users, I think it&rsquo;s worth it.</p>\n",
 				"content_text": "I switched all my domains to iCloud Custom Email Domains from Google Workspace last night. Set up was really simple, even with family sharing. You do have to understand editing your own DNS though. For $2.99 (200GB plan) a month vs. $12 a month for two users, I think it's worth it.\n",
 				"date_published": "2023-08-04T07:46:11-07:00",
-				"url": "https://mb.jimmitchell.org/2023/08/04/i-switched-all.html"
+				"url": "https://jimmitchell.dev/2023/08/04/i-switched-all.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/07/31/a-follow-up.html",
@@ -839,7 +887,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>A follow up to my AirPod drama&#8230; I splurged extra for the AirPods Pro 2. As someone with extreme <a href=\"https://en.wikipedia.org/wiki/M%C3%A9ni%C3%A8re%27s_disease\">Meniere&#8217;s Disease</a>, I struggle to hear anything in even mildly noisy situations. I&#8217;ve found Transparency mode to be a godsend. I tuned ambient noise off &amp; can finally hear what&#8217;s being said to me. 🥹</p>\n",
 				"date_published": "2023-07-31T12:23:07-07:00",
-				"url": "https://mb.jimmitchell.org/2023/07/31/a-follow-up.html"
+				"url": "https://jimmitchell.dev/2023/07/31/a-follow-up.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/07/28/im-having-a.html",
@@ -847,7 +895,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>I’m having a rough day it seems. My AirPods earbuds took a trip through the washer today because I stuck them in a shirt pocket rather than their case. Go me…</p>\n",
 				"date_published": "2023-07-28T15:58:37-07:00",
-				"url": "https://mb.jimmitchell.org/2023/07/28/im-having-a.html"
+				"url": "https://jimmitchell.dev/2023/07/28/im-having-a.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/07/28/ouch-i-managed.html",
@@ -855,15 +903,15 @@
 				"content_html": "<p>Ouch! I managed to spill coffee into (not onto&hellip; into) my favorite Apple aluminum wired keyboard today. I’m crushed. I’ve been using this keyboard for almost 15 years without trouble. My backup is the same model, but with a finicky space bar key. So it goes.</p>\n",
 				"content_text": "Ouch! I managed to spill coffee into (not onto... into) my favorite Apple aluminum wired keyboard today. I’m crushed. I’ve been using this keyboard for almost 15 years without trouble. My backup is the same model, but with a finicky space bar key. So it goes.\n",
 				"date_published": "2023-07-28T12:01:51-07:00",
-				"url": "https://mb.jimmitchell.org/2023/07/28/ouch-i-managed.html"
+				"url": "https://jimmitchell.dev/2023/07/28/ouch-i-managed.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/07/20/surf-gnome.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Surf gnome…</p>\n\n<p><img src=\"uploads/2023/gnome.jpg\" alt=\"The surf gnome\" title=\"gnome.png\" border=\"0\" width=\"720\" height=\"540\" /></p>\n",
+				"content_text": "<p>📷 Surf gnome…</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/gnome.jpg\" alt=\"The surf gnome\" title=\"gnome.png\" border=\"0\" width=\"720\" height=\"540\" /></p>\n",
 				"date_published": "2023-07-20T14:57:25-07:00",
-				"url": "https://mb.jimmitchell.org/2023/07/20/surf-gnome.html",
+				"url": "https://jimmitchell.dev/2023/07/20/surf-gnome.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -872,7 +920,7 @@
 				"content_html": "<p>I&rsquo;ve resurrected the WordPress blog for a cool project&hellip; More to come soon.</p>\n",
 				"content_text": "I've resurrected the WordPress blog for a cool project... More to come soon.\n",
 				"date_published": "2023-07-19T15:30:00-07:00",
-				"url": "https://mb.jimmitchell.org/2023/07/19/bringing-back-the.html"
+				"url": "https://jimmitchell.dev/2023/07/19/bringing-back-the.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/07/19/that-last-day.html",
@@ -880,7 +928,7 @@
 				"content_html": "<p>That last day before an extended time away from the office always seems to be the longest, and the most fraught with pure insanity… Am I imagining it?</p>\n",
 				"content_text": "That last day before an extended time away from the office always seems to be the longest, and the most fraught with pure insanity… Am I imagining it?\n",
 				"date_published": "2023-07-19T09:54:45-07:00",
-				"url": "https://mb.jimmitchell.org/2023/07/19/that-last-day.html"
+				"url": "https://jimmitchell.dev/2023/07/19/that-last-day.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/07/18/its-a-smashing.html",
@@ -888,15 +936,15 @@
 				"content_html": "<p>It’s a Smashing Pumpkins kind of day. I forgot how sonically rich and layered they were.</p>\n",
 				"content_text": "It’s a Smashing Pumpkins kind of day. I forgot how sonically rich and layered they were.\n",
 				"date_published": "2023-07-18T10:19:16-07:00",
-				"url": "https://mb.jimmitchell.org/2023/07/18/its-a-smashing.html"
+				"url": "https://jimmitchell.dev/2023/07/18/its-a-smashing.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/07/11/tinylytics-for-microblog.html",
 				"title": "Tinylytics for Micro.blog v2.1 Released",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->",
-				"content_text": "<p><img src=\"uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>Hot on the heels of <a href=\"https://vincentritter.com/2023/07/10/19-47-43\">uptime monitoring on Tinylytics</a>, I&#8217;m stoked to share that my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been released as a 2.1 version to take advantage of it.</p><!--more-->\n\n<p>This release adds the following:</p>\n\n<ol>\n<li>The ability to use a <a href=\"https://gohugo.io/content-management/shortcodes/\">Hugo shortcode</a> to add a <span style='text-decoration:underline;'>Page View Counter</span> in a post without changing any site template files. This will display the actual views of a single post, rather than overall hits -- which can still be shown as a footer embed.</li>\n<li>The ability to show your site uptime embedded in the global custom footer of your Micro.blog site without changing any site template files.</li>\n</ol>\n\n<p><i><b>Note:</b> Uptime monitoring is a paid feature of Tinylytics. You'll need to have a paid account for uptime stats to show via this plugin.</i></p>\n\n<p>You should see a new version available in your site plug-ins area soon.</p>\n\n<p>For more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.</p>\n\n<p>If you have any other questions or find a bug, contact me through any of the methods in my site footer below.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>Hot on the heels of <a href=\"https://vincentritter.com/2023/07/10/19-47-43\">uptime monitoring on Tinylytics</a>, I&#8217;m stoked to share that my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been released as a 2.1 version to take advantage of it.</p><!--more-->\n\n<p>This release adds the following:</p>\n\n<ol>\n<li>The ability to use a <a href=\"https://gohugo.io/content-management/shortcodes/\">Hugo shortcode</a> to add a <span style='text-decoration:underline;'>Page View Counter</span> in a post without changing any site template files. This will display the actual views of a single post, rather than overall hits -- which can still be shown as a footer embed.</li>\n<li>The ability to show your site uptime embedded in the global custom footer of your Micro.blog site without changing any site template files.</li>\n</ol>\n\n<p><i><b>Note:</b> Uptime monitoring is a paid feature of Tinylytics. You'll need to have a paid account for uptime stats to show via this plugin.</i></p>\n\n<p>You should see a new version available in your site plug-ins area soon.</p>\n\n<p>For more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.</p>\n\n<p>If you have any other questions or find a bug, contact me through any of the methods in my site footer below.</p>\n",
 				"date_published": "2023-07-11T08:25:11-07:00",
-				"url": "https://mb.jimmitchell.org/2023/07/11/tinylytics-for-microblog.html"
+				"url": "https://jimmitchell.dev/2023/07/11/tinylytics-for-microblog.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/07/10/shaved-my-goatee.html",
@@ -904,24 +952,24 @@
 				"content_html": "<p>Shaved my goatee off over the weekend and now my face feels uncomfortably naked… I don’t know why I do this to myself. You’d think I’d learn by now.</p>\n",
 				"content_text": "Shaved my goatee off over the weekend and now my face feels uncomfortably naked… I don’t know why I do this to myself. You’d think I’d learn by now.\n",
 				"date_published": "2023-07-10T15:12:59-07:00",
-				"url": "https://mb.jimmitchell.org/2023/07/10/shaved-my-goatee.html"
+				"url": "https://jimmitchell.dev/2023/07/10/shaved-my-goatee.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/07/08/a-mini-minivan.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 A mini mini-van&#8230;</p>\n\n<p><img src=\"uploads/2023/img-1452.jpg\" alt=\"IMG 1452\" title=\"IMG_1452.jpg\" border=\"0\" width=\"720\" height=\"540\" alt=\"a stylish mini mini-van\" /></p>\n",
+				"content_text": "<p>📷 A mini mini-van&#8230;</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/img-1452.jpg\" alt=\"IMG 1452\" title=\"IMG_1452.jpg\" border=\"0\" width=\"720\" height=\"540\" alt=\"a stylish mini mini-van\" /></p>\n",
 				"date_published": "2023-07-08T15:41:26-07:00",
-				"url": "https://mb.jimmitchell.org/2023/07/08/a-mini-minivan.html",
+				"url": "https://jimmitchell.dev/2023/07/08/a-mini-minivan.html",
 				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/07/08/tinylytics-for-microblog.html",
 				"title": "Tinylytics for Micro.blog 2.0 Release",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->",
-				"content_text": "<p><img src=\"uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>I’m happy to share that my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been released as a 2.0 version.</p><!--more-->\n\n<p>This release adds the following:</p>\n\n<ol>\n<li>A complete refactor/rewrite of the tracking code for better performance.</li>\n<li>The ability to use <a href=\"https://gohugo.io/content-management/shortcodes/\">Hugo shortcodes</a> to add Kudos and Hit Counter in a post without changing any site template files.</li>\n<li>The ability to add a Hit Counter embed in the global custom footer of your Micro.blog site without changing any site template files.</li>\n</ol>\n\n<p>You should see a new version available in your site plug-ins area soon.</p>\n\n<p>For more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.</p>\n\n<p>If you have any other questions or find a bug, contact me through any of the methods in my site footer below.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>I’m happy to share that my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been released as a 2.0 version.</p><!--more-->\n\n<p>This release adds the following:</p>\n\n<ol>\n<li>A complete refactor/rewrite of the tracking code for better performance.</li>\n<li>The ability to use <a href=\"https://gohugo.io/content-management/shortcodes/\">Hugo shortcodes</a> to add Kudos and Hit Counter in a post without changing any site template files.</li>\n<li>The ability to add a Hit Counter embed in the global custom footer of your Micro.blog site without changing any site template files.</li>\n</ol>\n\n<p>You should see a new version available in your site plug-ins area soon.</p>\n\n<p>For more details about using the plug-in, see the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on the <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">Github project</a> page.</p>\n\n<p>If you have any other questions or find a bug, contact me through any of the methods in my site footer below.</p>\n",
 				"date_published": "2023-07-08T10:22:57-07:00",
-				"url": "https://mb.jimmitchell.org/2023/07/08/tinylytics-for-microblog.html"
+				"url": "https://jimmitchell.dev/2023/07/08/tinylytics-for-microblog.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/07/05/yeah-i-checked.html",
@@ -929,15 +977,15 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Yeah&#8230; I checked out Threads. And yeah&#8230; I&#8217;m done with that one already. I think Micro.blog is still the right platform for me.</p>\n",
 				"date_published": "2023-07-05T20:04:13-07:00",
-				"url": "https://mb.jimmitchell.org/2023/07/05/yeah-i-checked.html"
+				"url": "https://jimmitchell.dev/2023/07/05/yeah-i-checked.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/07/04/our-rd-year.html",
 				
 				"content_html": "<p>📷 Our 23rd year in Surf City, USA…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Our 23rd year in Surf City, USA…\n\n<img src=\"uploads/2023/035110a288.jpg\" width=\"600\" height=\"450\" alt=\"Huntington Beach 4th of July parade banner.\">\n",
+				"content_text": "📷 Our 23rd year in Surf City, USA…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/035110a288.jpg\" width=\"600\" height=\"450\" alt=\"Huntington Beach 4th of July parade banner.\">\n",
 				"date_published": "2023-07-04T13:34:40-07:00",
-				"url": "https://mb.jimmitchell.org/2023/07/04/our-rd-year.html",
+				"url": "https://jimmitchell.dev/2023/07/04/our-rd-year.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -946,15 +994,15 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Ooh&#8230; I just had a brilliant idea for my Tinylytics for Micro.blog plug-in that will save users from having to hack any html and should (in theory) work on any theme. More to come soon&#8230;</p>\n",
 				"date_published": "2023-07-02T10:36:58-07:00",
-				"url": "https://mb.jimmitchell.org/2023/07/02/ooh-i-just.html"
+				"url": "https://jimmitchell.dev/2023/07/02/ooh-i-just.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/07/02/tinylytics-for-microblog.html",
 				"title": "Tinylytics for Micro.blog Updated to 1.0.6",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->",
-				"content_text": "<p><img src=\"uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>Fresh on the heels of new <a href=\"https://tinylytics.app\">Tinylytics.app</a> updates, my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been updated to take advantage of the new Kudos feature introduced in the latest release. If you look at your installed site plug-ins, you should see an update available as 1.0.6.</p><!--more-->\n\n<p>This release adds a checkbox to show Kudos along with the ability to set a custom label. See the project <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on Github for more information.</p>\n\n<p><img src=\"uploads/2023/tinylytics-config.png\" alt=\"Tinylytics config\" title=\"tinylytics-config.png\" border=\"0\" width=\"719\" height=\"284\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>Special thanks go out to <a href=\"https://micro.blog/vincent\">@vincent</a> for simply being an all-around awesome dude too.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>Fresh on the heels of new <a href=\"https://tinylytics.app\">Tinylytics.app</a> updates, my <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plug-in has been updated to take advantage of the new Kudos feature introduced in the latest release. If you look at your installed site plug-ins, you should see an update available as 1.0.6.</p><!--more-->\n\n<p>This release adds a checkbox to show Kudos along with the ability to set a custom label. See the project <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog/blob/main/README.md\">README</a> on Github for more information.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/tinylytics-config.png\" alt=\"Tinylytics config\" title=\"tinylytics-config.png\" border=\"0\" width=\"719\" height=\"284\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>Special thanks go out to <a href=\"https://micro.blog/vincent\">@vincent</a> for simply being an all-around awesome dude too.</p>\n",
 				"date_published": "2023-07-02T00:03:12-07:00",
-				"url": "https://mb.jimmitchell.org/2023/07/02/tinylytics-for-microblog.html"
+				"url": "https://jimmitchell.dev/2023/07/02/tinylytics-for-microblog.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/06/30/teaser-alert-updates.html",
@@ -962,7 +1010,7 @@
 				"content_html": "<p>Teaser alert&hellip; Updates coming for the <a href=\"https://micro.blog/account/plugins/view/101\">Tinylytics for Micro.blog</a> plugin this weekend that adds features for <a href=\"https://tinylytics.app\">Tinylytics</a> paid account users. It&rsquo;s a party.</p>\n",
 				"content_text": "Teaser alert... Updates coming for the [Tinylytics for Micro.blog](https://micro.blog/account/plugins/view/101) plugin this weekend that adds features for [Tinylytics](https://tinylytics.app) paid account users. It's a party.\n",
 				"date_published": "2023-06-30T07:31:29-07:00",
-				"url": "https://mb.jimmitchell.org/2023/06/30/teaser-alert-updates.html"
+				"url": "https://jimmitchell.dev/2023/06/30/teaser-alert-updates.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/06/28/okay-so-ive.html",
@@ -970,7 +1018,7 @@
 				"content_html": "<p>Okay&hellip; So I&rsquo;ve aliased my Micro.blog ActivityPub username back to my Mastodon account for the time being. Having the feed in Micro.blog is really cool, but I felt I was missing something. I may change my mind again though&hellip; I&rsquo;m so fickle sometimes.</p>\n",
 				"content_text": "Okay... So I've aliased my Micro.blog ActivityPub username back to my Mastodon account for the time being. Having the feed in Micro.blog is really cool, but I felt I was missing something. I may change my mind again though... I'm so fickle sometimes.\n",
 				"date_published": "2023-06-28T13:17:55-07:00",
-				"url": "https://mb.jimmitchell.org/2023/06/28/okay-so-ive.html"
+				"url": "https://jimmitchell.dev/2023/06/28/okay-so-ive.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/06/27/sometime-its-a.html",
@@ -978,32 +1026,32 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Sometimes it’s a curse being a perfectionist living among the imperfectionists…</p>\n",
 				"date_published": "2023-06-27T16:28:25-07:00",
-				"url": "https://mb.jimmitchell.org/2023/06/27/sometime-its-a.html"
+				"url": "https://jimmitchell.dev/2023/06/27/sometime-its-a.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/06/27/new-plugin-tinylytics.html",
 				"title": "New Plugin: Tinylytics for Micro.blog",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->",
-				"content_text": "<p><img src=\"uploads/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>I published my very first Micro.blog plugin today: <strong>Tinylytics for Micro.blog</strong>. You can find it in the Micro.blog <a href=\"https://micro.blog/account/plugins/view/101\">plugin directory</a>.</p><!--more-->\n\n<p>If you’re using <a href=\"https://micro.blog/vincent\">Vincent Ritter’s</a> awesome web analytics platform <a href=\"https://tinylytics.app\">Tinylytics</a>, this plugin is for you. Rather than copying and pasting a line of Javascript, you simply enter your unique site id which can be copied from your site page once the plugin is installed.</p>\n\n<p><img src=\"uploads/2023/tinylytics-plug-in-options.png\" alt=\"Tinylytics plug in options\" title=\"tinylytics-plug-in-options.png\" border=\"0\" width=\"562\" height=\"179\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>There’s an option to toggle the “Display Hits” option too.</p>\n\n<p>To show hits on your site, you’ll need to modify your Micro.blog theme to make the hits show up. The easiest way to accomplish this might be to add code in the footer of your theme’s design area (Design > Edit Footer):</p>\n\n<p><img src=\"uploads/2023/footer-edit.png\" alt=\"Footer edit\" title=\"footer-edit.png\" border=\"0\" width=\"718\" height=\"185\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>See this Tinylytics <a href=\"https://tinylytics.app/docs/show_hit_counter\">help article</a> for more information on displaying hits on your site.</p>\n\n<p>The plugin source can be found at this Github repo: <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">https://github.com/jimmitchell/Tinylytics-for-Micro.blog</a>.</p>\n\n<p><a href=\"mailto:hello@jimmitchell.org\">Email me</a> with questions or any issues you find.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/tinylyticsheaderart.png\" alt=\"TinylyticsHeaderArt\" title=\"TinylyticsHeaderArt.png\" border=\"0\" width=\"720\" height=\"504\" /></p>\n\n<p>I published my very first Micro.blog plugin today: <strong>Tinylytics for Micro.blog</strong>. You can find it in the Micro.blog <a href=\"https://micro.blog/account/plugins/view/101\">plugin directory</a>.</p><!--more-->\n\n<p>If you’re using <a href=\"https://micro.blog/vincent\">Vincent Ritter’s</a> awesome web analytics platform <a href=\"https://tinylytics.app\">Tinylytics</a>, this plugin is for you. Rather than copying and pasting a line of Javascript, you simply enter your unique site id which can be copied from your site page once the plugin is installed.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/tinylytics-plug-in-options.png\" alt=\"Tinylytics plug in options\" title=\"tinylytics-plug-in-options.png\" border=\"0\" width=\"562\" height=\"179\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>There’s an option to toggle the “Display Hits” option too.</p>\n\n<p>To show hits on your site, you’ll need to modify your Micro.blog theme to make the hits show up. The easiest way to accomplish this might be to add code in the footer of your theme’s design area (Design > Edit Footer):</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/footer-edit.png\" alt=\"Footer edit\" title=\"footer-edit.png\" border=\"0\" width=\"718\" height=\"185\" style=\"border:1px solid var(--code);\" /></p>\n\n<p>See this Tinylytics <a href=\"https://tinylytics.app/docs/show_hit_counter\">help article</a> for more information on displaying hits on your site.</p>\n\n<p>The plugin source can be found at this Github repo: <a href=\"https://github.com/jimmitchell/Tinylytics-for-Micro.blog\">https://github.com/jimmitchell/Tinylytics-for-Micro.blog</a>.</p>\n\n<p><a href=\"mailto:hello@jimmitchell.org\">Email me</a> with questions or any issues you find.</p>\n",
 				"date_published": "2023-06-27T09:13:31-07:00",
-				"url": "https://mb.jimmitchell.org/2023/06/27/new-plugin-tinylytics.html"
+				"url": "https://jimmitchell.dev/2023/06/27/new-plugin-tinylytics.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/06/26/a-friendly-lizard.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 A friendly lizard.</p>\n\n<p><img src=\"uploads/2023/bffae4abc7.jpg\" width=\"600\" height=\"450\" alt=\"a lizard on a stick\"></p>\n",
+				"content_text": "<p>📷 A friendly lizard.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/bffae4abc7.jpg\" width=\"600\" height=\"450\" alt=\"a lizard on a stick\"></p>\n",
 				"date_published": "2023-06-26T21:02:39-07:00",
-				"url": "https://mb.jimmitchell.org/2023/06/26/a-friendly-lizard.html",
+				"url": "https://jimmitchell.dev/2023/06/26/a-friendly-lizard.html",
 				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/06/26/laguna-coast-wilderness.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Laguna Coast Wilderness Park.</p>\n\n<p><img src=\"uploads/2023/620f697509.jpg\" width=\"600\" height=\"450\" alt=\"view of the Laguna mountains\"></p>\n",
+				"content_text": "<p>📷 Laguna Coast Wilderness Park.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/620f697509.jpg\" width=\"600\" height=\"450\" alt=\"view of the Laguna mountains\"></p>\n",
 				"date_published": "2023-06-26T20:58:34-07:00",
-				"url": "https://mb.jimmitchell.org/2023/06/26/laguna-coast-wilderness.html",
+				"url": "https://jimmitchell.dev/2023/06/26/laguna-coast-wilderness.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -1012,7 +1060,7 @@
 				"content_html": "<p>Today&rsquo;s &ldquo;the more I learn about Micro.blog&rdquo; post&hellip; Both the iOS and Mac desktop apps work like any other Mastodon client. Follow anyone in the Fediverse you want; their posts magically show up in your timeline, with the added bonus of using your domain with your Fediverse username if you have one.</p>\n",
 				"content_text": "Today's \"the more I learn about Micro.blog\" post... Both the iOS and Mac desktop apps work like any other Mastodon client. Follow anyone in the Fediverse you want; their posts magically show up in your timeline, with the added bonus of using your domain with your Fediverse username if you have one.\n",
 				"date_published": "2023-06-26T13:10:59-07:00",
-				"url": "https://mb.jimmitchell.org/2023/06/26/todays-the-more.html"
+				"url": "https://jimmitchell.dev/2023/06/26/todays-the-more.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/06/25/came-up-with.html",
@@ -1020,7 +1068,7 @@
 				"content_html": "<p>Came up with a couple of ideas for useful Micro.blog plug-ins this morning. More to come soon…</p>\n",
 				"content_text": "Came up with a couple of ideas for useful Micro.blog plug-ins this morning. More to come soon…\n",
 				"date_published": "2023-06-25T09:01:40-07:00",
-				"url": "https://mb.jimmitchell.org/2023/06/25/came-up-with.html"
+				"url": "https://jimmitchell.dev/2023/06/25/came-up-with.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/06/23/lesson-learned-do.html",
@@ -1028,15 +1076,15 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Lesson learned: Do not alias a Mastodon instance username to your Micro.blog Mastodon-compatible username and then decide to change it back. You will lose your original Mastodon instance followers, though you will keep your Micro.blog followers&#8230;</p>\n",
 				"date_published": "2023-06-23T06:28:49-07:00",
-				"url": "https://mb.jimmitchell.org/2023/06/23/lesson-learned-do.html"
+				"url": "https://jimmitchell.dev/2023/06/23/lesson-learned-do.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/06/12/sunrise-in-port.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Sunrise over Terminal Island.</p>\n\n<p><img src=\"uploads/2023/53ad5a744f.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise over Terminal Island\"></p>\n",
+				"content_text": "<p>📷 Sunrise over Terminal Island.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/53ad5a744f.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise over Terminal Island\"></p>\n",
 				"date_published": "2023-06-12T20:50:45-07:00",
-				"url": "https://mb.jimmitchell.org/2023/06/12/sunrise-in-port.html",
+				"url": "https://jimmitchell.dev/2023/06/12/sunrise-in-port.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -1045,7 +1093,7 @@
 				"content_html": "<p>Going to try to wrap my head around Hugo themes today. I get the gist of it, but after 20+ years of WordPress theming, the logic is just a little different. Any good references appreciated. My brain is not as pliable as it once was.</p>\n",
 				"content_text": "Going to try to wrap my head around Hugo themes today. I get the gist of it, but after 20+ years of WordPress theming, the logic is just a little different. Any good references appreciated. My brain is not as pliable as it once was.\n",
 				"date_published": "2023-06-10T11:18:51-07:00",
-				"url": "https://mb.jimmitchell.org/2023/06/10/going-to-try.html"
+				"url": "https://jimmitchell.dev/2023/06/10/going-to-try.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/06/09/ive-yet-to.html",
@@ -1053,7 +1101,7 @@
 				"content_html": "<p>I’ve yet to start playing with the macOS Sonoma beta, but in my Apple fanboy opinion, the default desktop wallpapers are some of the best Apple has produced in the past several releases.</p>\n",
 				"content_text": "I’ve yet to start playing with the macOS Sonoma beta, but in my Apple fanboy opinion, the default desktop wallpapers are some of the best Apple has produced in the past several releases.\n",
 				"date_published": "2023-06-09T10:42:24-07:00",
-				"url": "https://mb.jimmitchell.org/2023/06/09/ive-yet-to.html"
+				"url": "https://jimmitchell.dev/2023/06/09/ive-yet-to.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/06/06/i-try-to.html",
@@ -1061,7 +1109,7 @@
 				"content_html": "<p>I try to diligently plan the tasks I want to get done each day, but there’s always a fire that has to be put out, pushing the planned tasks to the next day - until they become fires of their own.</p>\n<p>Tomorrow is a new chance. I’ll just keep telling myself that…</p>\n",
 				"content_text": "I try to diligently plan the tasks I want to get done each day, but there’s always a fire that has to be put out, pushing the planned tasks to the next day - until they become fires of their own.\n\nTomorrow is a new chance. I’ll just keep telling myself that…\n",
 				"date_published": "2023-06-06T16:06:41-07:00",
-				"url": "https://mb.jimmitchell.org/2023/06/06/i-try-to.html"
+				"url": "https://jimmitchell.dev/2023/06/06/i-try-to.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/06/05/upped-my-microblog.html",
@@ -1069,15 +1117,15 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Upped my Micro.blog plan to the premium level over the weekend. Great to have the newsletter option now. Mulling some potential topics for a regular Microcast as well.</p>\n",
 				"date_published": "2023-06-05T12:46:23-07:00",
-				"url": "https://mb.jimmitchell.org/2023/06/05/upped-my-microblog.html"
+				"url": "https://jimmitchell.dev/2023/06/05/upped-my-microblog.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/05/30/across-the-irvine.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Across the Irvine valley.</p>\n\n<p><img src=\"uploads/2023/165d8050c2.jpg\" width=\"600\" height=\"450\" alt=\"Across the valley\" /></p>\n",
+				"content_text": "<p>📷 Across the Irvine valley.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/165d8050c2.jpg\" width=\"600\" height=\"450\" alt=\"Across the valley\" /></p>\n",
 				"date_published": "2023-05-30T19:51:35-07:00",
-				"url": "https://mb.jimmitchell.org/2023/05/30/across-the-irvine.html",
+				"url": "https://jimmitchell.dev/2023/05/30/across-the-irvine.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -1086,24 +1134,24 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Purchased a license for <a href=\"https://shottr.cc\">Shottr</a>, a macOS screenshot tool, based on a Micro.blog discussion thread I stumbled on and it&#8217;s probably the best $4 I&#8217;ve spent in a year. Normally it would be $8, but took advantage of the <a href=\"https://shottr.cc/newversion.html\">first week coupon code</a>.</p>\n",
 				"date_published": "2023-05-30T19:32:02-07:00",
-				"url": "https://mb.jimmitchell.org/2023/05/30/purchased-a-license.html"
+				"url": "https://jimmitchell.dev/2023/05/30/purchased-a-license.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/05/29/remembering-those-who.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Remembering those who gave it all for our freedom.</p>\n\n<p><img src=\"uploads/2023/b66829c03e.jpg\" width=\"600\" height=\"450\" alt=\"Memorial Day remembrance ceremony.\"></p>\n",
+				"content_text": "<p>📷 Remembering those who gave it all for our freedom.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/b66829c03e.jpg\" width=\"600\" height=\"450\" alt=\"Memorial Day remembrance ceremony.\"></p>\n",
 				"date_published": "2023-05-29T12:53:28-07:00",
-				"url": "https://mb.jimmitchell.org/2023/05/29/remembering-those-who.html",
+				"url": "https://jimmitchell.dev/2023/05/29/remembering-those-who.html",
 				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/05/29/hb-northside-lineup.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 HB Northside Lineup.</p>\n\n<p><img src=\"uploads/2023/05b2ec4cb1.jpg\" width=\"600\" height=\"450\" alt=\"HB Northside Surf Lineup\"></p>\n",
+				"content_text": "<p>📷 HB Northside Lineup.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/05b2ec4cb1.jpg\" width=\"600\" height=\"450\" alt=\"HB Northside Surf Lineup\"></p>\n",
 				"date_published": "2023-05-29T11:57:54-07:00",
-				"url": "https://mb.jimmitchell.org/2023/05/29/hb-northside-lineup.html",
+				"url": "https://jimmitchell.dev/2023/05/29/hb-northside-lineup.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -1112,15 +1160,15 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>If you have multiple domains you&#8217;d like to redirect to your Micro.blog domain (or any domain for that matter), and know how to manage your own DNS records, I highly recommend using <a href=\"https://forwarddomain.net\">ForwardDomain.net</a> as a redirect solution.</p>\n",
 				"date_published": "2023-05-29T08:22:45-07:00",
-				"url": "https://mb.jimmitchell.org/2023/05/29/if-you-have.html"
+				"url": "https://jimmitchell.dev/2023/05/29/if-you-have.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/05/28/blooming-cactus.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Blooming cactus.</p>\n\n<p><img src=\"uploads/2023/9fcbf18467.jpg\" width=\"600\" height=\"450\" alt=\"Blooming cactus\"></p>\n",
+				"content_text": "<p>📷 Blooming cactus.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/9fcbf18467.jpg\" width=\"600\" height=\"450\" alt=\"Blooming cactus\"></p>\n",
 				"date_published": "2023-05-28T12:53:39-07:00",
-				"url": "https://mb.jimmitchell.org/2023/05/28/blooming-cactus.html",
+				"url": "https://jimmitchell.dev/2023/05/28/blooming-cactus.html",
 				"tags": ["Photos"]
 			},
 			{
@@ -1129,7 +1177,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>I&#8217;m struggling whether I should stick with Micro.blog as an additional platform at my jimmitchellmedia.net domain. It&#8217;s great and has a nice community, but I keep coming back to one blog to rule them all &#8211; this one. Hopefully I can make a decision by the end of the long weekend.</p>\n",
 				"date_published": "2023-05-25T14:55:14-07:00",
-				"url": "https://mb.jimmitchell.org/2023/05/25/microblog.html"
+				"url": "https://jimmitchell.dev/2023/05/25/microblog.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/05/24/im-developing-a.html",
@@ -1137,7 +1185,7 @@
 				"content_html": "<p>I’m developing a love/hate relationship with the Copado CI/CD platform for Salesforce deployments. When it works, it’s a dream. When it doesn’t, it’s a pain to figure out why.</p>\n",
 				"content_text": "I’m developing a love/hate relationship with the Copado CI/CD platform for Salesforce deployments. When it works, it’s a dream. When it doesn’t, it’s a pain to figure out why.\n",
 				"date_published": "2023-05-24T09:49:58-07:00",
-				"url": "https://mb.jimmitchell.org/2023/05/24/im-developing-a.html"
+				"url": "https://jimmitchell.dev/2023/05/24/im-developing-a.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/05/15/ive-been-a.html",
@@ -1145,7 +1193,7 @@
 				"content_html": "<p>I&rsquo;ve been a WordPress user since the early days and have carried my content with me from one host to another. I think it&rsquo;s time to put the old content to rest and start fresh with micro.blog.</p>\n",
 				"content_text": "I've been a WordPress user since the early days and have carried my content with me from one host to another. I think it's time to put the old content to rest and start fresh with micro.blog.\n",
 				"date_published": "2023-05-15T08:00:00-07:00",
-				"url": "https://mb.jimmitchell.org/2023/05/15/ive-been-a.html"
+				"url": "https://jimmitchell.dev/2023/05/15/ive-been-a.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/04/28/you-shall-not.html",
@@ -1153,7 +1201,7 @@
 				"content_html": "<p>No, my esteemed co-worker&hellip; I will not &ldquo;give&rdquo; you a login into the system I&rsquo;m responsible for to &ldquo;poke around.&rdquo; Would you give me access to yours to do the same? I doubt it. Good day, sir.</p>\n",
 				"content_text": "No, my esteemed co-worker... I will not \"give\" you a login into the system I'm responsible for to \"poke around.\" Would you give me access to yours to do the same? I doubt it. Good day, sir.\n",
 				"date_published": "2023-04-28T11:06:05-07:00",
-				"url": "https://mb.jimmitchell.org/2023/04/28/you-shall-not.html"
+				"url": "https://jimmitchell.dev/2023/04/28/you-shall-not.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/04/19/twitter-hibernation.html",
@@ -1161,7 +1209,7 @@
 				"content_html": "<p>I&rsquo;ve decided that I&rsquo;m simply going to hibernate my Twitter account for now. I don&rsquo;t plan to use it, but don&rsquo;t want to lose it either. Maybe one day it&rsquo;ll be worth tweeting again.</p>\n",
 				"content_text": "I've decided that I'm simply going to hibernate my Twitter account for now. I don't plan to use it, but don't want to lose it either. Maybe one day it'll be worth tweeting again.\n",
 				"date_published": "2023-04-19T09:29:42-07:00",
-				"url": "https://mb.jimmitchell.org/2023/04/19/twitter-hibernation.html"
+				"url": "https://jimmitchell.dev/2023/04/19/twitter-hibernation.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/03/31/done-with-twitter.html",
@@ -1169,7 +1217,7 @@
 				"content_html": "<p>That&rsquo;s it. I&rsquo;m done &ndash; for good this time. I&rsquo;ve left Twitter and there&rsquo;s no reason to go back, whatsoever. I&rsquo;ve killed my account and am going all in on Mastodon. You can find me at <!-- raw HTML omitted --><a href=\"https://mastodon.social/@jimmitchell\">https://mastodon.social/@jimmitchell</a><!-- raw HTML omitted --> if you make the move to the Fediverse yourself.</p>\n",
 				"content_text": "That's it. I'm done -- for good this time. I've left Twitter and there's no reason to go back, whatsoever. I've killed my account and am going all in on Mastodon. You can find me at <a href=\"https://mastodon.social/@jimmitchell\">https://mastodon.social/@jimmitchell</a> if you make the move to the Fediverse yourself.\n",
 				"date_published": "2023-03-31T13:16:57-07:00",
-				"url": "https://mb.jimmitchell.org/2023/03/31/done-with-twitter.html"
+				"url": "https://jimmitchell.dev/2023/03/31/done-with-twitter.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/03/31/microblog.html",
@@ -1177,7 +1225,7 @@
 				"content_html": "<p>I switched over to micro.blog for a few days, thinking I might prefer to go that route over running my own VPS, but it&rsquo;s just not for me. Publishing my own WordPress site is what works best for me, so we&rsquo;re back.</p>\n",
 				"content_text": "I switched over to micro.blog for a few days, thinking I might prefer to go that route over running my own VPS, but it's just not for me. Publishing my own WordPress site is what works best for me, so we're back.\n",
 				"date_published": "2023-03-31T09:29:45-07:00",
-				"url": "https://mb.jimmitchell.org/2023/03/31/microblog.html"
+				"url": "https://jimmitchell.dev/2023/03/31/microblog.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/03/21/switched-back.html",
@@ -1185,7 +1233,7 @@
 				"content_html": "<p>And just as fast as changes were made yesterday, I&rsquo;ve switched them back. I should know by now that I&rsquo;ve already dialed the site in as I want it and I should just stop messing with it.</p>\n",
 				"content_text": "And just as fast as changes were made yesterday, I've switched them back. I should know by now that I've already dialed the site in as I want it and I should just stop messing with it.\n",
 				"date_published": "2023-03-21T19:44:06-07:00",
-				"url": "https://mb.jimmitchell.org/2023/03/21/switched-back.html"
+				"url": "https://jimmitchell.dev/2023/03/21/switched-back.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/03/20/some-blog-changes.html",
@@ -1193,7 +1241,7 @@
 				"content_html": "<p>I decided to make some blog changes tonight. I&rsquo;ve defaulted the home page to the latest full post with navigation to the previous post at the bottom. I removed featured images and removed reference to the custom Proxima Nova web font I was using. We&rsquo;ll see how long I choose to keep it this way.</p>\n",
 				"content_text": "I decided to make some blog changes tonight. I've defaulted the home page to the latest full post with navigation to the previous post at the bottom. I removed featured images and removed reference to the custom Proxima Nova web font I was using. We'll see how long I choose to keep it this way.\n",
 				"date_published": "2023-03-20T19:35:37-07:00",
-				"url": "https://mb.jimmitchell.org/2023/03/20/some-blog-changes.html"
+				"url": "https://jimmitchell.dev/2023/03/20/some-blog-changes.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/03/13/and-im-back.html",
@@ -1201,7 +1249,7 @@
 				"content_html": "<p>Okay, so I just can&rsquo;t stay away. Twitter account reactivated in hopes one day, somehow, shit will get better. That and hoping that followers there will be able to find me at <!-- raw HTML omitted --><a href=\"https://mastodon.social/@jimmitchell\">https://mastodon.social/@jimmitchell</a><!-- raw HTML omitted --> when they finally decide to jump to the Fediverse themselves.</p>\n",
 				"content_text": "Okay, so I just can't stay away. Twitter account reactivated in hopes one day, somehow, shit will get better. That and hoping that followers there will be able to find me at <a href=\"https://mastodon.social/@jimmitchell\">https://mastodon.social/@jimmitchell</a> when they finally decide to jump to the Fediverse themselves.\n",
 				"date_published": "2023-03-13T21:31:29-07:00",
-				"url": "https://mb.jimmitchell.org/2023/03/13/and-im-back.html"
+				"url": "https://jimmitchell.dev/2023/03/13/and-im-back.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/03/13/web-server-move.html",
@@ -1209,7 +1257,7 @@
 				"content_html": "<p>The move from a (slow as hell) shared hosting half way around the world in the UK to my own Digital Ocean VPS located in San Francisco is complete, as is the move to a new domain. All in all, a few days to accomplish with all the server tweaks and getting the old domains to redirect to the new one. I&rsquo;m happy with the results. Now it&rsquo;s time to get writing again!</p>\n",
 				"content_text": "The move from a (slow as hell) shared hosting half way around the world in the UK to my own Digital Ocean VPS located in San Francisco is complete, as is the move to a new domain. All in all, a few days to accomplish with all the server tweaks and getting the old domains to redirect to the new one. I'm happy with the results. Now it's time to get writing again!\n",
 				"date_published": "2023-03-13T19:56:52-07:00",
-				"url": "https://mb.jimmitchell.org/2023/03/13/web-server-move.html"
+				"url": "https://jimmitchell.dev/2023/03/13/web-server-move.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/02/18/ive-left-twitter.html",
@@ -1217,15 +1265,15 @@
 				"content_html": "<p>Done. I have left Twitter once and for all. I don’t care that I was in the first 600K users. It’s become a shitshow and I just can’t watch it anymore.</p>\n",
 				"content_text": "Done. I have left Twitter once and for all. I don&#8217;t care that I was in the first 600K users. It&#8217;s become a shitshow and I just can&#8217;t watch it anymore.\n",
 				"date_published": "2023-02-18T17:31:01-07:00",
-				"url": "https://mb.jimmitchell.org/2023/02/18/ive-left-twitter.html"
+				"url": "https://jimmitchell.dev/2023/02/18/ive-left-twitter.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/02/18/so-long-old.html",
 				
 				"content_html": "<p>A sad day indeed…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A sad day indeed…\n\n<img src=\"uploads/2023/bfc66edd56.jpg\" alt=\"SoLongOldFriends\" title=\"SoLongOldFriends.jpeg\" style=\"box-shadow:0 0 12px rgba(0,0,0,.2);border-radius:12px;\">\n",
+				"content_text": "A sad day indeed…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/bfc66edd56.jpg\" alt=\"SoLongOldFriends\" title=\"SoLongOldFriends.jpeg\" style=\"box-shadow:0 0 12px rgba(0,0,0,.2);border-radius:12px;\">\n",
 				"date_published": "2023-02-18T10:09:28-07:00",
-				"url": "https://mb.jimmitchell.org/2023/02/18/so-long-old.html"
+				"url": "https://jimmitchell.dev/2023/02/18/so-long-old.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/02/18/twitter-removes-sms.html",
@@ -1233,7 +1281,7 @@
 				"content_html": "<p>I woke up this morning to a Twitter notification that SMS MFA will only be for Twitter Blue subscribers soon. So typical of the Space Karen. I&rsquo;m keeping my account for now, but I doubt I&rsquo;ll use it for anything meaningful until the fool leaves and someone who has real vision is at the helm.</p>\n",
 				"content_text": "I woke up this morning to a Twitter notification that SMS MFA will only be for Twitter Blue subscribers soon. So typical of the Space Karen. I'm keeping my account for now, but I doubt I'll use it for anything meaningful until the fool leaves and someone who has real vision is at the helm.\n",
 				"date_published": "2023-02-18T09:36:12-07:00",
-				"url": "https://mb.jimmitchell.org/2023/02/18/twitter-removes-sms.html"
+				"url": "https://jimmitchell.dev/2023/02/18/twitter-removes-sms.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/01/16/elon-musk-is.html",
@@ -1241,7 +1289,7 @@
 				"content_html": "<p>The final straw has been drawn with Twitter. Elon Musk cutting off API access to 3rd party Twitter clients without warning is a cunt move. I usually won&rsquo;t use language like that, but I call them as I see them and Elon Musk has 100% proven himself to be a cunt. Goodbye, Twitter. You could have been something used for change, but your new owner is nothing but a fucking moron.</p>\n",
 				"content_text": "The final straw has been drawn with Twitter. Elon Musk cutting off API access to 3rd party Twitter clients without warning is a cunt move. I usually won't use language like that, but I call them as I see them and Elon Musk has 100% proven himself to be a cunt. Goodbye, Twitter. You could have been something used for change, but your new owner is nothing but a fucking moron.\n",
 				"date_published": "2023-01-16T12:23:28-07:00",
-				"url": "https://mb.jimmitchell.org/2023/01/16/elon-musk-is.html"
+				"url": "https://jimmitchell.dev/2023/01/16/elon-musk-is.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/01/01/160408.html",
@@ -1249,7 +1297,7 @@
 				"content_html": "<p>Got the Apple Watch Ultra today. My initial thought? This is the watch I wished Apple would have made from the start. It’s nice and big and is simply a work of art. More thoughts to come in a review post.</p>\n",
 				"content_text": "Got the Apple Watch Ultra today. My initial thought? This is the watch I wished Apple would have made from the start. It&#8217;s nice and big and is simply a work of art. More thoughts to come in a review post.\n",
 				"date_published": "2023-01-01T16:04:08-07:00",
-				"url": "https://mb.jimmitchell.org/2023/01/01/160408.html"
+				"url": "https://jimmitchell.dev/2023/01/01/160408.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/01/01/daily-micro-journal.html",
@@ -1257,7 +1305,7 @@
 				"content_html": "<p>As a 2023 commitment, I’m going to try to micro-journal every day using the DayOne app. Instead of writing one summary journal at the end of the day, I’m going to write short summaries of different events as they happen through the day.</p>\n",
 				"content_text": "As a 2023 commitment, I&#8217;m going to try to micro-journal every day using the DayOne app. Instead of writing one summary journal at the end of the day, I&#8217;m going to write short summaries of different events as they happen through the day.\n",
 				"date_published": "2023-01-01T11:19:27-07:00",
-				"url": "https://mb.jimmitchell.org/2023/01/01/daily-micro-journal.html"
+				"url": "https://jimmitchell.dev/2023/01/01/daily-micro-journal.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/01/01/apple-watch-ultra.html",
@@ -1265,7 +1313,7 @@
 				"content_html": "<p>Starting off 2023 purchasing an Apple Watch Ultra. Part of me feels guilty, but the other part is giddy with excitement. A follow up post to review will come in a week or so.</p>\n",
 				"content_text": "Starting off 2023 purchasing an Apple Watch Ultra. Part of me feels guilty, but the other part is giddy with excitement. A follow up post to review will come in a week or so.\n",
 				"date_published": "2023-01-01T11:00:09-07:00",
-				"url": "https://mb.jimmitchell.org/2023/01/01/apple-watch-ultra.html"
+				"url": "https://jimmitchell.dev/2023/01/01/apple-watch-ultra.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2022/12/14/change-of-heart.html",
@@ -1273,7 +1321,7 @@
 				"content_html": "<p>And… I changed my mind again. I don’t use social media enough and with the choices being made at Twitter, it’s not worth having the accounts. Everything deleted as of last night. LinkedIn put in hibernation mode because I may need it again in the future.</p>\n",
 				"content_text": "And&#8230; I changed my mind again. I don&#8217;t use social media enough and with the choices being made at Twitter, it&#8217;s not worth having the accounts. Everything deleted as of last night. LinkedIn put in hibernation mode because I may need it again in the future.\n",
 				"date_published": "2022-12-14T05:52:39-07:00",
-				"url": "https://mb.jimmitchell.org/2022/12/14/change-of-heart.html"
+				"url": "https://jimmitchell.dev/2022/12/14/change-of-heart.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2022/11/28/that-didnt-last.html",
@@ -1281,7 +1329,7 @@
 				"content_html": "<p>So, yeah&hellip; I asked myself; why the heck should I dump all of my social media? Does it really make a difference? The only one who gets hurt by it is me losing the connections I&rsquo;ve built over the past 15 years. I&rsquo;m only sticking with one Instagram account now though.</p>\n",
 				"content_text": "So, yeah... I asked myself; why the heck should I dump all of my social media? Does it really make a difference? The only one who gets hurt by it is me losing the connections I've built over the past 15 years. I'm only sticking with one Instagram account now though.\n",
 				"date_published": "2022-11-28T22:32:42-07:00",
-				"url": "https://mb.jimmitchell.org/2022/11/28/that-didnt-last.html"
+				"url": "https://jimmitchell.dev/2022/11/28/that-didnt-last.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2022/11/27/twitter-deleted.html",
@@ -1289,7 +1337,7 @@
 				"content_html": "<p>That’s it. Twitter has been deactivated. All social media is gone, save LinkedIn, which I can get back into when I need to. I feel like a weight has been lifted.</p>\n",
 				"content_text": "That&#8217;s it. Twitter has been deactivated. All social media is gone, save LinkedIn, which I can get back into when I need to. I feel like a weight has been lifted.\n",
 				"date_published": "2022-11-27T18:16:31-07:00",
-				"url": "https://mb.jimmitchell.org/2022/11/27/twitter-deleted.html"
+				"url": "https://jimmitchell.dev/2022/11/27/twitter-deleted.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2022/11/27/social-media-deleted.html",
@@ -1297,7 +1345,7 @@
 				"content_html": "<p>I’ve deleted Facebook, four Instagram accounts, put LinkedIn into hibernation and requested an archive of my Twitter data so I can delete that. Just waiting for the archive to be available now. Wondering if the team who managed archives got fired too and whether I’ll ever get my data back…</p>\n",
 				"content_text": "I&#8217;ve deleted Facebook, four Instagram accounts, put LinkedIn into hibernation and requested an archive of my Twitter data so I can delete that. Just waiting for the archive to be available now. Wondering if the team who managed archives got fired too and whether I&#8217;ll ever get my data back&#8230;\n",
 				"date_published": "2022-11-27T10:27:56-07:00",
-				"url": "https://mb.jimmitchell.org/2022/11/27/social-media-deleted.html"
+				"url": "https://jimmitchell.dev/2022/11/27/social-media-deleted.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2022/11/25/decision-made.html",
@@ -1305,7 +1353,7 @@
 				"content_html": "<p>Final decision made: I’m quitting ALL social media over the the next month. It’s just not worth wading through the garbage that those platforms have become. I’m going back to the platform I loved from the start – my personal blog.</p>\n",
 				"content_text": "Final decision made: I&#8217;m quitting ALL social media over the the next month. It&#8217;s just not worth wading through the garbage that those platforms have become. I&#8217;m going back to the platform I loved from the start &#8211; my personal blog.\n",
 				"date_published": "2022-11-25T10:47:26-07:00",
-				"url": "https://mb.jimmitchell.org/2022/11/25/decision-made.html"
+				"url": "https://jimmitchell.dev/2022/11/25/decision-made.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2022/11/22/surprised.html",
@@ -1313,7 +1361,7 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Should I be surprised that someone waited until an hour before leaving for a holiday weekend to come to me with a problem that someone else caused, and that someone else happens to out of office on their own vacation? Nah…</p>\n",
 				"date_published": "2022-11-22T17:35:24-07:00",
-				"url": "https://mb.jimmitchell.org/2022/11/22/surprised.html"
+				"url": "https://jimmitchell.dev/2022/11/22/surprised.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2022/11/21/sabbatical.html",
@@ -1321,7 +1369,7 @@
 				"content_html": "<p>Going to do a Twitter sabbatical for a while. It’s been almost a year and a half since I last tweeted anyway, so will just keep it going for now. Taking a wait and see attitude.</p>\n",
 				"content_text": "Going to do a Twitter sabbatical for a while. It&#8217;s been almost a year and a half since I last tweeted anyway, so will just keep it going for now. Taking a wait and see attitude.\n",
 				"date_published": "2022-11-21T22:01:41-07:00",
-				"url": "https://mb.jimmitchell.org/2022/11/21/sabbatical.html"
+				"url": "https://jimmitchell.dev/2022/11/21/sabbatical.html"
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2022/11/20/struggling.html",
@@ -1329,7 +1377,7 @@
 				"content_html": "<p>Really struggling with whether I should remain on Twitter or not. It’s a useful tool, but then there’s a tool that&rsquo;s running it now…</p>\n",
 				"content_text": "Really struggling with whether I should remain on Twitter or not. It&#8217;s a useful tool, but then there&#8217;s a tool that's running it now&#8230;\n",
 				"date_published": "2022-11-20T13:47:16-07:00",
-				"url": "https://mb.jimmitchell.org/2022/11/20/struggling.html"
+				"url": "https://jimmitchell.dev/2022/11/20/struggling.html"
 			}
 	]
 }
