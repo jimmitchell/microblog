@@ -7,6 +7,88 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2024/03/27/im-taking-the.html",
+				
+				"content_html": "<p>I&rsquo;m taking the rest of the week off from work. My wife and I were going to take the RV out for a relaxing long weekend, but yet another &ldquo;atmospheric river&rdquo; rain storm is bearing down on SoCal. I&rsquo;m hoping to get a little beach time in for myself tomorrow before the deluge begins on Friday.</p>\n",
+				"content_text": "I'm taking the rest of the week off from work. My wife and I were going to take the RV out for a relaxing long weekend, but yet another \"atmospheric river\" rain storm is bearing down on SoCal. I'm hoping to get a little beach time in for myself tomorrow before the deluge begins on Friday.\n",
+				"date_published": "2024-03-27T15:46:47-07:00",
+				"url": "https://jimmitchell.dev/2024/03/27/im-taking-the.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/03/26/after-trying-to.html",
+				
+				"content_html": "<p>After trying to <a href=\"https://jimmitchell.dev/2024/03/25/im-giving-apple.html\">use Apple Calendar</a> for just one day, I’m back to Fantastical. Our InfoSec team won’t approve BusyCal, so it looks like I’ll be forking out for another year’s subscription. That’s okay. I use the app a lot.</p>\n",
+				"content_text": "After trying to [use Apple Calendar](https://jimmitchell.dev/2024/03/25/im-giving-apple.html) for just one day, I’m back to Fantastical. Our InfoSec team won’t approve BusyCal, so it looks like I’ll be forking out for another year’s subscription. That’s okay. I use the app a lot.\n",
+				"date_published": "2024-03-26T17:48:14-07:00",
+				"url": "https://jimmitchell.dev/2024/03/26/after-trying-to.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/03/26/i-just-set.html",
+				
+				"content_html": "<p>I just set up one of my other domains as a podcast site on Micro.blog since I have extra domains sitting around doing nothing, and Micro.blog premium allows five different sites. This will either be really interesting, or a total bust. More later&hellip;</p>\n",
+				"content_text": "I just set up one of my other domains as a podcast site on Micro.blog since I have extra domains sitting around doing nothing, and Micro.blog premium allows five different sites. This will either be really interesting, or a total bust. More later...\n",
+				"date_published": "2024-03-26T07:48:14-07:00",
+				"url": "https://jimmitchell.dev/2024/03/26/i-just-set.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/03/25/im-giving-apple.html",
+				
+				"content_html": "<p>I&rsquo;m giving Apple Calendar a spin for a while to see if it can replace Fantastical. I absolutely <strong>love</strong> Fantastical and have used it since the beginning, but the $57 subscription price is getting too expensive for me. This year&rsquo;s goal is to only pay for subscriptions that are <em>absolutely</em> necessary.</p>\n",
+				"content_text": "I'm giving Apple Calendar a spin for a while to see if it can replace Fantastical. I absolutely **love** Fantastical and have used it since the beginning, but the $57 subscription price is getting too expensive for me. This year's goal is to only pay for subscriptions that are *absolutely* necessary.\n",
+				"date_published": "2024-03-25T09:01:32-07:00",
+				"url": "https://jimmitchell.dev/2024/03/25/im-giving-apple.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/03/24/and-taxes-are.html",
+				
+				"content_html": "<p>And&hellip; Taxes are now complete for the household. It&rsquo;s been a very productive day. Time to wind down.</p>\n",
+				"content_text": "And... Taxes are now complete for the household. It's been a very productive day. Time to wind down.\n",
+				"date_published": "2024-03-24T13:11:37-07:00",
+				"url": "https://jimmitchell.dev/2024/03/24/and-taxes-are.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/03/24/awake-for-a.html",
+				
+				"content_html": "<p>Awake for a few hours already. The rest of the house still sleeps. I watched the sun rise through the kitchen window alone. It was beautiful.</p>\n<p>Life is a blessing to be amazed by.</p>\n",
+				"content_text": "Awake for a few hours already. The rest of the house still sleeps. I watched the sun rise through the kitchen window alone. It was beautiful.\n\nLife is a blessing to be amazed by.\n",
+				"date_published": "2024-03-24T08:25:14-07:00",
+				"url": "https://jimmitchell.dev/2024/03/24/awake-for-a.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/03/24/surf-rider.html",
+				
+				"content_html": "<p>📷 Surf rider.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 Surf rider.\n\n<img src=\"uploads/2024/surf-rider.jpeg\" alt=\"A lone surfer on a shoulder-high wave at Huntington Beach.\" title=\"surf-rider.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n",
+				"date_published": "2024-03-24T07:50:31-07:00",
+				"url": "https://jimmitchell.dev/2024/03/24/surf-rider.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/03/24/no-lifeguard-on.html",
+				
+				"content_html": "<p>📷 No lifeguard on duty&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 No lifeguard on duty...\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/abf5c429-2c01-4173-bdcf-fbc1b9fef728.jpeg\" alt=\"Lifeguard towers in storage for the winter.\" title=\"ABF5C429-2C01-4173-BDCF-FBC1B9FEF728.jpeg\" border=\"0\" width=\"1067\" height=\"800\" />\n",
+				"date_published": "2024-03-24T07:21:11-07:00",
+				"url": "https://jimmitchell.dev/2024/03/24/no-lifeguard-on.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/03/23/my-wife-found.html",
+				
+				"content_html": "<p>My wife found a non-alcoholic hazy IPA at the grocery store that actually tastes pretty damned good. All is right with the world again&hellip;</p>\n",
+				"content_text": "My wife found a non-alcoholic hazy IPA at the grocery store that actually tastes pretty damned good. All is right with the world again...\n",
+				"date_published": "2024-03-23T17:15:55-07:00",
+				"url": "https://jimmitchell.dev/2024/03/23/my-wife-found.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/03/23/the-cfo-has.html",
+				
+				"content_html": "<p>The CFO has given her blessing to make the new MacBook Air purchase. I planned to wait until I had the whole amount, but hey, what&rsquo;s an extra $200 a month added to my 0% interest Apple Card? Yeah, I think I&rsquo;ll probably pull the trigger sometime today&hellip;</p>\n",
+				"content_text": "The CFO has given her blessing to make the new MacBook Air purchase. I planned to wait until I had the whole amount, but hey, what's an extra $200 a month added to my 0% interest Apple Card? Yeah, I think I'll probably pull the trigger sometime today...\n",
+				"date_published": "2024-03-23T12:05:46-07:00",
+				"url": "https://jimmitchell.dev/2024/03/23/the-cfo-has.html"
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2024/03/22/sadly-i-must.html",
 				
 				"content_html": "<p>Sadly, I must use Google Chrome for my browser at work. I&rsquo;m trying out tab groups, but I&rsquo;m not sure I like it. It seems like <em>way</em> more effort than it&rsquo;s worth to manually move a tab into a group. I open and close tabs so often that grouping them seems like wasted effort. Thoughts?</p>\n",
@@ -129,8 +211,8 @@
 			{
 				"id": "http://jimmitchell.micro.blog/2024/02/26/visited-the-lowest.html",
 				
-				"content_html": "<p>📷 Visited the lowest bar in the western hemisphere last weekend in Bombay Beach, CA which sits nearly 200 feet below sea level. Beers were had.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Visited the lowest bar in the western hemisphere last weekend in Bombay Beach, CA which sits nearly 200 feet below sea level. Beers were had.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/6fbfbcd596.jpg\" width=\"600\" height=\"450\" alt=\"The Ski Inn roadside sign, which is the lowest elevation bar in the western hemisphere, sitting nearly 200 feet below sea level.\">\n",
+				"content_html": "<p>📷 We visited the lowest bar in the western hemisphere last weekend in Bombay Beach, CA which sits nearly 200 feet below sea level. Beers were had.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 We visited the lowest bar in the western hemisphere last weekend in Bombay Beach, CA which sits nearly 200 feet below sea level. Beers were had.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/6fbfbcd596.jpg\" width=\"600\" height=\"450\" alt=\"The Ski Inn roadside sign, which is the lowest elevation bar in the western hemisphere, sitting nearly 200 feet below sea level.\">\n",
 				"date_published": "2024-02-26T10:42:30-07:00",
 				"url": "https://jimmitchell.dev/2024/02/26/visited-the-lowest.html",
 				"tags": ["Photos"]
@@ -290,8 +372,8 @@
 			{
 				"id": "http://jimmitchell.micro.blog/2024/01/01/project-yeard-december.html",
 				
-				"content_html": "<p>Project Yeard <a href=\"https://jimmitchell.org/project-yeard/#2023-12\">December update</a> added to the progress page&hellip;</p>\n",
-				"content_text": "Project Yeard [December update](https://jimmitchell.org/project-yeard/#2023-12) added to the progress page...\n",
+				"content_html": "<p>Project Yeard <a href=\"https://jimmitchell.dev/project-yeard/#2023-12\">December update</a> added to the progress page&hellip;</p>\n",
+				"content_text": "Project Yeard [December update](https://jimmitchell.dev/project-yeard/#2023-12) added to the progress page...\n",
 				"date_published": "2024-01-01T15:39:18-07:00",
 				"url": "https://jimmitchell.dev/2024/01/01/project-yeard-december.html"
 			},
@@ -445,8 +527,8 @@
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/02/project-yeard-november.html",
 				
-				"content_html": "<p>Project Yeard <a href=\"https://jimmitchell.org/project-yeard/#2023-11\">November update</a> posted.</p>\n",
-				"content_text": "Project Yeard [November update](https://jimmitchell.org/project-yeard/#2023-11) posted.\n",
+				"content_html": "<p>Project Yeard <a href=\"https://jimmitchell.dev/project-yeard/#2023-11\">November update</a> posted.</p>\n",
+				"content_text": "Project Yeard [November update](https://jimmitchell.dev/project-yeard/#2023-11) posted.\n",
 				"date_published": "2023-12-02T15:55:33-07:00",
 				"url": "https://jimmitchell.dev/2023/12/02/project-yeard-november.html"
 			},
