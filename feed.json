@@ -7,10 +7,111 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2024/04/12/day-magic-mbapr.html",
+				
+				"content_html": "<p>📷 Day 12: Magic.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://micro.blog/discover/mbapr\">#mbapr</a> <a href=\"https://micro.blog/DaveyCraney\">@DaveyCraney</a></p>\n",
+				"content_text": "📷 Day 12: Magic.\n\n<img src=\"uploads/2024/magic.jpeg\" alt=\"An inspirational poster with candle and mirror.\" title=\"magic.jpeg\" border=\"0\" width=\"750\" height=\"1000\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@DaveyCraney](https://micro.blog/DaveyCraney)\n",
+				"date_published": "2024-04-12T05:00:00-07:00",
+				"url": "https://jimmitchell.dev/2024/04/12/day-magic-mbapr.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/04/11/day-sky-mbapr.html",
+				
+				"content_html": "<p>📷 Day 11: Sky.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://micro.blog/discover/mbapr\">#mbapr</a> <a href=\"https://micro.blog/jedda\">@jedda</a></p>\n",
+				"content_text": "📷 Day 11: Sky.\n\n<img src=\"uploads/2024/sky.jpeg\" alt=\"A fighter jet against clouds in the sky.\" title=\"sky.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@jedda](https://micro.blog/jedda)\n",
+				"date_published": "2024-04-11T05:00:00-07:00",
+				"url": "https://jimmitchell.dev/2024/04/11/day-sky-mbapr.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/04/10/i-think-my.html",
+				
+				"content_html": "<p>I think my (eventual) podcast will focus on office etiquette. I have so many examples from coworkers over the years that I&rsquo;d easily have 15 episodes out of the gate. Does that make it a &ldquo;rantcast?&rdquo; Now if I could only make the time to record&hellip;</p>\n",
+				"content_text": "I think my (eventual) podcast will focus on office etiquette. I have so many examples from coworkers over the years that I'd easily have 15 episodes out of the gate. Does that make it a \"rantcast?\" Now if I could only make the time to record...\n",
+				"date_published": "2024-04-10T11:09:40-07:00",
+				"url": "https://jimmitchell.dev/2024/04/10/i-think-my.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/04/10/well-a-month.html",
+				
+				"content_html": "<p>Well&hellip; A month later, and my eyesight has returned to what it originally was, and my computer glasses work again. An added bonus related to &ldquo;<a href=\"https://jimmitchell.dev/2024/03/06/on-the-fragility.html\">the event</a>&rdquo; is I&rsquo;ve managed to shed more than 10 pounds so far. Let this be a lesson kids; refined sugar is simply pure evil.</p>\n",
+				"content_text": "Well... A month later, and my eyesight has returned to what it originally was, and my computer glasses work again. An added bonus related to \"[the event](https://jimmitchell.dev/2024/03/06/on-the-fragility.html)\" is I've managed to shed more than 10 pounds so far. Let this be a lesson kids; refined sugar is simply pure evil.\n",
+				"date_published": "2024-04-10T10:25:35-07:00",
+				"url": "https://jimmitchell.dev/2024/04/10/well-a-month.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/04/10/day-train-mbapr.html",
+				
+				"content_html": "<p>📷 Day 10: Train.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://micro.blog/discover/mbapr\">#mbapr</a> <a href=\"https://micro.blog/starrwulfe\">@starrwulfe</a></p>\n",
+				"content_text": "📷 Day 10: Train.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/train.jpeg\" alt=\"The side of an old steam locomotive.\" title=\"train.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@starrwulfe](https://micro.blog/starrwulfe)\n",
+				"date_published": "2024-04-10T05:00:00-07:00",
+				"url": "https://jimmitchell.dev/2024/04/10/day-train-mbapr.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/04/09/im-really-liking.html",
+				
+				"content_html": "<p>I’m really liking Bear as my new notes app, but I’m seeing a somewhat consistent rendering issue when switching to one note from another. When I do, sometimes the new note’s content draws funny and needs a quick scroll to rerender. Anyone else getting this? How about you, <a href=\"https://micro.blog/canion\">@canion</a>?</p>\n",
+				"content_text": "I’m really liking Bear as my new notes app, but I’m seeing a somewhat consistent rendering issue when switching to one note from another. When I do, sometimes the new note’s content draws funny and needs a quick scroll to rerender. Anyone else getting this? How about you, [@canion](https://micro.blog/canion)?\n",
+				"date_published": "2024-04-09T12:18:33-07:00",
+				"url": "https://jimmitchell.dev/2024/04/09/im-really-liking.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/04/09/some-people-are.html",
+				
+				"content_html": "<p>Some people are way too quick to call a meeting for something that can be solved in one or two email exchanges. Don’t be that person, because I’ll shoot you down if you send me a pointless invite. 💥</p>\n",
+				"content_text": "Some people are way too quick to call a meeting for something that can be solved in one or two email exchanges. Don’t be that person, because I’ll shoot you down if you send me a pointless invite. 💥\n",
+				"date_published": "2024-04-09T10:04:22-07:00",
+				"url": "https://jimmitchell.dev/2024/04/09/some-people-are.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/04/09/day-crispy-mbapr.html",
+				
+				"content_html": "<p>📷 Day 09: Crispy.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://micro.blog/discover/mbapr\">#mbapr</a> <a href=\"https://micro.blog/rom\">@rom</a></p>\n",
+				"content_text": "📷 Day 09: Crispy.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/crispy.jpeg\" alt=\"Crispy fried chicken and potato salad on a plate.\" title=\"crispy.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@rom](https://micro.blog/rom)\n",
+				"date_published": "2024-04-09T05:00:00-07:00",
+				"url": "https://jimmitchell.dev/2024/04/09/day-crispy-mbapr.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/04/08/im-playing-a.html",
+				
+				"content_html": "<p>I&rsquo;m playing a form of &ldquo;Apollo 13&rdquo; with the work laptop now, trying to find the right combination of apps that will keep the thing charging while I do some work. Launching any browser puts me over the limit and the charge stops. 🤣</p>\n",
+				"content_text": "I'm playing a form of \"Apollo 13\" with the work laptop now, trying to find the right combination of apps that will keep the thing charging while I do some work. Launching any browser puts me over the limit and the charge stops. 🤣\n",
+				"date_published": "2024-04-08T07:58:49-07:00",
+				"url": "https://jimmitchell.dev/2024/04/08/im-playing-a.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/04/08/got-to-the.html",
+				
+				"content_html": "<p>Got to the office this morning to find my work laptop’s battery is drained. Sitting here waiting for sufficient charge to get going. I must remember to shut down for the weekends rather than sleep the thing.</p>\n",
+				"content_text": "Got to the office this morning to find my work laptop’s battery is drained. Sitting here waiting for sufficient charge to get going. I must remember to shut down for the weekends rather than sleep the thing.\n",
+				"date_published": "2024-04-08T07:25:42-07:00",
+				"url": "https://jimmitchell.dev/2024/04/08/got-to-the.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/04/08/day-prevention-mbapr.html",
+				
+				"content_html": "<p>📷 Day 08: Prevention.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://micro.blog/discover/mbapr\">#mbapr</a> <a href=\"https://micro.blog/anniegreens\">@anniegreens</a></p>\n",
+				"content_text": "📷 Day 08: Prevention.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/prevention.jpeg\" alt=\"A fall warning label on ladder.\" title=\"prevention.jpeg\" border=\"0\" width=\"747\" height=\"1000\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@anniegreens](https://micro.blog/anniegreens)\n",
+				"date_published": "2024-04-08T05:00:00-07:00",
+				"url": "https://jimmitchell.dev/2024/04/08/day-prevention-mbapr.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/04/07/a-productive-weekend.html",
+				
+				"content_html": "<p>A productive weekend. Cleaned most of the back yard. The rest is for next weekend. Built a new barbecue and grilling burgers for dinner. But the best thing was sleeping in really late this morning. The week ahead looks manageable. Life is good.</p>\n",
+				"content_text": "A productive weekend. Cleaned most of the back yard. The rest is for next weekend. Built a new barbecue and grilling burgers for dinner. But the best thing was sleeping in really late this morning. The week ahead looks manageable. Life is good.\n",
+				"date_published": "2024-04-07T18:22:33-07:00",
+				"url": "https://jimmitchell.dev/2024/04/07/a-productive-weekend.html"
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2024/04/07/day-wellbeing-mbapr.html",
 				
 				"content_html": "<p>📷 Day 07: Well-being.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://micro.blog/discover/mbapr\">#mbapr</a> <a href=\"https://micro.blog/ridwan\">@ridwan</a></p>\n",
-				"content_text": "📷 Day 07: Well-being.\n\n<img src=\"uploads/2024/well-being.jpeg\" alt=\"A sandy beach viewing the ocean with small waves.\" title=\"well-being.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@ridwan](https://micro.blog/ridwan)\n",
+				"content_text": "📷 Day 07: Well-being.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/well-being.jpeg\" alt=\"A sandy beach viewing the ocean with small waves.\" title=\"well-being.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@ridwan](https://micro.blog/ridwan)\n",
 				"date_published": "2024-04-07T05:00:00-07:00",
 				"url": "https://jimmitchell.dev/2024/04/07/day-wellbeing-mbapr.html",
 				"tags": ["Photos"]
@@ -43,7 +144,7 @@
 				"id": "http://jimmitchell.micro.blog/2024/04/06/day-windy-mbapr.html",
 				
 				"content_html": "<p>📷 Day 06: Windy.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://micro.blog/discover/mbapr\">#mbapr</a> <a href=\"https://micro.blog/Miraz\">@Miraz</a></p>\n",
-				"content_text": "📷 Day 06: Windy.\n\n<img src=\"uploads/2024/windy.jpg\" alt=\"An American flag, blowing in the wind, surrounded by palm trees\" title=\"windy.jpg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@Miraz](https://micro.blog/Miraz)\n",
+				"content_text": "📷 Day 06: Windy.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/windy.jpg\" alt=\"An American flag, blowing in the wind, surrounded by palm trees\" title=\"windy.jpg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@Miraz](https://micro.blog/Miraz)\n",
 				"date_published": "2024-04-06T08:05:44-07:00",
 				"url": "https://jimmitchell.dev/2024/04/06/day-windy-mbapr.html",
 				"tags": ["Photos"]
@@ -120,7 +221,7 @@
 				"id": "http://jimmitchell.micro.blog/2024/04/03/day-card-mbaprhttpsmicroblogdiscovermbapr.html",
 				
 				"content_html": "<p>📷 Day 03: Card.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://micro.blog/discover/mbapr\">#mbapr</a> <a href=\"https://micro.blog/val\">@val</a></p>\n",
-				"content_text": "📷 Day 03: Card.\n\n<img src=\"uploads/2024/thankyou-card.jpeg\" alt=\"A handwritten thank you card with Micro.blog decals.\" title=\"thankyou-card.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@val](https://micro.blog/val)\n",
+				"content_text": "📷 Day 03: Card.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/thankyou-card.jpeg\" alt=\"A handwritten thank you card with Micro.blog decals.\" title=\"thankyou-card.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@val](https://micro.blog/val)\n",
 				"date_published": "2024-04-03T05:00:00-07:00",
 				"url": "https://jimmitchell.dev/2024/04/03/day-card-mbaprhttpsmicroblogdiscovermbapr.html",
 				"tags": ["Photos"]
@@ -138,7 +239,7 @@
 				"id": "http://jimmitchell.micro.blog/2024/04/02/day-flowers-mbapr.html",
 				
 				"content_html": "<p>📷 Day 02: Flowers.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://micro.blog/discover/mbapr\">#mbapr</a> <a href=\"https://micro.blog/davegullett\">@davegullett</a></p>\n",
-				"content_text": "📷 Day 02: Flowers.\n\n<img src=\"uploads/2024/eec3cdc910.jpg\" width=\"600\" height=\"450\" alt=\"Yellow flowers blooming.\">\n\n[#mbapr](https://micro.blog/discover/mbapr) [@davegullett](https://micro.blog/davegullett)\n",
+				"content_text": "📷 Day 02: Flowers.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/eec3cdc910.jpg\" width=\"600\" height=\"450\" alt=\"Yellow flowers blooming.\">\n\n[#mbapr](https://micro.blog/discover/mbapr) [@davegullett](https://micro.blog/davegullett)\n",
 				"date_published": "2024-04-02T04:56:31-07:00",
 				"url": "https://jimmitchell.dev/2024/04/02/day-flowers-mbapr.html",
 				"tags": ["Photos"]
@@ -163,7 +264,7 @@
 				"id": "http://jimmitchell.micro.blog/2024/04/01/photo-challenge-day.html",
 				
 				"content_html": "<p>📷 Day 01: Toy.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://micro.blog/discover/mbapr\">#mbapr</a> <a href=\"https://micro.blog/pcora\">@pcora</a></p>\n",
-				"content_text": "📷 Day 01: Toy.\n\n<img src=\"uploads/2024/b05158f5a3.jpg\" width=\"600\" height=\"450\" alt=\"The Toy Story Pizza Planet delivery truck replica driving in a Fourth of July parade.\">\n\n[#mbapr](https://micro.blog/discover/mbapr) [@pcora](https://micro.blog/pcora)\n",
+				"content_text": "📷 Day 01: Toy.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/b05158f5a3.jpg\" width=\"600\" height=\"450\" alt=\"The Toy Story Pizza Planet delivery truck replica driving in a Fourth of July parade.\">\n\n[#mbapr](https://micro.blog/discover/mbapr) [@pcora](https://micro.blog/pcora)\n",
 				"date_published": "2024-04-01T09:31:31-07:00",
 				"url": "https://jimmitchell.dev/2024/04/01/photo-challenge-day.html",
 				"tags": ["Photos"]
