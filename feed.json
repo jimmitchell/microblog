@@ -7,10 +7,95 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2024/04/17/day-transcendence-mbapr.html",
+				
+				"content_html": "<p>📷 Day 17: Transcendence.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://micro.blog/discover/mbapr\">#mbapr</a> <a href=\"https://micro.blog/drewbelf\">@drewbelf</a></p>\n",
+				"content_text": "📷 Day 17: Transcendence.\n\n<img src=\"uploads/2024/transcendence.jpeg\" alt=\"Rocks stacked on a shoreline with a sailboat in the background.\" title=\"transcendence.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@drewbelf](https://micro.blog/drewbelf)\n",
+				"date_published": "2024-04-17T01:00:00-07:00",
+				"url": "https://jimmitchell.dev/2024/04/17/day-transcendence-mbapr.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/04/16/day-flneur-mbapr.html",
+				
+				"content_html": "<p>📷 Day 16: Flâneur.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://micro.blog/discover/mbapr\">#mbapr</a> <a href=\"https://micro.blog/chrisaldrich\">@chrisaldrich</a></p>\n",
+				"content_text": "📷 Day 16: Flâneur.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/flaneur.jpeg\" alt=\"A crowd of people watching each other.\" title=\"flaneur.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@chrisaldrich](https://micro.blog/chrisaldrich)\n",
+				"date_published": "2024-04-16T01:00:00-07:00",
+				"url": "https://jimmitchell.dev/2024/04/16/day-flneur-mbapr.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/04/15/im-find-it.html",
+				
+				"content_html": "<p>I’m finding it hard to believe that my youngest child turns 27 today. Where have the years gone?</p>\n",
+				"content_text": "I’m finding it hard to believe that my youngest child turns 27 today. Where have the years gone?\n",
+				"date_published": "2024-04-15T04:35:58-07:00",
+				"url": "https://jimmitchell.dev/2024/04/15/im-find-it.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/04/15/day-small-mbapr.html",
+				
+				"content_html": "<p>📷 Day 15: Small.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://micro.blog/discover/mbapr\">#mbapr</a> <a href=\"https://micro.blog/jmanes\">@jmanes</a></p>\n",
+				"content_text": "📷 Day 15: Small.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/small.jpeg\" alt=\"A small curious lizard on a stick.\" title=\"small.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@jmanes](https://micro.blog/jmanes)\n",
+				"date_published": "2024-04-15T01:00:00-07:00",
+				"url": "https://jimmitchell.dev/2024/04/15/day-small-mbapr.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/04/14/today-has-been.html",
+				
+				"content_html": "<p>Today has been a very slow day. The missus and I went out to buy a couple of small items, but that&rsquo;s about it. The rest of the day has been filled with wandering and puttering around the house. I&rsquo;ve learned to appreciate days like these more lately.</p>\n",
+				"content_text": "Today has been a very slow day. The missus and I went out to buy a couple of small items, but that's about it. The rest of the day has been filled with wandering and puttering around the house. I've learned to appreciate days like these more lately.\n",
+				"date_published": "2024-04-14T16:19:31-07:00",
+				"url": "https://jimmitchell.dev/2024/04/14/today-has-been.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/04/14/day-cactus-mbapr.html",
+				
+				"content_html": "<p>📷 Day 14: Cactus.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://micro.blog/discover/mbapr\">#mbapr</a> <a href=\"https://micro.blog/christopherchelpka\">@christopherchelpka</a></p>\n",
+				"content_text": "📷 Day 14: Cactus.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/cactus.jpeg\" alt=\"Blooming pear catus.\" title=\"cactus.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@christopherchelpka](https://micro.blog/christopherchelpka)\n",
+				"date_published": "2024-04-14T05:00:00-07:00",
+				"url": "https://jimmitchell.dev/2024/04/14/day-cactus-mbapr.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/04/13/grrr-today-is.html",
+				
+				"content_html": "<p>Grrr. Today is probably my least favorite day of the year: Tax check writing day.</p>\n",
+				"content_text": "Grrr. Today is probably my least favorite day of the year: Tax check writing day.\n",
+				"date_published": "2024-04-13T10:07:49-07:00",
+				"url": "https://jimmitchell.dev/2024/04/13/grrr-today-is.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/04/13/i-just-configured.html",
+				
+				"content_html": "<p>I just configured and handed over my old MacBook Air M1 to my wife who had the same model except with an Intel chip. I think I might install Linux Mint on her old machine to have as an extra toy for tinkering once we&rsquo;re sure I&rsquo;ve migrated all she needs.</p>\n",
+				"content_text": "I just configured and handed over my old MacBook Air M1 to my wife who had the same model except with an Intel chip. I think I might install Linux Mint on her old machine to have as an extra toy for tinkering once we're sure I've migrated all she needs.\n",
+				"date_published": "2024-04-13T10:02:04-07:00",
+				"url": "https://jimmitchell.dev/2024/04/13/i-just-configured.html"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/04/13/day-page-mbapr.html",
+				
+				"content_html": "<p>📷 Day 13: Page.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://micro.blog/discover/mbapr\">#mbapr</a> <a href=\"https://micro.blog/robj\">@robj</a></p>\n",
+				"content_text": "📷 Day 13: Page.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/page.jpeg\" alt=\"A page from a book titled 'the Daily Stoic'.\" title=\"page.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@robj](https://micro.blog/robj)\n",
+				"date_published": "2024-04-13T05:00:00-07:00",
+				"url": "https://jimmitchell.dev/2024/04/13/day-page-mbapr.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/04/12/cleaning-up-files.html",
+				
+				"content_html": "<p>Cleaning up files on the old laptop, I came across the <a href=\"https://www.hackingwithswift.com/store/hacking-with-macos\">Hacking with macOS</a> book I bought a few years back but never got started on. Now is as good a time as any to start.</p>\n",
+				"content_text": "Cleaning up files on the old laptop, I came across the [Hacking with macOS](https://www.hackingwithswift.com/store/hacking-with-macos) book I bought a few years back but never got started on. Now is as good a time as any to start.\n",
+				"date_published": "2024-04-12T13:57:38-07:00",
+				"url": "https://jimmitchell.dev/2024/04/12/cleaning-up-files.html"
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2024/04/12/day-magic-mbapr.html",
 				
 				"content_html": "<p>📷 Day 12: Magic.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://micro.blog/discover/mbapr\">#mbapr</a> <a href=\"https://micro.blog/DaveyCraney\">@DaveyCraney</a></p>\n",
-				"content_text": "📷 Day 12: Magic.\n\n<img src=\"uploads/2024/magic.jpeg\" alt=\"An inspirational poster with candle and mirror.\" title=\"magic.jpeg\" border=\"0\" width=\"750\" height=\"1000\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@DaveyCraney](https://micro.blog/DaveyCraney)\n",
+				"content_text": "📷 Day 12: Magic.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/magic.jpeg\" alt=\"An inspirational poster with candle and mirror.\" title=\"magic.jpeg\" border=\"0\" width=\"750\" height=\"1000\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@DaveyCraney](https://micro.blog/DaveyCraney)\n",
 				"date_published": "2024-04-12T05:00:00-07:00",
 				"url": "https://jimmitchell.dev/2024/04/12/day-magic-mbapr.html",
 				"tags": ["Photos"]
@@ -19,7 +104,7 @@
 				"id": "http://jimmitchell.micro.blog/2024/04/11/day-sky-mbapr.html",
 				
 				"content_html": "<p>📷 Day 11: Sky.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://micro.blog/discover/mbapr\">#mbapr</a> <a href=\"https://micro.blog/jedda\">@jedda</a></p>\n",
-				"content_text": "📷 Day 11: Sky.\n\n<img src=\"uploads/2024/sky.jpeg\" alt=\"A fighter jet against clouds in the sky.\" title=\"sky.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@jedda](https://micro.blog/jedda)\n",
+				"content_text": "📷 Day 11: Sky.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/sky.jpeg\" alt=\"A fighter jet against clouds in the sky.\" title=\"sky.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@jedda](https://micro.blog/jedda)\n",
 				"date_published": "2024-04-11T05:00:00-07:00",
 				"url": "https://jimmitchell.dev/2024/04/11/day-sky-mbapr.html",
 				"tags": ["Photos"]
