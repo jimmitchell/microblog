@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2024/06/07/the-tsunami-warning.html",
+				
+				"content_html": "<p>The tsunami warning siren test at noon on the first Friday of the month in my town still catches me off guard, even after living here more than 25 years. 🌊🏄</p>\n",
+				"content_text": "The tsunami warning siren test at noon on the first Friday of the month in my town still catches me off guard, even after living here more than 25 years. 🌊🏄\n",
+				"date_published": "2024-06-07T12:04:28-07:00",
+				"url": "https://jimmitchell.dev/2024/06/07/the-tsunami-warning.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/06/07/i-took-a.html",
+				
+				"content_html": "<p>I took a vacation day today to get ready to go camping in the RV with my wife. What have I been doing this morning instead of getting ready? Creating an entirely new Micro.blog theme for my site, of course&hellip;</p>\n",
+				"content_text": "I took a vacation day today to get ready to go camping in the RV with my wife. What have I been doing this morning instead of getting ready? Creating an entirely new Micro.blog theme for my site, of course...\n",
+				"date_published": "2024-06-07T10:59:56-07:00",
+				"url": "https://jimmitchell.dev/2024/06/07/i-took-a.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/06/06/i-can-always.html",
+				
+				"content_html": "<p>I can always tell when some part of Micro.blog is having trouble because images on one of my pages start returning a 404 error, and then I&rsquo;ll get an email from Tinylytics that my site is down. Same pattern tonight, just like the last two.</p>\n",
+				"content_text": "I can always tell when some part of Micro.blog is having trouble because images on one of my pages start returning a 404 error, and then I'll get an email from Tinylytics that my site is down. Same pattern tonight, just like the last two.\n",
+				"date_published": "2024-06-06T19:02:48-07:00",
+				"url": "https://jimmitchell.dev/2024/06/06/i-can-always.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/06/06/the-fediverse-part.html",
+				
+				"content_html": "<p>The Fediverse part of all-in on Micro.blog was short lived. I remember why that was now from the last time I tried:</p>\n<ol>\n<li>I have another blog I want to share content from.</li>\n<li>The recent outage of Micro.blog was a big reason keeping me from going all in to begin with.</li>\n</ol>\n<p>Here I am again, ellipses and all&hellip;</p>\n",
+				"content_text": "The Fediverse part of all-in on Micro.blog was short lived. I remember why that was now from the last time I tried:\n\n1. I have another blog I want to share content from.\n2. The recent outage of Micro.blog was a big reason keeping me from going all in to begin with.\n\nHere I am again, ellipses and all...\n",
+				"date_published": "2024-06-06T07:52:53-07:00",
+				"url": "https://jimmitchell.dev/2024/06/06/the-fediverse-part.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/06/05/psa-bartender-mac.html",
+				"title": "PSA: Bartender Mac App Under New Ownership, But Lack of Transparency Raises Concerns - MacRumors",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>I&rsquo;ve been a long time user of Bartender and considered it one of my more important apps, but a quiet transfer of ownership like this is scary. I&rsquo;ve stopped using the app as of today and completely uninstalled it.</p>",
+				"content_text": "<p><a href=\"https://www.macrumors.com/2024/06/04/bartender-mac-app-new-owner/\">PSA: Bartender Mac App Under New Ownership, But Lack of Transparency Raises Concerns - MacRumors</a>:</p>\n\n<blockquote>Bartender's new owners replied to the Reddit thread and confirmed that Bartender had been acquired, but did not explain why customers had not been notified nor why there had been a certificate change without said explanation.</blockquote><!--more-->\n\nI've been a long time user of Bartender and considered it one of my more important apps, but a quiet transfer of ownership like this is scary. I've stopped using the app as of today and completely uninstalled it.\n",
+				"date_published": "2024-06-05T13:53:02-07:00",
+				"url": "https://jimmitchell.dev/2024/06/05/psa-bartender-mac.html",
+				"tags": ["Posts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/06/05/one-hundred-days.html",
+				
+				"content_html": "<p>One hundred days of Python - Day 005\n<a href=\"https://100.jimmitchell.dev/post/python-day-005\">100.jimmitchell.dev/post/pyth&hellip;</a></p>\n",
+				"content_text": "One hundred days of Python - Day 005\n[100.jimmitchell.dev/post/pyth...](https://100.jimmitchell.dev/post/python-day-005)\n",
+				"date_published": "2024-06-05T08:50:17-07:00",
+				"url": "https://jimmitchell.dev/2024/06/05/one-hundred-days.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/06/05/trying-an-experiment.html",
+				
+				"content_html": "<p>Trying an experiment… After pondering it for a long time, and after a great chat with someone I respect, I have moved wholly to the Micro.blog platform, including Fediverse. If you follow me from a Mastodon instance, follow me over here now. Let’s see how this turns out.</p>\n",
+				"content_text": "Trying an experiment… After pondering it for a long time, and after a great chat with someone I respect, I have moved wholly to the Micro.blog platform, including Fediverse. If you follow me from a Mastodon instance, follow me over here now. Let’s see how this turns out.\n",
+				"date_published": "2024-06-05T08:11:29-07:00",
+				"url": "https://jimmitchell.dev/2024/06/05/trying-an-experiment.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/06/03/so-because-i.html",
+				
+				"content_html": "<p>Because I think <a href=\"https://micro.blog/canion\">@canion</a>, <a href=\"https://micro.blog/Burk\">@Burk</a>, and <a href=\"https://micro.blog/martinfeld\">@martinfeld</a> are such swell guys, I elected to subscribe to <a href=\"https://oneprimeplus.com\">One Prime Plus</a> over the weekend.</p>\n<p>If you listen to <a href=\"https://hemisphericviews.com/\">Hemispheric Views</a>, (and who doesn&rsquo;t?), you should subscribe too.</p>\n<p>I swear&hellip; I&rsquo;m not a HV fanboy or anything.</p>\n",
+				"content_text": "Because I think [@canion](https://micro.blog/canion), [@Burk](https://micro.blog/Burk), and [@martinfeld](https://micro.blog/martinfeld) are such swell guys, I elected to subscribe to [One Prime Plus](https://oneprimeplus.com) over the weekend.\n\nIf you listen to [Hemispheric Views](https://hemisphericviews.com/), (and who doesn't?), you should subscribe too.\n\nI swear... I'm not a HV fanboy or anything.\n",
+				"date_published": "2024-06-03T09:36:39-07:00",
+				"url": "https://jimmitchell.dev/2024/06/03/so-because-i.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2024/05/23/if-youre-on.html",
 				
 				"content_html": "<p>If you’re in a virtual meeting with a prospective vendor and say to them “I’m excited to be here” as part of your introduction, I have to ask &ndash; are you <em>really</em>? I know I’m not. 🤣</p>\n",
@@ -127,7 +199,7 @@
 				"id": "http://jimmitchell.micro.blog/2024/04/30/day-hometown-mbapr.html",
 				
 				"content_html": "<p>📷 Day 30: Hometown.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://micro.blog/discover/mbapr\">#mbapr</a> <a href=\"https://www.surfcityusa.com/\">#SurfCityUSA</a> <a href=\"https://micro.blog/mattypenny\">@mattypenny</a></p>\n",
-				"content_text": "📷 Day 30: Hometown.\n\n<img src=\"uploads/2024/hometown.jpeg\" alt=\"A sunny beach scene with a pier in the background, grass in the foreground, and people engaging in various activities such as sitting, walking, and biking.\" title=\"hometown.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [#SurfCityUSA](https://www.surfcityusa.com/) [@mattypenny](https://micro.blog/mattypenny)\n\n",
+				"content_text": "📷 Day 30: Hometown.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/hometown.jpeg\" alt=\"A sunny beach scene with a pier in the background, grass in the foreground, and people engaging in various activities such as sitting, walking, and biking.\" title=\"hometown.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [#SurfCityUSA](https://www.surfcityusa.com/) [@mattypenny](https://micro.blog/mattypenny)\n\n",
 				"date_published": "2024-04-30T02:00:00-07:00",
 				"url": "https://jimmitchell.dev/2024/04/30/day-hometown-mbapr.html",
 				"tags": ["Photos"]
