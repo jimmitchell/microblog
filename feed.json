@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2024/06/19/i-hate-to.html",
+				
+				"content_html": "<p>I hate to have to say this, but I think I&rsquo;m starting to like Raycast better than I do LaunchBar&hellip;</p>\n",
+				"content_text": "I hate to have to say this, but I think I'm starting to like Raycast better than I do LaunchBar...\n",
+				"date_published": "2024-06-19T14:21:09-07:00",
+				"url": "https://jimmitchell.dev/2024/06/19/i-hate-to.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2024/06/17/to-this-day.html",
 				
 				"content_html": "<p>To this day, I still do not understand why headphone jacks on Macs (PC too?) are located on the right side, but every wired headset I&rsquo;ve ever owned has the input wired on the left, forcing the cable to cross over (or under) my hands as I type.</p>\n",
