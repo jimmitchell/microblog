@@ -7,10 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2024/10/23/this-just-came.html",
+				
+				"content_html": "<p>This just came to me&hellip; I think the third Tuesday of each month should be declared &ldquo;Meeting Amnesty&rdquo; day, where no meetings whatsoever are scheduled for anyone at all &ndash; kind of a mini-holiday. Everyone just gets stuff done without any interruptions.</p>\n",
+				"content_text": "This just came to me... I think the third Tuesday of each month should be declared \"Meeting Amnesty\" day, where no meetings whatsoever are scheduled for anyone at all -- kind of a mini-holiday. Everyone just gets stuff done without any interruptions.\n",
+				"date_published": "2024-10-23T07:28:29-07:00",
+				"url": "https://jimmitchell.org/2024/10/23/this-just-came.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/10/22/oh-no-someone.html",
+				
+				"content_html": "<p>🤢 Oh no… Someone has brought a <em>very</em> potent fish dish into the open office space for their lunch. That’s an office etiquette faux pas, coworker…</p>\n",
+				"content_text": "🤢 Oh no… Someone has brought a _very_ potent fish dish into the open office space for their lunch. That’s an office etiquette faux pas, coworker…\n",
+				"date_published": "2024-10-22T13:20:00-07:00",
+				"url": "https://jimmitchell.org/2024/10/22/oh-no-someone.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/10/22/another-cup-of.html",
+				
+				"content_html": "<p>Another cup of hot chocolate at work today, this time a double. This could get out of hand if I don’t put it in check right now…</p>\n",
+				"content_text": "Another cup of hot chocolate at work today, this time a double. This could get out of hand if I don’t put it in check right now…\n",
+				"date_published": "2024-10-22T11:40:17-07:00",
+				"url": "https://jimmitchell.org/2024/10/22/another-cup-of.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/10/22/i-volunteered-to.html",
+				
+				"content_html": "<p>I volunteered to be a &ldquo;safety leader&rdquo; at work because, well yeah, that&rsquo;s the kind of stuff I seem to do without thinking it through, and somehow I ended up as the &ldquo;head&rdquo; safety leader of the bunch. Which of course means yet another herd of cats I&rsquo;ll have to wrangle&hellip; Yay me.</p>\n",
+				"content_text": "I volunteered to be a \"safety leader\" at work because, well yeah, that's the kind of stuff I seem to do without thinking it through, and somehow I ended up as the \"head\" safety leader of the bunch. Which of course means yet another herd of cats I'll have to wrangle... Yay me.\n",
+				"date_published": "2024-10-22T05:04:08-07:00",
+				"url": "https://jimmitchell.org/2024/10/22/i-volunteered-to.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2024/10/21/on-a-whim.html",
 				
-				"content_html": "<p>On a whim, I made a cup of hot chocolate at work this morning. It’s been years since I’ve had a cup, and dang, it tasted spectacular.</p>\n",
-				"content_text": "On a whim, I made a cup of hot chocolate at work this morning. It’s been years since I’ve had a cup, and dang, it tasted spectacular.\n",
+				"content_html": "<p>On a whim, I made a cup of hot chocolate at work this morning. It’s been years since I’ve had one, and dang, it tasted spectacular.</p>\n",
+				"content_text": "On a whim, I made a cup of hot chocolate at work this morning. It’s been years since I’ve had one, and dang, it tasted spectacular.\n",
 				"date_published": "2024-10-21T10:42:34-07:00",
 				"url": "https://jimmitchell.org/2024/10/21/on-a-whim.html",
 				"tags": ["Thoughts"]
