@@ -7,6 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2024/11/17/my-wife-and.html",
+				
+				"content_html": "<p>My wife and I getting creative in the kitchen tonight. Chicken breast tenders, ricotta, spinach, and sun dried tomato with a dash of garlic. It did not suck…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My wife and I getting creative in the kitchen tonight. Chicken breast tenders, ricotta, spinach, and sun dried tomato with a dash of garlic. It did not suck…\n\n<img src=\"uploads/2024/2c05c55562.jpg\" width=\"600\" height=\"600\" alt=\"Cooked stuffed chicken breasts are arranged on a foil-lined baking tray, seasoned and golden brown.\">\n",
+				"date_published": "2024-11-17T19:04:22-08:00",
+				"url": "https://jimmitchell.org/2024/11/17/my-wife-and.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/11/17/im-happy-to.html",
+				
+				"content_html": "<p>I&rsquo;m happy to share that the long-running project from hell has successfully deployed. There will be additional user support over the next weeks, but today marks a milestone for a project that&rsquo;s taken more than three and a half years to complete. I&rsquo;m not sure how I feel about it just yet&hellip;</p>\n",
+				"content_text": "I'm happy to share that the long-running project from hell has successfully deployed. There will be additional user support over the next weeks, but today marks a milestone for a project that's taken more than three and a half years to complete. I'm not sure how I feel about it just yet...\n",
+				"date_published": "2024-11-17T09:13:57-08:00",
+				"url": "https://jimmitchell.org/2024/11/17/im-happy-to.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/11/15/after-receiving-positive.html",
+				
+				"content_html": "<p>After receiving positive feedback to the scroll to top option added to the dev version of my <a href=\"https://micro.blog/account/plugins/view/138\">mnml Micro.blog theme</a>, I&rsquo;ve added it to the public version and released it. If you&rsquo;re using the theme, you can upgrade from your site&rsquo;s Micro.blog plug-ins page. Enjoy!</p>\n",
+				"content_text": "After receiving positive feedback to the scroll to top option added to the dev version of my [mnml Micro.blog theme](https://micro.blog/account/plugins/view/138), I've added it to the public version and released it. If you're using the theme, you can upgrade from your site's Micro.blog plug-ins page. Enjoy!\n",
+				"date_published": "2024-11-15T05:11:24-08:00",
+				"url": "https://jimmitchell.org/2024/11/15/after-receiving-positive.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/11/14/because-im-lazy.html",
+				
+				"content_html": "<p>Because I&rsquo;m lazy, and because I constantly view my own site looking for tweaks I want to make, I&rsquo;ve added a scroll to top button at the lower right of the pages on the dev version of my mmml Micro.blog theme. If you use the mmml theme too, let me know if you&rsquo;d want it as well.</p>\n",
+				"content_text": "Because I'm lazy, and because I constantly view my own site looking for tweaks I want to make, I've added a scroll to top button at the lower right of the pages on the dev version of my mmml Micro.blog theme. If you use the mmml theme too, let me know if you'd want it as well.\n",
+				"date_published": "2024-11-14T15:50:38-08:00",
+				"url": "https://jimmitchell.org/2024/11/14/because-im-lazy.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/11/14/i-have-this.html",
+				
+				"content_html": "<p>I have this theory that a lot of enterprise system implementations go south because development and PMO teams cannot empathize with or envision what end users are trying to accomplish. I’ve experienced this with our own consultants on the LRPFH. It’s driving me nuts because I do have that skill.</p>\n",
+				"content_text": "I have this theory that a lot of enterprise system implementations go south because development and PMO teams cannot empathize with or envision what end users are trying to accomplish. I’ve experienced this with our own consultants on the LRPFH. It’s driving me nuts because I do have that skill.\n",
+				"date_published": "2024-11-14T07:52:16-08:00",
+				"url": "https://jimmitchell.org/2024/11/14/i-have-this.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/11/13/by-the-way.html",
+				
+				"content_html": "<p>By the way&hellip; It was great wearing my Casio today, but I&rsquo;m too hooked on my Apple Watch Ultra and swapped it back as soon as I got home from work. All feels right with the world again.</p>\n",
+				"content_text": "By the way... It was great wearing my Casio today, but I'm too hooked on my Apple Watch Ultra and swapped it back as soon as I got home from work. All feels right with the world again.\n",
+				"date_published": "2024-11-13T17:41:51-08:00",
+				"url": "https://jimmitchell.org/2024/11/13/by-the-way.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2024/11/13/the-really-big.html",
+				
+				"content_html": "<p>The really big software vendor for the failed deployment on the long-running-project-from-hell (LRPFH) has developed a patch to fix our issue and scheduled it to deploy this evening. First it was 4pm. Then 5pm. And then 6pm. Now it&rsquo;s 7:30pm&hellip; Any takers for 9pm or later? Sigh&hellip;</p>\n",
+				"content_text": "The really big software vendor for the failed deployment on the long-running-project-from-hell (LRPFH) has developed a patch to fix our issue and scheduled it to deploy this evening. First it was 4pm. Then 5pm. And then 6pm. Now it's 7:30pm... Any takers for 9pm or later? Sigh...\n",
+				"date_published": "2024-11-13T17:39:18-08:00",
+				"url": "https://jimmitchell.org/2024/11/13/the-really-big.html",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2024/11/13/ditching-the-apple.html",
 				
 				"content_html": "<p>Ditching the Apple Watch Ultra for a day to break out the Casio GST-S100G. Let’s see if I can survive.</p>\n<!-- raw HTML omitted -->\n",
