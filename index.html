@@ -24,11 +24,75 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://jimmitchell.org/2025/01/07/applescript-to-generate-strong-passwords/">AppleScript to Generate Strong Passwords</a></h1>
+		
+
+		<a href="https://jimmitchell.org/2025/01/07/applescript-to-generate-strong-passwords/" class="u-url"><time class="dt-published" datetime="2025-01-07 09:24:46 -0800">Jan 7, 2025</time></a>
+
+		<div class="e-content">
+			 <p>I&rsquo;d totally forgotten about this resource until I needed to create a strong password this morning.</p>
+<p>If you&rsquo;re a Mac user and need to generate unique strong passwords (you&rsquo;re not using the same password over and over, right???), give this AppleScript a try. It works especially well with <a href="https://micro.blog/danielpunkass">Daniel Jaklut&rsquo;s</a> <a href="https://redsweater.com/fastscripts/">FastScripts</a> application.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-applescript" data-lang="applescript"><span style="color:#66d9ef">property</span> allowedCharacters : {<span style="color:#ae81ff">33</span>, <span style="color:#ae81ff">35</span>, <span style="color:#ae81ff">36</span>, <span style="color:#ae81ff">37</span>, <span style="color:#ae81ff">38</span>, <span style="color:#ae81ff">42</span>, <span style="color:#ae81ff">48</span>, <span style="color:#ae81ff">49</span>, <span style="color:#ae81ff">50</span>, <span style="color:#ae81ff">51</span>, <span style="color:#ae81ff">52</span>, <span style="color:#ae81ff">53</span>, <span style="color:#ae81ff">54</span>, <span style="color:#ae81ff">55</span>, <span style="color:#ae81ff">56</span>, <span style="color:#ae81ff">57</span>, <span style="color:#ae81ff">61</span>, <span style="color:#ae81ff">64</span>, <span style="color:#ae81ff">65</span>, <span style="color:#ae81ff">66</span>, <span style="color:#ae81ff">67</span>, <span style="color:#ae81ff">68</span>, <span style="color:#ae81ff">69</span>, <span style="color:#ae81ff">70</span>, <span style="color:#ae81ff">71</span>, <span style="color:#ae81ff">72</span>, <span style="color:#ae81ff">73</span>, <span style="color:#ae81ff">74</span>, <span style="color:#ae81ff">75</span>, <span style="color:#ae81ff">76</span>, <span style="color:#ae81ff">77</span>, <span style="color:#ae81ff">78</span>, <span style="color:#ae81ff">79</span>, <span style="color:#ae81ff">80</span>, <span style="color:#ae81ff">81</span>, <span style="color:#ae81ff">82</span>, <span style="color:#ae81ff">83</span>, <span style="color:#ae81ff">84</span>, <span style="color:#ae81ff">85</span>, <span style="color:#ae81ff">86</span>, <span style="color:#ae81ff">87</span>, <span style="color:#ae81ff">88</span>, <span style="color:#ae81ff">89</span>, <span style="color:#ae81ff">90</span>, <span style="color:#ae81ff">97</span>, <span style="color:#ae81ff">98</span>, <span style="color:#ae81ff">99</span>, <span style="color:#ae81ff">100</span>, <span style="color:#ae81ff">101</span>, <span style="color:#ae81ff">102</span>, <span style="color:#ae81ff">103</span>, <span style="color:#ae81ff">104</span>, <span style="color:#ae81ff">105</span>, <span style="color:#ae81ff">106</span>, <span style="color:#ae81ff">107</span>, <span style="color:#ae81ff">108</span>, <span style="color:#ae81ff">109</span>, <span style="color:#ae81ff">110</span>, <span style="color:#ae81ff">111</span>, <span style="color:#ae81ff">112</span>, <span style="color:#ae81ff">113</span>, <span style="color:#ae81ff">114</span>, <span style="color:#ae81ff">115</span>, <span style="color:#ae81ff">116</span>, <span style="color:#ae81ff">117</span>, <span style="color:#ae81ff">118</span>, <span style="color:#ae81ff">119</span>, <span style="color:#ae81ff">120</span>, <span style="color:#ae81ff">121</span>, <span style="color:#ae81ff">122</span>}
+<span style="color:#66d9ef">property</span> givenPasswordLength : <span style="color:#ae81ff">21</span>
+
+<span style="color:#66d9ef">repeat</span> <span style="color:#66d9ef">while</span> <span style="color:#66d9ef">true</span>
+	<span style="color:#66d9ef">try</span>
+		<span style="color:#66d9ef">set</span> givenPasswordLength <span style="color:#66d9ef">to</span> <span style="color:#a6e22e">text returned</span> <span style="color:#66d9ef">of</span> (display dialog <span style="color:#e6db74">&#34;Enter desired password length:&#34;</span> <span style="color:#66d9ef">with</span> <span style="color:#a6e22e">title</span> <span style="color:#e6db74">&#34;Password Generator&#34;</span> default answer givenPasswordLength)
+		<span style="color:#66d9ef">set</span> givenPasswordLength <span style="color:#66d9ef">to</span> givenPasswordLength <span style="color:#66d9ef">as</span> integer
+		<span style="color:#66d9ef">if</span> givenPasswordLength <span style="color:#f92672">is not</span> <span style="color:#f92672">greater than</span> <span style="color:#ae81ff">0</span> <span style="color:#66d9ef">then</span> <span style="color:#66d9ef">error</span> <span style="color:#e6db74">&#34;Please enter a valid positive integer.&#34;</span>
+		<span style="color:#66d9ef">exit</span> <span style="color:#66d9ef">repeat</span>
+	on <span style="color:#66d9ef">error</span> errMsg
+		display alert <span style="color:#e6db74">&#34;Error&#34;</span> message errMsg <span style="color:#66d9ef">as</span> warning
+		<span style="color:#66d9ef">return</span>
+	<span style="color:#66d9ef">end</span> <span style="color:#66d9ef">try</span>
+<span style="color:#66d9ef">end</span> <span style="color:#66d9ef">repeat</span>
+
+<span style="color:#66d9ef">repeat</span> <span style="color:#66d9ef">while</span> <span style="color:#66d9ef">true</span>
+	<span style="color:#66d9ef">try</span>
+		<span style="color:#66d9ef">set</span> generatedPassword <span style="color:#66d9ef">to</span> generatePassword()
+		<span style="color:#66d9ef">set</span> dialogResult <span style="color:#66d9ef">to</span> (display dialog <span style="color:#e6db74">&#34;New generated password:&#34;</span> <span style="color:#f92672">&amp;</span> <span style="color:#66d9ef">return</span> <span style="color:#f92672">&amp;</span> <span style="color:#66d9ef">return</span> <span style="color:#f92672">&amp;</span> generatedPassword <span style="color:#66d9ef">with</span> <span style="color:#a6e22e">title</span> <span style="color:#e6db74">&#34;Password Generator&#34;</span> buttons {<span style="color:#e6db74">&#34;Refresh&#34;</span>, <span style="color:#e6db74">&#34;Copy&#34;</span>, <span style="color:#e6db74">&#34;Cancel&#34;</span>} default button <span style="color:#e6db74">&#34;Refresh&#34;</span> cancel button <span style="color:#e6db74">&#34;Cancel&#34;</span>)
+		<span style="color:#66d9ef">if</span> <span style="color:#a6e22e">button returned</span> <span style="color:#66d9ef">of</span> dialogResult <span style="color:#f92672">is</span> <span style="color:#e6db74">&#34;Copy&#34;</span> <span style="color:#66d9ef">then</span>
+			set the clipboard to generatedPassword <span style="color:#66d9ef">as </span><span style="color:#a6e22e">string</span>
+			<span style="color:#66d9ef">exit</span> <span style="color:#66d9ef">repeat</span>
+		<span style="color:#66d9ef">else</span> <span style="color:#66d9ef">if</span> <span style="color:#a6e22e">button returned</span> <span style="color:#66d9ef">of</span> dialogResult <span style="color:#f92672">is</span> <span style="color:#e6db74">&#34;Cancel&#34;</span> <span style="color:#66d9ef">then</span>
+			<span style="color:#66d9ef">exit</span> <span style="color:#66d9ef">repeat</span>
+		<span style="color:#66d9ef">end</span> <span style="color:#66d9ef">if</span>
+	on <span style="color:#66d9ef">error</span> errMsg
+		display alert <span style="color:#e6db74">&#34;Error&#34;</span> message errMsg <span style="color:#66d9ef">as</span> warning
+		<span style="color:#66d9ef">return</span>
+	<span style="color:#66d9ef">end</span> <span style="color:#66d9ef">try</span>
+<span style="color:#66d9ef">end</span> <span style="color:#66d9ef">repeat</span>
+
+<span style="color:#66d9ef">on</span> generatePassword()
+	<span style="color:#66d9ef">set</span> generatedPassword <span style="color:#66d9ef">to</span> <span style="color:#e6db74">&#34;&#34;</span>
+	<span style="color:#66d9ef">repeat</span> givenPasswordLength <span style="color:#66d9ef">times</span>
+		<span style="color:#66d9ef">set</span> randomCharacterPosition <span style="color:#66d9ef">to</span> random number <span style="color:#66d9ef">from</span> <span style="color:#ae81ff">1</span> <span style="color:#66d9ef">to</span> count allowedCharacters
+		<span style="color:#66d9ef">set</span> generatedPassword <span style="color:#66d9ef">to</span> generatedPassword <span style="color:#f92672">&amp;</span> (ASCII character item randomCharacterPosition <span style="color:#66d9ef">of</span> allowedCharacters)
+	<span style="color:#66d9ef">end</span> <span style="color:#66d9ef">repeat</span>
+	<span style="color:#66d9ef">return</span> generatedPassword
+<span style="color:#66d9ef">end</span> generatePassword
+</code></pre></div>
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://jimmitchell.org/2025/01/06/its-such-a-trip-when/" class="u-url"><time class="dt-published" datetime="2025-01-06 07:35:53 -0800">Jan 6, 2025</time></a>
+
+		<div class="e-content">
+			 <p>It&rsquo;s such a trip when I browse to a referring site I see in my daily Tinylytics stats and find the site using my <strong>mnml</strong> theme. Just&hellip; Wow. 🤯</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 
 		<a href="https://jimmitchell.org/2025/01/01/my-wife-son-and-i/" class="u-url"><time class="dt-published" datetime="2025-01-01 14:06:48 -0800">Jan 1, 2025</time></a>
 
 		<div class="e-content">
-			 <p>My wife, son and I went to a local restaurant to have an early New Year&rsquo;s Eve dinner. I was happy to see that the 20 or so TVs they had in the establishment were all VIZIO 65&quot; P-Series models. Thanks for paying some of my paycheck!</p>
+			 <p>My wife, son and I went to a local restaurant to have an early New Year&rsquo;s Eve dinner. I was happy to see that the 20 or so TVs they had in the establishment were all VIZIO 65&quot; P-Series models. Thanks to <a href="https://www.mamason39.com/">Mama&rsquo;s on 39</a> for contributing to my paycheck!</p>
 
 		</div>
 	  </div>
@@ -107,7 +171,7 @@
 		<div class="e-content">
 			 <p>Because I can never just create one thing and then walk away from it, here&rsquo;s another Apple six-color inspired wallpaper combined with the <a href="https://en.wikipedia.org/wiki/Mac_OS_X_Tiger">Mac OS X Tiger</a> (10.4) default desktop from back in the day.</p>
 <p>It&rsquo;s hard to believe we had to pay $130 for the privilege of using Apple&rsquo;s operating system back then &ndash; which I did as soon as it was released. I&rsquo;ve always had a soft spot for the Tiger desktop&hellip;</p>
-<p><a href="https://jimmitchell.org/uploads/2024/six-color-tiger-hirez.png"><img src="https://jimmitchell.org/uploads/2024/six-color-tiger.png" alt=""></a></p>
+<p><a href="https://jimmitchell.org/uploads/2024/six-color-tiger-hirez.png"><img src="https://cdn.uploads.micro.blog/109466/2024/six-color-tiger.png" alt=""></a></p>
 <p>Click the image to download and use as your own wallpaper.</p>
 <p>Enjoy!</p>
 		</div>
@@ -4879,11 +4943,19 @@
 		<a href="https://jimmitchell.org/2023/04/14/a-better-applescript-to-compress/" class="u-url"><time class="dt-published" datetime="2023-04-14 12:34:26 -0800">Apr 14, 2023</time></a>
 
 		<div class="e-content">
-			 <!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+			 <p>A while ago, I created an AppleScript that allows you to <a href="https://jimmitchell.org/applescript-to-compress-files-and-folders/">compress files and folders</a> by simply dropping them onto the applet. One of the readers left a comment asking for a way to achieve the following tasks:</p>
+<blockquote>
+<ol>
+<li>Select a folder from Finder.</li>
+<li>Store the folder name as “x”.</li>
+<li>Compress all files and sub-folders within the folder “x”, including their paths.</li>
+<li>Rename the resulting zip file as “x.zip”.</li>
+<li>Delete all the files that were used to create the zip file.</li>
+</ol>
+</blockquote>
+<p>With the help of ChatGPT – and because I wanted to be lazy about it – I was able to come up with a solution to this challenge, which can be a great way to manage archives if that’s important to you.</p>
+<p>I must admit that ChatGPT did a decent job in generating the AppleScript, but there were some bugs that I had to fix manually. Nevertheless, it’s both scary and exciting to have a tool that can generate usable code.</p>
+<p>As always, you can run this script using <a href="http://www.red-sweater.com/fastscripts/">FastScripts</a> from your menu bar for quick and easy access.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-applescript" data-lang="applescript"><span style="color:#75715e">-- choose files or folders to archive since AppleScript can&#39;t seem to allow both at once...</span>
 <span style="color:#66d9ef">set</span> archiveOption <span style="color:#66d9ef">to</span> <span style="color:#a6e22e">button returned</span> <span style="color:#66d9ef">of</span> (display dialog <span style="color:#e6db74">&#34;Archive files or folders?&#34;</span> buttons {<span style="color:#e6db74">&#34;Cancel&#34;</span>, <span style="color:#e6db74">&#34;Folders&#34;</span>, <span style="color:#e6db74">&#34;Files&#34;</span>} default button <span style="color:#ae81ff">3</span>)
 
@@ -5499,26 +5571,40 @@ do shell script <span style="color:#e6db74">&#34;cd &#34;</span> <span style="co
 		<a href="https://jimmitchell.org/2014/07/23/salesforce-flows-visualforce-and-context/" class="u-url"><time class="dt-published" datetime="2014-07-23 16:15:07 -0800">Jul 23, 2014</time></a>
 
 		<div class="e-content">
-			 <!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+			 <p>I was asked to find a solution for our field reps that would simplify the process of adding a completed task to their activities when they visited one of our retail stores.</p>
+<p>We keep our retail locations in Salesforce.com as contacts under a master account, which is shared with all users using a special account sharing rule.</p>
+<p>The solution I came up with was a simple flow that limited users to a specific set of enterable information, pre-filling the date of the activity, and marking the task complete when the activity was committed. Literally, the only thing they needed to do was select a picklist value and enter a comment about their visit. It was exactly what we were looking for.</p>
+<p><img src="https://jimmitchell.org/uploads/2024/1ca463583b.jpg" alt="Auto-generated description: A flowchart depicts a process involving a store visit survey with paths for successful record creation and error handling."></p>
+<p>The thing I didn’t like about the flow was that when a user entered it, context kind of got lost – meaning they started out from a contact record, but didn’t have a good visual cue about where they were once they got into the flow.</p>
+<p>Sure, the flow was simple, but to me it’s still poor UX not to know the context of your work at all times. So, I decided to use a Visualforce page to solve the problem:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">apex:page</span> <span style="color:#a6e22e">standardController</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Contact&#34;</span>&gt;
+    &lt;<span style="color:#f92672">apex:sectionheader</span> <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Add Retail Store Visit&#34;</span> <span style="color:#a6e22e">subtitle</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{!Contact.Name}&#34;</span>&gt;&lt;/<span style="color:#f92672">apex:sectionheader</span>&gt;
+    &lt;<span style="color:#f92672">flow:interview</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Retail_Store_Visit&#34;</span>&gt;
+        &lt;<span style="color:#f92672">apex:param</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;vContact&#34;</span> <span style="color:#a6e22e">value</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{!Contact.Id}&#34;</span>&gt;&lt;/<span style="color:#f92672">apex:param</span>&gt;
+        &lt;<span style="color:#f92672">apex:param</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;vAccount&#34;</span> <span style="color:#a6e22e">value</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{!Contact.Account.Id}&#34;</span>&gt;&lt;/<span style="color:#f92672">apex:param</span>&gt;
+    &lt;/<span style="color:#f92672">flow:interview</span>&gt;
+&lt;/<span style="color:#f92672">apex:page</span>&gt;
+</code></pre></div><p>The trouble with this was that after the flow data was committed, the user would be returned to the beginning of the flow. That’s definitely not what I wanted. I needed to go back to the contact record I started from.</p>
+<p>So I added the <code>finishLocation</code> attribute to the <code>&lt;flow:interview /&gt;</code> component tag. It would make sense that if I passed the Contact Id, the flow should return to the Contact record:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">flow:interview</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Retail_Store_Visit&#34;</span> <span style="color:#a6e22e">finishLocation</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{!URLFOR(&#39;/&#39; + Contact.Id)}&#34;</span>&gt;
+    &lt;<span style="color:#f92672">apex:param</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;vContact&#34;</span> <span style="color:#a6e22e">value</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{!Contact.Id}&#34;</span>&gt;&lt;/<span style="color:#f92672">apex:param</span>&gt;
+    &lt;<span style="color:#f92672">apex:param</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;vAccount&#34;</span> <span style="color:#a6e22e">value</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{!Contact.Account.Id}&#34;</span>&gt;&lt;/<span style="color:#f92672">apex:param</span>&gt;
+&lt;/<span style="color:#f92672">flow:interview</span>&gt;
+</code></pre></div><p>Nope. That didn’t do it. When the flow is entered, context gets lost, so Salesforce doesn’t really know where the user is anymore. Even using the <code>vContact</code> Apex parameter didn’t work.</p>
+<p>I searched help documentation for an answer, but it wasn’t all that helpful. I searched Communities and came up empty. Then I searched the <a href="http://salesforce.stackexchange.com/">Salesforce Stack Exchange</a>, where the only solution I could find was really convoluted, and didn’t even come close to solving my problem. I was vexed.</p>
+<p>Taking a break to get a cup of coffee, a solution dawned on me that turned out to be pretty darned simple. All I needed was an Apex variable in the page, which I could pass to the <code>finishLocation</code> component tag once the flow was complete. Oddly enough, this method is not documented – at least not that I could find.</p>
+<p>So…the final Visualforce page:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">apex:page</span> <span style="color:#a6e22e">standardController</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Contact&#34;</span>&gt;
+    &lt;<span style="color:#f92672">apex:variable</span> <span style="color:#a6e22e">var</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;theContact&#34;</span> <span style="color:#a6e22e">value</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{!Contact.Id}&#34;</span>&gt;&lt;/<span style="color:#f92672">apex:variable</span>&gt;
+    &lt;<span style="color:#f92672">apex:sectionheader</span> <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Add Retail Store Visit&#34;</span> <span style="color:#a6e22e">subtitle</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{!Contact.Name}&#34;</span>&gt;&lt;/<span style="color:#f92672">apex:sectionheader</span>&gt;
+    &lt;<span style="color:#f92672">flow:interview</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Retail_Store_Visit&#34;</span> <span style="color:#a6e22e">finishLocation</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{!URLFOR(&#39;/&#39; &amp; theContact)}&#34;</span>&gt;
+        &lt;<span style="color:#f92672">apex:param</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;vContact&#34;</span> <span style="color:#a6e22e">value</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{!Contact.Id}&#34;</span>&gt;&lt;/<span style="color:#f92672">apex:param</span>&gt;
+        &lt;<span style="color:#f92672">apex:param</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;vAccount&#34;</span> <span style="color:#a6e22e">value</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{!Contact.Account.Id}&#34;</span>&gt;&lt;/<span style="color:#f92672">apex:param</span>&gt;
+    &lt;/<span style="color:#f92672">flow:interview</span>&gt;
+&lt;/<span style="color:#f92672">apex:page</span>&gt;
+</code></pre></div><p>Using the Apex variable, users where returned to the contact record they started from, and could see the task they just added in the activity history related list. This was exactly what I was looking for. Everyone was happy.</p>
+<p>If you need to return to a starting point when using flows and Visualforce pages, consider giving this solution a try.</p>
+
 		</div>
 	  </div>
 	
@@ -5530,28 +5616,108 @@ do shell script <span style="color:#e6db74">&#34;cd &#34;</span> <span style="co
 		<a href="https://jimmitchell.org/2012/10/19/making-a-field-appear-required/" class="u-url"><time class="dt-published" datetime="2012-10-19 13:00:29 -0800">Oct 19, 2012</time></a>
 
 		<div class="e-content">
-			 <!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+			 <p>I’ve been working on a force.com app with the requirement that a user must enter a valid email address on a Visualforce page before being able to save a record.</p>
+<p>But they must also be able to insert the related contact’s email address by clicking a button instead of having to leave the edit page to go find it. That seemed simple enough, but it wasn’t. This is my solution for making a field appear required on a Visualforce page.</p>
+<p><img src="https://jimmitchell.org/uploads/2024/916e8e3574.jpg" alt="Auto-generated description: A digital form for editing a gift card order displays various fields such as customer details, order number, and email information."></p>
+<p>In my original Visualforce page, it seemed logical that if I set the recipient email field as required, all would work as expected. However, defining the field as required prevented my custom action in my page controller from firing and entering the email address.</p>
+<h2 id="original-page-controller">Original Page Controller</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-java" data-lang="java"><span style="color:#66d9ef">public</span> <span style="color:#66d9ef">class</span> <span style="color:#a6e22e">GiftCardTestController</span> <span style="color:#f92672">{</span>
+    <span style="color:#66d9ef">private</span> ApexPages<span style="color:#f92672">.</span><span style="color:#a6e22e">StandardController</span> std<span style="color:#f92672">;</span>
+    <span style="color:#66d9ef">public</span> String cEmail <span style="color:#f92672">{</span>get<span style="color:#f92672">;</span>set<span style="color:#f92672">;}</span>
+    <span style="color:#66d9ef">public</span> Gift_Card_Order__c gc <span style="color:#f92672">{</span>get<span style="color:#f92672">;</span>set<span style="color:#f92672">;}</span>
+    <span style="color:#66d9ef">public</span> <span style="color:#a6e22e">GiftCardTestController</span><span style="color:#f92672">(</span>ApexPages<span style="color:#f92672">.</span><span style="color:#a6e22e">StandardController</span> stdCtrl<span style="color:#f92672">)</span> <span style="color:#f92672">{</span>
+        std <span style="color:#f92672">=</span> stdCtrl<span style="color:#f92672">;</span>
+    <span style="color:#f92672">}</span>
+
+    <span style="color:#75715e">//selects the email address of the related contact
+</span><span style="color:#75715e"></span>    <span style="color:#75715e">//and inserts into recipient email field.
+</span><span style="color:#75715e"></span>    <span style="color:#66d9ef">public</span> <span style="color:#66d9ef">void</span> <span style="color:#a6e22e">fillEmail</span><span style="color:#f92672">()</span> <span style="color:#f92672">{</span>
+        gc <span style="color:#f92672">=</span> <span style="color:#f92672">(</span>Gift_Card_Order__c<span style="color:#f92672">)</span>std<span style="color:#f92672">.</span><span style="color:#a6e22e">getRecord</span><span style="color:#f92672">();</span>
+        cEmail <span style="color:#f92672">=</span> <span style="color:#f92672">[</span>select Id<span style="color:#f92672">,</span> Email from Contact where Id <span style="color:#f92672">=</span> <span style="color:#f92672">:</span>gc<span style="color:#f92672">.</span><span style="color:#a6e22e">Contact__c</span><span style="color:#f92672">].</span><span style="color:#a6e22e">Email</span><span style="color:#f92672">;</span>
+        gc<span style="color:#f92672">.</span><span style="color:#a6e22e">Recipient_Email__c</span> <span style="color:#f92672">=</span> cEmail<span style="color:#f92672">;</span>
+    <span style="color:#f92672">}</span>
+<span style="color:#f92672">}</span>
+</code></pre></div><h2 id="original-visualforce-page">Original Visualforce Page</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">apex:page</span> <span style="color:#a6e22e">standardController</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Gift_Card_Order__c&#34;</span> <span style="color:#a6e22e">extensions</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;GiftCardTestController&#34;</span> <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Gift Card Test&#34;</span>&gt;
+	&lt;<span style="color:#f92672">apex:form</span>&gt;
+		&lt;<span style="color:#f92672">apex:pageblock</span> <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Gift Card&#34;</span> <span style="color:#a6e22e">mode</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;edit&#34;</span>&gt;
+			&lt;<span style="color:#f92672">apex:pageblockbuttons</span> <span style="color:#a6e22e">location</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;top&#34;</span>&gt;
+				&lt;<span style="color:#f92672">apex:commandbutton</span> <span style="color:#a6e22e">action</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{!save}&#34;</span> <span style="color:#a6e22e">value</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Save&#34;</span>&gt;&lt;/<span style="color:#f92672">apex:commandbutton</span>&gt;
+				<span style="color:#960050;background-color:#1e0010">&lt;</span>&lt;<span style="color:#f92672">apex:commandbutton</span> <span style="color:#a6e22e">action</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{!cancel}&#34;</span> <span style="color:#a6e22e">value</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Cancel&#34;</span>&gt;&lt;/<span style="color:#f92672">apex:commandbutton</span>&gt;
+				&lt;<span style="color:#f92672">apex:commandbutton</span> <span style="color:#a6e22e">action</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{!fillEmail}&#34;</span> <span style="color:#a6e22e">value</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Fill Email&#34;</span>&gt;&lt;/<span style="color:#f92672">apex:commandbutton</span>&gt;
+			&lt;/<span style="color:#f92672">apex:pageblockbuttons</span>&gt;
+			&lt;<span style="color:#f92672">apex:pageblocksection</span> <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Email Info&#34;</span> <span style="color:#a6e22e">columns</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;1&#34;</span>&gt;
+				&lt;<span style="color:#f92672">apex:inputfield</span> <span style="color:#a6e22e">value</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{!Gift_Card_Order__c.Contact__c}&#34;</span>&gt;&lt;/<span style="color:#f92672">apex:inputfield</span>&gt;
+				&lt;<span style="color:#f92672">apex:inputfield</span> <span style="color:#a6e22e">value</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{!Gift_Card_Order__c.Recipient_Email__c}&#34;</span> <span style="color:#a6e22e">required</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;true&#34;</span>&gt;&lt;/<span style="color:#f92672">apex:inputfield</span>&gt;
+			&lt;/<span style="color:#f92672">apex:pageblocksection</span>&gt;
+		&lt;/<span style="color:#f92672">apex:pageblock</span>&gt;
+	&lt;/<span style="color:#f92672">apex:form</span>&gt;
+&lt;/<span style="color:#f92672">apex:page</span>&gt;
+</code></pre></div><p>In this example, the <code>fillEmail()</code> action should select the related contact email address, and put the value in the <code>Recipient_Email__c</code> field so the user can see it.</p>
+<p>But it’s not that simple it seems. When the field had the <code>required=“true”</code> attribute set, the action would not fire because all validation is done on the client side and the page never posts back to the server — so the controller action never gets called.</p>
+<p>So after some digging and asking for help on the Salesforce discussion boards, the solution was to make the <code>Recipient_Email__c</code> appear as if it’s required on the page (though it’s really not), and add a new save method to my controller to handle field validation on the server side when the record gets saved.</p>
+<h2 id="new-page-controller">New Page Controller</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-java" data-lang="java"><span style="color:#66d9ef">public</span> <span style="color:#66d9ef">class</span> <span style="color:#a6e22e">GiftCardTestController</span> <span style="color:#f92672">{</span>
+    <span style="color:#66d9ef">private</span> ApexPages<span style="color:#f92672">.</span><span style="color:#a6e22e">StandardController</span> std<span style="color:#f92672">;</span>
+    <span style="color:#66d9ef">public</span> String cEmail <span style="color:#f92672">{</span>get<span style="color:#f92672">;</span>set<span style="color:#f92672">;}</span>
+    <span style="color:#66d9ef">public</span> Gift_Card_Order__c gc <span style="color:#f92672">{</span>get<span style="color:#f92672">;</span>set<span style="color:#f92672">;}</span>
+    <span style="color:#66d9ef">public</span> <span style="color:#a6e22e">GiftCardTestController</span><span style="color:#f92672">(</span>ApexPages<span style="color:#f92672">.</span><span style="color:#a6e22e">StandardController</span> stdCtrl<span style="color:#f92672">)</span> <span style="color:#f92672">{</span>
+        std <span style="color:#f92672">=</span> stdCtrl<span style="color:#f92672">;</span>
+    <span style="color:#f92672">}</span>
+
+    <span style="color:#66d9ef">public</span> <span style="color:#66d9ef">void</span> <span style="color:#a6e22e">fillEmail</span><span style="color:#f92672">()</span> <span style="color:#f92672">{</span>
+        gc <span style="color:#f92672">=</span> <span style="color:#f92672">(</span>Gift_Card_Order__c<span style="color:#f92672">)</span>std<span style="color:#f92672">.</span><span style="color:#a6e22e">getRecord</span><span style="color:#f92672">();</span>
+        cEmail <span style="color:#f92672">=</span> <span style="color:#f92672">[</span>select Id<span style="color:#f92672">,</span> Email from Contact where Id <span style="color:#f92672">=</span> <span style="color:#f92672">:</span>gc<span style="color:#f92672">.</span><span style="color:#a6e22e">Contact__c</span><span style="color:#f92672">].</span><span style="color:#a6e22e">Email</span><span style="color:#f92672">;</span>
+        gc<span style="color:#f92672">.</span><span style="color:#a6e22e">Recipient_Email__c</span> <span style="color:#f92672">=</span> cEmail<span style="color:#f92672">;</span>
+    <span style="color:#f92672">}</span>
+
+    <span style="color:#75715e">// add custom save method...
+</span><span style="color:#75715e"></span>    <span style="color:#66d9ef">public</span> pageReference <span style="color:#a6e22e">save</span><span style="color:#f92672">()</span> <span style="color:#f92672">{</span>
+        gc <span style="color:#f92672">=</span> <span style="color:#f92672">(</span>Gift_Card_Order__c<span style="color:#f92672">)</span>std<span style="color:#f92672">.</span><span style="color:#a6e22e">getRecord</span><span style="color:#f92672">();</span>
+
+        <span style="color:#75715e">// if the recipient email is null, add an error to the field
+</span><span style="color:#75715e"></span>        <span style="color:#75715e">// and return null to remain on the current page...
+</span><span style="color:#75715e"></span>        <span style="color:#66d9ef">if</span><span style="color:#f92672">(</span>gc<span style="color:#f92672">.</span><span style="color:#a6e22e">Recipient_Email__c</span> <span style="color:#f92672">==</span> <span style="color:#66d9ef">null</span><span style="color:#f92672">)</span> <span style="color:#f92672">{</span>
+            gc<span style="color:#f92672">.</span><span style="color:#a6e22e">Recipient_Email__c</span><span style="color:#f92672">.</span><span style="color:#a6e22e">addError</span><span style="color:#f92672">(</span><span style="color:#960050;background-color:#1e0010">&#39;</span>A valid email address is required<span style="color:#f92672">.</span><span style="color:#960050;background-color:#1e0010">&#39;</span><span style="color:#f92672">);</span>
+            <span style="color:#66d9ef">return</span> <span style="color:#66d9ef">null</span><span style="color:#f92672">;</span>
+        <span style="color:#f92672">}</span>
+
+        <span style="color:#75715e">// otherwise, the field is filled, so it&#39;s okay to redirect to view page.
+</span><span style="color:#75715e"></span>        <span style="color:#75715e">// standard field validation will check for valid email format.
+</span><span style="color:#75715e"></span>        <span style="color:#66d9ef">else</span> <span style="color:#f92672">{</span>
+            <span style="color:#66d9ef">return</span> std<span style="color:#f92672">.</span><span style="color:#a6e22e">save</span><span style="color:#f92672">();</span>
+        <span style="color:#f92672">}</span>
+    <span style="color:#f92672">}</span>
+<span style="color:#f92672">}</span>
+</code></pre></div><h2 id="new-visualforce-page">New Visualforce Page</h2>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">apex:page</span> <span style="color:#a6e22e">standardController</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Gift_Card_Order__c&#34;</span> <span style="color:#a6e22e">extensions</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;GiftCardTestController&#34;</span> <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Gift Card Test&#34;</span>&gt;
+    &lt;<span style="color:#f92672">apex:form</span>&gt;
+        &lt;<span style="color:#f92672">apex:pageblock</span> <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Gift Card&#34;</span> <span style="color:#a6e22e">mode</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;edit&#34;</span>&gt;
+            &lt;<span style="color:#f92672">apex:pageblockbuttons</span> <span style="color:#a6e22e">location</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;top&#34;</span>&gt;
+                &lt;<span style="color:#f92672">apex:commandbutton</span> <span style="color:#a6e22e">action</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{!save}&#34;</span> <span style="color:#a6e22e">value</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Save&#34;</span>&gt;&lt;/<span style="color:#f92672">apex:commandbutton</span>&gt;
+                &lt;<span style="color:#f92672">apex:commandbutton</span> <span style="color:#a6e22e">action</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{!cancel}&#34;</span> <span style="color:#a6e22e">value</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Cancel&#34;</span>&gt;&lt;/<span style="color:#f92672">apex:commandbutton</span>&gt;
+                &lt;<span style="color:#f92672">apex:commandbutton</span> <span style="color:#a6e22e">action</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{!fillEmail}&#34;</span> <span style="color:#a6e22e">value</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Fill Email&#34;</span>&gt;&lt;/<span style="color:#f92672">apex:commandbutton</span>&gt;
+            &lt;/<span style="color:#f92672">apex:pageblockbuttons</span>&gt;
+            &lt;<span style="color:#f92672">apex:pageblocksection</span> <span style="color:#a6e22e">title</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Email Information&#34;</span> <span style="color:#a6e22e">columns</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;1&#34;</span>&gt;
+                &lt;<span style="color:#f92672">apex:inputfield</span> <span style="color:#a6e22e">value</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{!Gift_Card_Order__c.Contact__c}&#34;</span>&gt;&lt;/<span style="color:#f92672">apex:inputfield</span>&gt;
+
+                <span style="color:#75715e">&lt;!-- Updated pageBlockSectionItem --&gt;</span>
+                &lt;<span style="color:#f92672">apex:pageblocksectionitem</span>&gt;
+                    &lt;<span style="color:#f92672">apex:outputlabel</span>&gt;Email Recipient&lt;/<span style="color:#f92672">apex:outputlabel</span>&gt;
+                    &lt;<span style="color:#f92672">apex:outputpanel</span> <span style="color:#a6e22e">layout</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;block&#34;</span> <span style="color:#a6e22e">styleClass</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;requiredInput&#34;</span>&gt;
+                        &lt;<span style="color:#f92672">apex:outputpanel</span> <span style="color:#a6e22e">layout</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;block&#34;</span> <span style="color:#a6e22e">styleClass</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;requiredBlock&#34;</span>&gt;&lt;/<span style="color:#f92672">apex:outputpanel</span>&gt;
+                        &lt;<span style="color:#f92672">apex:inputfield</span> <span style="color:#a6e22e">value</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;{!Gift_Card_Order__c.Recipient_Email__c}&#34;</span>&gt;&lt;/<span style="color:#f92672">apex:inputfield</span>&gt;
+                    &lt;/<span style="color:#f92672">apex:outputpanel</span>&gt;
+                &lt;/<span style="color:#f92672">apex:pageblocksectionitem</span>&gt;
+                <span style="color:#75715e">&lt;!--// end pageBlockSectionItem --&gt;</span>
+
+            &lt;/<span style="color:#f92672">apex:pageblocksection</span>&gt;
+        &lt;/<span style="color:#f92672">apex:pageblock</span>&gt;
+    &lt;/<span style="color:#f92672">apex:form</span>&gt;
+&lt;/<span style="color:#f92672">apex:page</span>&gt;
+</code></pre></div><p>Notice the <code>&lt;apex:pageblocksectionitem /&gt;</code> code to replace the original field. This is how we make the field appear with the “required” bar. A nifty trick that took some digging to discover. Hopefully, this post saves someone else the time it took me to figure it out — and me the time when I forget it.</p>
+<p>For convenience, here’s a <a href="https://gist.github.com/jimmitchell/4595878">Github Gist</a> with field label &amp; inline help that shows exactly how to make a field appear required on a Visualforce page.</p>
+
 		</div>
 	  </div>
 	
