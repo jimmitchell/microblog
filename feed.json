@@ -7,6 +7,87 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2025/01/27/giving-some-hard-thought-on/",
+				
+				"content_html": "<p>Giving some hard thought on whether I should move my Fediverse presence to Micro.blog entirely, or keep the additional Mastodon server. I&rsquo;ve interacted tons with the MB community lately, but barely looked at Mastodon. It&rsquo;s a conundrum&hellip;</p>\n",
+				"content_text": "Giving some hard thought on whether I should move my Fediverse presence to Micro.blog entirely, or keep the additional Mastodon server. I've interacted tons with the MB community lately, but barely looked at Mastodon. It's a conundrum...\n",
+				"date_published": "2025-01-27T11:28:43-08:00",
+				"url": "https://jimmitchell.org/2025/01/27/giving-some-hard-thought-on/",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/01/25/just-bought-tickets-to-see/",
+				
+				"content_html": "<p>Just bought tickets to see Billy Idol and Joan Jett in September. Should be an awesome show.</p>\n",
+				"content_text": "Just bought tickets to see Billy Idol and Joan Jett in September. Should be an awesome show. \n",
+				"date_published": "2025-01-25T18:23:58-08:00",
+				"url": "https://jimmitchell.org/2025/01/25/just-bought-tickets-to-see/",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/01/25/exception-illegal-instruction-the-sad/",
+				"title": "Exception: Illegal Instruction - The Sad Mac T-Shirt",
+				"content_html": "<p>A t-shirt for those who used the Mac Classic and Mac SE from days of old. You likely saw this error when booting up at least once or twice.</p>\n<p>Available for purchase on <a href=\"https://cottonbureau.com/p/5FDNRQ/shirt/sad-mac-exception-illegal-instruction#/27854468/tee-men-premium-lightweight-vintage-black-tri-blend-s\">Cotton Bureau</a>.</p>\n<!-- raw HTML omitted -->",
+				"content_text": "A t-shirt for those who used the Mac Classic and Mac SE from days of old. You likely saw this error when booting up at least once or twice.<!--more-->\n\nAvailable for purchase on [Cotton Bureau](https://cottonbureau.com/p/5FDNRQ/shirt/sad-mac-exception-illegal-instruction#/27854468/tee-men-premium-lightweight-vintage-black-tri-blend-s).\n\n<img src=\"uploads/2025/sad-mac-tee.png\" alt=\"Sad mac tee.\" title=\"sad-mac-tee.png\" border=\"0\" width=\"1000\" height=\"1000\" style=\"background-color:var(--accent-1);\" />\n",
+				"date_published": "2025-01-25T12:30:22-08:00",
+				"url": "https://jimmitchell.org/2025/01/25/exception-illegal-instruction-the-sad/",
+				"tags": ["Posts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/01/25/i-somehow-discovered-the-chats/",
+				
+				"content_html": "<p>I somehow discovered <a href=\"https://music.apple.com/us/artist/the-chats/1321961023\">The Chats</a> on YouTube and now they’re one of my favorite punk bands.</p>\n",
+				"content_text": "I somehow discovered [The Chats](https://music.apple.com/us/artist/the-chats/1321961023) on YouTube and now they’re one of my favorite punk bands.\n",
+				"date_published": "2025-01-25T11:04:31-08:00",
+				"url": "https://jimmitchell.org/2025/01/25/i-somehow-discovered-the-chats/",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/01/25/whew-i-just-added-a/",
+				
+				"content_html": "<p>😅 Whew&hellip; I just added a ton of content to the <strong><a href=\"https://mnml.micro.blog\">mnml</a></strong> demo site. Undoubtedly there are typos and grammatical errors to be fixed&hellip;</p>\n",
+				"content_text": "😅 Whew... I just added a ton of content to the **[mnml](https://mnml.micro.blog)** demo site. Undoubtedly there are typos and grammatical errors to be fixed...\n",
+				"date_published": "2025-01-25T10:10:42-08:00",
+				"url": "https://jimmitchell.org/2025/01/25/whew-i-just-added-a/",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/01/24/i-just-love-love-love/",
+				
+				"content_html": "<p>I just love, love, love working with Finance people at the day job (NOT!). In their quest to account for a single penny difference, we’ve already wasted a hundred dollars (or more) in people’s salaries.</p>\n",
+				"content_text": "I just love, love, love working with Finance people at the day job (NOT!). In their quest to account for a single penny difference, we’ve already wasted a hundred dollars (or more) in people’s salaries.\n",
+				"date_published": "2025-01-24T09:13:04-08:00",
+				"url": "https://jimmitchell.org/2025/01/24/i-just-love-love-love/",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/01/23/speaking-of-productivity-im-trying/",
+				
+				"content_html": "<p>Speaking of productivity&hellip; I&rsquo;m trying out focus modes on my devices after listening to <a href=\"https://www.relay.fm/mpu/780\">episode 780 of the Mac Power Users podcast</a> a few days ago. It&rsquo;s great to not be distracted at work unnecessarily. I&rsquo;ve set the mode to automatically activate and deactivate by geofence around the office.</p>\n",
+				"content_text": "Speaking of productivity... I'm trying out focus modes on my devices after listening to [episode 780 of the Mac Power Users podcast](https://www.relay.fm/mpu/780) a few days ago. It's great to not be distracted at work unnecessarily. I've set the mode to automatically activate and deactivate by geofence around the office.\n",
+				"date_published": "2025-01-23T07:43:28-08:00",
+				"url": "https://jimmitchell.org/2025/01/23/speaking-of-productivity-im-trying/",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/01/23/ive-been-trying-different-ways/",
+				
+				"content_html": "<p>I’ve been trying different ways of working with Apple Reminders for task management over the last week. I think I’ve found what works best for me and will blog about it once I’ve smoothed the edges a bit. Loving the Apple Calendar integration. I guess that makes me more of a defaults guy now.</p>\n",
+				"content_text": "I’ve been trying different ways of working with Apple Reminders for task management over the last week. I think I’ve found what works best for me and will blog about it once I’ve smoothed the edges a bit. Loving the Apple Calendar integration. I guess that makes me more of a defaults guy now.\n",
+				"date_published": "2025-01-23T05:43:50-08:00",
+				"url": "https://jimmitchell.org/2025/01/23/ive-been-trying-different-ways/",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/01/22/well-ill-be-dipped-usps/",
+				
+				"content_html": "<p>Well I&rsquo;ll be dipped&hellip; USPS found my package and dropped it off just now. It&rsquo;s a positive note to end an otherwise meh day.</p>\n",
+				"content_text": "Well I'll be dipped... USPS found my package and dropped it off just now. It's a positive note to end an otherwise meh day.\n",
+				"date_published": "2025-01-22T17:49:24-08:00",
+				"url": "https://jimmitchell.org/2025/01/22/well-ill-be-dipped-usps/",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2025/01/22/good-old-usps-totally-misdelivered/",
 				
 				"content_html": "<p>😡 Good old USPS&hellip; Totally mis-delivered my Field Notes order. That&rsquo;s $50 down the drain. I have zero faith the wrong recipient will do the right thing, and USPS will simply say &ldquo;but, it&rsquo;s delivered&hellip;&rdquo;</p>\n",
@@ -55,7 +136,7 @@
 				"id": "http://jimmitchell.micro.blog/2025/01/18/huge-mnml-theme-updates/",
 				"title": "Huge mnml Theme Updates",
 				"content_html": "<p>What do I like to do on a quiet Saturday afternoon? I like to work on making <strong><a href=\"https://micro.blog/account/plugins/view/138\">mnml</a></strong> even better than it already was, that&rsquo;s what!</p>\n<p>I like grid photo layouts well enough, but what I like even more is a nice masonry style photo layout. So, the latest version of <strong>mnml</strong> has the option to choose between a grid or masonry photos layout on your own.</p>\n<p><em>Note: I recommend uninstalling any photos plugin you might already be using if you want to use one of the native options because it will override <strong>mnml&rsquo;s</strong> options.</em></p>\n<p>But wait, there&rsquo;s more&hellip;</p>\n<p>Because some may not want to display every single image from your blog on your photos page, and instead maybe just display images from a particular category, that&rsquo;s an option now as well.</p>\n<p>Mess around with the options until you find your happy place. Then blog your heart out.</p>\n<!-- raw HTML omitted -->\n<p>A huge thanks goes out to everyone who&rsquo;ve sent kind words, and a special thanks to those who&rsquo;ve parted with cold hard cash to <a href=\"https://buymeacoffee.com/jim.mitchell\">support my efforts</a> on this project. Yeah, that&rsquo;s a bit of a shameless plug&hellip; Do you blame me?</p>\n<p>My mind is blown, and my heart is full.</p>\n<p>Oh, and yes, I still have ideas to work on&hellip;</p>\n<p>✌🏻❤️</p>",
-				"content_text": "What do I like to do on a quiet Saturday afternoon? I like to work on making **[mnml](https://micro.blog/account/plugins/view/138)** even better than it already was, that's what!<!--more-->\n\nI like grid photo layouts well enough, but what I like even more is a nice masonry style photo layout. So, the latest version of **mnml** has the option to choose between a grid or masonry photos layout on your own.\n\n*Note: I recommend uninstalling any photos plugin you might already be using if you want to use one of the native options because it will override **mnml's** options.*\n\nBut wait, there's more...\n\nBecause some may not want to display every single image from your blog on your photos page, and instead maybe just display images from a particular category, that's an option now as well.\n\nMess around with the options until you find your happy place. Then blog your heart out.\n\n<img src=\"uploads/2025/mnml-settings-20250118.png\" alt=\"Micro.blog mnml theme settings for update v2.3.0.\" title=\"mnml-settings-20250118.png\" border=\"0\" width=\"1000\" height=\"561\" />\n\nA huge thanks goes out to everyone who've sent kind words, and a special thanks to those who've parted with cold hard cash to [support my efforts](https://buymeacoffee.com/jim.mitchell) on this project. Yeah, that's a bit of a shameless plug... Do you blame me?\n\nMy mind is blown, and my heart is full.\n\nOh, and yes, I still have ideas to work on...\n\n✌🏻❤️\n",
+				"content_text": "What do I like to do on a quiet Saturday afternoon? I like to work on making **[mnml](https://micro.blog/account/plugins/view/138)** even better than it already was, that's what!<!--more-->\n\nI like grid photo layouts well enough, but what I like even more is a nice masonry style photo layout. So, the latest version of **mnml** has the option to choose between a grid or masonry photos layout on your own.\n\n*Note: I recommend uninstalling any photos plugin you might already be using if you want to use one of the native options because it will override **mnml's** options.*\n\nBut wait, there's more...\n\nBecause some may not want to display every single image from your blog on your photos page, and instead maybe just display images from a particular category, that's an option now as well.\n\nMess around with the options until you find your happy place. Then blog your heart out.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/mnml-settings-20250118.png\" alt=\"Micro.blog mnml theme settings for update v2.3.0.\" title=\"mnml-settings-20250118.png\" border=\"0\" width=\"1000\" height=\"561\" />\n\nA huge thanks goes out to everyone who've sent kind words, and a special thanks to those who've parted with cold hard cash to [support my efforts](https://buymeacoffee.com/jim.mitchell) on this project. Yeah, that's a bit of a shameless plug... Do you blame me?\n\nMy mind is blown, and my heart is full.\n\nOh, and yes, I still have ideas to work on...\n\n✌🏻❤️\n",
 				"date_published": "2025-01-18T17:00:00-08:00",
 				"url": "https://jimmitchell.org/2025/01/18/huge-mnml-theme-updates/",
 				"tags": ["Posts","mnml"]
@@ -118,7 +199,7 @@
 				"id": "http://jimmitchell.micro.blog/2025/01/16/mnml-theme-update-photos-page/",
 				"title": "mnml Theme Update - Photos Page",
 				"content_html": "<p>As I mentioned yesterday, I recently discovered that the photos page for my <strong><a href=\"https://micro.blog/account/plugins/view/138\">mnml</a></strong> theme was not rendering images on the photo page very well without using one of the plugins available in the plugins directory. I&rsquo;ve released an update to version 2.2.0 that fixes this.</p>\n<p>While I was at it, I included an option to display your photos grid in either a wide or narrow format. Wide format will show a four-across grid, whereas the default (unchecked) option shows a three-across grid.</p>\n<!-- raw HTML omitted -->\n<p>It should be noted that if you&rsquo;re already using a photos plugin, that plugin will override the theme&rsquo;s default photos page and the wide page format will not be enabled.</p>\n<p>If you want to see the wide format in action, check out my <a href=\"/photos/\">photos</a> page.</p>\n<p>There&rsquo;s still a little work to do on this, but it&rsquo;s a heck of a lot better than what it was.</p>\n<p>If you have questions, shoot me an <a href=\"mailto:hello@jimmitchell.org\">email</a> or ping me on <a href=\"https://social.jimmitchell.org/@jim\">Mastodon</a>.</p>\n<p>Enjoy! ✌🏻❤️</p>",
-				"content_text": "As I mentioned yesterday, I recently discovered that the photos page for my **[mnml](https://micro.blog/account/plugins/view/138)** theme was not rendering images on the photo page very well without using one of the plugins available in the plugins directory. I've released an update to version 2.2.0 that fixes this.<!--more-->\n\nWhile I was at it, I included an option to display your photos grid in either a wide or narrow format. Wide format will show a four-across grid, whereas the default (unchecked) option shows a three-across grid.\n\n<img src=\"uploads/2025/mnml-theme-options.png\" alt=\"Mnml theme settings page higlighting the full width photos page option.\" title=\"mnml-theme-options.png\" border=\"0\" width=\"999\" height=\"486\" />\n\nIt should be noted that if you're already using a photos plugin, that plugin will override the theme's default photos page and the wide page format will not be enabled.\n\nIf you want to see the wide format in action, check out my [photos](/photos/) page.\n\nThere's still a little work to do on this, but it's a heck of a lot better than what it was.\n\nIf you have questions, shoot me an [email](mailto:hello@jimmitchell.org) or ping me on [Mastodon](https://social.jimmitchell.org/@jim).\n\nEnjoy! ✌🏻❤️\n",
+				"content_text": "As I mentioned yesterday, I recently discovered that the photos page for my **[mnml](https://micro.blog/account/plugins/view/138)** theme was not rendering images on the photo page very well without using one of the plugins available in the plugins directory. I've released an update to version 2.2.0 that fixes this.<!--more-->\n\nWhile I was at it, I included an option to display your photos grid in either a wide or narrow format. Wide format will show a four-across grid, whereas the default (unchecked) option shows a three-across grid.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/mnml-theme-options.png\" alt=\"Mnml theme settings page higlighting the full width photos page option.\" title=\"mnml-theme-options.png\" border=\"0\" width=\"999\" height=\"486\" />\n\nIt should be noted that if you're already using a photos plugin, that plugin will override the theme's default photos page and the wide page format will not be enabled.\n\nIf you want to see the wide format in action, check out my [photos](/photos/) page.\n\nThere's still a little work to do on this, but it's a heck of a lot better than what it was.\n\nIf you have questions, shoot me an [email](mailto:hello@jimmitchell.org) or ping me on [Mastodon](https://social.jimmitchell.org/@jim).\n\nEnjoy! ✌🏻❤️\n",
 				"date_published": "2025-01-16T08:25:04-08:00",
 				"url": "https://jimmitchell.org/2025/01/16/mnml-theme-update-photos-page/",
 				"tags": ["Posts","mnml"]
@@ -208,7 +289,7 @@
 				"id": "http://jimmitchell.micro.blog/2025/01/07/unoffically-official-microblog-swag/",
 				"title": "Unoffically Official Micro.blog Swag",
 				"content_html": "<p>If you&rsquo;ve missed my previous posts about the Unofficially Official Micro.blog swag available on Cotton Bureau, here they are all in one place.</p>\n<ul>\n<li><a href=\"https://cottonbureau.com/p/ZJUKRZ/shirt/microblog-tee#/27062466/tee-men-premium-lightweight-vintage-black-tri-blend-s\">Micro.blog T-Shirts &amp; Hoodies</a></li>\n<li><a href=\"https://cottonbureau.com/p/P3KM3N/phonecase/microblog-phone-case#/27065688/iphone-16-iphone-16-pro-tough-magsafe-charcoal\">Micro.blog Phone Cases</a></li>\n<li><a href=\"https://cottonbureau.com/p/TCA4JV/drinkware/microblog-mug#/27710595/mug-everyday-mug-white-ceramic-11-oz.\">Micro.blog Coffee Mug</a></li>\n</ul>\n<p>I just added the mug as an on-demand option.</p>\n<!-- raw HTML omitted -->\n<p>Enjoy!</p>",
-				"content_text": "If you've missed my previous posts about the Unofficially Official Micro.blog swag available on Cotton Bureau, here they are all in one place.<!--more-->\n\n- [Micro.blog T-Shirts & Hoodies](https://cottonbureau.com/p/ZJUKRZ/shirt/microblog-tee#/27062466/tee-men-premium-lightweight-vintage-black-tri-blend-s)\n- [Micro.blog Phone Cases](https://cottonbureau.com/p/P3KM3N/phonecase/microblog-phone-case#/27065688/iphone-16-iphone-16-pro-tough-magsafe-charcoal)\n- [Micro.blog Coffee Mug](https://cottonbureau.com/p/TCA4JV/drinkware/microblog-mug#/27710595/mug-everyday-mug-white-ceramic-11-oz.)\n\nI just added the mug as an on-demand option.\n\n<img src=\"uploads/2025/mug-3.png\" alt=\"\" title=\"mug-3.png\" border=\"0\" width=\"998\" height=\"585\" style=\"background-color:var(--accent-1);\" />\n\nEnjoy!\n",
+				"content_text": "If you've missed my previous posts about the Unofficially Official Micro.blog swag available on Cotton Bureau, here they are all in one place.<!--more-->\n\n- [Micro.blog T-Shirts & Hoodies](https://cottonbureau.com/p/ZJUKRZ/shirt/microblog-tee#/27062466/tee-men-premium-lightweight-vintage-black-tri-blend-s)\n- [Micro.blog Phone Cases](https://cottonbureau.com/p/P3KM3N/phonecase/microblog-phone-case#/27065688/iphone-16-iphone-16-pro-tough-magsafe-charcoal)\n- [Micro.blog Coffee Mug](https://cottonbureau.com/p/TCA4JV/drinkware/microblog-mug#/27710595/mug-everyday-mug-white-ceramic-11-oz.)\n\nI just added the mug as an on-demand option.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/mug-3.png\" alt=\"\" title=\"mug-3.png\" border=\"0\" width=\"998\" height=\"585\" style=\"background-color:var(--accent-1);\" />\n\nEnjoy!\n",
 				"date_published": "2025-01-07T20:45:59-08:00",
 				"url": "https://jimmitchell.org/2025/01/07/unoffically-official-microblog-swag/",
 				"tags": ["Posts"]
