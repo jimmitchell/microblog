@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2025/01/30/very-strange-i-start-up/",
+				
+				"content_html": "<p>Very strange… I start up and login to the work laptop, launch all the apps, and there’s not one email, Teams chat or Slack message waiting for me.</p>\n",
+				"content_text": "Very strange… I start up and login to the work laptop, launch all the apps, and there’s not one email, Teams chat or Slack message waiting for me.\n",
+				"date_published": "2025-01-30T07:21:25-08:00",
+				"url": "https://jimmitchell.org/2025/01/30/very-strange-i-start-up/",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/01/29/ooh-how-about-being-able/",
+				
+				"content_html": "<p>Ooh&hellip; How about being able to set more than one category for the <strong>mnml</strong> home page, like, maybe, Posts AND Photos, but omit others? I&rsquo;ll neither confirm or deny you might be seeing this here already. You be the judge.</p>\n",
+				"content_text": "Ooh... How about being able to set more than one category for the **mnml** home page, like, maybe, Posts AND Photos, but omit others? I'll neither confirm or deny you might be seeing this here already. You be the judge.\n",
+				"date_published": "2025-01-29T12:52:47-08:00",
+				"url": "https://jimmitchell.org/2025/01/29/ooh-how-about-being-able/",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/01/29/i-chose-to-wear-an/",
+				
+				"content_html": "<p>I chose to wear an analog watch today instead of Apple Watch and can honestly say I&rsquo;ve not even noticed a difference.</p>\n",
+				"content_text": "I chose to wear an analog watch today instead of Apple Watch and can honestly say I've not even noticed a difference.\n",
+				"date_published": "2025-01-29T11:27:50-08:00",
+				"url": "https://jimmitchell.org/2025/01/29/i-chose-to-wear-an/",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2025/01/27/giving-some-hard-thought-on/",
 				
 				"content_html": "<p>Giving some hard thought on whether I should move my Fediverse presence to Micro.blog entirely, or keep the additional Mastodon server. I&rsquo;ve interacted tons with the MB community lately, but barely looked at Mastodon. It&rsquo;s a conundrum&hellip;</p>\n",
@@ -144,11 +171,11 @@
 			{
 				"id": "http://jimmitchell.micro.blog/2025/01/18/i-took-our-year-old/",
 				
-				"content_html": "<p>I took our 15-year-old Chihuahua to the vet for a checkup. She’s on almost as many pills as I am now. Poor old girl.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I took our 15-year-old Chihuahua to the vet for a checkup. She’s on almost as many pills as I am now. Poor old girl.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/b325253b75.jpg\" alt=\"A small dog with a white and brown coat is lying on a textured gray surface, looking relaxed.\">\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>I took our 15-year-old Chihuahua to the vet for a checkup. She’s on almost as many pills as I am now. Poor old girl.</p>\n",
+				"content_text": "<img src=\"uploads/2025/b325253b75.jpg\" alt=\"A small dog with a white and brown coat is lying on a textured gray surface, looking relaxed.\">\n\nI took our 15-year-old Chihuahua to the vet for a checkup. She’s on almost as many pills as I am now. Poor old girl.\n",
 				"date_published": "2025-01-18T10:51:42-08:00",
 				"url": "https://jimmitchell.org/2025/01/18/i-took-our-year-old/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/01/18/trying-out-a-guestbook-option/",
@@ -477,8 +504,8 @@
 			{
 				"id": "http://jimmitchell.micro.blog/2024/12/13/bombs-away/",
 				
-				"content_html": "<p>📷 Bombs away!</p>\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2024/img-6051.jpeg\" alt=\"Auto-generated description: A vintage bomber aircraft with yellow engine covers is on display in an aviation museum.\"></p>\n",
-				"content_text": "📷 Bombs away!\n\n![Auto-generated description: A vintage bomber aircraft with yellow engine covers is on display in an aviation museum.](https://cdn.uploads.micro.blog/109466/2024/img-6051.jpeg)\n",
+				"content_html": "<p><img src=\"https://jimmitchell.org/uploads/2024/img-6051.jpeg\" alt=\"Auto-generated description: A vintage bomber aircraft with yellow engine covers is on display in an aviation museum.\"></p>\n<p>📷 Bombs away!</p>\n",
+				"content_text": "![Auto-generated description: A vintage bomber aircraft with yellow engine covers is on display in an aviation museum.](https://jimmitchell.org/uploads/2024/img-6051.jpeg)\n\n📷 Bombs away!\n",
 				"date_published": "2024-12-13T18:33:05-08:00",
 				"url": "https://jimmitchell.org/2024/12/13/bombs-away/",
 				"tags": ["Photos"]
@@ -558,8 +585,8 @@
 			{
 				"id": "http://jimmitchell.micro.blog/2024/11/28/the-annual-thanksgiving-bike-ride/",
 				
-				"content_html": "<p>The annual Thanksgiving bike ride along the beach. It never disappoints.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "The annual Thanksgiving bike ride along the beach. It never disappoints.\n\n<video src=\"https://cdn.uploads.micro.blog/109466/2024/img-6033-480p.mov\" playsinline=\"playsinline\" controls=\"controls\" preload=\"none\" poster=\"https://jimmitchell.org/uploads/2024/91606f93d3.png\"></video>\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>The annual Thanksgiving bike ride along the beach. It never disappoints.</p>\n",
+				"content_text": "<video src=\"https://jimmitchell.org/uploads/2024/img-6033-480p.mov\" playsinline=\"playsinline\" controls=\"controls\" preload=\"none\" poster=\"https://jimmitchell.org/uploads/2024/91606f93d3.png\"></video>\n\nThe annual Thanksgiving bike ride along the beach. It never disappoints.\n",
 				"date_published": "2024-11-28T14:17:19-08:00",
 				"url": "https://jimmitchell.org/2024/11/28/the-annual-thanksgiving-bike-ride/",
 				"tags": ["Videos"]
