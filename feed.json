@@ -7,11 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2025/03/12/im-in-a-quandary-today/",
+				
+				"content_html": "<p>I’m in a quandary today… I purchased the jimmitchell.social domain yesterday with the intention of using it for a new Mastodon instance. I’m having second thoughts about that now. But then I find jimmitchell.blog is available. It would be the perfect domain to use here on Micro.blog. What to do? 🤪</p>\n",
+				"content_text": "I’m in a quandary today… I purchased the jimmitchell.social domain yesterday with the intention of using it for a new Mastodon instance. I’m having second thoughts about that now. But then I find jimmitchell.blog is available. It would be the perfect domain to use here on Micro.blog. What to do? 🤪\n",
+				"date_published": "2025-03-12T10:37:25-07:00",
+				"url": "https://jimmitchell.org/2025/03/12/im-in-a-quandary-today/"
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/03/09/and-taxes-are-complete-ended/",
+				
+				"content_html": "<p>And 2024 taxes are complete. Ended up not being quite as bad as we thought it was going to be. Glad to have that one done.</p>\n",
+				"content_text": "And 2024 taxes are complete. Ended up not being quite as bad as we thought it was going to be. Glad to have that one done.\n",
+				"date_published": "2025-03-09T13:47:49-07:00",
+				"url": "https://jimmitchell.org/2025/03/09/and-taxes-are-complete-ended/",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/03/09/i-got-both-the-pneumonia/",
+				
+				"content_html": "<p>I got both the pneumonia and shingles vaccines in one sitting yesterday. Today, I’m feeling like a freight train hit me. Add the DST change to the mix and I think I’m out of commission for the day. That makes it the perfect day to work on taxes…</p>\n",
+				"content_text": "I got both the pneumonia and shingles vaccines in one sitting yesterday. Today, I’m feeling like a freight train hit me. Add the DST change to the mix and I think I’m out of commission for the day. That makes it the perfect day to work on taxes…\n",
+				"date_published": "2025-03-09T09:07:18-07:00",
+				"url": "https://jimmitchell.org/2025/03/09/i-got-both-the-pneumonia/",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/03/08/i-was-totally-surprised-to/",
+				
+				"content_html": "<p>I was totally surprised to receive a letter from the judge who presided over the jury trial I sat on week before last thanking me for being willing to perform my civic duty. When did doing your civic duty become something you need to be thanked for? It&rsquo;s just something you do as an American citizen.</p>\n",
+				"content_text": "I was totally surprised to receive a letter from the judge who presided over the jury trial I sat on week before last thanking me for being willing to perform my civic duty. When did doing your civic duty become something you need to be thanked for? It's just something you do as an American citizen.\n",
+				"date_published": "2025-03-08T18:39:50-07:00",
+				"url": "https://jimmitchell.org/2025/03/08/i-was-totally-surprised-to/",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2025/03/02/some-mnml-updates-are-on/",
 				
-				"content_html": "<p>Some <strong>mnml</strong> <a href=\"https://mnml.micro.blog/2025/03/02/mnml-theme-updates/\">updates</a> are on their way&hellip;</p>\n",
-				"content_text": "Some **mnml** [updates](https://mnml.micro.blog/2025/03/02/mnml-theme-updates/) are on their way...\n",
-				"date_published": "2025-03-02T08:42:37-08:00",
+				"content_html": "<p>Some <strong>mnml</strong> <a href=\"https://mnml.micro.blog/2025/03/02/mnml-theme-updates/\">updates</a> about to drop&hellip;</p>\n",
+				"content_text": "Some **mnml** [updates](https://mnml.micro.blog/2025/03/02/mnml-theme-updates/) about to drop...\n",
+				"date_published": "2025-03-02T09:42:37-07:00",
 				"url": "https://jimmitchell.org/2025/03/02/some-mnml-updates-are-on/",
 				"tags": ["Thoughts","mnml"]
 			},
@@ -20,7 +55,7 @@
 				
 				"content_html": "<p>I hear everybody talking about <a href=\"https://vivaldi.com\">Vivaldi</a> as their browser of choice. I think I&rsquo;ll have to give it a spin for a while.</p>\n",
 				"content_text": "I hear everybody talking about [Vivaldi](https://vivaldi.com) as their browser of choice. I think I'll have to give it a spin for a while.\n",
-				"date_published": "2025-03-02T07:35:14-08:00",
+				"date_published": "2025-03-02T08:35:14-07:00",
 				"url": "https://jimmitchell.org/2025/03/02/i-hear-everybody-talking-about/",
 				"tags": ["Thoughts"]
 			},
@@ -29,7 +64,7 @@
 				
 				"content_html": "<p>Super stressed today… I likely have to report for jury duty this afternoon, but also have a dental appointment to cement a crown. One of them will have to get pushed… I’ve already deferred jury duty as much as I can and getting an appt. with my dentist is tough. 😣</p>\n",
 				"content_text": "Super stressed today… I likely have to report for jury duty this afternoon, but also have a dental appointment to cement a crown. One of them will have to get pushed… I’ve already deferred jury duty as much as I can and getting an appt. with my dentist is tough. 😣\n",
-				"date_published": "2025-02-24T09:28:39-08:00",
+				"date_published": "2025-02-24T10:28:39-07:00",
 				"url": "https://jimmitchell.org/2025/02/24/super-stressed-today-i-likely/",
 				"tags": ["Thoughts"]
 			},
@@ -74,7 +109,7 @@
 				
 				"content_html": "<p>It’s raining cats and dogs right now. Grateful for the rain, but more grateful that it started raining hard after we were all home for the evening. Rain through the night, but done by morning commute time. Yay!</p>\n",
 				"content_text": "It’s raining cats and dogs right now. Grateful for the rain, but more grateful that it started raining hard after we were all home for the evening. Rain through the night, but done by morning commute time. Yay!\n",
-				"date_published": "2025-02-13T17:16:43-08:00",
+				"date_published": "2025-02-13T18:16:43-07:00",
 				"url": "https://jimmitchell.org/2025/02/13/its-raining-cats-and-dogs/",
 				"tags": ["Thoughts"]
 			},
