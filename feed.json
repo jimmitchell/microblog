@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2025/04/21/maybe-its-just-me-but/",
+				
+				"content_html": "<p>Maybe it’s just me, but the Micro.blog web servers seem to be a bit snappier lately. I’m liking it…</p>\n",
+				"content_text": "Maybe it’s just me, but the Micro.blog web servers seem to be a bit snappier lately. I’m liking it…\n",
+				"date_published": "2025-04-21T08:14:54-07:00",
+				"url": "https://jimmitchell.blog/2025/04/21/maybe-its-just-me-but/",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/04/18/had-a-lunch-date-with/",
+				
+				"content_html": "<p>Had a lunch date with my wife today at a place we haven’t been to in 15 or 20 years that overlooks the pier. Then we walked the pier afterwards. It was an enjoyable afternoon with my bestie. I’m a lucky guy.</p>\n",
+				"content_text": "Had a lunch date with my wife today at a place we haven’t been to in 15 or 20 years that overlooks the pier. Then we walked the pier afterwards. It was an enjoyable afternoon with my bestie. I’m a lucky guy.\n",
+				"date_published": "2025-04-18T17:22:51-07:00",
+				"url": "https://jimmitchell.blog/2025/04/18/had-a-lunch-date-with/",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/04/18/ive-been-going-to-a/",
+				
+				"content_html": "<p>I&rsquo;ve been going to a local shoe store for more than 25 years that has a &ldquo;spin the wheel for a free pair of shoes&rdquo; game. In all those years, I&rsquo;ve never won a free pair&hellip; Until today. Score!</p>\n",
+				"content_text": "I've been going to a local shoe store for more than 25 years that has a \"spin the wheel for a free pair of shoes\" game. In all those years, I've never won a free pair... Until today. Score!\n",
+				"date_published": "2025-04-18T15:50:15-07:00",
+				"url": "https://jimmitchell.blog/2025/04/18/ive-been-going-to-a/",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/04/16/changes-for-a-mnml-update/",
+				
+				"content_html": "<p>Changes for a <strong>mnml</strong> update are nearly complete and <em>may</em> drop by the weekend.</p>\n<p>I also have some great ideas in the works for my next Micro.blog theme…</p>\n",
+				"content_text": "Changes for a **mnml** update are nearly complete and _may_ drop by the weekend.\n\nI also have some great ideas in the works for my next Micro.blog theme…\n",
+				"date_published": "2025-04-16T07:54:47-07:00",
+				"url": "https://jimmitchell.blog/2025/04/16/changes-for-a-mnml-update/",
+				"tags": ["Thoughts","mnml"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2025/04/15/my-youngest-turns-today-as/",
 				
 				"content_html": "<p>My youngest turns 28 today. As each year passes, it gets harder and harder to fathom the actual number.</p>\n",
@@ -1810,7 +1846,7 @@
 				"id": "http://jimmitchell.micro.blog/2024/07/04/one-of-the-more-wacky/",
 				
 				"content_html": "<p>📷 One of the more wacky Huntington Beach Fourth of July parade entries this year. If you grew up on ‘70s sitcoms, you get it… 🇺🇸</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 One of the more wacky Huntington Beach Fourth of July parade entries this year. If you grew up on ‘70s sitcoms, you get it… 🇺🇸\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/bfd0724b36.jpg\" width=\"600\" height=\"450\" alt=\"A group of people dressed in vibrant, 1970s-style costumes and wigs are marching in a parade, holding a banner that reads &quot;Mrs. Roper Romps Huntington Beach.&quot;\">\n",
+				"content_text": "📷 One of the more wacky Huntington Beach Fourth of July parade entries this year. If you grew up on ‘70s sitcoms, you get it… 🇺🇸\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/bfd0724b36.jpg\" alt=\"A group of people dressed in vibrant, 1970s-style costumes and wigs are marching in a parade, holding a banner that reads &quot;Mrs. Roper Romps Huntington Beach.&quot;\">\n",
 				"date_published": "2024-07-04T15:23:39-07:00",
 				"url": "https://jimmitchell.blog/2024/07/04/one-of-the-more-wacky/",
 				"tags": ["Photos"]
@@ -1891,7 +1927,7 @@
 				"id": "http://jimmitchell.micro.blog/2024/06/15/donnie-is-a-kook/",
 				
 				"content_html": "<p>📷 Donnie is a kook&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Donnie is a kook...\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/trump-dont-surf.jpeg\" width=\"600\" height=\"450\" alt=\"Graffiti on a concrete wall reads 'TRUMP DON'T SURF' in black letters along with other smaller drawings and writings nearby.\">\n",
+				"content_text": "📷 Donnie is a kook...\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/trump-dont-surf.jpeg\" alt=\"Graffiti on a concrete wall reads 'TRUMP DON'T SURF' in black letters along with other smaller drawings and writings nearby.\">\n",
 				"date_published": "2024-06-15T09:00:21-07:00",
 				"url": "https://jimmitchell.blog/2024/06/15/donnie-is-a-kook/",
 				"tags": ["Photos"]
@@ -2188,7 +2224,7 @@
 				"id": "http://jimmitchell.micro.blog/2024/04/27/morning-low-tide-while-camping/",
 				
 				"content_html": "<p>📷 Morning low tide while camping at Carpenteria State Beach Campgrounds.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Morning low tide while camping at Carpenteria State Beach Campgrounds.\n\n<img loading=\"lazy\" src=\"https://cdn.uploads.micro.blog/109466/2024/2692b02757.jpg\" width=\"600\" height=\"450\" alt=\"A serene beachscape is depicted with a rocky shoreline in the foreground, calm blue waters, and a mountainous landform on the horizon under a clear sky.\">\n",
+				"content_text": "📷 Morning low tide while camping at Carpenteria State Beach Campgrounds.\n\n<img loading=\"lazy\" src=\"https://cdn.uploads.micro.blog/109466/2024/2692b02757.jpg\" alt=\"A serene beachscape is depicted with a rocky shoreline in the foreground, calm blue waters, and a mountainous landform on the horizon under a clear sky.\">\n",
 				"date_published": "2024-04-27T08:34:53-07:00",
 				"url": "https://jimmitchell.blog/2024/04/27/morning-low-tide-while-camping/",
 				"tags": ["Photos"]
@@ -2719,7 +2755,7 @@
 				"id": "http://jimmitchell.micro.blog/2024/04/02/day-flowers-mbapr-davegullett/",
 				
 				"content_html": "<p>📷 Day 02: Flowers.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://micro.blog/discover/mbapr\">#mbapr</a> <a href=\"https://micro.blog/davegullett\">@davegullett</a></p>\n",
-				"content_text": "📷 Day 02: Flowers.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/eec3cdc910.jpg\" width=\"600\" height=\"450\" alt=\"Yellow flowers blooming.\">\n\n[#mbapr](https://micro.blog/discover/mbapr) [@davegullett](https://micro.blog/davegullett)\n",
+				"content_text": "📷 Day 02: Flowers.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/eec3cdc910.jpg\" alt=\"Yellow flowers blooming.\">\n\n[#mbapr](https://micro.blog/discover/mbapr) [@davegullett](https://micro.blog/davegullett)\n",
 				"date_published": "2024-04-02T04:56:31-07:00",
 				"url": "https://jimmitchell.blog/2024/04/02/day-flowers-mbapr-davegullett/",
 				"tags": ["Photos"]
@@ -2746,7 +2782,7 @@
 				"id": "http://jimmitchell.micro.blog/2024/04/01/day-toy-mbapr-pcora/",
 				
 				"content_html": "<p>📷 Day 01: Toy.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://micro.blog/discover/mbapr\">#mbapr</a> <a href=\"https://micro.blog/pcora\">@pcora</a></p>\n",
-				"content_text": "📷 Day 01: Toy.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/b05158f5a3.jpg\" width=\"600\" height=\"450\" alt=\"The Toy Story Pizza Planet delivery truck replica driving in a Fourth of July parade.\">\n\n[#mbapr](https://micro.blog/discover/mbapr) [@pcora](https://micro.blog/pcora)\n",
+				"content_text": "📷 Day 01: Toy.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/b05158f5a3.jpg\" alt=\"The Toy Story Pizza Planet delivery truck replica driving in a Fourth of July parade.\">\n\n[#mbapr](https://micro.blog/discover/mbapr) [@pcora](https://micro.blog/pcora)\n",
 				"date_published": "2024-04-01T09:31:31-07:00",
 				"url": "https://jimmitchell.blog/2024/04/01/day-toy-mbapr-pcora/",
 				"tags": ["Photos"]
@@ -3061,7 +3097,7 @@
 				"id": "http://jimmitchell.micro.blog/2024/02/26/we-visited-the-lowest-bar/",
 				
 				"content_html": "<p>📷 We visited the lowest bar in the western hemisphere last weekend in Bombay Beach, CA which sits nearly 200 feet below sea level. Beers were had.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 We visited the lowest bar in the western hemisphere last weekend in Bombay Beach, CA which sits nearly 200 feet below sea level. Beers were had.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/6fbfbcd596.jpg\" width=\"600\" height=\"450\" alt=\"The Ski Inn roadside sign, which is the lowest elevation bar in the western hemisphere, sitting nearly 200 feet below sea level.\">\n",
+				"content_text": "📷 We visited the lowest bar in the western hemisphere last weekend in Bombay Beach, CA which sits nearly 200 feet below sea level. Beers were had.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/6fbfbcd596.jpg\" alt=\"The Ski Inn roadside sign, which is the lowest elevation bar in the western hemisphere, sitting nearly 200 feet below sea level.\">\n",
 				"date_published": "2024-02-26T10:42:30-07:00",
 				"url": "https://jimmitchell.blog/2024/02/26/we-visited-the-lowest-bar/",
 				"tags": ["Photos"]
@@ -3250,7 +3286,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/12/31/happy-new-year-from-the/",
 				
 				"content_html": "<p>📷 Happy New Year from the top of SoCal!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Happy New Year from the top of SoCal!\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/d582735b70.jpg\" width=\"600\" height=\"450\" alt=\"A view of Palm Springs at night from the tramway restaurant on Mt. San Jacinto.\">\n",
+				"content_text": "📷 Happy New Year from the top of SoCal!\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/d582735b70.jpg\" alt=\"A view of Palm Springs at night from the tramway restaurant on Mt. San Jacinto.\">\n",
 				"date_published": "2023-12-31T19:54:34-07:00",
 				"url": "https://jimmitchell.blog/2023/12/31/happy-new-year-from-the/",
 				"tags": ["Photos"]
@@ -3358,7 +3394,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/12/08/bear-with-me-a-minute/",
 				
 				"content_html": "<p>📷 Bear with me a minute…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Bear with me a minute…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/a5c081b58c.jpg\" width=\"450\" height=\"600\" alt=\"Close up of a carved bear likeness.\">\n",
+				"content_text": "📷 Bear with me a minute…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/a5c081b58c.jpg\" alt=\"Close up of a carved bear likeness.\">\n",
 				"date_published": "2023-12-08T15:25:00-07:00",
 				"url": "https://jimmitchell.blog/2023/12/08/bear-with-me-a-minute/",
 				"tags": ["Photos"]
@@ -3367,7 +3403,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/12/07/campground-peacock/",
 				
 				"content_html": "<p>📷 Campground peacock.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Campground peacock.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/b7f77d8082.jpg\" width=\"600\" height=\"450\" alt=\"Peacock roaming our campsite.\">\n",
+				"content_text": "📷 Campground peacock.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/b7f77d8082.jpg\" alt=\"Peacock roaming our campsite.\">\n",
 				"date_published": "2023-12-07T18:23:08-07:00",
 				"url": "https://jimmitchell.blog/2023/12/07/campground-peacock/",
 				"tags": ["Photos"]
@@ -3547,7 +3583,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/11/08/memories-of-hawaii/",
 				
 				"content_html": "<p>📷 Memories of Hawai’i.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Memories of Hawai’i.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/4cc821c6f7.jpg\" width=\"600\" height=\"450\" alt=\"Diamond Head from the Waikiki breakwater.\">\n",
+				"content_text": "📷 Memories of Hawai’i.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/4cc821c6f7.jpg\" alt=\"Diamond Head from the Waikiki breakwater.\">\n",
 				"date_published": "2023-11-08T15:55:48-07:00",
 				"url": "https://jimmitchell.blog/2023/11/08/memories-of-hawaii/",
 				"tags": ["Photos"]
@@ -3583,7 +3619,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/11/03/a-lone-joshua-tree-at/",
 				
 				"content_html": "<p>📷 A lone Joshua Tree at dusk.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 A lone Joshua Tree at dusk.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/745fc4d8a6.jpg\" width=\"600\" height=\"360\" alt=\"A lone Joshua Tree at dusk\">\n",
+				"content_text": "📷 A lone Joshua Tree at dusk.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/745fc4d8a6.jpg\" alt=\"A lone Joshua Tree at dusk\">\n",
 				"date_published": "2023-11-03T22:28:56-07:00",
 				"url": "https://jimmitchell.blog/2023/11/03/a-lone-joshua-tree-at/",
 				"tags": ["Photos"]
@@ -3619,7 +3655,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/10/22/ginger-loves-glamping/",
 				
 				"content_html": "<p>📷 Ginger loves glamping…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Ginger loves glamping…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/a1d1788e5b.jpg\" width=\"600\" height=\"450\" alt=\"Content dog in a blanket.\">\n",
+				"content_text": "📷 Ginger loves glamping…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/a1d1788e5b.jpg\" alt=\"Content dog in a blanket.\">\n",
 				"date_published": "2023-10-22T11:06:37-07:00",
 				"url": "https://jimmitchell.blog/2023/10/22/ginger-loves-glamping/",
 				"tags": ["Photos"]
@@ -3736,7 +3772,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/09/27/the-north-shore-of-oahu/",
 				
 				"content_html": "<p>📷 The North Shore of O’ahu. More beautiful than I imagined it would be.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 The North Shore of O’ahu. More beautiful than I imagined it would be.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/45e52bbbf7.jpg\" width=\"600\" height=\"450\" alt=\"Laniakea Beach\">\n",
+				"content_text": "📷 The North Shore of O’ahu. More beautiful than I imagined it would be.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/45e52bbbf7.jpg\" alt=\"Laniakea Beach\">\n",
 				"date_published": "2023-09-27T19:49:16-07:00",
 				"url": "https://jimmitchell.blog/2023/09/27/the-north-shore-of-oahu/",
 				"tags": ["Photos"]
@@ -3745,7 +3781,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/09/25/sunrise-over-waikiki/",
 				
 				"content_html": "<p>📷 Sunrise over Waikiki.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Sunrise over Waikiki.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/d86bec0760.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise over Waikiki\">\n",
+				"content_text": "📷 Sunrise over Waikiki.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/d86bec0760.jpg\" alt=\"Sunrise over Waikiki\">\n",
 				"date_published": "2023-09-25T14:33:03-07:00",
 				"url": "https://jimmitchell.blog/2023/09/25/sunrise-over-waikiki/",
 				"tags": ["Photos"]
@@ -3790,7 +3826,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/09/04/the-unofficial-last-day-of/",
 				
 				"content_html": "<p>📷 The Unofficial Last Day of Summer in Surf City, USA.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 The Unofficial Last Day of Summer in Surf City, USA.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/af48e10452.jpg\" width=\"600\" height=\"449\" alt=\"Huntington Beach pier and volleyball players.\">\n",
+				"content_text": "📷 The Unofficial Last Day of Summer in Surf City, USA.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/af48e10452.jpg\" alt=\"Huntington Beach pier and volleyball players.\">\n",
 				"date_published": "2023-09-04T11:32:52-07:00",
 				"url": "https://jimmitchell.blog/2023/09/04/the-unofficial-last-day-of/",
 				"tags": ["Photos"]
@@ -3835,7 +3871,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/08/12/thanks-for-the-awesome-microblog/",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Thanks for the awesome Micro.blog decals and note, <a href=\"https://micro.blog/jean\">@jean</a>!</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/c68e7f41bf.jpg\" width=\"600\" height=\"450\" alt=\"Awesome Micro.blog decals from [@jean](https://micro.blog/jean).\"></p>\n",
+				"content_text": "<p>📷 Thanks for the awesome Micro.blog decals and note, <a href=\"https://micro.blog/jean\">@jean</a>!</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/c68e7f41bf.jpg\" alt=\"Awesome Micro.blog decals from [@jean](https://micro.blog/jean).\"></p>\n",
 				"date_published": "2023-08-12T12:18:28-07:00",
 				"url": "https://jimmitchell.blog/2023/08/12/thanks-for-the-awesome-microblog/",
 				"tags": ["Photos"]
@@ -3970,7 +4006,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/07/04/our-rd-year-in-surf/",
 				
 				"content_html": "<p>📷 Our 23rd year in Surf City, USA…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Our 23rd year in Surf City, USA…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/035110a288.jpg\" width=\"600\" height=\"450\" alt=\"Huntington Beach 4th of July parade banner.\">\n",
+				"content_text": "📷 Our 23rd year in Surf City, USA…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/035110a288.jpg\" alt=\"Huntington Beach 4th of July parade banner.\">\n",
 				"date_published": "2023-07-04T13:34:40-07:00",
 				"url": "https://jimmitchell.blog/2023/07/04/our-rd-year-in-surf/",
 				"tags": ["Photos"]
@@ -4033,7 +4069,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/06/26/a-friendly-lizard/",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 A friendly lizard.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/bffae4abc7.jpg\" width=\"600\" height=\"450\" alt=\"a lizard on a stick\"></p>\n",
+				"content_text": "<p>📷 A friendly lizard.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/bffae4abc7.jpg\" alt=\"a lizard on a stick\"></p>\n",
 				"date_published": "2023-06-26T21:02:39-07:00",
 				"url": "https://jimmitchell.blog/2023/06/26/a-friendly-lizard/",
 				"tags": ["Photos"]
@@ -4042,7 +4078,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/06/26/laguna-coast-wilderness-park/",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Laguna Coast Wilderness Park.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/620f697509.jpg\" width=\"600\" height=\"450\" alt=\"view of the Laguna mountains\"></p>\n",
+				"content_text": "<p>📷 Laguna Coast Wilderness Park.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/620f697509.jpg\" alt=\"view of the Laguna mountains\"></p>\n",
 				"date_published": "2023-06-26T20:58:34-07:00",
 				"url": "https://jimmitchell.blog/2023/06/26/laguna-coast-wilderness-park/",
 				"tags": ["Photos"]
@@ -4078,7 +4114,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/06/12/sunrise-over-terminal-island/",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Sunrise over Terminal Island.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/53ad5a744f.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise over Terminal Island\"></p>\n",
+				"content_text": "<p>📷 Sunrise over Terminal Island.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/53ad5a744f.jpg\" alt=\"Sunrise over Terminal Island\"></p>\n",
 				"date_published": "2023-06-12T20:50:45-07:00",
 				"url": "https://jimmitchell.blog/2023/06/12/sunrise-over-terminal-island/",
 				"tags": ["Photos"]
@@ -4123,7 +4159,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/30/across-the-irvine-valley/",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Across the Irvine valley.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/165d8050c2.jpg\" width=\"600\" height=\"450\" alt=\"Across the valley\" /></p>\n",
+				"content_text": "<p>📷 Across the Irvine valley.</p>\n\n<p><img src=\"uploads/2023/165d8050c2.jpg\" alt=\"Across the valley\" /></p>\n",
 				"date_published": "2023-05-30T19:51:35-07:00",
 				"url": "https://jimmitchell.blog/2023/05/30/across-the-irvine-valley/",
 				"tags": ["Photos"]
@@ -4141,7 +4177,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/29/remembering-those-who-gave-it/",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Remembering those who gave it all for our freedom.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/b66829c03e.jpg\" width=\"600\" height=\"450\" alt=\"Memorial Day remembrance ceremony.\"></p>\n",
+				"content_text": "<p>📷 Remembering those who gave it all for our freedom.</p>\n\n<p><img src=\"uploads/2023/b66829c03e.jpg\" alt=\"Memorial Day remembrance ceremony.\"></p>\n",
 				"date_published": "2023-05-29T12:53:28-07:00",
 				"url": "https://jimmitchell.blog/2023/05/29/remembering-those-who-gave-it/",
 				"tags": ["Photos"]
@@ -4150,7 +4186,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/29/hb-northside-lineup/",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 HB Northside Lineup.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/05b2ec4cb1.jpg\" width=\"600\" height=\"450\" alt=\"HB Northside Surf Lineup\"></p>\n",
+				"content_text": "<p>📷 HB Northside Lineup.</p>\n\n<p><img src=\"uploads/2023/05b2ec4cb1.jpg\" alt=\"HB Northside Surf Lineup\"></p>\n",
 				"date_published": "2023-05-29T11:57:54-07:00",
 				"url": "https://jimmitchell.blog/2023/05/29/hb-northside-lineup/",
 				"tags": ["Photos"]
@@ -4168,7 +4204,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/28/blooming-cactus/",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Blooming cactus.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/9fcbf18467.jpg\" width=\"600\" height=\"450\" alt=\"Blooming cactus\"></p>\n",
+				"content_text": "<p>📷 Blooming cactus.</p>\n\n<p><img src=\"uploads/2023/9fcbf18467.jpg\" alt=\"Blooming cactus\"></p>\n",
 				"date_published": "2023-05-28T12:53:39-07:00",
 				"url": "https://jimmitchell.blog/2023/05/28/blooming-cactus/",
 				"tags": ["Photos"]
