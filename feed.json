@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2025/04/24/on-laws-of-nature-excel/",
+				"title": "The Law of Enterprise Software",
+				"content_html": "<p><a href=\"https://nitor.com/en/articles/on-laws-of-nature-excel-and-word\"><strong>On Laws of Nature, Excel and Word - Nitor</strong></a></p>\n<blockquote>\n<p>Every piece of enterprise software eventually evolves into either reading or writing Excel files.</p>\n</blockquote>\n<p>In my nearly 30 years of enterprise software development, I can confirm this law has held true in 100% of the projects I’ve ever worked on.</p>",
+				"content_text": "[**On Laws of Nature, Excel and Word - Nitor**](https://nitor.com/en/articles/on-laws-of-nature-excel-and-word)\n\n> Every piece of enterprise software eventually evolves into either reading or writing Excel files.<!--more-->\n\nIn my nearly 30 years of enterprise software development, I can confirm this law has held true in 100% of the projects I’ve ever worked on.\n",
+				"date_published": "2025-04-24T09:03:07-07:00",
+				"url": "https://jimmitchell.blog/2025/04/24/on-laws-of-nature-excel/",
+				"tags": ["Linked"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2025/04/21/maybe-its-just-me-but/",
 				
 				"content_html": "<p>Maybe it’s just me, but the Micro.blog web servers seem to be a bit snappier lately. I’m liking it…</p>\n",
@@ -45,8 +54,8 @@
 			{
 				"id": "http://jimmitchell.micro.blog/2025/04/15/my-youngest-turns-today-as/",
 				
-				"content_html": "<p>My youngest turns 28 today. As each year passes, it gets harder and harder to fathom the actual number.</p>\n",
-				"content_text": "My youngest turns 28 today. As each year passes, it gets harder and harder to fathom the actual number.\n",
+				"content_html": "<p>My youngest turns 28 today. <a href=\"/2024/04/15/im-finding-it-hard-to/\">As each year passes</a>, it gets harder and harder to fathom the actual number.</p>\n",
+				"content_text": "My youngest turns 28 today. [As each year passes](/2024/04/15/im-finding-it-hard-to/), it gets harder and harder to fathom the actual number.\n",
 				"date_published": "2025-04-15T05:38:20-07:00",
 				"url": "https://jimmitchell.blog/2025/04/15/my-youngest-turns-today-as/",
 				"tags": ["Thoughts"]
@@ -1039,7 +1048,7 @@
 				"content_text": "**[How to Respect the American Flag - National Flag Foundation](https://nationalflagfoundation.org/etiquette/how-to-respect-the-american-flag/)**\n\n> The American Flag is a representation of our country, our people, and our devotion to our nation. Respecting the American Flag and the principles that it symbolizes requires us to treat it with a high level of care at all times. The United States Flag Code sets forth key guidelines for properly handling the American Flag.<!--more-->\n\nThere are a lot of self-proclaimed \"patriots\" out there who need to familiarize themselves with these rules. I've knocked on the doors of strangers I've seen flying the American flag wrong more than once.\n",
 				"date_published": "2024-11-20T19:59:50-07:00",
 				"url": "https://jimmitchell.blog/2024/11/20/showing-the-american-flag-respect/",
-				"tags": ["Links"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/11/19/i-really-like-ranchero-softwares/",
@@ -1480,7 +1489,7 @@
 				"content_text": "[Hell Yeah or No | Derek Sivers](https://sive.rs/n)\n\n> If you feel anything less than “hell yeah!” about something, say no.<!--more-->\n\nA Derek Sivers classic...\n\nThis is something I wrestle with because I have a \"people pleaser\" personality. When someone asks something of me, I immediately feel like I have to do it to make them happy, even when my gut screams at me it's not a good idea.\n\nThe struggle is real, people.\n",
 				"date_published": "2024-10-18T07:37:13-07:00",
 				"url": "https://jimmitchell.blog/2024/10/18/let-your-yes-be-hell/",
-				"tags": ["Links"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/10/18/i-added-my-micromasonry-plugin/",
@@ -1498,7 +1507,7 @@
 				"content_text": "[Employees Describe an Environment of Paranoia and Fear Inside Automattic Over WordPress Chaos](https://www.404media.co/automattic-buyout-offer-wordpress-matt-mullenweg/)\n\n> “We were unaware that Matt redirected sign-up emails until current Automattic employees contacted our support team,” a spokesperson for Blind told me, adding that they’d “never seen a CEO or executive try to limit their employees from signing up for Blind by redirecting emails.”<!--more-->\n\nHaving Slack access, as do all WordPress.org plugin and theme authors, I can confirm community moral is in decline. Many developers have been banned from Slack for their dissension.\n\nRelated: Here's an interesting read I came across this morning in three parts. Having interviewed with Automattic once myself nearly 15 years ago, I can confirm the interview process was somewhat lacking even back then.\n\n- [My strange experiences with Automattic: Part 1](https://aldavigdis.dev/2023/08/18/my-strange-experiences-with-automattic-part-1/)\n- [My strange experiences with Automattic: Part 2](https://aldavigdis.dev/2023/08/25/my-strange-experiences-with-automattic-part-2/)\n- [My strange experiences with Automattic: Part 3](https://aldavigdis.dev/2023/08/25/my-strange-experiences-with-automattic-part-3/)\n\nThe whole drama is like a freeway pileup I just can't look away from...\n",
 				"date_published": "2024-10-17T15:56:54-07:00",
 				"url": "https://jimmitchell.blog/2024/10/17/still-more-wordpress-drama/",
-				"tags": ["Links"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/10/17/for-reasons-unknown-to-me/",
@@ -1534,7 +1543,7 @@
 				"content_text": "[The deep-sea 'emergency service' that keeps the internet running](https://www.bbc.com/future/article/20241014-the-deep-sea-emergency-service-that-keeps-the-internet-running)\n\n> Ninety-nine percent of the world's digital communications rely on subsea cables. When they break, it could spell disaster for a whole country's internet. How do you fix a fault at the bottom of the ocean?<!--more-->\n\nMost people don't realize just what it takes to keep global communications running. This is a fascinating read about what goes into to repairing and maintaining the 870,000 miles of undersea cables so Granny can post cute cat memes on Facebook uninterrupted.\n",
 				"date_published": "2024-10-15T04:54:31-07:00",
 				"url": "https://jimmitchell.blog/2024/10/15/unsung-heros-of-the-deep/",
-				"tags": ["Links"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/10/14/textonly-minimalist-news-sites/",
@@ -1543,7 +1552,7 @@
 				"content_text": "[A List Of Text-Only & Minimalist News Sites - GreyCoder](https://greycoder.com/a-list-of-text-only-new-sites/)\n\n> Text-only websites are quite useful, especially today, because web pages are increasingly filled with ads, videos, and bandwidth-heavy content.<!--more-->\n\nThis may have been posted elsewhere not too long ago, but I'm posting here for my own benefit.\n",
 				"date_published": "2024-10-14T13:14:30-07:00",
 				"url": "https://jimmitchell.blog/2024/10/14/textonly-minimalist-news-sites/",
-				"tags": ["Links"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/10/14/even-more-wordpress-drama/",
@@ -1552,7 +1561,7 @@
 				"content_text": "[WordPress.org’s latest move involves taking control of a WP Engine plugin - The Verge](https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine)\n\n> It’s not clear what security problem Mullenweg is referring to in the post. He writes that he’s “invoking point 18 of the plugin directory guidelines,” in which the WordPress team reserves several rights, including removing a plugin, or changing it “without developer consent.” Mullenweg explains that the move has to do with WP Engine’s recently-filed lawsuit against him and Automattic.<!--more-->\n\nTo me, Mullenweg is totally abusing his power as the \"sole owner\" of WordPress.org here, and (as others point out) has forced a hostile takeover of the work of other developers. If he can do it for one, he can do it for all. I want no part of this kind of \"open source\" drama. It was the final straw in me abandoning the WordPress platform completely.\n\nThough I have a couple of plugins of my own in the repository, I'll only be maintaining them for security reasons. I considered pulling them altogether, but I don't want to leave any users who may be using them stranded.\n",
 				"date_published": "2024-10-14T08:14:58-07:00",
 				"url": "https://jimmitchell.blog/2024/10/14/even-more-wordpress-drama/",
-				"tags": ["Links"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/10/14/i-shared-this-nugget-a/",
@@ -1633,7 +1642,7 @@
 				"content_text": "[Soft-Wrap Text in BBEdit - Uncorrected](https://uncorrected.net/soft-wrap-text-in-bbedit/)\n\n> An oldie but goodie from John Gruber that I just discovered while looking for ways to soft-wrap text in BBEdit:<!--more-->\n\nThis is a handy AppleScript. I don’t like to soft wrap my text in BBEdit by default, but always seem to end up wrapping it anyway. I launch this using [Fastscripts](https://redsweater.com/fastscripts) by [Daniel Jalkut](https://mastodon.social/@danielpunkass) with just a keystroke.\n\n```applescript\ntell application \"BBEdit\"\n    tell window 1\n        if not (soft wrap text) then\n            set soft wrap text to true\n            set soft wrap mode to page guide\n            set show page guide to true\n        else if (soft wrap mode is page guide) then\n            set soft wrap mode to window width\n            set show page guide to false\n        else\n            set soft wrap text to false\n        end if\n    end tell\nend tell\n```\n",
 				"date_published": "2024-10-11T08:41:47-07:00",
 				"url": "https://jimmitchell.blog/2024/10/11/a-useful-bbedit-applescript/",
-				"tags": ["Links","Code"]
+				"tags": ["Linked","Code"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/10/11/and-just-like-that-im/",
@@ -1768,7 +1777,7 @@
 				"content_text": "[Apple’s rumored Mac mini redesign may ditch the USB-A port - The Verge](https://www.theverge.com/2024/9/1/24233471/apple-m4-mac-mini-redesign-no-usb-a-ports)\n\n> Is it time to say goodbye to USB-A? Maybe. Probably. But no matter how you feel about that, it’s absolutely time something new happened with the Mac Mini, the longest-in-the-tooth Apple computer design.<!--more-->\n\nWe portable users have been living with dongles forever. I would agree it's time for USB-A to be sunset on the Mac mini, especially if the form factor is about the size of an Apple TV device.\n",
 				"date_published": "2024-09-03T12:22:07-07:00",
 				"url": "https://jimmitchell.blog/2024/09/03/apple-ditching-usba-on-the/",
-				"tags": ["Links"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/09/03/i-managed-to-wander-my/",
@@ -2731,7 +2740,7 @@
 				"content_text": "[Google to delete search data of millions who used 'incognito' mode : NPR](https://www.npr.org/2024/04/01/1242019127/google-incognito-mode-settlement-search-history)\n\n> For years, Google simply informed users of Chrome's internet browser that \"you've gone Incognito\" and \"now you can browse privately,\" when the supposedly untraceable browsing option was turned on — without saying what bits of data the company has been harvesting.<!--more-->\n\nOne of the many reasons I've switched to Safari for personal browsing...\n",
 				"date_published": "2024-04-03T05:33:04-07:00",
 				"url": "https://jimmitchell.blog/2024/04/03/evil-is-as-evil-does/",
-				"tags": ["Links"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/03/day-card-mbapr-val/",
@@ -4159,7 +4168,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/30/across-the-irvine-valley/",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Across the Irvine valley.</p>\n\n<p><img src=\"uploads/2023/165d8050c2.jpg\" alt=\"Across the valley\" /></p>\n",
+				"content_text": "<p>📷 Across the Irvine valley.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/165d8050c2.jpg\" alt=\"Across the valley\" /></p>\n",
 				"date_published": "2023-05-30T19:51:35-07:00",
 				"url": "https://jimmitchell.blog/2023/05/30/across-the-irvine-valley/",
 				"tags": ["Photos"]
@@ -4177,7 +4186,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/29/remembering-those-who-gave-it/",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Remembering those who gave it all for our freedom.</p>\n\n<p><img src=\"uploads/2023/b66829c03e.jpg\" alt=\"Memorial Day remembrance ceremony.\"></p>\n",
+				"content_text": "<p>📷 Remembering those who gave it all for our freedom.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/b66829c03e.jpg\" alt=\"Memorial Day remembrance ceremony.\"></p>\n",
 				"date_published": "2023-05-29T12:53:28-07:00",
 				"url": "https://jimmitchell.blog/2023/05/29/remembering-those-who-gave-it/",
 				"tags": ["Photos"]
