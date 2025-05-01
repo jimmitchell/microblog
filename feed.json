@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2025/04/28/i-had-to-zap-the/",
+				
+				"content_html": "<p>I had to zap the PRAM on my work laptop this morning to get it to boot properly. I haven’t had to do that to a Mac in years, maybe even decade, but my fingers remembered what to do without giving it any thought…</p>\n",
+				"content_text": "I had to zap the PRAM on my work laptop this morning to get it to boot properly. I haven’t had to do that to a Mac in years, maybe even decade, but my fingers remembered what to do without giving it any thought…\n",
+				"date_published": "2025-04-28T07:24:11-07:00",
+				"url": "https://jimmitchell.blog/2025/04/28/i-had-to-zap-the/",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/04/26/for-those-who-may-not/",
+				
+				"content_html": "<p>For those who may not have seen it, <strong>mnml</strong> <a href=\"https://mnml.micro.blog/2025/04/26/mnml-v-released/\">v2.4.4</a> released&hellip;</p>\n",
+				"content_text": "For those who may not have seen it, **mnml** [v2.4.4](https://mnml.micro.blog/2025/04/26/mnml-v-released/) released...\n",
+				"date_published": "2025-04-26T11:33:00-07:00",
+				"url": "https://jimmitchell.blog/2025/04/26/for-those-who-may-not/",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2025/04/24/on-laws-of-nature-excel/",
 				"title": "The Law of Enterprise Software",
 				"content_html": "<p><a href=\"https://nitor.com/en/articles/on-laws-of-nature-excel-and-word\"><strong>On Laws of Nature, Excel and Word - Nitor</strong></a></p>\n<blockquote>\n<p>Every piece of enterprise software eventually evolves into either reading or writing Excel files.</p>\n</blockquote>\n<p>In my nearly 30 years of enterprise software development, I can confirm this law has held true in 100% of the projects I’ve ever worked on.</p>",
@@ -4195,7 +4213,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/29/hb-northside-lineup/",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 HB Northside Lineup.</p>\n\n<p><img src=\"uploads/2023/05b2ec4cb1.jpg\" alt=\"HB Northside Surf Lineup\"></p>\n",
+				"content_text": "<p>📷 HB Northside Lineup.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/05b2ec4cb1.jpg\" alt=\"HB Northside Surf Lineup\"></p>\n",
 				"date_published": "2023-05-29T11:57:54-07:00",
 				"url": "https://jimmitchell.blog/2023/05/29/hb-northside-lineup/",
 				"tags": ["Photos"]
@@ -4213,7 +4231,7 @@
 				"id": "http://jimmitchell.micro.blog/2023/05/28/blooming-cactus/",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>📷 Blooming cactus.</p>\n\n<p><img src=\"uploads/2023/9fcbf18467.jpg\" alt=\"Blooming cactus\"></p>\n",
+				"content_text": "<p>📷 Blooming cactus.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/9fcbf18467.jpg\" alt=\"Blooming cactus\"></p>\n",
 				"date_published": "2023-05-28T12:53:39-07:00",
 				"url": "https://jimmitchell.blog/2023/05/28/blooming-cactus/",
 				"tags": ["Photos"]
