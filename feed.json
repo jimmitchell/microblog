@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2025/05/05/while-trying-to-catch-up/",
+				
+				"content_html": "<p>While trying to catch up some lost time from the day, I thought I could enable a seemingly innocuous environment setting without testing it properly in a sandbox first.</p>\n<p>What do you think happened?</p>\n<p>You&rsquo;re right! Shit broke and I can&rsquo;t roll it back.</p>\n<p>Yay me!</p>\n",
+				"content_text": "While trying to catch up some lost time from the day, I thought I could enable a seemingly innocuous environment setting without testing it properly in a sandbox first.\n\nWhat do you think happened?\n\nYou're right! Shit broke and I can't roll it back.\n\nYay me!\n",
+				"date_published": "2025-05-05T15:57:53-07:00",
+				"url": "https://jimmitchell.blog/2025/05/05/while-trying-to-catch-up/",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/05/05/waiting-for-sequoia-updates-to/",
+				
+				"content_html": "<p>Waiting for Sequoia updates to complete on the Intel work laptop. 2 hours and counting so far… If it were Apple silicon, I’d already be back working. 😑</p>\n",
+				"content_text": "Waiting for Sequoia updates to complete on the Intel work laptop. 2 hours and counting so far… If it were Apple silicon, I’d already be back working. 😑\n",
+				"date_published": "2025-05-05T13:35:16-07:00",
+				"url": "https://jimmitchell.blog/2025/05/05/waiting-for-sequoia-updates-to/",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/05/04/my-wife-and-i-had/",
+				
+				"content_html": "<p>My wife and I had a fantastic lazy weekend in Palm Springs with no agendas or timelines other than laying by the pool and dinner at our favorite Mexican restaurant. Our time is over now and it’s back to the real world…</p>\n",
+				"content_text": "My wife and I had a fantastic lazy weekend in Palm Springs with no agendas or timelines other than laying by the pool and dinner at our favorite Mexican restaurant. Our time is over now and it’s back to the real world…\n",
+				"date_published": "2025-05-04T08:05:10-07:00",
+				"url": "https://jimmitchell.blog/2025/05/04/my-wife-and-i-had/",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/05/03/early-morning-coffee-and-a/",
+				
+				"content_html": "<p>📷 Early morning coffee with a view.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 Early morning coffee with a view.\n\n<img src=\"uploads/2025/6890a279ee.jpg\" alt=\"A desert landscape features rocky mountains, sparse greenery, and a clear blue sky.\">\n",
+				"date_published": "2025-05-03T07:47:28-07:00",
+				"url": "https://jimmitchell.blog/2025/05/03/early-morning-coffee-and-a/",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/05/02/let-this-be-a-lesson/",
+				
+				"content_html": "<p>Let this be a lesson, kids… Always double check the QA work of someone else. RV backup camera was NOT tested properly and still needs to be worked on. No pickup for Breezie happening today… 🤬</p>\n",
+				"content_text": "Let this be a lesson, kids… Always double check the QA work of someone else. RV backup camera was NOT tested properly and still needs to be worked on. No pickup for Breezie happening today… 🤬\n",
+				"date_published": "2025-05-02T09:35:54-07:00",
+				"url": "https://jimmitchell.blog/2025/05/02/let-this-be-a-lesson/",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/05/02/we-get-our-rv-back/",
+				
+				"content_html": "<p>We get our RV back from the shop today. 🎉 It only took four weeks to get fixed&ndash;which is actually pretty good. Thankfully, the service contract we purchased covers the cost of it all. After I bring it home, we&rsquo;re headed to Palm Springs for a mini-vacation weekend. ☀️😎🍹</p>\n",
+				"content_text": "We get our RV back from the shop today. 🎉 It only took four weeks to get fixed--which is actually pretty good. Thankfully, the service contract we purchased covers the cost of it all. After I bring it home, we're headed to Palm Springs for a mini-vacation weekend. ☀️😎🍹\n",
+				"date_published": "2025-05-02T06:51:18-07:00",
+				"url": "https://jimmitchell.blog/2025/05/02/we-get-our-rv-back/",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/05/02/i-had-the-strangest-dream/",
+				
+				"content_html": "<p>I had the strangest dream&hellip; <a href=\"https://micro.blog/manton\">@manton</a> showed up at my house with his pet kangaroo because a post I published somehow broke Micro.blog. After debugging and fixing it together, we watched family videos of my kids from 30 years ago, watched the sun set, and then he took pictures to remember the visit.</p>\n",
+				"content_text": "I had the strangest dream... [@manton](https://micro.blog/manton) showed up at my house with his pet kangaroo because a post I published somehow broke Micro.blog. After debugging and fixing it together, we watched family videos of my kids from 30 years ago, watched the sun set, and then he took pictures to remember the visit.\n",
+				"date_published": "2025-05-02T06:39:23-07:00",
+				"url": "https://jimmitchell.blog/2025/05/02/i-had-the-strangest-dream/",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2025/05/01/i-had-the-best-health/",
+				
+				"content_html": "<p>I had the best health insurance experience yesterday! While scheduling some costly tests, three incredibly friendly representatives went above and beyond to assist me. I barely had to lift a finger. This was not the American healthcare system I&rsquo;m used to!</p>\n",
+				"content_text": "I had the best health insurance experience yesterday! While scheduling some costly tests, three incredibly friendly representatives went above and beyond to assist me. I barely had to lift a finger. This was not the American healthcare system I'm used to!\n",
+				"date_published": "2025-05-01T13:00:46-07:00",
+				"url": "https://jimmitchell.blog/2025/05/01/i-had-the-best-health/",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2025/04/28/i-had-to-zap-the/",
 				
 				"content_html": "<p>I had to zap the PRAM on my work laptop this morning to get it to boot properly. I haven’t had to do that to a Mac in years, maybe even decade, but my fingers remembered what to do without giving it any thought…</p>\n",
@@ -1503,8 +1575,8 @@
 			{
 				"id": "http://jimmitchell.micro.blog/2024/10/18/let-your-yes-be-hell/",
 				"title": "Let Your Yes Be \"Hell Yeah!\" and Your No, No",
-				"content_html": "<p><a href=\"https://sive.rs/n\">Hell Yeah or No | Derek Sivers</a></p>\n<blockquote>\n<p>If you feel anything less than “hell yeah!” about something, say no.</p>\n</blockquote>\n<p>A Derek Sivers classic&hellip;</p>\n<p>This is something I wrestle with because I have a &ldquo;people pleaser&rdquo; personality. When someone asks something of me, I immediately feel like I have to do it to make them happy, even when my gut screams at me it&rsquo;s not a good idea.</p>\n<p>The struggle is real, people.</p>",
-				"content_text": "[Hell Yeah or No | Derek Sivers](https://sive.rs/n)\n\n> If you feel anything less than “hell yeah!” about something, say no.<!--more-->\n\nA Derek Sivers classic...\n\nThis is something I wrestle with because I have a \"people pleaser\" personality. When someone asks something of me, I immediately feel like I have to do it to make them happy, even when my gut screams at me it's not a good idea.\n\nThe struggle is real, people.\n",
+				"content_html": "<p><strong><a href=\"https://sive.rs/n\">Hell Yeah or No | Derek Sivers</a></strong></p>\n<blockquote>\n<p>If you feel anything less than “hell yeah!” about something, say no.</p>\n</blockquote>\n<p>A Derek Sivers classic&hellip;</p>\n<p>This is something I wrestle with because I have a &ldquo;people pleaser&rdquo; personality. When someone asks something of me, I immediately feel like I have to do it to make them happy, even when my gut screams at me it&rsquo;s not a good idea.</p>\n<p>The struggle is real, people.</p>",
+				"content_text": "**[Hell Yeah or No | Derek Sivers](https://sive.rs/n)**\n\n> If you feel anything less than “hell yeah!” about something, say no.<!--more-->\n\nA Derek Sivers classic...\n\nThis is something I wrestle with because I have a \"people pleaser\" personality. When someone asks something of me, I immediately feel like I have to do it to make them happy, even when my gut screams at me it's not a good idea.\n\nThe struggle is real, people.\n",
 				"date_published": "2024-10-18T07:37:13-07:00",
 				"url": "https://jimmitchell.blog/2024/10/18/let-your-yes-be-hell/",
 				"tags": ["Linked"]
