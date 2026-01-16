@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://jimmitchell.micro.blog/2026/01/16/a-dry-spell/",
+				"title": "A Dry Spell",
+				"content_html": "<p>I learned long ago that life is a series of ups and downs. There will be good times when things flow without effort. And there are times when no matter how hard you try, it feels as if you&rsquo;re sliding backwards down a muddy hill with each step.</p>\n<p>I&rsquo;m in one of those muddy hill valleys right now. It&rsquo;s a time when nothing excites me and the creative juices won&rsquo;t flow no matter how hard I try to make them. I feel as if I&rsquo;m plodding along, one day after another and getting nowhere.</p>\n<p>To put it simply, I&rsquo;m bored with life right now.</p>\n<p>This is an exciting place to be, and I look forward to seasons like these. I know my mind is searching for something new to learn from. I&rsquo;m bored with the status quo and I&rsquo;m subconsciously looking for the next challenge. These have always been the times I&rsquo;ve grown the most.</p>\n<p>Until I land on it, I can only keep putting one muddy boot in front of the other and climb the hill, all the while keeping an eye out for the new thing that sparks passion.</p>\n<p>Now that I&rsquo;ve recognized the valley, the something is right around the corner.</p>\n",
+				"content_text": "I learned long ago that life is a series of ups and downs. There will be good times when things flow without effort. And there are times when no matter how hard you try, it feels as if you're sliding backwards down a muddy hill with each step.\n\nI'm in one of those muddy hill valleys right now. It's a time when nothing excites me and the creative juices won't flow no matter how hard I try to make them. I feel as if I'm plodding along, one day after another and getting nowhere.\n\nTo put it simply, I'm bored with life right now.\n\nThis is an exciting place to be, and I look forward to seasons like these. I know my mind is searching for something new to learn from. I'm bored with the status quo and I'm subconsciously looking for the next challenge. These have always been the times I've grown the most.\n\nUntil I land on it, I can only keep putting one muddy boot in front of the other and climb the hill, all the while keeping an eye out for the new thing that sparks passion.\n\nNow that I've recognized the valley, the something is right around the corner.\n",
+				"date_published": "2026-01-16T07:48:23-08:00",
+				"url": "https://jimmitchell.org/2026/01/16/a-dry-spell/",
+				"tags": ["Posts"]
+			},
+			{
+				"id": "http://jimmitchell.micro.blog/2026/01/15/ive-spent-some-time-away/",
+				
+				"content_html": "<p>I spent some time away from Micro.blog, intentionally not viewing my own site. I did today and realized that <strong>mnml</strong> actually ended up being a pretty good looking theme&hellip;</p>\n",
+				"content_text": "I spent some time away from Micro.blog, intentionally not viewing my own site. I did today and realized that **mnml** actually ended up being a pretty good looking theme...\n",
+				"date_published": "2026-01-15T07:42:44-08:00",
+				"url": "https://jimmitchell.org/2026/01/15/ive-spent-some-time-away/",
+				"tags": ["Thoughts"]
+			},
+			{
 				"id": "http://jimmitchell.micro.blog/2026/01/02/ive-been-considering-making-a/",
 				
 				"content_html": "<p>I&rsquo;ve been considering making a move from 1Password to a Bitwarden Enterprise subscription. Having been a 1P user for a <em>very</em> long time, I&rsquo;m hesitant about making a change, but would like to save the $18 a year. Someone talk me off the ledge &ndash; one way or the other&hellip;</p>\n",
@@ -22,7 +40,7 @@
 				"content_text": "[More than 20% of YouTube's feed is now \"AI slop,\" report finds | TechSpot](https://www.techspot.com/news/110735-over-21-youtube-now-ai-slop-report.html)\n\n> Not only are more than half the articles on the web created by AI, but over 21% of YouTube videos being shown to new users is \"AI Slop.\" That's according to a new report, which also found that the US is in third place when it comes to consumption of these low-quality generated videos.\n\nI am not surprised by this. As a long-time YouTube viewer I’m seeing a good amount of AI slop myself. But this is what worries me most about the rise of AI; people and/or companies wanting to make a quick buck with _the least amount of effort possible_ are going to increasingly generate low-quality content with AI-based tools…\n\n> It's estimated that the Three Minutes Wisdom channel, which accounts for almost a quarter of the country's view count, earns around $4 million annually from ad income.\n\nThat's easy money...\n\nI believe this will spill over into software development. I’m confident it already has. Companies that care more about the bottom line than they do bug-free applications will hire inexperienced developers to create enterprise apps using AI tools, leading to major security flaws.\n\nI think we’ll start seeing more reports of data breaches as novice “developers” increasingly copy and paste AI-generated code without fully understanding what it does, much less vetting it for accuracy.\n\nLazy is as lazy does, and some developers I've known over the years have been _very_ lazy...\n",
 				"date_published": "2025-12-29T15:54:04-08:00",
 				"url": "https://jimmitchell.org/2025/12/29/ai-slop-is-easy-money/",
-				"tags": ["Posts","Linked"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/12/29/usually-ill-leave-the-outside/",
@@ -148,7 +166,7 @@
 				"content_text": "Another perfect SoCal Thanksgiving day.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/64e55b9dc5.jpg\" alt=\"A sandy beach stretches out towards a distant pier extending over the ocean, with a few people relaxing near the water under a partly cloudy sky.\">\n",
 				"date_published": "2025-11-27T12:50:05-08:00",
 				"url": "https://jimmitchell.org/2025/11/27/another-perfect-socal-thanksgiving-day/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/11/27/today-is-the-first-day/",
@@ -220,7 +238,7 @@
 				"content_text": "## [Save 50 percent on a Walmart Plus membership until December 2nd | The Verge](https://www.theverge.com/gadgets/817799/walmart-plus-50-percent-off-fall-deal-sale)\n\n> If you have a mountain of holiday shopping to tackle over the next few weeks, Walmart is offering a great deal on Walmart Plus. New subscribers can snag an annual Walmart Plus membership for half off through December 2nd.\n\nWe've had a Walmart+ membership for just a little under a year and saved more than $270 so far. I've been able to find just about anything I would have on that other big site named for the river. All in all, I'd say it's been worth the cost.\n\n_**Disclaimer**: I am a VIZIO employee, which is now owned by Walmart. I do not get a discount on Walmart+ membership as a perk. My wife and I still agree it's worth what it costs us._\n",
 				"date_published": "2025-11-11T09:19:27-08:00",
 				"url": "https://jimmitchell.org/2025/11/11/walmart-membership-is-half-off/",
-				"tags": ["Posts","Linked"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/11/11/ive-begun-reading-the-next/",
@@ -238,7 +256,7 @@
 				"content_text": "## [Introducing iPhone Pocket: a beautiful way to wear and carry iPhone - Apple](https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/)\n\n> iPhone Pocket is a limited-edition release. The short strap design is available in lemon, mandarin, purple, pink, peacock, sapphire, cinnamon, and black; the long strap design is available in sapphire, cinnamon, and black. iPhone Pocket in the short strap design retails at $149.95 (U.S.), and the long strap design at $229.95 (U.S.).\n\nI understand limited-edition accessories and all, but seriously, $150 to $230 for a fancy knitted sock with a name attached to it?\n\nHmm... I don't think so.\n",
 				"date_published": "2025-11-11T07:31:34-08:00",
 				"url": "https://jimmitchell.org/2025/11/11/just-a-fancy-knitted-sock/",
-				"tags": ["Posts","Linked"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/11/05/one-of-the-many-paradoxes/",
@@ -400,7 +418,7 @@
 				"content_text": "## [LinkedIn will use your data to train AI – how to opt out | Proton](https://proton.me/blog/linkedin-ai-training)\n\n> On November 3, LinkedIn will begin sharing your data with Microsoft and its affiliates for AI training. You’re opted in by default, but there’s still time to do something about it.\n\nAs I'm gearing up to return to work, I'm catching up on my professional networks, including opting out of AI related stuff where ever possible.\n\nA setting like this should **never** be opt-in by default...\n",
 				"date_published": "2025-09-29T06:59:19-08:00",
 				"url": "https://jimmitchell.org/2025/09/29/linkedin-will-use-your-data/",
-				"tags": ["Posts","Linked"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/09/27/as-a-psa-for-microblog/",
@@ -598,7 +616,7 @@
 				"content_text": "## [Paying for the indie/small-web | Forking Mad+](https://forkingmad.blog/paying-for-the-small-web/)\n\n> Just because you don't hand over any of your hard-earned cash, doesn't technically mean it is free. People have given a huge amount of their time to make your life more pleasant.\n\nThere are two kinds of people on the internet; those who appreciate the efforts of indie bloggers & developers and choose to support them, and those who feel because it's offered \"free\" it's theirs for the taking without giving any credit whatsoever.\n\nI choose to be the former.\n",
 				"date_published": "2025-09-07T09:08:57-08:00",
 				"url": "https://jimmitchell.org/2025/09/07/theres-free-and-then-theres/",
-				"tags": ["Posts","Linked"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/09/07/back-in-january-i-decided/",
@@ -643,7 +661,7 @@
 				"content_text": "## [an aroma that speaks of the changing seasons - things](https://thingstoclick.com/an-aroma-that-speaks-of-the-changing-seasons)\n\n> “You know the smell. It’s there every time the first fat raindrops hit the ground—a distinctive, earthy scent that suffuses the air, an aroma that speaks of the changing seasons and promises relief from stifling summer heat. There’s a name for the smell of rain, too: “petrichor,” a poetic portmanteau of the Greek words “petros” (stone) and “ichor” (the blood of the gods in Greek mythology).”\n\nI never knew there was a word for the smell of fresh rain on the ground. When it happens, I stop, close my eyes, take a deep inhale, and let the fragrance of nature move my soul.\n",
 				"date_published": "2025-09-05T06:19:12-08:00",
 				"url": "https://jimmitchell.org/2025/09/05/theres-a-word-for-that/",
-				"tags": ["Posts","Linked"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/09/04/coming-to-terms-with-age/",
@@ -658,10 +676,10 @@
 				"id": "http://jimmitchell.micro.blog/2025/09/04/talbert-nature-preserve/",
 				"title": "Talbert Nature Preserve",
 				"content_html": "<p>My first post-CABG hike is in the books.</p>\n<p>It wasn&rsquo;t a killer, but I&rsquo;ve got to start somewhere. It felt good to put one foot in front of another in dirt again. I even made it up the ten flights of stairs without crapping out.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "My first post-CABG hike is in the books.\n\nIt wasn't a killer, but I've got to start somewhere. It felt good to put one foot in front of another in dirt again. I even made it up the ten flights of stairs without crapping out.\n\n<img src=\"uploads/2025/img-6283.jpg\" alt=\"A wooden staircase with metal railings leads down through a natural, green landscape.\" title=\"IMG_6283.jpeg\" />\n\n<p class=\"hike\">\n<i class=\"ph ph-map-pin\"></i> <a href=\"https://maps.apple.com/?ll=33.662459,-117.938620\">Talbert Nature Preserve</a><br/>\n<i class=\"ph ph-path\"></i> 3.46 miles<br/>\n<i class=\"ph ph-footprints\"></i> 20'35\"/mile<br/>\n<i class=\"ph ph-mountains\"></i> 125' elevation<br/>\n</p>\n",
+				"content_text": "My first post-CABG hike is in the books.\n\nIt wasn't a killer, but I've got to start somewhere. It felt good to put one foot in front of another in dirt again. I even made it up the ten flights of stairs without crapping out.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/img-6283.jpg\" alt=\"A wooden staircase with metal railings leads down through a natural, green landscape.\" title=\"IMG_6283.jpeg\" />\n\n<p class=\"hike\">\n<i class=\"ph ph-map-pin\"></i> <a href=\"https://maps.apple.com/?ll=33.662459,-117.938620\">Talbert Nature Preserve</a><br/>\n<i class=\"ph ph-path\"></i> 3.46 miles<br/>\n<i class=\"ph ph-footprints\"></i> 20'35\"/mile<br/>\n<i class=\"ph ph-mountains\"></i> 125' elevation<br/>\n</p>\n",
 				"date_published": "2025-09-04T09:39:46-08:00",
 				"url": "https://jimmitchell.org/2025/09/04/talbert-nature-preserve/",
-				"tags": ["Photos","Posts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/09/04/rather-than-a-simple-walk/",
@@ -715,7 +733,7 @@
 				"content_text": "📷 Clouds\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/79d8a9f684.jpg\" width=\"600\" height=\"450\" alt=\"Fluffy white clouds are scattered across a vibrant blue sky.\">\n",
 				"date_published": "2025-09-01T17:53:22-08:00",
 				"url": "https://jimmitchell.org/2025/09/01/clouds/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/09/01/after-a-day-of-coding/",
@@ -742,7 +760,7 @@
 				"content_text": "📷 The beach was not as busy as we thought it would be today…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/3754f6f8aa.jpg\" width=\"600\" height=\"450\" alt=\"A crowded beach scene features numerous people enjoying the sand and sea under a clear blue sky, with colorful umbrellas scattered across the shore.\">\n",
 				"date_published": "2025-08-31T15:17:59-08:00",
 				"url": "https://jimmitchell.org/2025/08/31/the-beach-was-not-as/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/08/31/some-mnml-updates/",
@@ -787,7 +805,7 @@
 				"content_text": "## [Centering | Seth's Blog](https://seths.blog/2025/08/centering/)\n\n> The most effective way to change an organization, a company or a relationship is to identify the invisible centering forces and address them.\n\nAs I start ramping up my return to work, I'm giving deep thought to how I can better approach the challenges in front of me with a minimum of stress.\n\nA big part of that is going to be centered around asking the *right* questions in the moment instead of just reacting to them.\n",
 				"date_published": "2025-08-22T07:05:33-08:00",
 				"url": "https://jimmitchell.org/2025/08/22/getting-back-to-the-crux/",
-				"tags": ["Posts","Linked"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/08/20/in-a-weird-and-much/",
@@ -841,7 +859,7 @@
 				"content_text": "📷 After three months, it's finally beer day!\n\nFirst up, a *33 Summers West Coast IPA* at HB Brewing Company, downtown HB.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/dad41f83ca.jpg\" alt=\"A frosty pint of golden beer sits on a polished wooden bar.\">\n\nAnd then a *Neon Rainbows Hazy IPA* -- also at HB Brewing Company.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/48bc6b54fd.jpg\" alt=\"A frothy glass of beer sits on a wooden bar counter.\">\n",
 				"date_published": "2025-08-14T15:16:12-08:00",
 				"url": "https://jimmitchell.org/2025/08/15/beer-day-a-summers-west/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/08/14/drats-i-went-for-a/",
@@ -877,7 +895,7 @@
 				"content_text": "Today’s special caffeine treat… A Flat White from IKYKY! Coffee Lab in Pacific City, downtown Huntington Beach. \n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/58714bb558.jpg\" width=\"600\" height=\"600\" alt=\"A latte in a paper cup features beautiful flower-shaped latte art on a white table.\">\n",
 				"date_published": "2025-08-12T09:07:32-08:00",
 				"url": "https://jimmitchell.org/2025/08/12/todays-special-caffeine-treat-a/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/08/11/a-mnml-teaser-how-about/",
@@ -1057,7 +1075,7 @@
 				"content_text": "📷 Day 30: Solitude.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/30-solitude.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A dirt path winds through a sunlit forest with lush greenery and tall trees.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-30T07:00:00-08:00",
 				"url": "https://jimmitchell.org/2025/06/30/day-solitude-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/29/alright-yall-tomorrows-photo-challenge/",
@@ -1084,7 +1102,7 @@
 				"content_text": "📷 Day 29: Winding.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/29-winding.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A desert landscape features rocky terrain, dry vegetation, and distinctive Joshua trees under a clear blue sky.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-29T07:00:00-08:00",
 				"url": "https://jimmitchell.org/2025/06/29/day-winding-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/28/day-bridge-mbjune/",
@@ -1093,7 +1111,7 @@
 				"content_text": "📷 Day 28: Ephemeral.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/28-ephemeral.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A glowing streak of light trails across the twilight sky, resembling a rocket launch or celestial event.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-28T07:00:06-08:00",
 				"url": "https://jimmitchell.org/2025/06/28/day-bridge-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/27/i-just-spun-up-a/",
@@ -1111,7 +1129,7 @@
 				"content_text": "📷 Day 27: Collective.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/27-collective.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A large group of surfers forms a circle on the water near a sandy beach.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-27T07:00:09-08:00",
 				"url": "https://jimmitchell.org/2025/06/27/day-bridge-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/26/today-is-my-last-day/",
@@ -1129,7 +1147,7 @@
 				"content_text": "📷 Day 26: Bridge.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/26-bridge.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A long wooden bridge with a geometric metal framework spans across a dry landscape under a cloudy sky.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-26T07:00:21-08:00",
 				"url": "https://jimmitchell.org/2025/06/26/day-bridge-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/26/i-just-brewed-a-cup/",
@@ -1156,7 +1174,7 @@
 				"content_text": "📷 Day 25: Decay.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/25-decay.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A small cave entrance surrounded by dense vegetation and rocky terrain.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-25T07:00:00-08:00",
 				"url": "https://jimmitchell.org/2025/06/25/day-decay-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/24/day-bloom-mbjune/",
@@ -1165,7 +1183,7 @@
 				"content_text": "📷 Day 24: Bloom.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/24-bloom.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A delicate white and purple flower is surrounded by green and brown leaves.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-24T07:00:37-08:00",
 				"url": "https://jimmitchell.org/2025/06/24/day-bloom-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/23/day-fracture-mbjune/",
@@ -1174,7 +1192,7 @@
 				"content_text": "📷 Day 23: Fracture.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/23-fracture.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A rocky dirt path winds through a landscape of sparse bushes and vegetation.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-23T07:00:29-08:00",
 				"url": "https://jimmitchell.org/2025/06/23/day-fracture-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/22/day-hometown-mbjune/",
@@ -1183,7 +1201,7 @@
 				"content_text": "📷 Day 22: Hometown.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/22-hometown.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A crowd of people is gathered on a street lined with palm trees, engaging in an outdoor event with booths and a stage.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-22T08:20:52-08:00",
 				"url": "https://jimmitchell.org/2025/06/22/day-hometown-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/22/microblog-question-challenge/",
@@ -1201,7 +1219,7 @@
 				"content_text": "📷 Day 21: Silhouette.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/21silhouette.jpeg\" width=\"600\" height=\"462\" alt=\"Auto-generated description: A person's shadow is cast on a textured, gray surface.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-21T07:00:03-08:00",
 				"url": "https://jimmitchell.org/2025/06/21/day-silhouette-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/20/day-gather-mbjune/",
@@ -1210,7 +1228,7 @@
 				"content_text": "📷 Day 20: Gather.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/20-gather.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A large crowd at a concert captures the moment with their phones as performers play on a brightly lit stage.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-20T07:00:12-08:00",
 				"url": "https://jimmitchell.org/2025/06/20/day-gather-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/20/since-were-on-the-topic/",
@@ -1237,7 +1255,7 @@
 				"content_text": "📷 Day 19: Equal.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/19-equal.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A historical information sign about coastal defense during World War II is displayed with illustrations and text, set against a background of greenery and flowers.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-19T07:00:26-08:00",
 				"url": "https://jimmitchell.org/2025/06/19/day-equal-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/18/adding-insult-to-injury/",
@@ -1264,7 +1282,7 @@
 				"content_text": "📷 Day 18: Texture.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/18-texture.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A sandy beach surface is scattered with small seashells and pieces of driftwood.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-18T07:00:25-08:00",
 				"url": "https://jimmitchell.org/2025/06/18/day-texture-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/17/i-threw-together-a-really/",
@@ -1282,7 +1300,7 @@
 				"content_text": "📷 Day 17: Warmth.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/17-warmth.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A portable fire pit with burning flames and glowing rocks is set up outdoors at night, surrounded by parked vehicles.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-17T07:00:00-08:00",
 				"url": "https://jimmitchell.org/2025/06/17/day-warmth-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/16/day-blur-mbjune/",
@@ -1291,7 +1309,7 @@
 				"content_text": "📷 Day 16: Blur.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/16-blur.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A full moon glows behind swirling clouds at night, with palm leaves framing the scene in the upper right corner.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-16T07:00:00-08:00",
 				"url": "https://jimmitchell.org/2025/06/16/day-blur-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/15/one-final-mnml-theme-update/",
@@ -1309,7 +1327,7 @@
 				"content_text": "📷 Day 15: Tie.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/15-tie.jpeg\" width=\"600\" height=\"443\" alt=\"Auto-generated description: A pair of brown and black hiking boots with green accents is placed on a wooden floor.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-15T07:00:00-08:00",
 				"url": "https://jimmitchell.org/2025/06/15/day-tie-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/15/i-had-the-strangest-dream/",
@@ -1336,7 +1354,7 @@
 				"content_text": "📷 Day 14: Twilight.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/14-twilight.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: The photo captures a serene ocean scene at twilight, with surfers in the water and the sun setting on the horizon.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-14T07:00:43-08:00",
 				"url": "https://jimmitchell.org/2025/06/14/day-twilight-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/13/hmm-ipados-with-a-magic/",
@@ -1354,7 +1372,7 @@
 				"content_text": "📷 Day 13: Pathway.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/13-pathway.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A sunlit desert pathway is surrounded by large rocks, shrubs, and trees.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-13T07:00:34-08:00",
 				"url": "https://jimmitchell.org/2025/06/13/day-pathway-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/13/i-am-down-to-just/",
@@ -1372,7 +1390,7 @@
 				"content_text": "📷 Day 12: Hidden.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/12-hidden.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A narrow dirt path winds through tall, dense shrubbery under a cloudy sky.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-12T07:00:14-08:00",
 				"url": "https://jimmitchell.org/2025/06/12/day-hidden-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/11/the-date-is-set-for/",
@@ -1390,7 +1408,7 @@
 				"content_text": "📷 Day 11: Brick.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/11-brick.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A dimly lit brick tunnel with an exit sign leads to a brighter area in the distance.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-11T07:00:27-08:00",
 				"url": "https://jimmitchell.org/2025/06/11/day-brick-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/11/im-living-dangerously-today-and/",
@@ -1417,7 +1435,7 @@
 				"content_text": "📷 Day 10: Rail.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/10-rail.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A vintage railway car labeled Pennsylvania is parked on train tracks, surrounded by trees.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-10T07:00:19-08:00",
 				"url": "https://jimmitchell.org/2025/06/10/day-rail-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/09/something-im-struggling-with-after/",
@@ -1444,7 +1462,7 @@
 				"content_text": "📷 Day 09: Wood.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/09-wood.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: Tall trees line a rocky coastline overlooking a bright blue sea under a cloudy sky.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-09T07:00:15-08:00",
 				"url": "https://jimmitchell.org/2025/06/09/day-wood-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/08/day-travel-mbjune/",
@@ -1453,7 +1471,7 @@
 				"content_text": "📷 Day 08: Travel.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/08-travel.jpeg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A view of Alcatraz Island, featuring the historic prison buildings surrounded by clear blue waters.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-08T12:36:37-08:00",
 				"url": "https://jimmitchell.org/2025/06/08/day-travel-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/07/the-widowmaker/",
@@ -1480,7 +1498,7 @@
 				"content_text": "📷 Day 07: Switch.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/07-switch.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A large telescope is positioned inside an observatory with a domed, windowed ceiling.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-07T07:00:00-08:00",
 				"url": "https://jimmitchell.org/2025/06/07/day-switch-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/06/given-the-recent-turn-of/",
@@ -1498,7 +1516,7 @@
 				"content_text": "📷 Day 06: Contrast.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/06-contrast.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A weathered sign with the word SURF and an arrow points towards the ocean, while a smaller sign below reads NO DOGS ON BEACH on a rocky seashore.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-06T09:00:21-08:00",
 				"url": "https://jimmitchell.org/2025/06/06/day-contrast-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/05/really-bad-news-from-my/",
@@ -1516,7 +1534,7 @@
 				"content_text": "📷 Day 05: Reflection.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/05-reflection.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A turtle is swimming in a clear pond, reflecting the nearby surroundings.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-05T09:00:25-08:00",
 				"url": "https://jimmitchell.org/2025/06/05/day-reflection-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/04/day-nostalgia-mbjune/",
@@ -1525,7 +1543,7 @@
 				"content_text": "📷 Day 04: Nostalgia.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/04-nostalgia.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A vintage car with a wooden exterior is parked on a street next to a trailer, surrounded by people and other classic cars.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-04T09:00:15-08:00",
 				"url": "https://jimmitchell.org/2025/06/04/day-nostalgia-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/03/a-much-deserved-yet-delayed/",
@@ -1543,7 +1561,7 @@
 				"content_text": "📷 Day 03: Shadow.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/03-shadow.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A quiet, tree-lined road stretches ahead, flanked by lush greenery under a bright blue sky.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-03T09:00:00-08:00",
 				"url": "https://jimmitchell.org/2025/06/03/day-shadow-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/03/im-reconsidering-my-online-presence/",
@@ -1561,7 +1579,7 @@
 				"content_text": "📷 Day 02: Curve.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/02-curve.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A dirt trail winds through a hilly landscape with snow-capped mountains in the distance under a clear blue sky.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-02T10:00:00-08:00",
 				"url": "https://jimmitchell.org/2025/06/02/day-curve-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/06/01/day-tree-mbjune/",
@@ -1570,7 +1588,7 @@
 				"content_text": "📷 Day 01: Tree.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/01-tree.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A sprawling tree with thick, gnarled branches stands surrounded by lush greenery.\">\n\n[#mbjune](https://micro.blog/discover/mbjune)\n",
 				"date_published": "2025-06-01T11:00:00-08:00",
 				"url": "https://jimmitchell.org/2025/06/01/day-tree-mbjune/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/05/31/my-new-logitech-mx-master/",
@@ -1777,7 +1795,7 @@
 				"content_text": "📷 A stroll along the river--or what we call a river in SoCal anyway--at lunch, deep in thought. I almost didn’t come back.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/riverside.webp\" width=\"660\" height=\"495\" alt=\"Auto-generated description: A paved pathway is surrounded by lush green trees under a clear blue sky.\">\n",
 				"date_published": "2025-05-08T11:59:41-08:00",
 				"url": "https://jimmitchell.org/2025/05/08/a-stroll-along-the-river/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/05/08/introducing-mac-themes-garden/",
@@ -1786,7 +1804,7 @@
 				"content_text": "## [Introducing Mac Themes Garden! | damien's zone](https://damien.zone/introducing-mac-themes-garden/)\n\n> It is a website showcasing more than 3,000 (and counting) Kaleidoscope from the Classic Mac era, ready to be seen, downloaded and explored! Check it out!\n\nNostalgia corner...\n\nIf you're a Mac user from the '80s and/or '90s, you might remember [Kaleidoscope](https://en.wikipedia.org/wiki/Kaleidoscope_(software)). If memory serves me, it was installed as a system extension.\n\nI spent hours looking for the perfect theme to apply to my system setup on the Performa I had at the time.\n\nMost of all, I love the design of the [Mac Themes Garden](https://macthemes.garden) site itself. I coded a site or two myself back then that looked _really_ similar.\n",
 				"date_published": "2025-05-08T04:07:30-08:00",
 				"url": "https://jimmitchell.org/2025/05/08/introducing-mac-themes-garden/",
-				"tags": ["Posts","Linked"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/05/07/thankfully-weve-recovered-from-my/",
@@ -1831,7 +1849,7 @@
 				"content_text": "📷 Early morning coffee with a view.\n\n<figure>\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/palmsprings.webp\" width=\"660\" height=\"495\" alt=\"Auto-generated description: A rocky desert landscape with sparse vegetation and a clear blue sky.\">\n<figcaption>A beautiful early morning view from the balcony of our hotel room.</figcaption>\n</figure>\n",
 				"date_published": "2025-05-03T06:47:28-08:00",
 				"url": "https://jimmitchell.org/2025/05/03/early-morning-coffee-and-a/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/05/02/let-this-be-a-lesson/",
@@ -1894,7 +1912,7 @@
 				"content_text": "## [On Laws of Nature, Excel and Word - Nitor](https://nitor.com/en/articles/on-laws-of-nature-excel-and-word)\n\n> Every piece of enterprise software eventually evolves into either reading or writing Excel files.\n\nIn my nearly 30 years of enterprise software development, I can confirm this law has held true in 100% of the projects I’ve ever worked on.\n",
 				"date_published": "2025-04-24T08:03:07-08:00",
 				"url": "https://jimmitchell.org/2025/04/24/on-laws-of-nature-excel/",
-				"tags": ["Posts","Linked"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/04/21/maybe-its-just-me-but/",
@@ -2110,7 +2128,7 @@
 				"content_text": "📷 Shaded cactus.\n\n![Auto-generated description: A tall, green cactus stands amidst a grove of leafy trees under a clear sky.](https://cdn.uploads.micro.blog/109466/2025/image-20250316-130912-4c263f69.jpg)\n",
 				"date_published": "2025-03-16T12:09:24-08:00",
 				"url": "https://jimmitchell.org/2025/03/16/shaded-cactus/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/03/15/theres-something-about-being-in/",
@@ -2452,7 +2470,7 @@
 				"content_text": "📷 I took our 15-year-old Chihuahua to the vet for a checkup. She’s on almost as many pills as I am now. Poor old girl.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2025/b325253b75.jpg\" alt=\"A small dog with a white and brown coat is lying on a textured gray surface, looking relaxed.\">\n",
 				"date_published": "2025-01-18T10:51:42-08:00",
 				"url": "https://jimmitchell.org/2025/01/18/i-took-our-year-old/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2025/01/18/trying-out-a-guestbook-option/",
@@ -2767,7 +2785,7 @@
 				"content_text": "📷 Bombs away!\n\n![Auto-generated description: A vintage bomber aircraft with yellow engine covers is on display in an aviation museum.](https://cdn.uploads.micro.blog/109466/2024/img-6051.jpeg)\n",
 				"date_published": "2024-12-13T18:33:05-08:00",
 				"url": "https://jimmitchell.org/2024/12/13/bombs-away/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/12/13/seems-my-monitor-woes-may/",
@@ -2911,7 +2929,7 @@
 				"content_text": "## [How to Respect the American Flag - National Flag Foundation](https://nationalflagfoundation.org/etiquette/how-to-respect-the-american-flag/)\n\n> The American Flag is a representation of our country, our people, and our devotion to our nation. Respecting the American Flag and the principles that it symbolizes requires us to treat it with a high level of care at all times. The United States Flag Code sets forth key guidelines for properly handling the American Flag.\n\nThere are a lot of self-proclaimed \"patriots\" out there who need to familiarize themselves with these rules. I've knocked on the doors of strangers I've seen flying the American flag wrong more than once.\n",
 				"date_published": "2024-11-20T18:59:50-08:00",
 				"url": "https://jimmitchell.org/2024/11/20/showing-the-american-flag-respect/",
-				"tags": ["Posts","Linked"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/11/19/i-really-like-ranchero-softwares/",
@@ -3343,7 +3361,7 @@
 				"content_text": "## [Hell Yeah or No | Derek Sivers](https://sive.rs/n)\n\n> If you feel anything less than “hell yeah!” about something, say no.\n\nA Derek Sivers classic...\n\nThis is something I wrestle with because I have a \"people pleaser\" personality. When someone asks something of me, I immediately feel like I have to do it to make them happy, even when my gut screams at me it's not a good idea.\n\nThe struggle is real, people.\n",
 				"date_published": "2024-10-18T06:37:13-08:00",
 				"url": "https://jimmitchell.org/2024/10/18/let-your-yes-be-hell/",
-				"tags": ["Posts","Linked"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/10/18/i-added-my-micromasonry-plugin/",
@@ -3361,7 +3379,7 @@
 				"content_text": "## [Employees Describe an Environment of Paranoia and Fear Inside Automattic Over WordPress Chaos](https://www.404media.co/automattic-buyout-offer-wordpress-matt-mullenweg/)\n\n> “We were unaware that Matt redirected sign-up emails until current Automattic employees contacted our support team,” a spokesperson for Blind told me, adding that they’d “never seen a CEO or executive try to limit their employees from signing up for Blind by redirecting emails.”\n\nHaving Slack access, as do all WordPress.org plugin and theme authors, I can confirm community moral is in decline. Many developers have been banned from Slack for their dissension.\n\nRelated: Here's an interesting read I came across this morning in three parts. Having interviewed with Automattic once myself nearly 15 years ago, I can confirm the interview process was somewhat lacking even back then.\n\n- [My strange experiences with Automattic: Part 1](https://aldavigdis.dev/2023/08/18/my-strange-experiences-with-automattic-part-1/)\n- [My strange experiences with Automattic: Part 2](https://aldavigdis.dev/2023/08/25/my-strange-experiences-with-automattic-part-2/)\n- [My strange experiences with Automattic: Part 3](https://aldavigdis.dev/2023/08/25/my-strange-experiences-with-automattic-part-3/)\n\nThe whole drama is like a freeway pileup I just can't look away from...\n",
 				"date_published": "2024-10-17T14:56:54-08:00",
 				"url": "https://jimmitchell.org/2024/10/17/still-more-wordpress-drama/",
-				"tags": ["Posts","Linked"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/10/17/for-reasons-unknown-to-me/",
@@ -3388,7 +3406,7 @@
 				"content_text": "📷 The Hollywood sign, peeking over the hills.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/93251e31d5.jpg\" width=\"700\" height=\"525\" alt=\"Large white letters spelling 'HOLLYWOOD' are situated on a hillside with rugged terrain in the foreground.\">\n",
 				"date_published": "2024-10-15T06:34:16-08:00",
 				"url": "https://jimmitchell.org/2024/10/15/the-hollywood-sign-peeking-over/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/10/15/unsung-heros-of-the-deep/",
@@ -3397,7 +3415,7 @@
 				"content_text": "## [The deep-sea 'emergency service' that keeps the internet running](https://www.bbc.com/future/article/20241014-the-deep-sea-emergency-service-that-keeps-the-internet-running)\n\n> Ninety-nine percent of the world's digital communications rely on subsea cables. When they break, it could spell disaster for a whole country's internet. How do you fix a fault at the bottom of the ocean?\n\nMost people don't realize just what it takes to keep global communications running. This is a fascinating read about what goes into to repairing and maintaining the 870,000 miles of undersea cables so Granny can post cute cat memes on Facebook uninterrupted.\n",
 				"date_published": "2024-10-15T03:54:31-08:00",
 				"url": "https://jimmitchell.org/2024/10/15/unsung-heros-of-the-deep/",
-				"tags": ["Posts","Linked"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/10/14/textonly-minimalist-news-sites/",
@@ -3406,7 +3424,7 @@
 				"content_text": "## [A List Of Text-Only & Minimalist News Sites - GreyCoder](https://greycoder.com/a-list-of-text-only-new-sites/)\n\n> Text-only websites are quite useful, especially today, because web pages are increasingly filled with ads, videos, and bandwidth-heavy content.\n\nThis may have been posted elsewhere not too long ago, but I'm posting here for my own benefit.\n",
 				"date_published": "2024-10-14T12:14:30-08:00",
 				"url": "https://jimmitchell.org/2024/10/14/textonly-minimalist-news-sites/",
-				"tags": ["Posts","Linked"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/10/14/even-more-wordpress-drama/",
@@ -3415,7 +3433,7 @@
 				"content_text": "## [WordPress.org’s latest move involves taking control of a WP Engine plugin - The Verge](https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine)\n\n> It’s not clear what security problem Mullenweg is referring to in the post. He writes that he’s \"invoking point 18 of the plugin directory guidelines,\" in which the WordPress team reserves several rights, including removing a plugin, or changing it \"without developer consent.\" Mullenweg explains that the move has to do with WP Engine’s recently-filed lawsuit against him and Automattic.\n\nTo me, Mullenweg is totally abusing his power as the \"sole owner\" of WordPress.org here, and (as others point out) has forced a hostile takeover of the work of other developers. If he can do it for one, he can do it for all. I want no part of this kind of \"open source\" drama. It was the final straw in me abandoning the WordPress platform completely.\n\nThough I have a couple of plugins of my own in the repository, I'll only be maintaining them for security reasons. I considered pulling them altogether, but I don't want to leave any users who may be using them stranded.\n",
 				"date_published": "2024-10-14T07:14:58-08:00",
 				"url": "https://jimmitchell.org/2024/10/14/even-more-wordpress-drama/",
-				"tags": ["Posts","Linked"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/10/14/i-shared-this-nugget-a/",
@@ -3460,7 +3478,7 @@
 				"content_text": "📷 At the Hollywood Bowl to see Eric Clapton.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/image.jpg\" width=\"700\" height=\"525\" alt=\"\">\n",
 				"date_published": "2024-10-12T17:34:09-08:00",
 				"url": "https://jimmitchell.org/2024/10/12/at-the-hollywood-bowl-to/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/10/12/a-huge-shout-out-to/",
@@ -3496,7 +3514,7 @@
 				"content_text": "## [Soft-Wrap Text in BBEdit - Uncorrected](https://uncorrected.net/soft-wrap-text-in-bbedit/)\n\n> An oldie but goodie from John Gruber that I just discovered while looking for ways to soft-wrap text in BBEdit:\n\nThis is a handy AppleScript. I don’t like to soft wrap my text in BBEdit by default, but always seem to end up wrapping it anyway. I launch this using [Fastscripts](https://redsweater.com/fastscripts) by [Daniel Jalkut](https://mastodon.social/@danielpunkass) with just a keystroke.\n\n```applescript\ntell application \"BBEdit\"\n    tell window 1\n        if not (soft wrap text) then\n            set soft wrap text to true\n            set soft wrap mode to page guide\n            set show page guide to true\n        else if (soft wrap mode is page guide) then\n            set soft wrap mode to window width\n            set show page guide to false\n        else\n            set soft wrap text to false\n        end if\n    end tell\nend tell\n```\n",
 				"date_published": "2024-10-11T07:41:47-08:00",
 				"url": "https://jimmitchell.org/2024/10/11/a-useful-bbedit-applescript/",
-				"tags": ["Posts","Linked"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/10/11/and-just-like-that-im/",
@@ -3631,7 +3649,7 @@
 				"content_text": "## [Apple’s rumored Mac mini redesign may ditch the USB-A port - The Verge](https://www.theverge.com/2024/9/1/24233471/apple-m4-mac-mini-redesign-no-usb-a-ports)\n\n> Is it time to say goodbye to USB-A? Maybe. Probably. But no matter how you feel about that, it’s absolutely time something new happened with the Mac Mini, the longest-in-the-tooth Apple computer design.\n\nWe portable users have been living with dongles forever. I would agree it's time for USB-A to be sunset on the Mac mini, especially if the form factor is about the size of an Apple TV device.\n",
 				"date_published": "2024-09-03T11:22:07-08:00",
 				"url": "https://jimmitchell.org/2024/09/03/apple-ditching-usba-on-the/",
-				"tags": ["Posts","Linked"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/09/03/i-managed-to-wander-my/",
@@ -3712,7 +3730,7 @@
 				"content_text": "📷 One of the more wacky Huntington Beach Fourth of July parade entries this year. If you grew up on ‘70s sitcoms, you get it… 🇺🇸\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/bfd0724b36.jpg\" alt=\"A group of people dressed in vibrant, 1970s-style costumes and wigs are marching in a parade, holding a banner that reads &quot;Mrs. Roper Romps Huntington Beach.&quot;\">\n",
 				"date_published": "2024-07-04T14:23:39-08:00",
 				"url": "https://jimmitchell.org/2024/07/04/one-of-the-more-wacky/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/07/01/why-do-i-save-every/",
@@ -3748,7 +3766,7 @@
 				"content_text": "📷 I came across this photo of my middle son at surf team practice early one morning when he was in high school some 20 years ago. I've always liked this shot...\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/kyle-off-the-lip.jpeg\" alt=\"A surfer is performing a maneuver on a wave in the ocean.\" title=\"kyle-off-the-lip.jpeg\" border=\"0\" width=\"800\" height=\"533\" />\n",
 				"date_published": "2024-06-23T09:25:56-08:00",
 				"url": "https://jimmitchell.org/2024/06/23/i-came-across-this-photo/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/06/19/i-hate-to-have-to/",
@@ -3784,7 +3802,7 @@
 				"content_text": "📷 Donnie is a kook...\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/trump-dont-surf.jpeg\" alt=\"Graffiti on a concrete wall reads 'TRUMP DON'T SURF' in black letters along with other smaller drawings and writings nearby.\">\n",
 				"date_published": "2024-06-15T08:00:21-08:00",
 				"url": "https://jimmitchell.org/2024/06/15/donnie-is-a-kook/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/06/14/my-boss-just-turned-me/",
@@ -4027,7 +4045,7 @@
 				"content_text": "<p>📷 Bonus Day 2: Unputdownable.</p>\n\n<p><img loading=\"lazy\" src=\"https://cdn.uploads.micro.blog/109466/2024/unputdownable.jpeg\" alt=\"An open book displays the title page of 'The Grapes of Wrath' by John Steinbeck, published by The Viking Press.\" title=\"unputdownable.jpeg\" border=\"0\" width=\"999\" height=\"666\" /></p>\n\n<p><a href=\"https://micro.blog/discover/mbapr\">#mbapr</a> <a href=\"https://micro.blog/jimmitchell\">@jimmitchell</a></p>\n\n<p>One of my all-time favorite books. My family came to California in much the same way, so to me, it was completely relatable.</p>\n",
 				"date_published": "2024-04-30T08:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/30/bonus-day-unputdownable-mbapr-jimmitchell/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/30/today-i-was-a-hero/",
@@ -4045,7 +4063,7 @@
 				"content_text": "📷 Bonus Day 1: Bubble.\n\n<img loading=\"lazy\" src=\"https://cdn.uploads.micro.blog/109466/2024/bubble.jpeg\" alt=\"A glass of amber beer with the logo 'BODEGA 41°' printed on it rests on a table with a matching coaster.\" title=\"bubble.jpeg\" border=\"0\" width=\"750\" height=\"1000\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@paulrobertlloyd](https://micro.blog/paulrobertlloyd)\n",
 				"date_published": "2024-04-30T05:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/30/bonus-day-bubble-mbapr-paulrobertlloyd/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/30/day-hometown-mbapr-surfcityusa-mattypenny/",
@@ -4054,7 +4072,7 @@
 				"content_text": "📷 Day 30: Hometown.\n\n<img loading=\"lazy\" src=\"https://cdn.uploads.micro.blog/109466/2024/hometown.jpeg\" alt=\"A sunny beach scene with a pier in the background, grass in the foreground, and people engaging in various activities such as sitting, walking, and biking.\" title=\"hometown.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [#SurfCityUSA](https://www.surfcityusa.com/) [@mattypenny](https://micro.blog/mattypenny)\n\n",
 				"date_published": "2024-04-30T01:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/30/day-hometown-mbapr-surfcityusa-mattypenny/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/29/day-drift-mbapr-simonwoods/",
@@ -4063,7 +4081,7 @@
 				"content_text": "📷 Day 29: Drift.\n\n<img loading=\"lazy\" src=\"https://cdn.uploads.micro.blog/109466/2024/drift.jpeg\" alt=\"a pool full of people drifting around.\" title=\"drift.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@SimonWoods](https://micro.blog/SimonWoods)\n",
 				"date_published": "2024-04-29T01:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/29/day-drift-mbapr-simonwoods/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/28/day-community-mbapr-stupendousman/",
@@ -4072,7 +4090,7 @@
 				"content_text": "📷 Day 28: Community.\n\n<img loading=\"lazy\" src=\"https://cdn.uploads.micro.blog/109466/2024/community.jpeg\" alt=\"Cultural dancers in a parade as the crowd looks on.\" title=\"community.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@stupendousman](https://micro.blog/stupendousman)\n",
 				"date_published": "2024-04-28T01:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/28/day-community-mbapr-stupendousman/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/27/morning-low-tide-while-camping/",
@@ -4081,7 +4099,7 @@
 				"content_text": "📷 Morning low tide while camping at Carpenteria State Beach Campgrounds.\n\n<img loading=\"lazy\" src=\"https://cdn.uploads.micro.blog/109466/2024/2692b02757.jpg\" alt=\"A serene beachscape is depicted with a rocky shoreline in the foreground, calm blue waters, and a mountainous landform on the horizon under a clear sky.\">\n",
 				"date_published": "2024-04-27T07:34:53-08:00",
 				"url": "https://jimmitchell.org/2024/04/27/morning-low-tide-while-camping/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/27/day-surprise-mbapr-sdevore/",
@@ -4090,7 +4108,7 @@
 				"content_text": "📷 Day 27: Surprise.\n\n<img loading=\"lazy\" src=\"https://cdn.uploads.micro.blog/109466/2024/surprise.jpeg\" alt=\"A MacBook Air box on a desk.\" title=\"surprise.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@Sdevore](https://micro.blog/Sdevore)\n",
 				"date_published": "2024-04-27T01:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/27/day-surprise-mbapr-sdevore/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/26/day-critter-mbapr-robots/",
@@ -4099,7 +4117,7 @@
 				"content_text": "📷 Day 26: Critter.\n\n<img loading=\"lazy\" src=\"https://cdn.uploads.micro.blog/109466/2024/critter.jpeg\" alt=\"A curious squirrel looking at the camera.\" title=\"critter.jpeg\" border=\"0\" width=\"1000\" height=\"1000\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@7robots](https://micro.blog/7robots)\n",
 				"date_published": "2024-04-26T01:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/26/day-critter-mbapr-robots/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/25/day-spine-mbapr-thedimpause/",
@@ -4108,7 +4126,7 @@
 				"content_text": "📷 Day 25: Spine.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/spine.jpeg\" alt=\"\" title=\"spine.jpeg\" border=\"0\" width=\"1000\" height=\"714\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@thedimpause](https://micro.blog/thedimpause)\n",
 				"date_published": "2024-04-25T05:50:50-08:00",
 				"url": "https://jimmitchell.org/2024/04/25/day-spine-mbapr-thedimpause/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/24/182152/",
@@ -4135,7 +4153,7 @@
 				"content_text": "📷 Day 24: Light.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/light.jpeg\" alt=\"\" title=\"light.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@eumrz](https://micro.blog/eumrz)\n",
 				"date_published": "2024-04-24T01:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/24/day-light-mbapr-eumrz/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/23/after-using-mona-for-the/",
@@ -4162,7 +4180,7 @@
 				"content_text": "📷 Day 23: Dreamy.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/dreamy.jpeg\" alt=\"\" title=\"dreamy.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@maique](https://micro.blog/maique)\n",
 				"date_published": "2024-04-23T01:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/23/day-dreamy-mbapr-maique/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/22/i-moved-my-jimmitchellorg-domain/",
@@ -4180,7 +4198,7 @@
 				"content_text": "📷 Day 22: Blue.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/blue.jpeg\" alt=\"Boats anchord in Catalina harbor.\" title=\"blue.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@lzbth](https://micro.blog/lzbth)\n",
 				"date_published": "2024-04-22T03:45:35-08:00",
 				"url": "https://jimmitchell.org/2024/04/22/day-blue-mbapr-lzbth/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/21/nerd-friends-looking-for-a/",
@@ -4198,7 +4216,7 @@
 				"content_text": "📷 Day 21: Mountain.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/mountain.jpeg\" alt=\"A mountain summit far off in the distance with forest trees in the foreground.\" title=\"mountain.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@dejus](https://micro.blog/dejus)\n",
 				"date_published": "2024-04-21T01:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/21/day-mountain-mbapr-dejus/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/20/day-ice-mbapr-the/",
@@ -4207,7 +4225,7 @@
 				"content_text": "📷 Day 20: Ice.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/ice.jpeg\" alt=\"A snowy mountain range with buildings in the foreground.\" title=\"ice.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@the](https://micro.blog/the)\n",
 				"date_published": "2024-04-20T01:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/20/day-ice-mbapr-the/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/19/macos-users-do-you-prefer/",
@@ -4225,7 +4243,7 @@
 				"content_text": "📷 Day 19: Birthday.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/birthday.jpeg\" alt=\"A homemade birthday cake with candles for a 23rd birthday.\" title=\"birthday.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@crossingthethreshold](https://micro.blog/crossingthethreshold)\n",
 				"date_published": "2024-04-19T01:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/19/day-birthday-mbapr-crossingthethreshold/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/18/doing-dev-type-work-today/",
@@ -4243,7 +4261,7 @@
 				"content_text": "📷 Day 18: Mood.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/mood.jpeg\" alt=\"Storm clouds over a body of water.\" title=\"mood.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@agilelisa](https://micro.blog/agilelisa)\n",
 				"date_published": "2024-04-18T01:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/18/day-mood-mbapr-agilelisa/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/17/day-transcendence-mbapr-drewbelf/",
@@ -4252,7 +4270,7 @@
 				"content_text": "📷 Day 17: Transcendence.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/transcendence.jpeg\" alt=\"Rocks stacked on a shoreline with a sailboat in the background.\" title=\"transcendence.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@drewbelf](https://micro.blog/drewbelf)\n",
 				"date_published": "2024-04-17T01:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/17/day-transcendence-mbapr-drewbelf/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/16/day-flneur-mbapr-chrisaldrich/",
@@ -4261,7 +4279,7 @@
 				"content_text": "📷 Day 16: Flâneur.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/flaneur.jpeg\" alt=\"A crowd of people watching each other.\" title=\"flaneur.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@chrisaldrich](https://micro.blog/chrisaldrich)\n",
 				"date_published": "2024-04-16T01:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/16/day-flneur-mbapr-chrisaldrich/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/15/im-finding-it-hard-to/",
@@ -4279,7 +4297,7 @@
 				"content_text": "📷 Day 15: Small.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/small.jpeg\" alt=\"A small curious lizard on a stick.\" title=\"small.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@jmanes](https://micro.blog/jmanes)\n",
 				"date_published": "2024-04-15T00:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/15/day-small-mbapr-jmanes/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/14/today-has-been-a-very/",
@@ -4297,7 +4315,7 @@
 				"content_text": "📷 Day 14: Cactus.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/cactus.jpeg\" alt=\"Blooming pear catus.\" title=\"cactus.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@christopherchelpka](https://micro.blog/christopherchelpka)\n",
 				"date_published": "2024-04-14T04:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/14/day-cactus-mbapr-christopherchelpka/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/13/grrr-today-is-probably-my/",
@@ -4324,7 +4342,7 @@
 				"content_text": "📷 Day 13: Page.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/page.jpeg\" alt=\"A page from a book titled 'the Daily Stoic'.\" title=\"page.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@robj](https://micro.blog/robj)\n",
 				"date_published": "2024-04-13T04:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/13/day-page-mbapr-robj/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/12/cleaning-up-files-on-the/",
@@ -4342,7 +4360,7 @@
 				"content_text": "📷 Day 12: Magic.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/magic.jpeg\" alt=\"An inspirational poster with candle and mirror.\" title=\"magic.jpeg\" border=\"0\" width=\"750\" height=\"1000\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@DaveyCraney](https://micro.blog/DaveyCraney)\n",
 				"date_published": "2024-04-12T04:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/12/day-magic-mbapr-daveycraney/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/11/day-sky-mbapr-jedda/",
@@ -4351,7 +4369,7 @@
 				"content_text": "📷 Day 11: Sky.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/sky.jpeg\" alt=\"A fighter jet against clouds in the sky.\" title=\"sky.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@jedda](https://micro.blog/jedda)\n",
 				"date_published": "2024-04-11T04:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/11/day-sky-mbapr-jedda/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/10/i-think-my-eventual-podcast/",
@@ -4378,7 +4396,7 @@
 				"content_text": "📷 Day 10: Train.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/train.jpeg\" alt=\"The side of an old steam locomotive.\" title=\"train.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@starrwulfe](https://micro.blog/starrwulfe)\n",
 				"date_published": "2024-04-10T04:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/10/day-train-mbapr-starrwulfe/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/10/the-day-i-met-martin/",
@@ -4414,7 +4432,7 @@
 				"content_text": "📷 Day 09: Crispy.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/crispy.jpeg\" alt=\"Crispy fried chicken and potato salad on a plate.\" title=\"crispy.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@rom](https://micro.blog/rom)\n",
 				"date_published": "2024-04-09T04:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/09/day-crispy-mbapr-rom/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/08/im-playing-a-form-of/",
@@ -4441,7 +4459,7 @@
 				"content_text": "📷 Day 08: Prevention.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/prevention.jpeg\" alt=\"A fall warning label on ladder.\" title=\"prevention.jpeg\" border=\"0\" width=\"747\" height=\"1000\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@anniegreens](https://micro.blog/anniegreens)\n",
 				"date_published": "2024-04-08T04:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/08/day-prevention-mbapr-anniegreens/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/07/a-productive-weekend-cleaned-most/",
@@ -4459,7 +4477,7 @@
 				"content_text": "📷 Day 07: Well-being.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/well-being.jpeg\" alt=\"A sandy beach viewing the ocean with small waves.\" title=\"well-being.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@ridwan](https://micro.blog/ridwan)\n",
 				"date_published": "2024-04-07T04:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/07/day-wellbeing-mbapr-ridwan/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/06/i-just-updated-my-tinylytics/",
@@ -4504,7 +4522,7 @@
 				"content_text": "📷 Day 06: Windy.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/windy.jpg\" alt=\"An American flag, blowing in the wind, surrounded by palm trees\" title=\"windy.jpg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@Miraz](https://micro.blog/Miraz)\n",
 				"date_published": "2024-04-06T07:05:44-08:00",
 				"url": "https://jimmitchell.org/2024/04/06/day-windy-mbapr-miraz/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/05/day-serene-mbapr-chiawase/",
@@ -4513,7 +4531,7 @@
 				"content_text": "📷 Day 05: Serene.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/serene.jpeg\" alt=\"Person's bare feet on sandy beach with ocean waves in background.\" title=\"serene.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@chiawase](https://micro.blog/chiawase)\n",
 				"date_published": "2024-04-05T04:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/05/day-serene-mbapr-chiawase/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/04/ive-spent-the-better-part/",
@@ -4549,7 +4567,7 @@
 				"content_text": "📷 Day 04: Foliage.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/foliage.jpeg\" alt=\"Foliage along a dirt hiking trail.\" title=\"foliage.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@pratik](https://micro.blog/pratik)\n",
 				"date_published": "2024-04-04T04:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/04/day-foliage-mbapr-pratik/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/04/battery-life-on-the-new/",
@@ -4576,7 +4594,7 @@
 				"content_text": "## [Google to delete search data of millions who used 'incognito' mode : NPR](https://www.npr.org/2024/04/01/1242019127/google-incognito-mode-settlement-search-history)\n\n> For years, Google simply informed users of Chrome's internet browser that \"you've gone Incognito\" and \"now you can browse privately,\" when the supposedly untraceable browsing option was turned on — without saying what bits of data the company has been harvesting.\n\nOne of the many reasons I've switched to Safari for personal browsing...\n",
 				"date_published": "2024-04-03T04:33:04-08:00",
 				"url": "https://jimmitchell.org/2024/04/03/evil-is-as-evil-does/",
-				"tags": ["Posts","Linked"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/03/day-card-mbapr-val/",
@@ -4585,7 +4603,7 @@
 				"content_text": "📷 Day 03: Card.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/thankyou-card.jpeg\" alt=\"A handwritten thank you card with Micro.blog decals.\" title=\"thankyou-card.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\n[#mbapr](https://micro.blog/discover/mbapr) [@val](https://micro.blog/val)\n",
 				"date_published": "2024-04-03T04:00:00-08:00",
 				"url": "https://jimmitchell.org/2024/04/03/day-card-mbapr-val/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/02/day-flowers-mbapr-davegullett/",
@@ -4594,7 +4612,7 @@
 				"content_text": "📷 Day 02: Flowers.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/eec3cdc910.jpg\" alt=\"Yellow flowers blooming.\">\n\n[#mbapr](https://micro.blog/discover/mbapr) [@davegullett](https://micro.blog/davegullett)\n",
 				"date_published": "2024-04-02T03:56:31-08:00",
 				"url": "https://jimmitchell.org/2024/04/02/day-flowers-mbapr-davegullett/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/04/01/i-stopped-using-external-monitors/",
@@ -4621,7 +4639,7 @@
 				"content_text": "📷 Day 01: Toy.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/b05158f5a3.jpg\" alt=\"The Toy Story Pizza Planet delivery truck replica driving in a Fourth of July parade.\">\n\n[#mbapr](https://micro.blog/discover/mbapr) [@pcora](https://micro.blog/pcora)\n",
 				"date_published": "2024-04-01T08:31:31-08:00",
 				"url": "https://jimmitchell.org/2024/04/01/day-toy-mbapr-pcora/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/03/31/it-seems-i-may-have/",
@@ -4720,7 +4738,7 @@
 				"content_text": "📷 Surf rider.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/surf-rider.jpeg\" alt=\"A lone surfer on a shoulder-high wave at Huntington Beach.\" title=\"surf-rider.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n",
 				"date_published": "2024-03-24T06:50:31-08:00",
 				"url": "https://jimmitchell.org/2024/03/24/surf-rider/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/03/24/no-lifeguard-on-duty/",
@@ -4729,7 +4747,7 @@
 				"content_text": "📷 No lifeguard on duty...\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/abf5c429-2c01-4173-bdcf-fbc1b9fef728.jpeg\" alt=\"Lifeguard towers in storage for the winter.\" title=\"ABF5C429-2C01-4173-BDCF-FBC1B9FEF728.jpeg\" border=\"0\" width=\"1067\" height=\"800\" />\n",
 				"date_published": "2024-03-24T06:21:11-08:00",
 				"url": "https://jimmitchell.org/2024/03/24/no-lifeguard-on-duty/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/03/23/my-wife-found-a-nonalcoholic/",
@@ -4936,7 +4954,7 @@
 				"content_text": "📷 We visited the lowest bar in the western hemisphere last weekend in Bombay Beach, CA which sits nearly 200 feet below sea level. Beers were had.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/6fbfbcd596.jpg\" alt=\"The Ski Inn roadside sign, which is the lowest elevation bar in the western hemisphere, sitting nearly 200 feet below sea level.\">\n",
 				"date_published": "2024-02-26T09:42:30-08:00",
 				"url": "https://jimmitchell.org/2024/02/26/we-visited-the-lowest-bar/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2024/02/20/interested-in-seeing-what-tinylytics/",
@@ -5125,7 +5143,7 @@
 				"content_text": "📷 Happy New Year from the top of SoCal!\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2024/d582735b70.jpg\" alt=\"A view of Palm Springs at night from the tramway restaurant on Mt. San Jacinto.\">\n",
 				"date_published": "2023-12-31T18:54:34-08:00",
 				"url": "https://jimmitchell.org/2023/12/31/happy-new-year-from-the/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/31/im-beginning-the-new-year/",
@@ -5233,7 +5251,7 @@
 				"content_text": "📷 Bear with me a minute…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/a5c081b58c.jpg\" alt=\"Close up of a carved bear likeness.\">\n",
 				"date_published": "2023-12-08T14:25:00-08:00",
 				"url": "https://jimmitchell.org/2023/12/08/bear-with-me-a-minute/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/07/campground-peacock/",
@@ -5242,7 +5260,7 @@
 				"content_text": "📷 Campground peacock.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/b7f77d8082.jpg\" alt=\"Peacock roaming our campsite.\">\n",
 				"date_published": "2023-12-07T17:23:08-08:00",
 				"url": "https://jimmitchell.org/2023/12/07/campground-peacock/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/12/06/i-dont-know-why-this/",
@@ -5386,7 +5404,7 @@
 				"content_text": "## [Underwater Data Centers: Servers Beneath the Surface - Dgtl Infra](https://dgtlinfra.com/underwater-data-centers-servers/)\n\n> Since 2015, several data centers have been submerged underwater in both the Pacific Ocean and Atlantic Ocean. The first underwater data center was deployed by Microsoft into the Pacific Ocean, off the coast of California, through an experiment called [Project Natick](https://en.wikipedia.org/wiki/Project_Natick), with Phase 1 being a vessel carrying 1 rack, containing 24 servers.\n\nHow is it I've never heard about this until now?\n",
 				"date_published": "2023-11-15T07:53:36-08:00",
 				"url": "https://jimmitchell.org/2023/11/15/how-is-it-ive-never/",
-				"tags": ["Posts","Linked"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/14/im-hoping-with-the-rainy/",
@@ -5413,7 +5431,7 @@
 				"content_text": "## [The Ten Rules of Being Human - kottke.org](https://kottke.org/23/11/the-10-rules-of-being-human)\n\n> **“There” is no better than “here”**. When your “there” has become a “here”, you will simply obtain a “there” that will look better to you than your present “here”.\n\nYes, I'm on a bit of a posting tear today, but this one's too good not to share. My favorite rule is #6, which I've only recently truly learned...\n\n",
 				"date_published": "2023-11-08T15:51:59-08:00",
 				"url": "https://jimmitchell.org/2023/11/08/yes-im-on-a-bit/",
-				"tags": ["Posts","Linked"]
+				"tags": ["Linked"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/08/memories-of-hawaii/",
@@ -5422,7 +5440,7 @@
 				"content_text": "📷 Memories of Hawai’i.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/4cc821c6f7.jpg\" alt=\"Diamond Head from the Waikiki breakwater.\">\n",
 				"date_published": "2023-11-08T14:55:48-08:00",
 				"url": "https://jimmitchell.org/2023/11/08/memories-of-hawaii/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/08/ive-moved-back-to-netnewswire/",
@@ -5458,7 +5476,7 @@
 				"content_text": "📷 A lone Joshua Tree at dusk.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/745fc4d8a6.jpg\" alt=\"A lone Joshua Tree at dusk\">\n",
 				"date_published": "2023-11-03T21:28:56-08:00",
 				"url": "https://jimmitchell.org/2023/11/03/a-lone-joshua-tree-at/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/11/03/the-beatles-song-that-really/",
@@ -5494,7 +5512,7 @@
 				"content_text": "📷 Ginger loves glamping…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/a1d1788e5b.jpg\" alt=\"Content dog in a blanket.\">\n",
 				"date_published": "2023-10-22T10:06:37-08:00",
 				"url": "https://jimmitchell.org/2023/10/22/ginger-loves-glamping/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/10/19/whoops-i-discovered-a-stupid/",
@@ -5611,7 +5629,7 @@
 				"content_text": "📷 The North Shore of O’ahu. More beautiful than I imagined it would be.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/45e52bbbf7.jpg\" alt=\"Laniakea Beach\">\n",
 				"date_published": "2023-09-27T18:49:16-08:00",
 				"url": "https://jimmitchell.org/2023/09/27/the-north-shore-of-oahu/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/09/25/sunrise-over-waikiki/",
@@ -5620,7 +5638,7 @@
 				"content_text": "📷 Sunrise over Waikiki.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/d86bec0760.jpg\" alt=\"Sunrise over Waikiki\">\n",
 				"date_published": "2023-09-25T13:33:03-08:00",
 				"url": "https://jimmitchell.org/2023/09/25/sunrise-over-waikiki/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/09/25/thirty-years-in-between-with/",
@@ -5665,7 +5683,7 @@
 				"content_text": "📷 The Unofficial Last Day of Summer in Surf City, USA.\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/af48e10452.jpg\" alt=\"Huntington Beach pier and volleyball players.\">\n",
 				"date_published": "2023-09-04T10:32:52-08:00",
 				"url": "https://jimmitchell.org/2023/09/04/the-unofficial-last-day-of/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/09/02/i-just-reserved-airport-parking/",
@@ -5710,7 +5728,7 @@
 				"content_text": "<p>📷 Thanks for the awesome Micro.blog decals and note, <a href=\"https://micro.blog/jean\">@jean</a>!</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/c68e7f41bf.jpg\" alt=\"Awesome Micro.blog decals from [@jean](https://micro.blog/jean).\"></p>\n",
 				"date_published": "2023-08-12T11:18:28-08:00",
 				"url": "https://jimmitchell.org/2023/08/12/thanks-for-the-awesome-microblog/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/08/09/so-i-ground-the-beans/",
@@ -5764,7 +5782,7 @@
 				"content_text": "<p>📷 Surf gnome…</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/gnome.jpg\" alt=\"The surf gnome\" title=\"gnome.png\" border=\"0\" width=\"720\" height=\"540\" /></p>\n",
 				"date_published": "2023-07-20T13:57:25-08:00",
 				"url": "https://jimmitchell.org/2023/07/20/surf-gnome/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/07/19/ive-resurrected-the-wordpress-blog/",
@@ -5818,7 +5836,7 @@
 				"content_text": "<p>📷 A mini mini-van&#8230;</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/img-1452.jpg\" alt=\"IMG 1452\" title=\"IMG_1452.jpg\" border=\"0\" width=\"720\" height=\"540\" alt=\"a stylish mini mini-van\" /></p>\n",
 				"date_published": "2023-07-08T14:41:26-08:00",
 				"url": "https://jimmitchell.org/2023/07/08/a-mini-minivan/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/07/08/tinylytics-for-microblog-release/",
@@ -5845,7 +5863,7 @@
 				"content_text": "📷 Our 23rd year in Surf City, USA…\n\n<img src=\"https://cdn.uploads.micro.blog/109466/2023/035110a288.jpg\" alt=\"Huntington Beach 4th of July parade banner.\">\n",
 				"date_published": "2023-07-04T12:34:40-08:00",
 				"url": "https://jimmitchell.org/2023/07/04/our-rd-year-in-surf/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/07/02/ooh-i-just-had-a/",
@@ -5908,7 +5926,7 @@
 				"content_text": "<p>📷 A friendly lizard.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/bffae4abc7.jpg\" alt=\"a lizard on a stick\"></p>\n",
 				"date_published": "2023-06-26T20:02:39-08:00",
 				"url": "https://jimmitchell.org/2023/06/26/a-friendly-lizard/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/06/26/laguna-coast-wilderness-park/",
@@ -5917,7 +5935,7 @@
 				"content_text": "<p>📷 Laguna Coast Wilderness Park.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/620f697509.jpg\" alt=\"view of the Laguna mountains\"></p>\n",
 				"date_published": "2023-06-26T19:58:34-08:00",
 				"url": "https://jimmitchell.org/2023/06/26/laguna-coast-wilderness-park/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/06/26/todays-the-more-i-learn/",
@@ -5953,7 +5971,7 @@
 				"content_text": "<p>📷 Sunrise over Terminal Island.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/53ad5a744f.jpg\" alt=\"Sunrise over Terminal Island\"></p>\n",
 				"date_published": "2023-06-12T19:50:45-08:00",
 				"url": "https://jimmitchell.org/2023/06/12/sunrise-over-terminal-island/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/06/10/going-to-try-to-wrap/",
@@ -5998,7 +6016,7 @@
 				"content_text": "<p>📷 Across the Irvine valley.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/165d8050c2.jpg\" alt=\"Across the valley\" /></p>\n",
 				"date_published": "2023-05-30T18:51:35-08:00",
 				"url": "https://jimmitchell.org/2023/05/30/across-the-irvine-valley/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/05/30/purchased-a-license-for-shottr/",
@@ -6016,7 +6034,7 @@
 				"content_text": "<p>📷 Remembering those who gave it all for our freedom.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/b66829c03e.jpg\" alt=\"Memorial Day remembrance ceremony.\"></p>\n",
 				"date_published": "2023-05-29T11:53:28-08:00",
 				"url": "https://jimmitchell.org/2023/05/29/remembering-those-who-gave-it/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/05/29/hb-northside-lineup/",
@@ -6025,7 +6043,7 @@
 				"content_text": "<p>📷 HB Northside Lineup.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/05b2ec4cb1.jpg\" alt=\"HB Northside Surf Lineup\"></p>\n",
 				"date_published": "2023-05-29T10:57:54-08:00",
 				"url": "https://jimmitchell.org/2023/05/29/hb-northside-lineup/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/05/29/if-you-have-multiple-domains/",
@@ -6043,7 +6061,7 @@
 				"content_text": "<p>📷 Blooming cactus.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/109466/2023/9fcbf18467.jpg\" alt=\"Blooming cactus\"></p>\n",
 				"date_published": "2023-05-28T11:53:39-08:00",
 				"url": "https://jimmitchell.org/2023/05/28/blooming-cactus/",
-				"tags": ["Photos","Thoughts"]
+				"tags": ["Photos"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2023/05/25/im-struggling-whether-i-should/",
@@ -6304,7 +6322,7 @@
 				"content_text": "<img src=\"https://cdn.uploads.micro.blog/109466/2025/dreamforce-2025.jpg\" alt=\"A colorful arch with the word Dreamforce stands near a statue with buildings in the background under a clear sky.\" title=\"dreamforce.jpeg\" border=\"0\" width=\"1000\" height=\"750\" />\n\nYay! It’s your first Dreamforce!\n\nYou’re pumped to finally be part of the magic. I bet you’ve already looked at a lot of other blogs to learn how to be ready before you landed here.\n\nThese are a few of my recommendations to make it a more memorable experience.\n\n## Comfortable Shoes\n\nYou want to wear comfortable shoes your feet are already used to, so don’t buy what you plan to wear a couple of days in advance. Take your old, ratty sneakers if you have to. I even recommend bringing two pair of super-comfy shoes if you can. Trust me, your feet will thank you for it. Having two pair of shoes helps reduce foot fatigue and keeps you feeling refreshed all around.\n\nYou’ll do a lot of walking over the four or five days of Dreamforce (I logged over 40 miles last year), and your dogs are going to be really tired by the end of the first day. Keeping foot-fresh should be one of your top priorities.\n\nBring extra socks and change them during the day too. It’ll help, I promise.\n\n## Crowds, Chaos and Pandemonium\n\nRumor has it Salesforce reduced the number of attendees this year compared to last. Even if this is true, be ready for plenty of chaos and pandemonium. The entire Dreamforce campus will be really crowded, with most people looking at their mobile device to figure out where they’re going next, so pack your patience along with those shoes.\n\nSome people will be friendly and some won’t. It’s just how it is. Deciding to be one of the friendly people now will go a long way to enjoying the whole experience.\n\nRemember to smile at other people and maybe even strike up a conversation with a stranger or two while standing in a line. You never know who you might meet by chance.\n\n## Don’t Overload Your Schedule\n\nMy first year, I filled my schedule to the brim with all the great sessions I wanted to attend, and barely made half of them. Give yourself plenty of time to get to your next session. Remember; crowds, chaos and pandemonium, not just on the street, but in the hotels where sessions are held too.\n\nTwenty minutes to get from one place to another is not nearly enough time unless those sessions are in the same hotel. Give yourself the time to get there and find a prime seat.\n\nYou should also have some empty time to just wander an area you’re interested in. The Admin, Developer or Expo halls have a lot to see. Having free time to stroll through them might open up some unexpected opportunities to learn something, or meet someone new.\n\n## Stay Hydrated and Well Fed\n\nIt’s going to be easy to skip a meal or forget to drink water. Bring high-protein or complex carb, non-sugary snacks to keep the hangries at bay. It’ll go a long way to helping you retain the patience you’ll need.\n\nStaying hydrated will help reduce headaches and fatigue too. There will be water stations all over the place… Use them!\n\n## Don’t Carry a Laptop\n\nUnless you absolutely have to have it with you, leave your laptop at the hotel. I carried mine with me the first year I attended and only pulled it out of my bag once. It was more of a ball and chain than it was the tool I thought it would be.\n\nInstead, carry an analog journal to take notes, or have a good note-taking app on your phone.\n\nOur team will be using [Quip](https://quip.com) to share session notes with each other this year. The app is so good it’s earned a permanent place on my phone’s home screen.\n\n## Don’t Be Afraid of Your Heroes\n\nIf you cross paths with someone from the community who inspires you, take the opportunity to introduce yourself to them. Naturally, be polite when doing it and respect any conversations your hero may already be involved in, but by introducing yourself, you could be opening the door to a friendship or opportunity further down the line.\n\nThe community heroes are heroes for a reason – because they enjoy helping others learn and grow.\n\nI crossed paths with [Mike Gerholdt](https://twitter.com/MikeGerholdt) very much by chance my first Dreamforce and was totally star-struck. I wish I’d taken a few more minutes to chat with him than I did. Don’t have the same regret I do.\n\nSay hello, thank them for inspiring you and ask them a few questions you’d like to know about them. Wrap it up by asking if you can connect with them on social media.\n\n## Keep Yourself Safe\n\nThere are many areas of San Francisco I’d call questionable when it comes to your safety, especially after dark. Don’t walk if you don’t have to. There will be plenty of Uber and Lyft in the city. Getting yourself into a questionable circumstance could be scary at best and harmful at worst.\n\nKnow your surroundings at all times and keep your head on a swivel.\n\n## Take Lots of Pictures\n\nFinally, take lots of pictures and share them with your friends and family, and on social media, using the #[DF19 hashtag](https://twitter.com/hashtag/DF19). Your pictures will remind you of the magic you experienced and keep you pumped through the year until you get to go to your next Dreamforce.\n\nFeel free to connect with me through social media in the menu above and let me know you’ll be at Dreamforce. I may not be a hero, but I do love connecting with other people who have a passion for Salesforce like I do. I might even know someone who can help you out. You never know…\n\nHope to see you there!\n",
 				"date_published": "2019-11-09T12:20:00-08:00",
 				"url": "https://jimmitchell.org/2019/11/09/its-your-first-dreamforce-what/",
-				"tags": ["Photos","Posts"]
+				"tags": ["Posts"]
 			},
 			{
 				"id": "http://jimmitchell.micro.blog/2018/07/30/the-ant-mound/",
